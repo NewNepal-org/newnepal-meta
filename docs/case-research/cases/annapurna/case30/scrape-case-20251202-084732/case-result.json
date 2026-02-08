@@ -1,0 +1,130 @@
+{
+  "title": "Nagarkot Road Construction: A Decade of Delays and Negligence",
+  "description": "<p>The case concerns the extreme delay and subsequent contract termination for the expansion of the 16-kilometer Kamalbinayak-Nagarkot road in Bhaktapur. The project was awarded in <strong>June 2014</strong> to a joint venture of <strong>Shailung Construction Pvt. Ltd.</strong>, owned by Sharada Prasad Adhikari, and Indian firm AIPL (Aravali Infrapower Limited) Construction. Funded by a loan from the Exim Bank of India, the project had an initial contract value of approximately NPR 280 million (28 Crore) and a two-year completion deadline of mid-July 2016.</p><p>Over the next eight years, the project saw negligible progress, with the deadline being extended at least eight times. The road fell into a state of extreme disrepair, characterized by potholes, mud, and dust, posing severe health and safety hazards to residents and travelers. The dilapidated condition had a crippling effect on the local economy, particularly the tourism sector in Nagarkot, with entrepreneurs reporting a <strong>50% drop in tourist arrivals</strong>.</p><p>Public frustration led to numerous protests, including a unique campaign in November 2019 where locals posted photos of the contractor, Sharada Prasad Adhikari, on public vehicles and poles to shame the company into action. Allegations were consistently raised that Adhikari's political connections, notably being the landlord for former Prime Minister Pushpa Kamal Dahal 'Prachanda', protected his firm from facing serious consequences like blacklisting despite its repeated failures.</p><p>Despite multiple warnings from government ministers and official notices, the work remained incomplete. Finally, on <strong>December 25, 2022</strong>, the Department of Roads terminated the contract with the Shailung-AIPL JV. In February 2023, the local Changunarayan Municipality initiated a new process to upgrade the road using its own resources.</p>",
+  "unverified_info": "<p><ul><li>The total economic loss, including the impact on tourism, local businesses, and public health, is estimated to be far greater than the contract value but has not been formally quantified.</li><li>There were media reports of local accounts alleging that then-Home Minister Ram Bahadur Thapa, when approached by locals, implied that the case was 'above him', suggesting high-level political protection for the contractor.</li><li>Shailung Construction's director, Ramesh Subedi, publicly claimed that the delays were primarily due to the government's failure to clear the project site (e.g., remove trees and poles) and were not a result of the company's negligence or political influence.</li></ul></p>",
+  "key_allegations": [
+    "Gross negligence and extreme delay in road construction, spanning over eight years.",
+    "Failure to meet project deadlines despite at least eight official extensions.",
+    "Alleged use of political connections to evade accountability and contract termination.",
+    "Causing public hardship, health hazards, and severe economic damage to the local tourism industry."
+  ],
+  "alleged_entities": [
+    "Shailung Construction Pvt. Ltd.",
+    "Sharada Prasad Adhikari",
+    "AIPL (Aravali Infrapower Limited) Construction"
+  ],
+  "related_entities": [
+    "Department of Roads (DoR), Government of Nepal",
+    "Exim Bank of India",
+    "Changunarayan Municipality",
+    "Pushpa Kamal Dahal 'Prachanda'"
+  ],
+  "locations": [
+    {
+      "other": "Kamalbinayak-Nagarkot Road",
+      "ward_no": null,
+      "municipality": "Changunarayan",
+      "district": "Bhaktapur",
+      "province": "Bagmati Province"
+    }
+  ],
+  "tags": [
+    "Infrastructure",
+    "Construction Delay",
+    "Political Corruption",
+    "Public Procurement",
+    "Contract Negligence",
+    "Tourism Impact"
+  ],
+  "case_start_date": "2014-06-05",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2014-06-05",
+      "title": "Contract Awarded",
+      "description": "The contract for the 16-km Kamalbinayak-Nagarkot road expansion is awarded to the Shailung-AIPL JV with a two-year completion deadline."
+    },
+    {
+      "event_date": "2016-07-17",
+      "title": "Original Completion Deadline Missed",
+      "description": "The initial two-year deadline for project completion passes with the work far from finished."
+    },
+    {
+      "event_date": "2018-01-06",
+      "title": "Progress Reported at Only 40%",
+      "description": "Four years after commencement, reports indicate only 40% of the work is complete, causing immense hardship and a reported 50% drop in tourism."
+    },
+    {
+      "event_date": "2019-11-15",
+      "title": "Public 'Shaming' Protest Begins",
+      "description": "Frustrated locals begin plastering posters with the contractor Sharada Prasad Adhikari's photo on public vehicles and poles to protest the delays."
+    },
+    {
+      "event_date": "2020-01-28",
+      "title": "Daily Fines Imposed",
+      "description": "Reports emerge that Shailung Construction is being fined Rs 150,000 per day, with total accumulated fines reaching around Rs 30 million."
+    },
+    {
+      "event_date": "2021-11-14",
+      "title": "Minister Warns of Contract Termination",
+      "description": "Then-Minister for Physical Infrastructure, Renu Kumari Yadav, inspects the road and warns that the contract will be canceled if not completed within two months."
+    },
+    {
+      "event_date": "2022-03-02",
+      "title": "DPM Inspects Road and Issues Ultimatum",
+      "description": "Then-Deputy Prime Minister Narayan Kaji Shrestha inspects the road and warns of contract cancellation if work is not completed within a month."
+    },
+    {
+      "event_date": "2022-03-27",
+      "title": "Official Termination Warning Issued",
+      "description": "The Road Improvement and Development Project Directorate issues a 14-day public notice to the contractor, warning of impending contract termination."
+    },
+    {
+      "event_date": "2022-08-12",
+      "title": "Eighth Deadline Extension Granted",
+      "description": "Despite warnings, the project deadline is extended for the eighth time to January 14, 2023."
+    },
+    {
+      "event_date": "2022-12-25",
+      "title": "Contract Terminated",
+      "description": "The Government of Nepal officially terminates the contract with the Shailung-AIPL JV due to prolonged failure to complete the project."
+    },
+    {
+      "event_date": "2023-02-27",
+      "title": "Municipality Initiates New Upgrade Process",
+      "description": "Changunarayan Municipality announces it has invited bids to upgrade the road using its own internal resources."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Govt scraps contract of Nagarkot road",
+      "url": "https://myrepublica.nagariknetwork.com/news/govt-scraps-contract-of-nagarkot-road/",
+      "description": "A news report from myRepublica dated December 26, 2022, detailing the government's final decision to terminate the contract with Shailung Construction."
+    },
+    {
+      "title": "Bhaktapur-Nagarkot road: locals bearing snail-paced progress",
+      "url": "https://thehimalayantimes.com/nepal/bhaktapur-nagarkot-road-locals-bearing-snail-paced-progress",
+      "description": "An early report from The Himalayan Times (January 6, 2018) highlighting the severe delays, minimal progress (40% in 4 years), and the negative impact on tourism and local life."
+    },
+    {
+      "title": "Shaming defaulting contractors may have worked, but it signals system failure",
+      "url": "https://kathmandupost.com/valley/2019/11/24/shaming-defaulting-contractors-may-have-worked-but-it-signals-system-failure",
+      "description": "A Kathmandu Post article from November 24, 2019, covering the unique public protest where locals posted photos of the contractor to shame him."
+    },
+    {
+      "title": "Bhaktapur-Nagarkot road contract received by Dahal's landlord to be terminated",
+      "url": "https://myrepublica.nagariknetwork.com/news/bhaktapur-nagarkot-road-contract-received-by-dahal-s-landlord-to-be-terminated/",
+      "description": "Report from myRepublica (March 27, 2022) on the 14-day termination notice and highlighting the alleged political protection of the contractor due to his links with Pushpa Kamal Dahal."
+    },
+    {
+      "title": "Changunarayan Municipality expedites Nagarkot road construction",
+      "url": "https://english.khabarhub.com/2023/27/289745/",
+      "description": "A Khabarhub report from February 27, 2023, on the local municipality taking initiative to construct the road after the central government terminated the previous contract."
+    },
+    {
+      "title": "Shailung Construction was fined for project delay, but government body is unsure whether it should recover the fine amount",
+      "url": "https://kathmandupost.com/national/2020/01/28/shailung-construction-was-fined-for-project-delay-but-government-body-is-unsure-whether-it-should-recover-the-fine-amount",
+      "description": "A Kathmandu Post article from January 28, 2020, detailing the daily fines imposed on the contractor and the regulatory confusion surrounding their collection."
+    }
+  ]
+}

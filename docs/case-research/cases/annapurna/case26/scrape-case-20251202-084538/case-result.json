@@ -1,0 +1,62 @@
+{
+  "title": "CIAA Arrests Lahan Tax Office Chief and Staff for Bribery",
+  "description": "<p>The Commission for the Investigation of Abuse of Authority (CIAA) arrested two officials from the Taxpayer Service Office in Lahan, Siraha, for accepting a bribe. The arrested individuals were Chief Tax Officer <strong>Lal Bahadur Khatri</strong> and a non-gazetted first-class officer (Nayab Subba) <strong>Suresh Kumar Singh</strong>.</p><p>According to the CIAA, Khatri and Singh demanded and accepted a bribe of <strong>NPR 150,000</strong> from a service seeker. The bribe was allegedly solicited to settle the service seeker's tax liability. Following a complaint, a team from the CIAA's Bardibas office conducted a sting operation.</p><p>On February 12, 2023, the CIAA team caught the two officials red-handed with the bribe money at their office. They were taken into custody for further investigation into the corruption charges. The case highlights ongoing issues of bribery and abuse of authority within government service delivery offices.</p>",
+  "unverified_info": "<p>The specific details of the tax liability that was to be 'settled' in exchange for the bribe have not been publicly disclosed by the authorities. The identity of the service-seeker who filed the complaint has also been kept confidential, which is standard procedure in such cases to protect the informant.</p>",
+  "key_allegations": [
+    "Bribery",
+    "Abuse of Authority",
+    "Demanding and accepting a bribe of NPR 150,000"
+  ],
+  "alleged_entities": [
+    "Lal Bahadur Khatri",
+    "Suresh Kumar Singh",
+    "Taxpayer Service Office, Lahan"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)"
+  ],
+  "locations": [
+    {
+      "other": "Taxpayer Service Office",
+      "ward_no": null,
+      "municipality": "Lahan",
+      "district": "Siraha",
+      "province": "Madhesh Province"
+    }
+  ],
+  "tags": [
+    "Bribery",
+    "Corruption",
+    "Tax Office",
+    "CIAA",
+    "Sting Operation",
+    "Madhesh Province",
+    "Siraha"
+  ],
+  "case_start_date": "2023-02-12",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2023-02-12",
+      "title": "Arrest of Tax Officials in Sting Operation",
+      "description": "A team from the CIAA's Bardibas office arrested Chief Tax Officer Lal Bahadur Khatri and Nayab Subba Suresh Kumar Singh from the Taxpayer Service Office in Lahan. They were caught red-handed with a bribe of NPR 150,000."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tax officer, staffer arrested with Rs150,000 bribe money",
+      "url": "https://kathmandupost.com/national/2023/02/12/tax-officer-staffer-arrested-with-rs150-000-bribe-money",
+      "description": "The Kathmandu Post report on the arrest of Chief Tax Officer Lal Bahadur Khatri and a non-gazetted officer with bribe money by the CIAA in Lahan, Siraha."
+    },
+    {
+      "title": "Siraha tax office chief among 2 held for bribery",
+      "url": "https://english.onlinekhabar.com/siraha-tax-office-bribery.html",
+      "description": "Onlinekhabar's English report detailing the arrest of two officials, including the chief of the Taxpayer Service Office in Lahan, for accepting a bribe of Rs 150,000."
+    },
+    {
+      "title": "CIAA arrests two tax officials with bribe money",
+      "url": "https://myrepublica.nagariknetwork.com/news/ciaa-arrests-two-tax-officials-with-bribe-money/",
+      "description": "MyRepublica news article confirming the arrest of Lal Bahadur Khatri and Suresh Kumar Singh by a CIAA team from Bardibas with Rs 150,000 in bribe money."
+    }
+  ]
+}

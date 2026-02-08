@@ -1,0 +1,139 @@
+{
+  "title": "Apex Development Bank Embezzlement Case",
+  "description": "<p>A major banking fraud case involving the embezzlement of over <strong>NPR 1.5 billion</strong> from the erstwhile Apex Development Bank. The fraud was allegedly orchestrated by officials, promoters, and staff of the bank after it had signed a memorandum of understanding to merge with Nepal Credit and Commerce (NCC) Bank but before the merger was finalized.</p><p>The irregularities were discovered by NCC Bank following the merger. NCC Bank reported its findings to Nepal Rastra Bank (NRB), the central bank, which conducted a preliminary investigation. Finding evidence of significant embezzlement, NRB handed the case to the Central Investigation Bureau (CIB) of Nepal Police for a criminal probe.</p><p>The CIB's investigation revealed a systematic scheme to siphon funds through fraudulent lending practices. The key methods included:</p><ul><li>Approving loans against fake or significantly over-valued land collateral.</li><li>Creating 'artificial borrowers' to receive loan funds.</li><li>Accepting and processing loans based on forged documents, such as fake income statements.</li><li>Practicing 'loan evergreening' by issuing new loans to borrowers who had already defaulted on previous ones, in order to hide non-performing assets.</li></ul><p>The fraudulent activities were traced to several branches, including Durbar Marg, Lokanthali, Itahari, Surkhet, and Nepalgunj. In March 2018, the CIB arrested 13 individuals, including the former chairman and senior managers. By May 2018, the CIB had filed charges against a total of 148 individuals at the Lalitpur District Court under the Banking Offence and Punishment Act, 2064 (2008 AD).</p>",
+  "unverified_info": "<ul><li>The final court verdict and specific sentences for the 148 individuals accused in the case have not been publicly confirmed in the available reports.</li><li>The status of the two alleged masterminds, former CEO Govinda Upadhyaya and board member Basanta Malla, who were reported to have fled to the United States, is unknown. It is not confirmed if an Interpol diffusion notice was successfully issued or if they were ever apprehended.</li><li>The exact total amount recovered from the embezzled funds is not specified. While the total fraud was estimated at over NPR 1.5 billion, the amount successfully retrieved through asset seizure or other means is not detailed.</li></ul>",
+  "key_allegations": [
+    "Embezzlement of over NPR 1.5 billion through fraudulent lending",
+    "Issuing loans against over-valued and substandard collateral",
+    "Processing loans using forged documents and for fake borrowers",
+    "Concealing non-performing assets through the practice of 'loan evergreening'",
+    "Conspiracy among board members, management, and staff to defraud the bank"
+  ],
+  "alleged_entities": [
+    "Apex Development Bank",
+    "Bishnu Prasad Dhital",
+    "Ichchha Bahadur Gurung",
+    "Subarna Raj Bhandari",
+    "Madhuban Lal Shrestha",
+    "Rishi Raj Bhatta",
+    "Durga Dutta Joshi",
+    "Ramchandra Basaula",
+    "Bikash Shrestha",
+    "Sagar Neupane",
+    "Man Bahadur Raut",
+    "Sudip Thapa",
+    "Mohan Kharel",
+    "Binitmani Upadhyay",
+    "Govinda Upadhyaya",
+    "Basanta Malla"
+  ],
+  "related_entities": [
+    "Nepal Credit and Commerce (NCC) Bank",
+    "Nepal Rastra Bank (NRB)",
+    "Central Investigation Bureau (CIB), Nepal Police",
+    "Patan High Court",
+    "Lalitpur District Attorney's Office",
+    "Lalitpur District Court"
+  ],
+  "locations": [
+    {
+      "other": "Durbar Marg Branch",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati Province"
+    },
+    {
+      "other": "Lokanthali Branch",
+      "ward_no": null,
+      "municipality": "Madhyapur Thimi",
+      "district": "Bhaktapur",
+      "province": "Bagmati Province"
+    },
+    {
+      "other": "Itahari Branch",
+      "ward_no": null,
+      "municipality": "Itahari",
+      "district": "Sunsari",
+      "province": "Province No. 1"
+    },
+    {
+      "other": "Surkhet Branch",
+      "ward_no": null,
+      "municipality": "Birendranagar",
+      "district": "Surkhet",
+      "province": "Karnali Province"
+    },
+    {
+      "other": "Nepalgunj Branch",
+      "ward_no": null,
+      "municipality": "Nepalgunj",
+      "district": "Banke",
+      "province": "Lumbini Province"
+    }
+  ],
+  "tags": [
+    "Banking Fraud",
+    "Embezzlement",
+    "Loan Scam",
+    "CIB Investigation",
+    "Corporate Fraud",
+    "Merger"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2018-03-16",
+      "title": "CIB Arrests 13 Officials",
+      "description": "The Central Investigation Bureau (CIB) arrests 13 individuals, including former Chairman Bishnu Prasad Dhital and other promoters and senior managers of Apex Development Bank, in connection with the embezzlement case."
+    },
+    {
+      "event_date": "2018-03-18",
+      "title": "Court Remands Accused",
+      "description": "The Patan High Court remands the 13 arrested officials to seven days of judicial custody to facilitate further investigation by the CIB."
+    },
+    {
+      "event_date": "2018-05-20",
+      "title": "Case Filed Against 148 Individuals",
+      "description": "After a two-month investigation, the CIB files a case of banking fraud at the Lalitpur District Court against 148 individuals, including bank staff, board members, borrowers, and valuators. At the time of filing, 127 of the accused were reported to be absconding."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Apex Bank embezzlement: 148 persons face banking offence case - Onlinekhabar English",
+      "url": "https://english.onlinekhabar.com/apex-bank-embezzlement-148-persons-face-banking-offence-case.html",
+      "description": "Reports on the CIB filing a case against 148 individuals and seeking an Interpol diffusion notice for two alleged masterminds, Govinda Upadhyaya and Basanta Malla."
+    },
+    {
+      "title": "CIB arrests 13 of Apex Bank over banking fraud - myRepublica",
+      "url": "https://myrepublica.nagariknetwork.com/news/cib-arrests-13-of-apex-bank-over-banking-fraud/",
+      "description": "News article detailing the initial arrest of 13 officials from the former Apex Development Bank, listing their names and positions."
+    },
+    {
+      "title": "CIB books 148 for Apex Development Bank scam - The Himalayan Times",
+      "url": "https://thehimalayantimes.com/business/central-investigation-bureau-books-148-for-apex-development-bank-scam",
+      "description": "Article covering the CIB's filing of charges against 148 people, specifying the embezzled amount of NPR 1.5 billion and the modus operandi of the scam."
+    },
+    {
+      "title": "CIB Publicized Names on NCC Fraud - merolagani",
+      "url": "https://merolagani.com/NewsDetail.aspx?newsID=41334",
+      "description": "A report that publicizes the names of the individuals arrested by the CIB in connection with the fraud at NCC Bank (originating from Apex)."
+    },
+    {
+      "title": "CIB nabs 13 former Apex Dev Bank officials on charges of fraudulent transactions - The Himalayan Times",
+      "url": "https://thehimalayantimes.com/business/cib-nabs-13-former-apex-dev-bank-officials-on-charges-of-fraudulent-transactions",
+      "description": "Report on the arrest of 13 officials, stating that the fraud was discovered by NCC Bank after its merger with Apex Development Bank."
+    },
+    {
+      "title": "HC remands 13 bankers to judicial custody - myRepublica",
+      "url": "https://myrepublica.nagariknetwork.com/news/hc-remands-13-bankers-to-judicial-custody/",
+      "description": "Confirms the Patan High Court's decision on March 18, 2018, to remand the 13 arrested bankers to custody for further investigation."
+    },
+    {
+      "title": "13 key NCC bank officers held in Rs1.5 billion scam - The Kathmandu Post",
+      "url": "https://kathmandupost.com/money/2018/03/17/13-key-ncc-bank-officers-held-in-rs15-billion-scam",
+      "description": "Article reporting on the arrest of key officials in the Rs 1.5 billion scam, highlighting the discovery of the fraud by NCC Bank's audit following the merger."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "title": "Ncell Share Sale and Capital Gains Tax Evasion Allegations (2023)",
+  "description": "<p>This case concerns the controversial sale of an 80% stake in Nepal's leading telecommunications provider, Ncell Axiata Limited, by its Malaysian parent company, Axiata Group Berhad. The stake, held through the St. Kitts and Nevis-registered company Reynolds Holding Limited, was sold to Spectrolite UK Limited for <strong>US $50 million</strong> on December 1, 2023.</p><p>The transaction sparked immediate public and political outcry due to the extremely low valuation. Axiata had originally purchased the same stake in 2016 from Telia Sonera for <strong>US $1.365 billion</strong> (approximately Rs. 143 billion), making the 2023 sale price less than 5% of its acquisition cost. This has led to widespread allegations that the deal was structured to deliberately undervalue the asset to evade significant Capital Gains Tax (CGT) in Nepal.</p><p>The controversy is compounded by several key factors:</p><ul><li><strong>Political Allegations:</strong> Independent lawmaker Dr. Amaresh Kumar Singh publicly accused high-level political figures, specifically Ganga Dahal, the daughter of Prime Minister Pushpa Kamal Dahal, of facilitating the deal in exchange for personal gain. The Prime Minister's Office has denied these claims.</li><li><strong>Regulatory Breach:</strong> The sale was executed without the mandatory prior approval from the Nepal Telecommunications Authority (NTA), a violation of Section 27 of the Telecommunications Regulations, which requires permission for any transfer of more than 5% of a licensee's shares.</li><li><strong>Government Investigation:</strong> In response to the controversy, the Government of Nepal formed a five-member high-level probe committee led by former Auditor General Tanka Mani Sharma Dangal. The committee's report, submitted in January 2024, recommended that the government not approve the sale, citing the lack of prior regulatory approval and the deal's failure to adhere to the 'arm's length principle' for valuation.</li><li><strong>Legal Action:</strong> Dr. Amaresh Kumar Singh filed a writ petition at the Supreme Court to halt the transaction. The court later dismissed the petition but issued a directive to the government and NTA to ensure mandatory prior approval and transparency in all future share sale transactions.</li></ul><p>The case echoes the 2016 Ncell sale, which was also mired in a years-long dispute over CGT, eventually leading to an international arbitration case that Axiata won against the Government of Nepal.</p>",
+  "unverified_info": "<p>The following information consists of allegations, unconfirmed reports, and details that have not been officially verified:</p><ul><li><strong>Allegations of Media Influence:</strong> There are claims that Ncell may be influencing media coverage to portray the deal favorably. One report suggested a major daily newspaper, allegedly facing financial difficulties, began publishing pro-Ncell articles after the controversy broke.</li><li><strong>Motive of the Accuser:</strong> The Prime Minister's secretariat has publicly dismissed Dr. Amaresh Kumar Singh's accusations, suggesting they are a 'bargaining chip' and lack substance.</li><li><strong>Specific Payment Terms:</strong> The sale agreement for US $50 million reportedly includes an initial payment of $5 million within six months, with the remaining balance to be paid over 48 months. The deal is also said to include a conditional consideration based on Ncell's business performance up to 2029.</li></ul>",
+  "key_allegations": [
+    "Deliberate undervaluation of Ncell shares to evade Capital Gains Tax (CGT).",
+    "Collusion between Axiata, Spectrolite UK, and high-level Nepali political figures to facilitate the deal.",
+    "Violation of Nepal's Telecommunications Regulations by failing to seek prior approval for the share transfer from the Nepal Telecommunications Authority (NTA).",
+    "Political corruption involving facilitation of the deal in exchange for illicit payments to political figures."
+  ],
+  "alleged_entities": [
+    "Axiata Group Berhad",
+    "Spectrolite UK Limited",
+    "Ganga Dahal",
+    "Pushpa Kamal Dahal ('Prachanda')"
+  ],
+  "related_entities": [
+    "Ncell Axiata Limited",
+    "Reynolds Holdings Limited",
+    "Nepal Telecommunications Authority (NTA)",
+    "Government of Nepal",
+    "Office of the Prime Minister and Council of Ministers",
+    "High-Level Probe Committee on Ncell Share Sale",
+    "Supreme Court of Nepal",
+    "Sunivera Capital Venture",
+    "Satish Lal Acharya",
+    "Dr. Amaresh Kumar Singh",
+    "Tanka Mani Sharma Dangal"
+  ],
+  "locations": [
+    {
+      "other": "National level case centered in the capital city.",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati Province"
+    }
+  ],
+  "tags": [
+    "Tax Evasion",
+    "Corruption",
+    "Telecommunications",
+    "Regulatory Failure",
+    "Political Corruption",
+    "Foreign Investment",
+    "Capital Gains Tax"
+  ],
+  "case_start_date": "2023-12-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "date": "2023-12-01",
+      "title": "Axiata Announces Sale of Ncell Stake",
+      "description": "Axiata Group Berhad announces it has entered into an agreement to sell its 80% stake in Ncell, held via Reynolds Holdings, to Spectrolite UK Limited for US $50 million."
+    },
+    {
+      "date": "2023-12-03",
+      "title": "Lawmaker Alleges Corruption",
+      "description": "Independent lawmaker Dr. Amaresh Kumar Singh holds a press conference alleging the Ncell sale is a scheme to evade Capital Gains Tax, implicating high-level political figures."
+    },
+    {
+      "date": "2023-12-07",
+      "title": "Government Forms High-Level Probe Committee",
+      "description": "The Government of Nepal forms a five-member high-level committee, led by former Auditor General Tanka Mani Sharma Dangal, to investigate the controversial share sale."
+    },
+    {
+      "date": "2023-12-08",
+      "title": "Writ Petition Filed at Supreme Court",
+      "description": "Dr. Amaresh Kumar Singh files a writ petition at the Supreme Court seeking to halt the sale, naming the Prime Minister's Office and other government bodies as respondents."
+    },
+    {
+      "date": "2023-12-19",
+      "title": "Prime Minister Addresses Parliamentary Committee",
+      "description": "Prime Minister Pushpa Kamal Dahal tells the State Affairs and Good Governance Committee that the government views the sale as 'unusual' and is awaiting the probe committee's report."
+    },
+    {
+      "date": "2024-01-29",
+      "title": "Probe Committee Submits Report",
+      "description": "The Tanka Mani Sharma-led probe committee submits its investigation report on the Ncell share sale to Prime Minister Pushpa Kamal Dahal."
+    },
+    {
+      "date": "2024-01-30",
+      "title": "Probe Committee's Recommendations Revealed",
+      "description": "News reports emerge stating the probe committee has recommended the government halt the share sale, citing lack of prior regulatory approval and failure to follow the 'arm's length principle' in the transaction."
+    },
+    {
+      "date": "2024-08-11",
+      "title": "Supreme Court Dismisses Writ Petition",
+      "description": "The Supreme Court dismisses the writ petition filed by Dr. Amaresh Kumar Singh but issues a directive order for the government and NTA to ensure transparency and mandatory prior approval for such transactions in the future."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ncell Official Press Release on Sale Transaction",
+      "url": "https://www.ncell.axiata.com/en/about-us/press-release/ncell-announces-sale-transaction",
+      "description": "The official announcement from Ncell Axiata confirming the sale of Axiata's 80% stake to SpectrLite UK Ltd."
+    },
+    {
+      "title": "Kathmandu Post: Axiata concludes sale of Ncell, exits Nepal",
+      "url": "https://kathmandupost.com/money/2023/12/02/axiata-concludes-sale-of-ncell-exits-nepal",
+      "description": "News report on Axiata's official exit from Nepal and the details of the sale for $50 million."
+    },
+    {
+      "title": "myRepublica: Axiata’s Ncell exit smacks of intention to evade capital gains tax",
+      "url": "https://myrepublica.nagariknetwork.com/news/axiata-s-ncell-exit-smacks-of-intention-to-evade-capital-gains-tax/",
+      "description": "An analysis piece detailing the opaque nature of the transaction and the strong suspicion of intent to evade Capital Gains Tax."
+    },
+    {
+      "title": "Khabarhub: Lawmaker Singh claims PM Dahal’s daughter involved in Ncell share sale scam",
+      "url": "https://english.khabarhub.com/2023/03/331001/",
+      "description": "Report on lawmaker Dr. Amaresh Kumar Singh's press conference where he made direct allegations against the Prime Minister's daughter, Ganga Dahal."
+    },
+    {
+      "title": "OnlineKhabar: High-level committee formed to probe sale of Ncell",
+      "url": "https://english.onlinekhabar.com/high-level-committee-formed-to-probe-sale-of-ncell.html",
+      "description": "News article reporting on the formation of the five-member high-level committee by the government to investigate the Ncell share sale."
+    },
+    {
+      "title": "Khabarhub: Lawmaker Dr Singh files petition at SC seeking to scrap Ncell share sale deal",
+      "url": "https://english.khabarhub.com/2023/08/332151/",
+      "description": "Report on the filing of a writ petition at the Supreme Court by Dr. Amaresh Kumar Singh to halt the transaction."
+    },
+    {
+      "title": "myRepublica: Probe committee formed to investigate sale of Ncell shares submits report",
+      "url": "https://myrepublica.nagariknetwork.com/news/probe-committee-formed-to-investigate-sale-of-ncell-shares-submits-report/",
+      "description": "News report confirming that the Tanka Mani Sharma-led probe committee has submitted its report to the Prime Minister."
+    },
+    {
+      "title": "OnlineKhabar: Probe committee tells govt to halt Ncell share sale for now",
+      "url": "https://english.onlinekhabar.com/probe-committee-tells-govt-to-halt-ncell-share-sale-for-now.html",
+      "description": "Article detailing the recommendations of the probe committee, including its advice to the government to not approve the sale."
+    },
+    {
+      "title": "New Business Age: SC dismisses writ petition against Ncell share sale, issues directive order",
+      "url": "https://www.newbusinessage.com/Articles/view/19227",
+      "description": "Report on the Supreme Court's decision to dismiss the writ petition against the sale while issuing a directive for future transparency and regulatory adherence."
+    },
+    {
+      "title": "Money Mitra: Ncell Tax Scam: From Telia Sonera To Axiata",
+      "url": "https://moneymitra.com/news/ncell-tax-scam",
+      "description": "A detailed historical overview of Ncell's capital gains tax disputes, providing context from the initial 2016 sale by Telia Sonera."
+    }
+  ]
+}

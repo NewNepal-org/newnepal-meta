@@ -1,0 +1,101 @@
+{
+  "title": "Carpet Scandal (Galaincha Kanda) of 1977-78",
+  "description": "<p>The Carpet Scandal (गलैचा काण्ड), also known as the Garment Scandal, was the first major corruption case investigated by Nepal's newly formed Commission for Control of Abuse of Authority (अख्तियार दुरुपयोग निवारण आयोग) in 1978. The case revolved around allegations of widespread corruption, specifically <strong>overinvoicing in the carpet and garment export industry</strong> during the Panchayat era.</p><p>The central figure implicated was the then-Prime Minister, <strong>Dr. Tulsi Giri</strong>, who served from December 1, 1975, to September 12, 1977. His cabinet was unexpectedly dissolved by a palace notice on September 9, 1977. Investigations reportedly began as early as 1976.</p><p>A total of <strong>91 individuals</strong>, described as \"bigwigs including politicians, businessmen, and bureaucrats,\" were implicated. Another source suggests that <strong>125 persons</strong> were investigated, specifically naming then-Finance Minister <strong>Dr. Prakash Chandra Lohani</strong> alongside Dr. Giri.</p><p>Dr. Giri publicly denied the allegations, framing them as a conspiracy and famously stating he was \"ready to be hanged if corruption charges against him were proven.\" Despite the charges being filed in 1978, he was brought back into active politics for the 1979 referendum campaign.</p><p><strong>Outcome:</strong> According to an academic journal citing a 2003 publication, the accused individuals, including Dr. Giri, were granted bail shortly after being charged and were ultimately found \"free from guilt\" and acquitted.</p>",
+  "unverified_info": "<p>The following information is from secondary sources, primarily blog posts, and lacks corroboration from official documents or mainstream news reports from the period:</p><ul><li>It is alleged that the scandal specifically involved a scheme of 'overinvoicing' exports to illegally obtain foreign currency or export incentives.</li><li>A blog post from 2005 speculates that Dr. Giri was advised to leave the country because he \"knew too much who else in the higher ups were also involved\". The same source claims that the only immediate consequence for him was the loss of his Prime Minister post.</li><li>Following the scandal and his brief return for the 1979 referendum, Dr. Giri reportedly became disillusioned with the Panchayat regime. He later moved to Sri Lanka for two years and then settled in Bangalore, India, before returning to Nepal in 2005.</li></ul>",
+  "key_allegations": [
+    "Corruption in the carpet and garment export industry",
+    "Overinvoicing"
+  ],
+  "alleged_entities": [
+    "Dr. Tulsi Giri",
+    "Dr. Prakash Chandra Lohani"
+  ],
+  "related_entities": [
+    "Commission for Control of Abuse of Authority (अख्तियार दुरुपयोग निवारण आयोग)"
+  ],
+  "locations": [
+    {
+      "other": "Nepal",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Political Corruption",
+    "Panchayat Era",
+    "Carpet Industry",
+    "Garment Industry",
+    "Overinvoicing",
+    "Commission for Control of Abuse of Authority",
+    "Acquittal",
+    "Tulsi Giri"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "1975-01-01",
+      "title": "Commission for Control of Abuse of Authority Established",
+      "description": "The Commission for Control of Abuse of Authority (अख्तियार दुरुपयोग निवारण आयोग) was established during 1975 to investigate and control high-level corruption. The exact date of establishment is not specified."
+    },
+    {
+      "event_date": "1975-12-01",
+      "title": "Dr. Tulsi Giri Becomes Prime Minister",
+      "description": "Dr. Tulsi Giri was appointed Prime Minister of Nepal."
+    },
+    {
+      "event_date": "1976-01-01",
+      "title": "Investigation into Carpet Scandal Begins",
+      "description": "According to one academic source, the Corruption Control Commission began investigating 125 individuals, including Prime Minister Dr. Tulsi Giri, in relation to the scandal during 1976. The exact date is not specified."
+    },
+    {
+      "event_date": "1977-09-09",
+      "title": "Dr. Giri's Cabinet Dissolved",
+      "description": "While Dr. Giri was at Singha Durbar, his cabinet was unexpectedly dissolved by a palace notice."
+    },
+    {
+      "event_date": "1977-09-12",
+      "title": "Dr. Tulsi Giri's Prime Ministership Ends",
+      "description": "Dr. Tulsi Giri's term as Prime Minister officially concluded."
+    },
+    {
+      "event_date": "1978-01-01",
+      "title": "Charges Filed in Carpet Scandal",
+      "description": "The Commission for Control of Abuse of Authority formally filed corruption charges against Dr. Tulsi Giri and others in the 'carpet scam' during 1978. The exact date is not specified."
+    },
+    {
+      "event_date": "1979-01-01",
+      "title": "Dr. Giri Returns to Politics for Referendum",
+      "description": "Despite the corruption charges, Dr. Giri was brought back into active politics by conservative Panchas to campaign for the 1979 referendum. The exact date of his return is not specified."
+    },
+    {
+      "event_date": "1980-05-14",
+      "title": "Dr. Giri Announces Political Retirement",
+      "description": "Following the results of the 1979 referendum, Dr. Tulsi Giri announced his retirement from politics."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tulsi Giri, the extremist",
+      "url": "https://theannapurnaexpress.com/news/vault-of-history-tulsi-giri-the-extremist-2248",
+      "description": "An article in The Annapurna Express from January 19, 2020, providing biographical details on Dr. Giri. It mentions his cabinet's unexpected dissolution, the carpet scandal charges, and his public denial."
+    },
+    {
+      "title": "HISTORICAL ROOTS OF IMPUNITY AND CORRUPTION",
+      "url": "https://www.nepjol.info/index.php/jps/article/view/63148/52670",
+      "description": "A 2024 article in the Journal of Political Science that discusses the history of corruption in Nepal. It states that the Corruption Control Commission investigated 125 people, including PM Giri, and that the accused were later found 'free from guilt'."
+    },
+    {
+      "title": "Dr Tulsi Giri in Willful Defaulters' Blacklist",
+      "url": "https://blog.com.np/2005/06/11/dr-tulsi-giri-in-willful-defaulters-blacklist/",
+      "description": "A 2005 blog post on 'United We Blog' that mentions the carpet scandal and includes speculative information about Dr. Giri's departure from Nepal and subsequent life abroad. This is a source for unverified information."
+    },
+    {
+      "title": "Wikipedia: Tulsi Giri",
+      "url": "https://en.wikipedia.org/wiki/Tulsi_Giri",
+      "description": "The Wikipedia page for Dr. Tulsi Giri, which corroborates key timeline details such as his prime ministerial term and later return to Nepal in 2005."
+    }
+  ]
+}

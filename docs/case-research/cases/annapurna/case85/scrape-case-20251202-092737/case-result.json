@@ -1,0 +1,134 @@
+{
+  "title": "Solu Corridor Transmission Line Tender Controversy",
+  "description": "<p>The case involves allegations of corruption and procedural irregularity against then-Energy Minister Radha Kumari Gyawali and several officials of the Nepal Electricity Authority (NEA) concerning the tender for the <strong>Solu Corridor 132 kV Transmission Line Project</strong>. In 2015, the Commission for the Investigation of Abuse of Authority (CIAA) accused the NEA board, chaired by Minister Gyawali, of acting with 'mala fide intentions' by disqualifying the lowest bidder and awarding the contract to the second-lowest bidder.</p><p>The lowest bid, from a joint venture of Jaguar Overseas Ltd and BS Ltd, was for <strong>$20.35 million</strong>. The contract was awarded to Mohan Energy Corporation for <strong>$22.97 million</strong>, creating a potential loss of <strong>$2.62 million (approximately NPR 270 million)</strong> to the state. The CIAA argued that the disqualification was based on minor technicalities that should have been clarified.</p><p>Key events included:</p><ul><li>The CIAA recommending that Prime Minister Sushil Koirala take action against Minister Gyawali.</li><li>Prime Minister Koirala dismissing Gyawali from her post on October 1, 2015.</li><li>Gyawali and other accused officials challenging the CIAA's decision in the Supreme Court.</li></ul><p>On <strong>March 16, 2016</strong>, a Supreme Court bench headed by Chief Justice Kalyan Shrestha annulled the CIAA's directives. The court's verdict effectively exonerated Gyawali and the other NEA officials, finding that the decision to disqualify the lowest bidder was based on the consultant's report and did not constitute corruption. The Parliament's Public Accounts Committee (PAC) also investigated the matter separately.</p>",
+  "unverified_info": "<p>Initial research notes contained mentions of a case named <strong>\"Chleliya\"</strong> and an alleged loss amount of <strong>\"55 Crore\" (NPR 550 million)</strong>. However, comprehensive verification against credible sources has found no evidence to support either of these details in connection with this case. All verifiable reports identify the project as the Solu Corridor Transmission Line and the potential loss as approximately <strong>NPR 27 Crore</strong>. The \"55 Crore\" figure is therefore considered erroneous unless primary documentation proves otherwise.</p>",
+  "key_allegations": [
+    "Irregularity in the public procurement process for the Solu Corridor 132 kV Transmission Line Project.",
+    "Awarding a construction contract to the second-lowest bidder with 'mala fide intentions'.",
+    "Causing a potential financial loss of approximately NPR 270 million ($2.62 million) to the state.",
+    "Improper disqualification of the lowest bidder based on minor, rectifiable technical issues."
+  ],
+  "alleged_entities": [
+    "Radha Kumari Gyawali",
+    "Nepal Electricity Authority (NEA)",
+    "Mukesh Raj Kafle",
+    "Laxman Prasad Agrawal",
+    "Manoj Kumar Mishra",
+    "Suraj Lamichhane"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Supreme Court of Nepal",
+    "Public Accounts Committee (PAC), Parliament of Nepal",
+    "Mohan Energy Corporation (P) Ltd",
+    "Jaguar Overseas Ltd and BS Ltd (Joint Venture)",
+    "Lahmeyer International (India)",
+    "Rajendra Kishore Chhetri",
+    "Santosh Narayan Shrestha"
+  ],
+  "locations": [
+    {
+      "other": "Solu Corridor 132 kV Transmission Line Project (90-kilometer route)",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Solukhumbu",
+      "province": "Koshi Province"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Tender Irregularity",
+    "Energy Sector",
+    "Abuse of Authority",
+    "CIAA",
+    "Supreme Court",
+    "Exoneration",
+    "Public Procurement"
+  ],
+  "case_start_date": "2015-08-21",
+  "case_end_date": "2016-03-16",
+  "timeline": [
+    {
+      "event_date": "2015-08-21",
+      "title": "Contract Awarded to Second-Lowest Bidder",
+      "description": "The Nepal Electricity Authority (NEA) board, chaired by Energy Minister Radha Gyawali, decided to award the Solu Corridor contract to the second-lowest bidder, Mohan Energy Corporation."
+    },
+    {
+      "event_date": "2015-09-18",
+      "title": "CIAA Recommends Action Against Minister",
+      "description": "The CIAA concluded its investigation, finding 'mala fide intentions' in the tender process, and recommended that the Prime Minister take action against Minister Gyawali for causing a potential loss of NPR 270 million."
+    },
+    {
+      "event_date": "2015-10-01",
+      "title": "Energy Minister Dismissed",
+      "description": "Based on the CIAA's recommendation, Prime Minister Sushil Koirala dismissed Radha Gyawali from her post as Minister for Energy."
+    },
+    {
+      "event_date": "2015-10-04",
+      "title": "Supreme Court Issues Show-Cause Notice",
+      "description": "In response to a writ petition filed on behalf of Gyawali, the Supreme Court issued a show-cause notice to the CIAA regarding its recommendation."
+    },
+    {
+      "event_date": "2016-03-16",
+      "title": "Supreme Court Exonerates Gyawali",
+      "description": "A joint bench of Chief Justice Kalyan Shrestha and Justice Jagadish Sharma Paudel annulled the CIAA's directives, clearing Radha Gyawali and other NEA officials of the corruption allegations."
+    },
+    {
+      "event_date": "2016-04-05",
+      "title": "NEA Hands Over Contract",
+      "description": "Following the Supreme Court's verdict, the Nepal Electricity Authority officially handed over the project contract to Mohan Energy Corporation."
+    },
+    {
+      "event_date": "2016-04-22",
+      "title": "Parliamentary Committee Launches Investigation",
+      "description": "The Parliament's Public Accounts Committee (PAC) began its own investigation into the tender decision and temporarily ordered a halt to the project's work."
+    }
+  ],
+  "sources": [
+    {
+      "title": "SC annuls CIAA directives against ex-minister Gyawali",
+      "url": "https://myrepublica.nagariknetwork.com/news/sc-annuls-ciaa-directives-against-ex-minister-gyawali/",
+      "description": "myRepublica article from March 16, 2016, reporting on the Supreme Court's final verdict that annulled the CIAA directives against Radha Gyawali."
+    },
+    {
+      "title": "Apex court rules in favor of ex-minister Radha Gyawali",
+      "url": "https://nepalenergyforum.com/apex-court-rules-in-favor-of-ex-minister-radha-gyawali/",
+      "description": "NepalEnergyForum report detailing the Supreme Court's decision and the background of the CIAA's accusation of 'mala fide intentions'."
+    },
+    {
+      "title": "SC quashes action against ex-minister Gyawali",
+      "url": "https://thehimalayantimes.com/nepal/sc-quashes-action-against-ex-minister-gyawali",
+      "description": "The Himalayan Times article from March 17, 2016, providing specific financial details of the bids and the court's ruling."
+    },
+    {
+      "title": "PM fires Energy Minister Gyawali",
+      "url": "https://kathmandupost.com/politics/2015/10/01/pm-fires-energy-minister-gyawali",
+      "description": "The Kathmandu Post article from October 1, 2015, reporting on Prime Minister Sushil Koirala sacking Minister Gyawali following the CIAA's recommendation."
+    },
+    {
+      "title": "Minister Gyawali’s sacking: SC issues show-cause notice to CIAA",
+      "url": "https://kathmandupost.com/national/2015/10/04/minister-gyawalis-sacking-sc-issues-show-cause-notice-to-ciaa",
+      "description": "The Kathmandu Post report on the Supreme Court issuing a show-cause notice to the CIAA after Gyawali challenged her dismissal."
+    },
+    {
+      "title": "CIAA decides to request PM to take action against Energy Minister",
+      "url": "https://nepalenergyforum.com/ciaa-decides-to-request-pm-to-take-action-against-energy-minister/",
+      "description": "NepalEnergyForum article from September 18, 2015, detailing the CIAA's press statement and its finding of a potential loss of Rs 270 million."
+    },
+    {
+      "title": "Parliamentary committee to issue verdict on Solu Corridor graft on April 27",
+      "url": "https://www.himalayanwatch.com/parliamentary-committee-to-issue-verdict-on-solu-corridor-graft-on-april-27/",
+      "description": "Report on the Public Accounts Committee (PAC) launching its own investigation into the tender controversy."
+    },
+    {
+      "title": "Solu corridor power transmission line entangled in controversy",
+      "url": "https://www.corporatenepal.com/en/article/hydropower/solu-corridor-power-transmission-line-entangled-in-controversy",
+      "description": "An article describing the controversy's reach to the parliamentary committee and mentioning the note of dissent from Secretary Rajendra Kishore Chhetri."
+    },
+    {
+      "title": "सोलु कोरिडोर प्रसारण लाइन निर्माण सम्पन्न",
+      "url": "https://arthadabali.com/archives/89163",
+      "description": "Artha Dabali (Nepali) report from October 29, 2021, on the final completion of the much-delayed transmission line project."
+    }
+  ]
+}

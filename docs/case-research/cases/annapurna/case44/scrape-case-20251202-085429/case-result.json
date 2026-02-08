@@ -1,0 +1,109 @@
+{
+  "title": "Corruption Case Against Former Nayab Subba Raghunath Ghimire for Disproportionate Assets",
+  "description": "<p>The Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case against Raghunath Ghimire, a retired Non-Gazetted First Class Officer (Nayab Subba), accusing him of amassing wealth illegally during his tenure in public service. The case was filed at the Special Court in Kathmandu on April 2, 2023.</p><p>Ghimire joined the civil service on November 14, 1995, and resigned on February 13, 2019. He served in various government offices, including the Department of Customs and the Department of Revenue Investigation. The CIAA's investigation covered the period from his entry into service until mid-January 2023.</p><p>The investigation revealed a significant discrepancy between his legitimate income and his total expenses and investments. The CIAA calculated his legitimate income from sources like salary, his wife's income, loans, and land sales to be <strong>NPR 52,516,327.44</strong>. However, his expenditures and investments during the same period amounted to <strong>NPR 73,962,984.67</strong>.</p><p>The CIAA alleges that the difference, <strong>NPR 21,446,657.24</strong>, was acquired through corrupt means and constitutes illicit enrichment. The charges were filed under the Prevention of Corruption Act, 2017 (BS) and the prevailing Prevention of Corruption Act, 2059 (BS). The CIAA has sought to recover the principal amount, an equivalent fine, and a jail sentence.</p><p>His wife, <strong>Sharada Gautam Ghimire</strong>, has been named as a co-defendant. The CIAA alleges that Ghimire misused his authority to help her become a customs agent and subsequently used her name to conceal illegally acquired assets. The CIAA is seeking the confiscation of properties held in her name, which include:</p><ul><li>Land purchases</li><li>House construction</li><li>Company investments</li><li>Share purchases</li><li>Bank deposits</li></ul>",
+  "unverified_info": "<p>Raghunath Ghimire was reportedly a central figure in a major political scandal involving the alleged manipulation of tax rates in the federal budget on May 28, 2022. It was alleged that Ghimire met with then-Finance Minister Janardan Sharma late at night to alter tax rates before the budget was presented to Parliament. This led to Minister Sharma's temporary resignation, although a parliamentary investigation panel later acquitted him, citing a lack of evidence as CCTV footage from the period had been deleted. While this scandal provides context, it is separate from the formal disproportionate assets case.</p><p>An editorial piece suggested that the CIAA initially estimated Ghimire might have accumulated wealth worth as much as <strong>NPR 500 million</strong>, a figure significantly higher than the amount specified in the official charges filed in court. This larger amount remains an unverified estimate and is not part of the legal proceedings.</p>",
+  "key_allegations": [
+    "Amassing disproportionate assets worth NPR 21,446,657.24 through corruption and abuse of authority.",
+    "Violation of the Prevention of Corruption Act, 2017 (BS) and the Prevention of Corruption Act, 2059 (BS).",
+    "Concealing illegally acquired wealth by investing in land, houses, companies, and shares in the name of his wife, Sharada Gautam Ghimire.",
+    "Abusing his authority to facilitate his wife's appointment as a customs agent."
+  ],
+  "alleged_entities": [
+    "Raghunath Ghimire",
+    "Sharada Gautam Ghimire"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu",
+    "Department of Customs",
+    "Department of Revenue Investigation"
+  ],
+  "locations": [
+    {
+      "other": "Special Court",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Kalanki",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": null,
+      "district": "Arghakhanchi",
+      "province": "Lumbini"
+    }
+  ],
+  "tags": [
+    "Disproportionate Assets",
+    "Corruption",
+    "Illicit Enrichment",
+    "CIAA",
+    "Special Court",
+    "Customs",
+    "Nayab Subba"
+  ],
+  "case_start_date": "1995-11-14",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "1995-11-14",
+      "title": "Raghunath Ghimire Joins Civil Service",
+      "description": "Raghunath Ghimire begins his career as a public servant in Nepal."
+    },
+    {
+      "event_date": "2019-02-13",
+      "title": "Resignation from Service",
+      "description": "Raghunath Ghimire resigns from his post as a Nayab Subba while working at the Department of Customs."
+    },
+    {
+      "event_date": "2023-04-02",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA files a chargesheet at the Special Court against Raghunath Ghimire and his wife, Sharada Gautam Ghimire, for amassing disproportionate assets worth NPR 21,446,657.24."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CIAA files graft case against former government officer Raghunath Ghimire",
+      "url": "https://kathmandupost.com/national/2023/04/02/ciaa-files-graft-case-against-former-government-officer-raghunath-ghimire",
+      "description": "A Kathmandu Post report detailing the case filing, the specific amounts of illegal earnings (NPR 21.4M), legitimate income (NPR 52.5M), and total expenditure (NPR 73.9M). It also names his wife as a co-defendant and mentions Ghimire's connection to the 2022 budget manipulation scandal."
+    },
+    {
+      "title": "Retired Nayab Subba Ghimire accused of corruption of Rs 2.14 crore",
+      "url": "https://www.apionlinekhabar.com/2023/04/104193/",
+      "description": "Report confirming the claimed amount (NPR 2.14 crore), the legal acts under which the case was filed, and the types of assets allegedly held in his wife's name."
+    },
+    {
+      "title": "CIAA registers case against ex-Nayab Subba Ghimire",
+      "url": "https://radiosagarmatha.org.np/news-details/125740/2023-04-02",
+      "description": "Brief news report confirming the case filing by the CIAA at the Special Court and the alleged corruption amount of over NPR 21.4 million."
+    },
+    {
+      "title": "Editorial: Control corruption",
+      "url": "https://thehimalayantimes.com/opinion/editorial-control-corruption",
+      "description": "An editorial piece that specifies the investigation period (November 1995 - December 2022), details the penalties sought by the CIAA, and mentions an unverified estimate of Ghimire's wealth at NPR 500 million."
+    },
+    {
+      "title": "Case filed against former subba Raghunath Ghimire who earned more than 2 crores illegally",
+      "url": "https://exclusive.com.np/2023/04/02/107771/",
+      "description": "News report confirming the date of the case filing by the CIAA and the claimed amount of over NPR 2.14 crore."
+    },
+    {
+      "title": "Corruption case filed against former Nayab Subba Ghimire of Customs",
+      "url": "https://imandarkhabar.com/2023/04/55294/",
+      "description": "Confirms the case was filed at the Special Court with a claim of over NPR 2 crore and notes Ghimire's service at various customs offices."
+    },
+    {
+      "title": "CIAA registers corruption case against former non-gazetted officer Raghunath Ghimire",
+      "url": "https://sambridhinews.com/archives/113175",
+      "description": "Mentions the investigation period and specifies that Ghimire allegedly invested illicit funds in companies, shares, and land."
+    }
+  ]
+}

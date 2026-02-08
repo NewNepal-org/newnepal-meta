@@ -1,0 +1,91 @@
+{
+  "title": "Corruption in Procurement of Mobile Laboratory Vans for Prime Minister Agriculture Modernization Project",
+  "description": "<p>The Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case against 13 individuals, including high-ranking government officials and a private supplier, for financial irregularities in the procurement of four mobile laboratory vans for the Prime Minister Agriculture Modernization Project. The charge sheet was filed at the Special Court on <strong>June 20, 2019</strong>.</p><p>The core allegation is that officials from the <strong>Department of Food Technology and Quality Control (DFTQC)</strong> and the <strong>PM Agriculture Modernization Project</strong> colluded with the supplier, <strong>Prudent Meditech International</strong>, to embezzle state funds. The CIAA alleges that the procured vans were sub-standard, did not meet the specifications outlined in the tender documents, and that the procurement process violated public procurement laws.</p><p>Key issues highlighted by the investigation include:</p><ul><li><strong>Breach of Procurement Law:</strong> The accused officials are charged with flouting public procurement regulations to favor the supplier.</li><li><strong>Sub-standard Equipment:</strong> The mobile vans and their equipment were found to be of inferior quality and did not match the required technical specifications.</li><li><strong>Ignoring Technical Advice:</strong> The CIAA stated that suggestions from a technical committee were deliberately ignored to facilitate the corrupt deal.</li><li><strong>Improper Payments:</strong> Payments were allegedly released without proper verification or registration of the assets.</li></ul><p>The CIAA is seeking to recover approximately <strong>NPR 248 million</strong> in embezzled funds and has charged the individuals under the Prevention of Corruption Act, 2059.</p>",
+  "unverified_info": "<p>There are discrepancies regarding the total financial figures involved in the case.</p><ul><li>An initial raw research note mentioned a loss of '१२ अर्व' (12 Arba or 12 Billion Nepali Rupees), but this figure is drastically higher than amounts reported in multiple credible news sources and is likely incorrect.</li><li>Most English-language news reports state the embezzled amount is approximately <strong>NPR 248 million</strong>.</li><li>However, at least one Nepali-language source (<a href=\"https://nagariknews.nagariknetwork.com/social-affairs/134446-1561006500.html\">Nagarik News</a>) mentions a total claimed penalty (बिगो) of over <strong>NPR 660 million</strong> (66 Crore) from all defendants. This larger figure might include the principal amount plus additional fines and penalties as per the Prevention of Corruption Act.</li></ul>",
+  "key_allegations": [
+    "Procurement of sub-standard mobile laboratory vans",
+    "Breach of the Public Procurement Act",
+    "Collusion between government officials and a private supplier",
+    "Embezzlement of state funds amounting to over NPR 248 million",
+    "Deliberately ignoring the recommendations of a technical committee",
+    "Making payments without proper verification of the procured goods"
+  ],
+  "alleged_entities": [
+    "Sanjeev Kumar Karna",
+    "Purna Chandra Wasti",
+    "Rabita Shrestha",
+    "Gurudatta Gautam",
+    "Bhagirath Acharya",
+    "Ganesh Prasad Chalise",
+    "Balaram Pokharel",
+    "Narahari Prasad Ghimire",
+    "Saroj Adhikari",
+    "Tilakraj Chaulagain",
+    "Laxman Prasad Paudel",
+    "Indra Hari Paudel",
+    "Pravin Kunwar",
+    "Prudent Meditech International"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Department of Food Technology and Quality Control (DFTQC)",
+    "Prime Minister Agriculture Modernization Project",
+    "Special Court, Kathmandu"
+  ],
+  "locations": [
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Khumaltar",
+      "ward_no": null,
+      "municipality": "Lalitpur Metropolitan City",
+      "district": "Lalitpur",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Procurement",
+    "Agriculture",
+    "Government Official",
+    "CIAA",
+    "Special Court",
+    "Embezzlement"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2019-06-20",
+      "title": "CIAA Files Charge Sheet at Special Court",
+      "description": "The Commission for the Investigation of Abuse of Authority (CIAA) filed a formal charge sheet at the Special Court in Kathmandu against 13 individuals. The charge was for corruption and embezzlement of over NPR 248 million in the procurement of mobile laboratory vans."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CIAA files corruption case against DG of Department of Food…",
+      "url": "https://myrepublica.nagariknetwork.com/news/ciaa-files-corruption-case-against-dg-of-department-of-food/",
+      "description": "A myRepublica news article reporting on the CIAA filing a corruption case against Sanjeev Kumar Karna and others, specifying a claimed amount of Rs. 124.46 million from him."
+    },
+    {
+      "title": "CIAA sues quality control DG Karna, 12 others over sub-standard lab vans",
+      "url": "https://myrepublica.nagariknetwork.com/news/ciaa-sues-quality-control-dg-karna-12-others-over-sub-standard-lab-vans/",
+      "description": "A detailed myRepublica article stating 13 officials were sued for misusing Rs 240 million. It names the supplier, Prudent Meditech International, and lists several of the accused."
+    },
+    {
+      "title": "१२ करोडको गाडी खरिदमा ६६ करोड बिगो दाबी (Nagarik News)",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/134446-1561006500.html",
+      "description": "A Nepali-language report from Nagarik News detailing the case. It provides a comprehensive list of the 13 accused individuals and mentions a total claimed penalty (बिगो) of over 66 crore NPR."
+    },
+    {
+      "title": "Sanjeev Kumar Karna, 12 others booked for graft",
+      "url": "https://thehimalayantimes.com/nepal/sanjeev-kumar-karna-12-others-booked-for-graft",
+      "description": "An article from The Himalayan Times reporting that the CIAA filed a chargesheet against 13 individuals for embezzling more than Rs 248 million, corroborating key details of the case."
+    }
+  ]
+}

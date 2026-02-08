@@ -1,0 +1,29 @@
+{
+  "title": "Irregularities in Sports Ground (Rangashala)",
+  "description": "<p>This case record is based on an internal document alleging financial irregularities in the construction or management of a sports ground (Rangashala). The specific details, including the individuals involved and the financial amount, originate solely from this source.</p><p><strong>Crucially, extensive searches of public records, including reports from anti-corruption bodies and news archives from the specified period, have not yielded any information to corroborate these claims.</strong> The details provided in the internal source file could not be independently verified, and thus the entire case is classified as unverified.</p>",
+  "unverified_info": "<p>The entirety of the information concerning this case is unverified and originates from a single internal source document. The following details should be treated as unconfirmed leads pending further investigation:</p><ul><li><strong>Subject:</strong> Financial irregularities related to a 'Rangashala' (sports ground).</li><li><strong>Time Period:</strong> Allegedly occurred during the Nepali fiscal year 2073 BS (approximately 2016-2017 AD).</li><li><strong>Alleged Financial Loss:</strong> NPR 5,300,000 (53 Lakh).</li><li><strong>Alleged Individuals:</strong><ul><li><strong>Ajet Nyasur:</strong> Named as the main accused.</li><li><strong>Bhimraj Yadav:</strong> Referred to as 'Pramukh' (Chief) and associated with the case.</li></ul></li></ul><p>No public records from the Commission for the Investigation of Abuse of Authority (CIAA), the Office of the Auditor General, or reputable news outlets could be found that mention this specific case or the individuals involved in a related context.</p>",
+  "key_allegations": [
+    "Alleged financial irregularities amounting to NPR 5,300,000"
+  ],
+  "alleged_entities": [
+    "Ajet Nyasur",
+    "Bhimraj Yadav"
+  ],
+  "related_entities": [],
+  "locations": [],
+  "tags": [
+    "Financial Irregularity",
+    "Sports",
+    "Unverified"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [],
+  "sources": [
+    {
+      "title": "Internal Case File (details.md)",
+      "url": "Internal Document - Not Publicly Available",
+      "description": "The sole source document for this case, providing initial details about the alleged irregularity, financial loss, and individuals involved. Its contents could not be verified through public records."
+    }
+  ]
+}

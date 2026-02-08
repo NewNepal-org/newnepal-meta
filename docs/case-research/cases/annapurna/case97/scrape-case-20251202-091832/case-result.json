@@ -1,0 +1,153 @@
+{
+  "title": "APF Logistics Transport Fake Bills Corruption Case",
+  "description": "<p>The case revolves around allegations that Koshraj Wanta, during his tenure as Inspector General (IG) of the Armed Police Force (APF), Nepal, masterminded a scheme to embezzle state funds. The Commission for the Investigation of Abuse of Authority (CIAA) accused Wanta and several other APF officials and private suppliers of corruption between fiscal years 2012 and 2014.</p><p>The primary allegation was the systematic creation and approval of <strong>fake and forged invoices</strong> for the transportation of logistics and supplies to various APF units across the country. These services were allegedly never rendered. According to the CIAA's charge sheet filed on February 1, 2016, Wanta directed subordinates, including the accounts chief, to process fraudulent bills from private companies, namely <strong>Sadajyoti Transport</strong> and <strong>Aditi Transport</strong>. The scheme allegedly involved junior officers forging signatures to legitimize the payments.</p><p>The CIAA also accused then-Deputy Inspector General (DIG) Arbind Dhital of <strong>obstructing the investigation</strong>. Dhital led an internal APF inquiry that allegedly submitted a false report to the CIAA with the intent to protect Wanta and conceal the facts.</p><p>Following a recommendation from the CIAA, the government suspended Wanta on December 18, 2015. He was interrogated by the CIAA and released after posting a substantial bail of <strong>NPR 100,000,000</strong> (10 Crore).</p><p>Despite the allegations and the high-profile nature of the case, on July 1, 2019, the Special Court in Kathmandu acquitted Koshraj Wanta and all other co-accused. The verdict cited a lack of sufficient evidence to prove the corruption charges filed by the CIAA.</p>",
+  "unverified_info": "<p>Several details surrounding the case remain unconfirmed or have conflicting reports:</p><ul><li><strong>Exact Embezzled Amount:</strong> While the CIAA filed a charge sheet, news outlets reported varying amounts, including NPR 67,941,706, NPR 66,941,000, and NPR 60,710,000. Some initial estimates suggested a total loss of over NPR 90 million. The precise figure claimed in the final court documents is not consistently reported across sources.</li><li><strong>Alleged 'Provocation':</strong> During his interrogation, Koshraj Wanta reportedly claimed he was 'provoked by his colleagues' to engage in the fraudulent activities. However, the identities of these individuals were never publicly disclosed or verified.</li><li><strong>Additional Suspensions:</strong> Initial CIAA recommendations for suspension reportedly included DSP Suman Jung Thapa and DSP Ram Krishna Maharjan, but their exact role and the final action taken against them are not clearly detailed in the available sources.</li></ul>",
+  "key_allegations": [
+    "Embezzlement of state funds through fake transport bills",
+    "Creation and processing of forged invoices for services never rendered",
+    "Obstruction of justice by submitting a false internal inquiry report",
+    "Directing subordinates to commit forgery and process fraudulent payments"
+  ],
+  "alleged_entities": [
+    "Koshraj Wanta",
+    "Arbind Dhital",
+    "Jagat Narayan Shrestha",
+    "Ananda Thapa Magar",
+    "Bin Bahadur Thapa",
+    "Devendra Kumar Shrestha",
+    "Nil Bahadur Shrestha",
+    "Lekh Bahadur Khatri",
+    "Milan Adhikari",
+    "Ujjwal Kumar Thapaliya",
+    "Bharat Kumar Thapa",
+    "Sadajyoti Transport / Sadajyoti Suppliers",
+    "Aditi Transport",
+    "Armed Police Force, Nepal"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu",
+    "Government of Nepal"
+  ],
+  "locations": [
+    {
+      "other": "Armed Police Force Headquarters and various field units across Nepal",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Embezzlement",
+    "Procurement Fraud",
+    "Forgery",
+    "Law Enforcement",
+    "Acquittal",
+    "CIAA",
+    "Special Court",
+    "High-Profile Case"
+  ],
+  "case_start_date": "2014-08-14",
+  "case_end_date": "2019-07-01",
+  "timeline": [
+    {
+      "event_date": "2014-08-14",
+      "title": "Complaint Registered at CIAA",
+      "description": "A formal complaint was registered at the Commission for the Investigation of Abuse of Authority (CIAA) against then-APF Inspector General Koshraj Wanta regarding financial irregularities."
+    },
+    {
+      "event_date": "2015-12-17",
+      "title": "CIAA Recommends Suspension",
+      "description": "The CIAA recommended the suspension of IGP Koshraj Wanta and other APF officials to the government, stating their continuation in office could lead to the destruction of evidence."
+    },
+    {
+      "event_date": "2015-12-18",
+      "title": "Government Suspends Koshraj Wanta",
+      "description": "The Government of Nepal suspended Koshraj Wanta from his position as Inspector General of the Armed Police Force."
+    },
+    {
+      "event_date": "2015-12-21",
+      "title": "Wanta Interrogated and Posts Bail",
+      "description": "Koshraj Wanta was interrogated by the CIAA and subsequently released after posting a bail amount of NPR 100 million (10 Crore)."
+    },
+    {
+      "event_date": "2015-12-23",
+      "title": "Reports of Admission Surface",
+      "description": "News reports claimed that during interrogation, Wanta admitted to his involvement, stating he was 'provoked' by colleagues."
+    },
+    {
+      "event_date": "2016-02-01",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA filed a formal corruption case at the Special Court against Koshraj Wanta and 10 others, including APF officials and private transport operators, for embezzling state funds via fake bills."
+    },
+    {
+      "event_date": "2019-07-01",
+      "title": "Special Court Acquits All Accused",
+      "description": "A Special Court bench led by Chairman Baburam Regmi acquitted Koshraj Wanta and all other co-accused in the case, citing insufficient evidence."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Four ex-IGPs of APF acquitted on corruption charge - myRepublica",
+      "url": "https://myrepublica.nagariknetwork.com/news/four-ex-igps-of-apf-acquitted-on-corruption-charge/",
+      "description": "News report on the Special Court's decision to acquit Koshraj Wanta and three other former IGPs of corruption charges on July 1, 2019."
+    },
+    {
+      "title": "कोषराज वन्तको भ्रष्टाचार प्रकरणमा डीआइजी समेत तानिए - Onlinekhabar",
+      "url": "https://www.onlinekhabar.com/2016/02/371667",
+      "description": "A Nepali language report detailing the involvement of DIG Arbind Dhital in the corruption case, accused of submitting a false report to protect Wanta."
+    },
+    {
+      "title": "कोषराज वन्तसहित ११ जनाविरुद्ध विशेष अदालतमा मुद्दा दायर - Hamra Kura",
+      "url": "https://hamrakura.com/news-details/34947/2016-02-01",
+      "description": "Reports on the CIAA filing a case at the Special Court against Koshraj Wanta and 10 others, listing the names of the accused."
+    },
+    {
+      "title": "कोषराज वन्तसहित भ्रष्टाचार प्रकरणमा ९ प्रहरी अधिकारीविरुद्व मुद्दा दायर - Ratopati",
+      "url": "https://ratopati.com/story/11833",
+      "description": "A Nepali language article about the filing of the corruption case against 9 police officials, including Koshraj Wanta."
+    },
+    {
+      "title": "Govt suspends APF chief Kosh Raj Onta - The Himalayan Times",
+      "url": "https://thehimalayantimes.com/nepal/govt-suspends-apf-chief-kosh-raj-onta/",
+      "description": "News article from December 2015 reporting on the government's decision to suspend Koshraj Wanta following the CIAA's recommendation."
+    },
+    {
+      "title": "Nepal in news again, it’s corruption after chaos - The Indian Express",
+      "url": "https://indianexpress.com/article/world-news/nepal-in-news-again-its-corruption-after-chaos/",
+      "description": "An article mentioning the high-profile corruption case against the APF chief as a significant event in Nepal."
+    },
+    {
+      "title": "Suspended APF chief admits to embezzling millions - The Kathmandu Post",
+      "url": "https://kathmandupost.com/national/2015/12/23/suspended-apf-chief-admits-to-embezzling-millions",
+      "description": "Report from December 2015 stating that Koshraj Wanta admitted to his involvement during CIAA interrogation."
+    },
+    {
+      "title": "Special Court acquits four former APF chiefs of corruption - OnlineKhabar English",
+      "url": "https://english.onlinekhabar.com/special-court-acquits-four-former-apf-chiefs-of-corruption.html",
+      "description": "English language report on the acquittal of Koshraj Wanta and other former APF chiefs by the Special Court in July 2019."
+    },
+    {
+      "title": "CIAA files corruption charge against ex APF IGP Kosh Raj Onta - myRepublica",
+      "url": "https://myrepublica.nagariknetwork.com/news/15004/",
+      "description": "News of the CIAA filing the corruption case, specifying the charge of embezzling over Rs 60 million through fake bills."
+    },
+    {
+      "title": "Graft case filed against suspended APF chief Onta, 10 others - The Himalayan Times",
+      "url": "https://thehimalayantimes.com/nepal/graft-case-filed-against-suspended-apf-chief-onta-10-others",
+      "description": "Report on the filing of the corruption case, detailing the alleged embezzlement amount of Rs 67.94 million."
+    },
+    {
+      "title": "CIAA files graft case against Onta - The Kathmandu Post",
+      "url": "https://kathmandupost.com/national/2016/02/02/ciaa-files-graft-case-against-onta",
+      "description": "Article covering the CIAA's legal action against Koshraj Wanta and the details of the charge sheet."
+    },
+    {
+      "title": "भ्रष्टाचारमा ४ विरुद्ध मुद्दा - Nagarik News",
+      "url": "https://nagariknews.nagariknetwork.com/news/7279/",
+      "description": "A Nepali language report covering the legal proceedings against four individuals in the corruption case."
+    }
+  ]
+}

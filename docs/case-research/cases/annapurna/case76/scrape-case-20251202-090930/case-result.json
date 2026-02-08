@@ -1,0 +1,37 @@
+{
+  "title": "Alleged Misappropriation of Rehabilitation Company Land",
+  "description": "<p>This case concerns allegations of misappropriation of <strong>17 bigha of land</strong> belonging to the Rehabilitation Company (पुनर्वास कम्पनी) in 2022. The allegations originate from an internal document which names several individuals as being involved.</p><p>However, extensive independent research and searches of public records, court documents, and reputable news outlets in both English and Nepali have yielded <strong>no corroborating information</strong> about this specific case, the alleged loss of land, or the involvement of the named individuals. The information is solely based on a single, unverified internal source.</p><p>Research indicates a potential successor or related entity, the National Housing Company (राष्ट्रिय आवास कम्पनी), which manages significant land assets and has faced issues with encroachment, but no direct link to this specific allegation has been found in public sources.</p>",
+  "unverified_info": "<p><strong>The entire case is currently unverified as it originates from a single internal document with no public corroboration.</strong> The following details are from that source and could not be independently confirmed:</p><ul><li><strong>Alleged Year of Incident:</strong> 2022</li><li><strong>Main Accused:</strong> Dinesh Raj Sharma (दिनेशराज शर्मा)</li><li><strong>Associated Individuals:</strong> Nila Kumar Dhungel (निलाकुमार ढुंगले), Meena Upadhyay (मीना उपाध्याय)</li><li><strong>Specifics of Loss:</strong> The misappropriation of exactly 17 bigha of land.</li></ul>",
+  "key_allegations": [
+    "Misappropriation of company-owned land",
+    "Irregularities in land management"
+  ],
+  "alleged_entities": [
+    "Rehabilitation Company (पुनर्वास कम्पनी)"
+  ],
+  "related_entities": [
+    "National Housing Company (राष्ट्रिय आवास कम्पनी)"
+  ],
+  "locations": [],
+  "tags": [
+    "Land misappropriation",
+    "Corruption",
+    "State-owned enterprise",
+    "Unverified"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [],
+  "sources": [
+    {
+      "title": "Case 76 Details: Misappropriation of Rehabilitation Company's Land",
+      "url": "Internal document: tmp/annapurna/case76/details.md",
+      "description": "The sole internal document that forms the basis of this case. It lists the subject, alleged year (2022), loss (17 bigha), and names the main accused and associated individuals. This source has not been verified publicly."
+    },
+    {
+      "title": "Billions worth of assets of the Housing Company are stranded (आवास कम्पनीको अर्बौंको सम्पत्ति अलपत्र)",
+      "url": "https://ekantipur.com/business/2024/05/21/billions-worth-of-assets-of-the-housing-company-are-stranded.html",
+      "description": "An eKantipur article from May 21, 2024, reporting on the land assets of the National Housing Company, a related entity. It notes the company owns thousands of bigha of land and faces challenges like encroachment, but does not mention the specific 17-bigha case or the individuals named in the internal document."
+    }
+  ]
+}

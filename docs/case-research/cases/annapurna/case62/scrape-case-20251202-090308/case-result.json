@@ -1,0 +1,90 @@
+{
+  "title": "Cycle Procurement Corruption in Madhesh Province ('साइकल काण्ड')",
+  "description": "<p>The case involves significant corruption in the procurement of bicycles under the <strong>‘Beti Padhau, Beti Bachao’ (Educate a Daughter, Save a Daughter)</strong> program initiated by the Madhesh Province government during the fiscal year 2020/2021. The Commission for the Investigation of Abuse of Authority (CIAA) investigated irregularities after receiving complaints that government officials colluded with a supplier to purchase and accept substandard goods.</p><p>The core allegation was that officials at the Office of the Chief Minister and Council of Ministers (OCMCM) violated public procurement laws. The tender agreement specified the procurement of <strong>'Ambika' brand</strong> bicycles. However, the supplier, <strong>Om Satya Sai Pvt. Ltd.</strong>, delivered unbranded, locally assembled, and poor-quality bicycles. Despite this clear violation, officials, including members of the bid evaluation committee and the provincial secretary, accepted the delivery and approved payments, causing a financial loss to the state amounting to <strong>NPR 103,300,758</strong>.</p><p>Following a raid on the Chief Minister's office on October 13, 2021, the CIAA gathered evidence and filed a formal corruption case at the Special Court on August 3, 2022. The case implicated eight government officials and the supplier's director. The accused included:</p><ul><li>Yam Prasad Bhusal (then-Provincial Secretary)</li><li>Dilip Kumar Pradhan (Under Secretary and bid evaluation committee chairman)</li><li>Bhagawan Jha (Chief Divisional Engineer and evaluation committee member)</li><li>Other officials from the OCMCM</li><li>Renu Agarwal (Managing Director of Om Satya Sai Pvt. Ltd.)</li></ul><p>On January 26, 2024, the Special Court delivered its verdict. It convicted then-Secretary <strong>Yam Prasad Bhusal</strong> and Chief Divisional Engineer <strong>Bhagawan Jha</strong> for their roles in breaching procurement rules and recommending payment without proper inspection, respectively. They were sentenced to three months imprisonment and a fine of NPR 10,000 each. The remaining eight accused, including the supplier, were acquitted of the primary corruption charges.</p>",
+  "unverified_info": "<p>Some initial reports and case files mentioned a total corruption amount of <strong>\"१८ करोड\" (18 Crore NPR)</strong>. However, this figure could not be verified in subsequent official documents or credible media reports. The official charge sheet filed by the CIAA and widely reported during the trial specifies the alleged corruption amount as approximately <strong>10.33 Crore NPR</strong>. The 18 Crore figure appears to be inaccurate or related to a different calculation that was not pursued in the final charge sheet.</p>",
+  "key_allegations": [
+    "Collusion between government officials and a private supplier.",
+    "Violation of the Public Procurement Act and its regulations.",
+    "Procurement of substandard, unbranded bicycles instead of the specified 'Ambika' brand.",
+    "Improper acceptance of goods and approval of payments without due diligence and inspection.",
+    "Causing a financial loss to the state amounting to NPR 103,300,758."
+  ],
+  "alleged_entities": [
+    "Office of the Chief Minister and Council of Ministers, Madhesh Province",
+    "Om Satya Sai Pvt. Ltd."
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu",
+    "Water Resources and Irrigation Development Division, Dhanusha"
+  ],
+  "locations": [
+    {
+      "other": "Procurement took place at the provincial government level and bicycles were intended for distribution across the province.",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": "Madhesh Province"
+    }
+  ],
+  "tags": [
+    "Procurement Corruption",
+    "Madhesh Province",
+    "Beti Padhau Beti Bachao",
+    "CIAA",
+    "Special Court",
+    "Substandard Goods",
+    "Public Procurement Act"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2021-10-13",
+      "title": "CIAA Raids Chief Minister's Office",
+      "description": "Following complaints of irregularities, a team from the Commission for the Investigation of Abuse of Authority (CIAA) raided the Office of the Chief Minister and Council of Ministers in Madhesh Province and seized documents related to the bicycle procurement."
+    },
+    {
+      "event_date": "2022-08-03",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA filed a formal corruption case at the Special Court in Kathmandu against 10 individuals, including then-Provincial Secretary Yam Prasad Bhusal and supplier Renu Agarwal, claiming a loss of NPR 103,300,758."
+    },
+    {
+      "event_date": "2024-01-26",
+      "title": "Special Court Delivers Verdict",
+      "description": "The Special Court convicted then-Secretary Yam Prasad Bhusal and CDE Bhagawan Jha, sentencing them to three months imprisonment and an NPR 10,000 fine each. The other eight accused, including the supplier, were acquitted."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Naya Patrika: Special Court Verdict on Cycle Case",
+      "url": "https://www.nayapatrikadaily.com/news-details/138122/2024-01-26",
+      "description": "News report detailing the Special Court's final verdict, naming the two officials convicted (Yam Prasad Bhusal and Bhagawan Jha) and the eight acquitted, along with their sentences."
+    },
+    {
+      "title": "Himal Khabar: CIAA Files Case Against 10 Individuals",
+      "url": "https://www.himalkhabar.com/news/131339",
+      "description": "Report on the CIAA filing a corruption case. It lists the names of the accused, the specific allegations, and confirms the claimed corruption amount of NPR 10.33 crore."
+    },
+    {
+      "title": "Khabar Dabali: Corruption Case Filed in Cycle Scandal",
+      "url": "https://khabardabali.com/2022/08/200908.html",
+      "description": "Article covering the CIAA's charge sheet against 10 individuals, highlighting then-secretary Yam Prasad Bhusal as a key defendant."
+    },
+    {
+      "title": "Tulsipur Khabar: Details of the Charges in Cycle Procurement",
+      "url": "https://tulsipurkhabar.com/news-details/202670732",
+      "description": "This article outlines the specific charges against each individual, including the supplier, and specifies the breach of contract regarding the non-delivery of the specified bicycle brand."
+    },
+    {
+      "title": "Ratopati: Calls for Chief Minister's Resignation",
+      "url": "https://ratopati.com/story/253903/2022/8/5/lalbabu-raut",
+      "description": "This news report covers the political fallout of the case, detailing the demands from opposition parties for then-Chief Minister Lalbabu Raut to resign on moral grounds."
+    },
+    {
+      "title": "Press Pati: CIAA Confirms Irregularities After Raid",
+      "url": "https://presspati.com/2021/11/15/48003",
+      "description": "A report from November 2021 where the CIAA's Bardibas office chief confirmed that a preliminary investigation showed irregularities following the raid on the Chief Minister's office."
+    }
+  ]
+}

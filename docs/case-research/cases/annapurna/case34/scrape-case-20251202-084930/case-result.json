@@ -1,0 +1,132 @@
+{
+  "title": "Illegal Limestone Excavation and Collusion Case (CIAA vs. DMG and Cement Companies)",
+  "description": "<p>The Commission for the Investigation of Abuse of Authority (CIAA) filed a major corruption case on <strong>January 26, 2022</strong>, at the Special Court in Kathmandu. The case accused nine cement and mining companies of illegally excavating limestone far beyond their permitted quantities. It also implicated senior officials at the <strong>Department of Mines and Geology (DMG)</strong> for alleged collusion in waiving the fines for this over-excavation, causing a significant revenue loss to the state.</p><p>An initial investigation committee within the DMG, formed on May 28, 2019, had concluded that the companies caused a revenue loss of <strong>NPR 1.26 billion</strong> and recommended its recovery. However, after a change in leadership at the DMG, a subsequent committee drastically reduced the recoverable amount to just NPR 1.8 million. This suspicious reduction prompted the CIAA to launch its own investigation, which led to the filing of the case seeking to recover <strong>NPR 1.24 billion</strong> from the accused parties.</p><p>The accused included prominent industrialist and former FNCCI president Pashupati Murarka, nine DMG officials including then Director General Ram Prasad Ghimire, and the proprietors of the nine companies. The amounts claimed from each company were:</p><ul><li><strong>Siddhartha Minerals Pvt. Ltd.:</strong> NPR 494.55 million</li><li><strong>Maruti Cement Ltd.:</strong> NPR 205 million</li><li><strong>Sarbottam Cement:</strong> NPR 163 million</li><li><strong>Annapurna Quarries:</strong> NPR 111 million</li><li><strong>United Cement:</strong> NPR 96 million</li><li><strong>Sonapur Minerals and Oil Limited:</strong> NPR 69 million</li><li><strong>Dolomite Chundhunga Udyog:</strong> NPR 54 million</li><li><strong>Kanchan Quarries:</strong> NPR 30 million</li><li><strong>Udaipur Mineral Tech:</strong> NPR 17.97 million</li></ul><p>On <strong>March 17, 2023</strong>, the Special Court, in a verdict delivered by a bench of judges Ramesh Kumar Pokharel, Balbhadra Bastola, and Khushi Prasad Tharu, acquitted all 18 individuals and the 9 companies of all corruption charges. More details on the verdict can be found in the <a href=\"https://kathmandupost.com/national/2023/03/18/special-court-clears-27-defendants-including-factory-owners-of-graft-charges\">Kathmandu Post report</a>.</p>",
+  "unverified_info": "<p>The following information contains discrepancies or could not be fully verified from the available sources:</p><ul><li><strong>Supreme Court Appeal:</strong> It is not clear from the provided sources whether the CIAA has filed an appeal at the Supreme Court against the Special Court's acquittal verdict.</li><li><strong>Exact Corruption Amount:</strong> There are slight variations in the reported revenue loss. The initial DMG committee cited NPR 1.26 billion, while the CIAA's final case sought NPR 1.24 billion. Some reports round this figure to NPR 1.3 billion. The precise figure in the final charge sheet is NPR 1,244,367,784.</li><li><strong>Palpa Forest Case Date:</strong> A separate case was filed by the Division Forest Office, Palpa, against Siddhartha Minerals for excavating on excess forest land. Sources report conflicting filing dates of November 14 and November 19, 2024. A date in 2024 would be in the future relative to the publication of the articles. This may be a typo in the source articles or a misunderstanding of the Nepali calendar date (Bikram Samvat). One source URL contains '2024/11/19', indicating the likely origin of this date.</li></ul>",
+  "key_allegations": [
+    "Illegal excavation of limestone in quantities exceeding permitted license limits by nine cement and mining companies.",
+    "Collusion by officials of the Department of Mines and Geology to waive fines and penalties for the illegal excavation.",
+    "Causing a revenue loss of NPR 1.24 billion to the Government of Nepal."
+  ],
+  "alleged_entities": [
+    "Ram Prasad Ghimire",
+    "Jayaraj Ghimire",
+    "Sapana Adhikari",
+    "Prashanta Bohora",
+    "Chandra Kumar Pokharel",
+    "Dharma Raj Khadka",
+    "Shribhadra Gautam",
+    "Basanta Adhikari",
+    "Dr. Saunak Bhandari",
+    "Pashupati Murarka",
+    "Sarad Goyal",
+    "Bishnu Prasad Neupane",
+    "Rishi Agrawal",
+    "Naresh Dugar",
+    "Nipesh Tayal",
+    "Man Bahadur Shrestha",
+    "Bhim Bahadur Thapa Chhetri",
+    "Prabal Jung Pandey",
+    "Siddhartha Minerals Pvt. Ltd.",
+    "Maruti Cement Ltd.",
+    "Sarbottam Cement",
+    "Annapurna Quarries",
+    "United Cement",
+    "Sonapur Minerals and Oil Limited",
+    "Dolomite Chundhunga Udyog",
+    "Kanchan Quarries",
+    "Udaipur Mineral Tech"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Department of Mines and Geology (DMG)",
+    "Special Court, Kathmandu",
+    "Federation of Nepalese Chambers of Commerce and Industry (FNCCI)",
+    "Arghakhanchi Cement",
+    "Division Forest Office, Palpa",
+    "Palpa District Court"
+  ],
+  "locations": [
+    {
+      "other": "Case filed at the Special Court",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Location of Siddhartha Minerals' disputed mining site in a separate case",
+      "ward_no": 3,
+      "municipality": "Tinau Rural Municipality",
+      "district": "Palpa",
+      "province": "Lumbini"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Illegal Mining",
+    "Limestone",
+    "Collusion",
+    "Revenue Loss",
+    "Department of Mines and Geology",
+    "CIAA",
+    "Special Court",
+    "Acquittal",
+    "Cement Industry"
+  ],
+  "case_start_date": "2019-05-28",
+  "case_end_date": "2023-03-17",
+  "timeline": [
+    {
+      "event_date": "2019-05-28",
+      "title": "Initial Investigation Committee Formed",
+      "description": "A three-member committee led by then-Deputy Director General Ram Prasad Ghimire was formed at the Department of Mines and Geology (DMG) to investigate illegal mining."
+    },
+    {
+      "event_date": "2019-07-16",
+      "title": "Committee Recommends Fine Recovery",
+      "description": "The Ram Prasad Ghimire-led committee submitted its report, concluding a revenue loss of NPR 1.26 billion and recommending its recovery from nine companies."
+    },
+    {
+      "event_date": "2022-01-26",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA filed a corruption case at the Special Court against 9 DMG officials and 9 company proprietors, seeking to recover NPR 1.24 billion."
+    },
+    {
+      "event_date": "2023-03-17",
+      "title": "Special Court Acquits All Accused",
+      "description": "A bench of the Special Court acquitted all 18 individuals and 9 companies of all corruption charges."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CIAA books Dept of Mines DG for graft - The Himalayan Times",
+      "url": "https://thehimalayantimes.com/nepal/ciaa-books-dept-of-mines-dg-for-graft",
+      "description": "News report from January 26, 2022, detailing the CIAA's filing of the corruption case against DMG officials and cement company owners."
+    },
+    {
+      "title": "Special Court clears 27 defendants including factory owners of graft charges - The Kathmandu Post",
+      "url": "https://kathmandupost.com/national/2023/03/18/special-court-clears-27-defendants-including-factory-owners-of-graft-charges",
+      "description": "News report from March 18, 2023, announcing the Special Court's decision to acquit all individuals and companies involved in the case."
+    },
+    {
+      "title": "CIAA files corruption cases amounting to over Rs 1.2 billion against DMG’s employees and top businessmen - NIMJN",
+      "url": "https://nimjn.org/2022/01/27/ciaa-files-corruption-cases-amounting-to-over-rs-1-2-billion-against-dmgs-employees-and-top-businessmen/",
+      "description": "A detailed article by the Nepal Investigative Multimedia Journalism Network on the specifics of the CIAA case, including the names of the accused and the amounts involved."
+    },
+    {
+      "title": "Industrialist Pashupati Murarka released on Rs 400,000 bail - Khabarhub",
+      "url": "https://english.khabarhub.com/2022/26/220268/",
+      "description": "This source appears mislabeled in the raw research; it discusses a different case. The relevant Khabarhub article on the limestone case is likely this one, which details the CIAA filing."
+    },
+    {
+      "title": "Case filed against industrialist Pashupati Murarka demanding compensation of 30 million 96 lakhs - Arthasansar",
+      "url": "https://arthasansar.com/news/2022/11/327771",
+      "description": "Reports on the separate case filed at the Palpa District Court against Siddhartha Minerals for illegal excavation in forest land. (In Nepali)"
+    },
+    {
+      "title": "Case filed against operators of Arghakhanchi Cement including Pashupati Murarka - Ratopati",
+      "url": "https://ratopati.com/story/427953/2024/11/19/arghakhanchi-cement-operators-",
+      "description": "Report on the separate forest land case in Palpa against Siddhartha Minerals (supplier to Arghakhanchi Cement). The URL contains the future date '2024/11/19', which is the likely source of the dating confusion. (In Nepali)"
+    }
+  ]
+}

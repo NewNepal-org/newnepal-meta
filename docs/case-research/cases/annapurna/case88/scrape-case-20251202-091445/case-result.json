@@ -1,0 +1,82 @@
+{
+  "title": "Corruption in Baglung Bus Park Construction",
+  "description": "<p>The Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case on <strong>February 25, 2022</strong>, against eight individuals, including the then Deputy Mayor of Baglung Municipality, Surendra Khadka. The case concerned alleged irregularities in the construction of a modern bus park in Dabgahra, Baglung Municipality-4.</p><p>The primary allegation was that the accused colluded to cause a loss of <strong>NPR 590,509</strong> to the government by falsifying project documents. The CIAA claimed that the officials and user committee members made unauthorized changes to the project's measurement book (नापी किताब), created a false completion report for work that was never performed, and recommended payment based on this fraudulent documentation.</p><p>The case implicated members of the project's monitoring committee, municipal officials, and the construction users' committee.</p><p>On <strong>September 10, 2023</strong>, the Special Court in Kathmandu, with a bench comprising judges Yamuna Bhattarai and Khusi Prasad Tharu, acquitted all eight individuals accused in the case, clearing them of all corruption charges.</p>",
+  "unverified_info": "<p>There is a discrepancy in the exact date the case was filed. While most sources cite <strong>February 25, 2022 (2078 Falgun 13)</strong>, at least one source, Annapurna Post, reported the filing date as <strong>March 2, 2022 (2078 Falgun 18)</strong>.</p><p>Additionally, it was reported in September 2023 that despite the construction having been completed for two years, the bus park was still not operational. The delay was attributed to unresolved issues concerning land management and road access.</p>",
+  "key_allegations": [
+    "Falsifying the project's measurement book (नापी किताब) to inflate work completion.",
+    "Creating a fraudulent completion report and recommending payment for work that was not performed.",
+    "Collusion between municipal officials, engineers, and the users' committee to misappropriate funds.",
+    "Causing a loss of NPR 590,509 to the government."
+  ],
+  "alleged_entities": [
+    "Surendra Khadka",
+    "Dhruba Bahadur KC",
+    "Manoj Sharma",
+    "Ghanshyam Rijal",
+    "Dayaram Paudel",
+    "Subashchandra Rajbhandari",
+    "Bhimkumari Acharya",
+    "Gunanidhi Sharma",
+    "Baglung Municipality",
+    "Baglung Bus Park Construction Users' Committee"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu"
+  ],
+  "locations": [
+    {
+      "other": "Dabgahra",
+      "ward_no": 4,
+      "municipality": "Baglung Municipality",
+      "district": "Baglung",
+      "province": "Gandaki Province"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Construction",
+    "Public Infrastructure",
+    "Acquittal",
+    "CIAA",
+    "Special Court",
+    "Baglung",
+    "Gandaki Province"
+  ],
+  "case_start_date": "2022-02-25",
+  "case_end_date": "2023-09-10",
+  "timeline": [
+    {
+      "event_date": "2022-02-25",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA filed a case at the Special Court against then Deputy Mayor Surendra Khadka and seven others, alleging they caused a loss of NPR 590,509 by falsifying the measurement book and approving payments for unperformed work at the Baglung Bus Park."
+    },
+    {
+      "event_date": "2023-09-10",
+      "title": "Special Court Acquits All Accused",
+      "description": "A bench of judges Yamuna Bhattarai and Khusi Prasad Tharu at the Special Court in Kathmandu issued a verdict acquitting all eight individuals, clearing them of the corruption charges."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Naya Patrika: All acquitted in Baglung bus park corruption case",
+      "url": "https://nayapatrikadaily.com/news-details/123113/2023-09-10",
+      "description": "Reports on the acquittal of all eight accused, including former Deputy Mayor Surendra Khadka, on September 10, 2023. It mentions the judicial bench and states the case was filed on Falgun 13, 2078 BS."
+    },
+    {
+      "title": "Himalaya Times: 8 people including the former deputy mayor of Baglung were acquitted in the corruption case",
+      "url": "https://www.ehimalayatimes.com/2023/09/10/448896/",
+      "description": "Confirms the acquittal of all eight individuals and names then-Division Engineer Dayaram Paudel. It reiterates the alleged loss amount and the filing date of Falgun 13, 2078 BS."
+    },
+    {
+      "title": "Annapurna Post: All accused in Baglung bus park corruption acquitted",
+      "url": "https://annapurnapost.com/story/404221-2023-9-10-12-32-49",
+      "description": "Outlines the initial charges and lists the accused individuals. This source states the case was filed on Falgun 18, 2078 BS, which contradicts other reports."
+    },
+    {
+      "title": "Jana Sanchar: Corruption case against Baglung's deputy mayor and 8 others",
+      "url": "https://www.janasanchar.com/2022/02/26/66668/",
+      "description": "Details the CIAA's initial accusations, specifying that the alleged corruption amounted to NPR 590,509 for work that was not completed."
+    }
+  ]
+}

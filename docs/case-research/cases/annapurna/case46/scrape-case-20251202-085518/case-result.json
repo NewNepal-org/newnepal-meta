@@ -1,0 +1,160 @@
+{
+  "title": "2022 Budget Formulation Scandal: Allegations of Unauthorized Tax Rate Manipulation by Finance Minister Janardan Sharma",
+  "description": "<p>This case concerns allegations that then-Finance Minister Janardan Sharma permitted unauthorized individuals to enter the Ministry of Finance on the night of <strong>May 28, 2022</strong>, to manipulate tax rates in the national budget for the fiscal year 2079/80 (2022/23). The changes were allegedly made to favor specific business interests.</p><p>The controversy erupted after the <em>Annapurna Post</em> published an exposé on June 20, 2022. The primary allegation centered on two individuals, one of whom was later widely identified in media reports as Raghunath Ghimire, a former non-gazetted government officer. In response to mounting public pressure and protests from the main opposition party, CPN-UML, the House of Representatives formed an <strong>11-member Parliamentary Probe Special Committee</strong> on July 6, 2022. On the same day, Minister Sharma resigned to facilitate the investigation, while denying any wrongdoing.</p><p>A key piece of evidence, the CCTV footage from the night of the incident, became a point of contention. The Ministry of Finance initially claimed the footage had been automatically deleted due to a 13-day storage limit, a practice contrary to government guidelines. However, the probe committee later had the hard drive analyzed by the Nepal Police's forensic lab, which successfully recovered the footage. Despite the recovery, the committee's final report stated the footage was not clear enough to identify individuals.</p><p>On <strong>July 29, 2022</strong>, the probe committee submitted its report to the Speaker of the House. The majority report, supported by members of the ruling coalition, concluded there was <strong>no evidence to substantiate the allegations</strong> and exonerated Sharma. Members of the CPN-UML on the committee registered a note of dissent, arguing that the investigation was deliberately incomplete and that their requests for crucial evidence, such as call detail records of Sharma and Ghimire, were rejected by the majority. They accused the ruling coalition of a cover-up.</p><p>Following his exoneration, Janardan Sharma was reappointed as Finance Minister on <strong>July 31, 2022</strong>. Key officials who had expressed reservations, such as Finance Secretary Madhu Kumar Marasini, were subsequently transferred from the ministry.</p>",
+  "unverified_info": "<p>While the investigation and media reports focused on the allegations, several key details remain unconfirmed or were not conclusively proven by the parliamentary probe.</p><ul><li><strong>Identity of the Second Individual:</strong> Reports consistently mentioned at least two unauthorized individuals entered the ministry, but only Raghunath Ghimire was publicly named. The identity of the second person has never been verified.</li><li><strong>Specific Tax Changes:</strong> The core allegation was that tax rates were altered to benefit certain business groups. However, the specific articles, schedules, or tax codes that were allegedly manipulated, and the identities of the beneficiary businesses, were never publicly substantiated or detailed in the probe committee's report.</li><li><strong>Content of CCTV Footage:</strong> Although the Nepal Police forensic lab recovered the deleted CCTV footage, the full, unedited content was not made public. The committee's summary conclusion that it was 'unclear' has been met with skepticism, and the specific details of what the footage showed remain unverified.</li></ul>",
+  "key_allegations": [
+    "Allowing unauthorized individuals to enter the Ministry of Finance during the final hours of budget preparation.",
+    "Illegally altering and manipulating national tax rates to benefit specific business groups.",
+    "Attempting to destroy evidence by claiming CCTV footage of the incident was deleted."
+  ],
+  "alleged_entities": [
+    "Janardan Sharma",
+    "Raghunath Ghimire",
+    "Ministry of Finance, Nepal"
+  ],
+  "related_entities": [
+    "Madhu Kumar Marasini",
+    "Krishna Hari Pushkar",
+    "Chakra Bahadur Budha",
+    "Bhupal Baral",
+    "House of Representatives, Nepal",
+    "Parliamentary Probe Special Committee",
+    "CPN-UML",
+    "Nepal Police",
+    "Commission for the Investigation of Abuse of Authority (CIAA)"
+  ],
+  "locations": [
+    {
+      "other": "Ministry of Finance, Singha Durbar",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati Province"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Abuse of Authority",
+    "Policy Corruption",
+    "Tax Manipulation",
+    "Budget Formulation",
+    "Parliamentary Investigation",
+    "Ministry of Finance"
+  ],
+  "case_start_date": "2022-05-28",
+  "case_end_date": "2022-07-31",
+  "timeline": [
+    {
+      "event_date": "2022-05-28",
+      "title": "Alleged Unauthorized Entry",
+      "description": "Then-Finance Minister Janardan Sharma allegedly allows two unauthorized individuals into the Ministry of Finance at night to alter tax rates for the upcoming budget."
+    },
+    {
+      "event_date": "2022-05-29",
+      "title": "Budget Presentation",
+      "description": "Finance Minister Janardan Sharma presents the budget for the fiscal year 2079/80 (2022-23) in Parliament."
+    },
+    {
+      "event_date": "2022-06-20",
+      "title": "Scandal Exposed",
+      "description": "Annapurna Post, a Nepali daily, publishes a report alleging that unauthorized persons were involved in changing tax rates in the budget, sparking a major political controversy."
+    },
+    {
+      "event_date": "2022-07-03",
+      "title": "CCTV Footage Deletion Claim",
+      "description": "In response to an RTI request, the Ministry of Finance states that CCTV footage from May 28 was automatically deleted as its system only stored recordings for 13 days."
+    },
+    {
+      "event_date": "2022-07-06",
+      "title": "Probe Committee Formed & Minister Resigns",
+      "description": "The House of Representatives forms an 11-member Parliamentary Probe Special Committee. Facing immense pressure, Finance Minister Janardan Sharma announces his resignation to allow for an impartial investigation."
+    },
+    {
+      "event_date": "2022-07-12",
+      "title": "Investigation Begins",
+      "description": "The parliamentary probe committee officially starts its investigation into the allegations."
+    },
+    {
+      "event_date": "2022-07-21",
+      "title": "Sharma Denies Allegations",
+      "description": "The committee questions Janardan Sharma, who denies all allegations and claims only authorized officials were involved in the budget process."
+    },
+    {
+      "event_date": "2022-07-26",
+      "title": "CCTV Footage Recovered",
+      "description": "The Nepal Police's forensic lab successfully recovers the 'deleted' CCTV footage from the Ministry's hard drive and submits it to the probe committee."
+    },
+    {
+      "event_date": "2022-07-29",
+      "title": "Probe Committee Exonerates Sharma",
+      "description": "The committee submits its final report, with the majority concluding there is no evidence to prove the allegations. CPN-UML members on the panel submit a dissenting note."
+    },
+    {
+      "event_date": "2022-07-31",
+      "title": "Sharma Reappointed as Finance Minister",
+      "description": "Following his exoneration by the parliamentary committee, Janardan Sharma is reappointed as the Minister for Finance."
+    },
+    {
+      "event_date": "2023-04-02",
+      "title": "CIAA Files Separate Case Against Ghimire",
+      "description": "The CIAA files a corruption case against Raghunath Ghimire, the alleged unauthorized entrant, for amassing illicit wealth of Rs 21.4 million. This case is separate from the budget manipulation probe."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Finance minister resigns after public outcry and probe panel",
+      "url": "https://kathmandupost.com/national/2022/07/07/finance-minister-resigns-after-public-outcry-and-probe-panel",
+      "description": "Kathmandu Post report detailing Janardan Sharma's resignation, the formation of the probe committee, and the initial controversy over the CCTV footage."
+    },
+    {
+      "title": "Nepal budget scandal: Janardan Sharma tells probe panel he didn’t do anything wrong",
+      "url": "https://web.archive.org/web/20220721092617/https://english.onlinekhabar.com/nepal-budget-scandal-probe.html",
+      "description": "Onlinekhabar report on the parliamentary committee's questioning of Janardan Sharma, where he denied all accusations."
+    },
+    {
+      "title": "Janardan Sharma CCTV footage recovered: Police",
+      "url": "https://english.onlinekhabar.com/janardan-sharma-cctv-footage-recovered.html",
+      "description": "Article confirming the recovery of the supposedly deleted CCTV footage by the Nepal Police forensic lab."
+    },
+    {
+      "title": "How probe turns into a farce. House panel says it found nothing against Sharma",
+      "url": "https://kathmandupost.com/national/2022/07/29/how-probe-turns-into-a-farce-house-panel-says-it-found-nothing-against-sharma",
+      "description": "Kathmandu Post article detailing the final report of the probe committee, its conclusion to exonerate Sharma, and the note of dissent from UML members."
+    },
+    {
+      "title": "Parliamentary committee formed to probe against Janardan Sharma submits report",
+      "url": "https://www.nepallivetoday.com/2022/07/29/parliamentary-committee-formed-to-probe-against-janardan-sharma-submits-report/",
+      "description": "Confirms the submission of the probe report and mentions the opposition's demand to investigate Raghunath Ghimire's call details."
+    },
+    {
+      "title": "CIAA charges retired civil servant with corruption",
+      "url": "https://kathmandupost.com/national/2023/04/02/ciaa-charges-retired-civil-servant-with-corruption",
+      "description": "Report on a separate, later corruption case filed by CIAA against Raghunath Ghimire for illicit enrichment, which also notes his connection to the budget scandal."
+    },
+    {
+      "title": "Finance Secretary Marasini goes on leave after controversy",
+      "url": "https://kathmandupost.com/national/2022/07/06/finance-secretary-marasini-goes-on-leave-after-controversy",
+      "description": "Article on Finance Secretary Madhu Kumar Marasini taking leave, seen as a protest against Minister Sharma's handling of the scandal."
+    },
+    {
+      "title": "Finance Secretary Marasini transferred to Prime Minister’s Office",
+      "url": "https://kathmandupost.com/national/2022/08/04/finance-secretary-marasini-transferred-to-prime-minister-s-office",
+      "description": "Details the transfer of Secretary Marasini from the Finance Ministry following the reappointment of Janardan Sharma."
+    },
+    {
+      "title": "Controversial bureaucrat Pushkar proposed as Finance Secretary",
+      "url": "https://myrepublica.nagariknetwork.com/news/controversial-bureaucrat-pushkar-proposed-as-finance-secretary/",
+      "description": "Report on the appointment of Krishna Hari Pushkar as the new Finance Secretary after Marasini's transfer."
+    },
+    {
+      "title": "CCTV footage can be kept for only 13 days: Finance Ministry",
+      "url": "https://www.setopati.net/politics/274439",
+      "description": "Setopati report on the Ministry of Finance's response to an RTI query, claiming a 13-day storage limit for CCTV footage."
+    },
+    {
+      "title": "Nepal's finance minister quits after parliament speaker orders probe",
+      "url": "https://www.reuters.com/world/asia-pacific/nepals-finance-minister-quits-after-parliament-speaker-orders-probe-2022-07-06/",
+      "description": "International coverage from Reuters on Sharma's resignation and the formation of the parliamentary probe."
+    }
+  ]
+}

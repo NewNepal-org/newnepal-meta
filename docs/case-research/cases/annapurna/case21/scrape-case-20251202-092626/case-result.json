@@ -1,0 +1,56 @@
+{
+  "title": "Embezzlement of Social Security Allowance in Narainapur VDC, Banke",
+  "description": "<p>The Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case on June 15, 2025, against <strong>17 individuals</strong> for their alleged involvement in the misappropriation of social security allowances in the former Narainapur Village Development Committee (VDC) of Banke district. The investigation covered a 15-year period from fiscal year 2057/58 to 2072/73 B.S. (approximately 2001-2016).</p><p>It was revealed that officials, including the former VDC Chairman Ajay Kumar Srivastava and VDC Secretary Sabitram Kurmi, colluded to embezzle a total of <strong>NPR 656,700</strong>. The scheme involved several fraudulent methods, including:</p><ul><li>Issuing social security beneficiary identity cards to 19 individuals who did not meet the age requirements for senior citizen and Dalit senior citizen allowances.</li><li>Falsely registering individuals without citizenship certificates as single women to claim benefits.</li></ul><p>The charge sheet was filed at the Special Court in Kathmandu, seeking punishment under the Prevention of Corruption Act, 2059 (2002).</p>",
+  "unverified_info": "<p>The reports mention 17 individuals were charged and 19 fraudulent beneficiary cards were created, but only 17 names (3 officials and 14 recipients) are listed in the provided research. The identities of the remaining individuals involved or the reason for this discrepancy are not specified.</p>",
+  "key_allegations": [
+    "Embezzlement of public funds",
+    "Corruption",
+    "Forgery of documents",
+    "Creating fake beneficiaries"
+  ],
+  "alleged_entities": [
+    "Ajay Kumar Srivastava",
+    "Sabitram Kurmi",
+    "Ashok Kumar Srivastava",
+    "Narainapur Village Development Committee (VDC)"
+  ],
+  "related_entities": [],
+  "locations": [
+    {
+      "other": "Former Narainapur Village Development Committee",
+      "ward_no": null,
+      "municipality": "Narainapur Rural Municipality",
+      "district": "Banke",
+      "province": "Lumbini"
+    }
+  ],
+  "tags": [
+    "social security allowance",
+    "embezzlement",
+    "corruption",
+    "CIAA",
+    "Banke",
+    "fake beneficiaries"
+  ],
+  "case_start_date": "2001-07-17",
+  "case_end_date": "2016-07-16",
+  "timeline": [
+    {
+      "event_date": "2001-07-17",
+      "title": "Embezzlement Scheme Begins",
+      "description": "Alleged embezzlement of social security funds began in the fiscal year 2057/58 B.S. and continued for 15 fiscal years until 2072/73 B.S. (2016-07-16)."
+    },
+    {
+      "event_date": "2025-06-15",
+      "title": "CIAA Files Charge-sheet",
+      "description": "The CIAA filed a charge-sheet against 17 individuals, including former VDC officials, at the Special Court in Kathmandu."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Corruption case filed against 17 for misuse of social security allowance",
+      "url": "https://english.nepalnews.com/s/health/corruption-case-filed-against-17-for-misuse-of-social-security-allowance",
+      "description": "A news report by Nepal News detailing the CIAA's filing of a corruption case against 17 individuals for embezzling NPR 656,700 in social security allowances in Narainapur VDC, Banke."
+    }
+  ]
+}

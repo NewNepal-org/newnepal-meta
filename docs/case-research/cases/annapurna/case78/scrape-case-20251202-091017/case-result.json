@@ -1,0 +1,74 @@
+{
+  "title": "Illegal Sale of Excavated Stones from Chitlang-Chandragiri-Thankot Road Project",
+  "description": "<p>This case concerns allegations of corruption and environmental damage against the contractor <strong>P.S./Kirateshwar JV (Kirateshwar Construction Drilling Company Pvt. Ltd.)</strong> during the upgradation of a 6-kilometer section of the historic Thankot-Chandragiri-Chitlang road. The project, which began around 2017-2018 with a budget of 5 crore NPR, involved widening the road to 9 meters.</p><p>The central allegation is that the contractor, operated by <strong>Sanat Singh Rai</strong>, illegally excavated and sold stones and rocks from the construction site for profit. Instead of using the excavated materials to build essential retaining walls and fill gabion boxes for road safety, the company was accused of stockpiling the materials and transporting them for sale, effectively securing a 'double profit' from the government contract and the illicit sale of state resources.</p><p>The issue was brought to public attention by local residents and amplified by <strong>Rama Ale Magar</strong>, then Chairperson of the Industry, Tourism, Forest, and Environment Committee of Bagmati Province. She confirmed widespread complaints that the contractor was ignoring demands to use the excavated materials for the project itself.</p><p>The improper and excessive excavation raised significant environmental concerns, including:</p><ul><li>Deforestation in a sensitive ecological zone.</li><li>Increased risk of landslides on the steep terrain, posing a threat to lower-lying areas.</li></ul><p>In response, company operator Sanat Singh Rai denied the allegations, claiming the large volume of excavated rock was an unavoidable consequence of using heavy machinery on the steep terrain and that the materials were intended for use within the project. The project also reportedly faced delays due to jurisdictional disputes among local, provincial, and federal authorities.</p>",
+  "unverified_info": "<p>The following information lacks precise, publicly verifiable evidence:</p><ul><li><strong>Identity of Joint Venture Partner:</strong> The identity of \"P.S.\" in the P.S./Kirateshwar JV is not specified in available sources.</li><li><strong>Exact Financial Loss:</strong> An initial report alleged a loss of over 1 Crore NPR from the sale of stones. However, this figure has not been substantiated by any public audit, official investigation report, or media accounts. News reports confirm the existence of a 'stone trade' but do not provide a specific monetary value.</li><li><strong>Official Investigation Status:</strong> There are no publicly available records from the Commission for the Investigation of Abuse of Authority (CIAA) or other law enforcement bodies detailing formal charges, arrests, or the final outcome of any official investigation into this matter.</li></ul>",
+  "key_allegations": [
+    "Illegal sale of state-owned natural resources (excavated stones and rocks) for private profit.",
+    "Failure to use excavated materials for the project's own construction, such as retaining walls and gabion boxes.",
+    "Causing environmental damage, including deforestation and increased landslide risk, through improper excavation.",
+    "Securing 'double profit' by being paid for the contract and also selling state resources extracted during the work."
+  ],
+  "alleged_entities": [
+    "P.S./Kirateshwar JV",
+    "Kirateshwar Construction Drilling Company Pvt. Ltd.",
+    "Sanat Singh Rai"
+  ],
+  "related_entities": [
+    "Department of Roads, Hetauda Division",
+    "Federal Government of Nepal",
+    "Industry, Tourism, Forest, and Environment Committee, Bagmati Province",
+    "Rama Ale Magar"
+  ],
+  "locations": [
+    {
+      "other": "Chitlang area",
+      "ward_no": null,
+      "municipality": "Thaha",
+      "district": "Makwanpur",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Chandragiri-Thankot section",
+      "ward_no": null,
+      "municipality": "Chandragiri",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Infrastructure",
+    "Road Construction",
+    "Illegal Excavation",
+    "Environmental Damage",
+    "Corruption",
+    "Public Procurement",
+    "Makwanpur",
+    "Kathmandu"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2021-04-09",
+      "title": "News Report Highlights 'Stone Trade'",
+      "description": "Cloud Patrika news outlet reports on the existence of a 'stone trade' on the Chandragiri-Chitlang road, noting that officials have promised to stop the illegal activity and expedite the delayed construction work."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Janapatra News: Contractor Accused of Selling Stones Instead of Building Road",
+      "url": "https://janapatra.com/archives/14299",
+      "description": "This article (reprint from Kantipur Daily) details the allegations against Kirateshwar Construction. It names the operator, Sanat Singh Rai, and includes statements from Provincial Assembly Member Rama Ale Magar and the contractor's denial."
+    },
+    {
+      "title": "Cloud Patrika: Stone Trade on Chandragiri-Chitlang Road to be Stopped",
+      "url": "https://cloudpatrika.com/2021/04/09/98869/",
+      "description": "This article corroborates the reports of a 'stone trade' happening on the road section. It mentions that officials have taken notice and pledged to stop the activity and complete the road construction."
+    },
+    {
+      "title": "Department of Roads - Division Road Office, Hetauda",
+      "url": "https://dor.gov.np/road-division/division-road-office/hetauda",
+      "description": "Official website of the Department of Roads, which lists the Hetauda Division Road Office as the responsible authority for roads in Makwanpur district, corroborating its jurisdiction over the project area."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "title": "Nepal Telecom 4G Expansion Project Irregularities",
+  "description": "<p>The case involves allegations of significant financial irregularities, procedural flaws, and poor implementation in Nepal Telecom's (NTC) nationwide 4G network expansion project. The case unfolded in two major phases, both investigated by the Commission for Investigation of Abuse of Authority (CIAA).</p><p><strong>Phase 1: Procurement Investigation (2018)</strong></p><p>Following the launch of 4G services in Kathmandu and Pokhara on January 1, 2017, NTC issued global tenders in late 2017 for a nationwide expansion. On January 21, 2018, a complaint was filed at the CIAA alleging irregularities in the tender process. The complaint highlighted that a bid from China Comservice International (CCSI) was only 25% below the estimated cost, which was considered suspiciously high. In February 2018, the <strong>CIAA began an investigation</strong>, seizing project files and halting the process for nine months. This delay drew criticism for hindering NTC's competitiveness. Amid the investigation, NTC's Managing Director, <strong>Kaminee Rajbhandari</strong>, was dismissed by the government on August 14, 2018, citing poor performance and project delays. In October 2018, the CIAA concluded its probe, directing the Ministry of Communications and Information Technology (MoCIT) to proceed with the project while ensuring cost-effectiveness and quality.</p><p><strong>Phase 2: Contract Award and Quality Investigation (2019-2024)</strong></p><p>In early 2019, NTC awarded contracts worth approximately <strong>NPR 19 billion</strong>. China's ZTE Corporation was contracted for the core network, while Hong Kong's CCSI was awarded contracts for the radio access network. However, by June 2024, the project came under scrutiny again. The CIAA initiated a <strong>new investigation</strong> after findings indicated that the network's quality did not meet contractual agreements, leading to substantial losses. Key issues identified in this second probe include:</p><ul><li>A failure by contractors to install critical 'small cell' devices, essential for network speed and quality, valued at around <strong>NPR 1 billion</strong>.</li><li>The primary contractor, CCSI, had subcontracted work to Huawei for the installation of 6,000 small cell devices, but work worth approximately <strong>NPR 700 million (70 crore)</strong> was reportedly left incomplete.</li></ul><p>The 2024 investigation focuses on why the significant investment failed to yield the expected benefits for consumers and NTC, resulting in major financial losses and poor service quality.</p>",
+  "unverified_info": "<p>The following claims are from a single, uncorroborated news source (Nayapage) and require further verification:</p><ul><li>An allegation that the 4G project, which could have been completed for NPR 5 billion, was being awarded through a tender valued at NPR 32 billion, implying a potential scam of over <strong>NPR 20 billion</strong>.</li><li>The naming of <strong>Pradeep Thakur</strong> as a member of a tender evaluation committee allegedly complicit in the process.</li><li>Allegations of collusion between a former Minister and then-MD Kaminee Rajbhandari to award the contract to Huawei.</li></ul><p>Additionally, a 2024 report mentions that Kaminee Rajbhandari filed a complaint about embezzlement after her dismissal, which the CIAA later acquitted in November 2018, but primary documents for this are not available.</p>",
+  "key_allegations": [
+    "Irregularities and inflated costs in the procurement process for the 4G expansion project.",
+    "Poor quality of the implemented 4G network, failing to meet contractual obligations.",
+    "Failure to install critical network components ('small cells') valued at approximately NPR 1 billion.",
+    "Incomplete work by a subcontractor (Huawei) valued at approximately NPR 700 million.",
+    "Causing substantial financial loss to the state-owned Nepal Telecom."
+  ],
+  "alleged_entities": [
+    "Nepal Telecom (NTC)",
+    "China Comservice International (CCSI)",
+    "ZTE Corporation",
+    "Huawei",
+    "Kaminee Rajbhandari"
+  ],
+  "related_entities": [
+    "Commission for Investigation of Abuse of Authority (CIAA)",
+    "Ministry of Communications and Information Technology (MoCIT)"
+  ],
+  "locations": [
+    {
+      "other": "Nationwide 4G/LTE Expansion Project",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Procurement Irregularity",
+    "Telecommunications",
+    "State-Owned Enterprise",
+    "CIAA Investigation",
+    "Poor Quality",
+    "Contract Violation"
+  ],
+  "case_start_date": "2018-01-21",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2017-01-01",
+      "title": "NTC Launches 4G Service",
+      "description": "Nepal Telecom launches 4G/LTE service in Kathmandu Valley and Pokhara."
+    },
+    {
+      "event_date": "2017-11-03",
+      "title": "Global Tender for Core Network",
+      "description": "NTC calls for a global tender to install the core network for its nationwide 4G expansion."
+    },
+    {
+      "event_date": "2018-01-21",
+      "title": "Complaint Filed at CIAA",
+      "description": "A complaint is registered at the CIAA alleging irregularities and inflated costs in the 4G tender process, specifically concerning the bid from China Comservice."
+    },
+    {
+      "event_date": "2018-02-01",
+      "title": "CIAA Initiates First Probe",
+      "description": "The CIAA begins an investigation into the complaint, seizing project files and halting the 4G expansion project."
+    },
+    {
+      "event_date": "2018-08-14",
+      "title": "NTC Managing Director Dismissed",
+      "description": "The government dismisses MD Kaminee Rajbhandari, citing poor performance and delays in the 4G project."
+    },
+    {
+      "event_date": "2018-10-01",
+      "title": "CIAA Concludes First Probe",
+      "description": "After a nine-month investigation, the CIAA directs the Ministry of Communications to proceed with the 4G expansion, ensuring quality and cost-effectiveness."
+    },
+    {
+      "event_date": "2019-02-01",
+      "title": "Contracts Awarded",
+      "description": "Contracts for the 4G expansion project, valued at approx. NPR 19 billion, are awarded to ZTE Corporation and China Comservice International (CCSI)."
+    },
+    {
+      "event_date": "2024-06-06",
+      "title": "CIAA Launches Second Investigation",
+      "description": "The CIAA initiates a new investigation into the 4G expansion project, focusing on poor quality, failure to meet contractual obligations, and financial losses."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CIAA decides on NTC 4G project case, MoCIT to resolve soon",
+      "url": "https://www.nepalitelecom.com/2018/10/ciaa-decides-on-ntc-4g-project-case-mocit-to-resolve-soon.html",
+      "description": "An October 2018 report detailing the conclusion of the first CIAA probe, mentioning its start in Feb 2018 and the dismissal of Kaminee Rajbhandari."
+    },
+    {
+      "title": "CIAA starts probe on Nepal Telecom 4G expansion project",
+      "url": "https://techlekh.com/ciaa-probe-nepal-telecom-4g/",
+      "description": "A February 2018 report on the CIAA initiating its investigation, detailing the tender process and the specific complaint filed on Jan 21, 2018."
+    },
+    {
+      "title": "4G expansion project on track, claims NT",
+      "url": "https://thehimalayantimes.com/business/4g-expansion-project-on-track-claims-nt",
+      "description": "An April 2019 article confirming the project resumed and contracts were awarded to ZTE and CCSI following the CIAA probe."
+    },
+    {
+      "title": "CIAA Investigates Nepal Telecom 4G Expansion Again over Quality Concerns",
+      "url": "https://nepalitelecom.com/2024/06/ciaa-investigates-nepal-telecom-4g-expansion-quality-concerns.html",
+      "description": "A June 2024 report on the new CIAA investigation into poor network quality, citing the NPR 19 billion project value and specific contractual failures regarding 'small cells'."
+    },
+    {
+      "title": "CIAA probe delays NT 4G service expansion",
+      "url": "https://thehimalayantimes.com/nepal/ciaa-probe-delays-nt-4g-service-expansion",
+      "description": "A July 2018 article quoting the Communications Minister blaming the lengthy CIAA probe for delaying NTC's 4G expansion."
+    },
+    {
+      "title": "Dismissed telecom managing director blames politics",
+      "url": "https://kathmandupost.com/money/2018/08/16/dismissed-telecom-managing-director-blames-politics",
+      "description": "An August 2018 report on Kaminee Rajbhandari's dismissal, including her claim that it was a 'conspiracy'."
+    },
+    {
+      "title": "नेपाल टेलिकममा २० अर्बको फोरजी घोटाला !",
+      "url": "http://nayapage.com/2017/12/28265",
+      "description": "A December 2017 article from online portal 'Nayapage' containing several uncorroborated allegations of a massive scam, which are noted in the 'unverified_info' section."
+    }
+  ]
+}

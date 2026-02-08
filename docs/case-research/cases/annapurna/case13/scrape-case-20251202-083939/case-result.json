@@ -1,0 +1,112 @@
+{
+  "title": "Lalita Niwas Land Grab Scam",
+  "description": "<p>The Lalita Niwas land grab is a high-profile corruption scandal in Nepal involving the illegal transfer and privatization of approximately <strong>143 ropanis (around 18 acres) of government-owned land</strong> in Baluwatar, Kathmandu. This prime real estate is location to the Prime Minister's official residence, the Nepal Rastra Bank's central office, and other VIP residences. The land was originally acquired by the government from the family of Subarna Shamsher Rana in the 1960s.</p><p>The embezzlement occurred over a prolonged period, from approximately 1992 to 2012. It involved a complex conspiracy between land brokers, government officials, cabinet ministers, and business groups. The scheme involved several illicit methods:</p><ul><li>Forging government documents and creating fake tenants.</li><li>Manipulating official records to claim land that was legally acquired by the state.</li><li>Abusing authority through cabinet-level policy decisions to legitimize the transfers.</li></ul><p>Investigations by the Commission for the Investigation of Abuse of Authority (CIAA) and the Central Investigation Bureau (CIB) of Nepal Police have unraveled the scheme. On February 5, 2020, the CIAA filed a corruption case at the Special Court against 175 individuals, seeking to reclaim the land. Subsequently, on August 27, 2023, the District Government Attorney's Office in Kathmandu filed a separate case on charges of forgery against 290 individuals, seeking to recover over <strong>NPR 18 billion</strong> in damages.</p><p>The case has implicated several high-ranking officials and prominent business figures, making it one of the most significant anti-corruption cases in Nepal's recent history. A Special Court verdict in February 2024 convicted several key conspirators while acquitting some former ministers, and ordered the sequestration of the illegally transferred land.</p>",
+  "unverified_info": "<p>While investigations have been extensive, certain aspects remain subject to further clarification:</p><ul><li><strong>Involvement of Former Prime Ministers:</strong> Former Prime Ministers Madhav Kumar Nepal and Baburam Bhattarai were questioned by the CIB regarding cabinet decisions made during their tenures that facilitated the land transfers. However, the CIAA had previously exempted them from prosecution, citing that policy-level decisions made by the cabinet were outside its jurisdiction. Their exact level of culpability remains a point of public and legal debate.</li><li><strong>Role of Business Groups:</strong> The involvement of several business houses, including the <strong>Goyal, Sarda, Chachan, and Kedia groups</strong>, has been mentioned in investigation reports and media coverage as beneficiaries of the land grab. The precise nature and legality of their land acquisition and their role in the conspiracy require further detailed verification from court documents.</li></ul>",
+  "key_allegations": [
+    "Illegal transfer of 143 ropanis of government-owned land to private individuals.",
+    "Forgery of government documents and creation of fake tenants to claim land.",
+    "Abuse of authority by government officials and ministers to facilitate the land grab.",
+    "Conspiracy between land brokers, officials, and business groups to embezzle public property.",
+    "Causing a loss of over NPR 18 billion to the state."
+  ],
+  "alleged_entities": [
+    "Shobhakant Dhakal",
+    "Ram Kumar Subedi",
+    "Min Bahadur Gurung",
+    "Bijay Kumar Gachhadar",
+    "Chandra Dev Joshi",
+    "Dambar Bahadur Shrestha",
+    "Sanjay Kumar Shah",
+    "Dip Basnyat",
+    "Chhabi Raj Pant",
+    "Dinesh Hari Adhikari",
+    "Kaladhar Deuja",
+    "Surendra Man Kapali",
+    "Yukta Prasad Shrestha",
+    "Jagat Prasad Pudasaini"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Central Investigation Bureau (CIB), Nepal Police",
+    "Special Court, Nepal",
+    "District Government Attorney's Office, Kathmandu",
+    "Bhatbhateni Supermarket",
+    "Subarna Shamsher Rana Family"
+  ],
+  "locations": [
+    {
+      "other": "Lalita Niwas Compound, Baluwatar",
+      "ward_no": 4,
+      "municipality": "Kathmandu Metropolitan City",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Land Embezzlement",
+    "Corruption",
+    "Forgery",
+    "Abuse of Authority",
+    "High-Profile Case",
+    "Public Land",
+    "Kathmandu",
+    "CIAA",
+    "CIB"
+  ],
+  "case_start_date": "1992-01-01",
+  "case_end_date": "2012-12-31",
+  "timeline": [
+    {
+      "event_date": "1992-01-01",
+      "title": "Start of Illegal Land Transfers",
+      "description": "A series of government decisions and actions by officials and brokers began, leading to the gradual illegal transfer of Lalita Niwas land into private hands. This process continued for about two decades."
+    },
+    {
+      "event_date": "2020-02-05",
+      "title": "CIAA Files Corruption Case",
+      "description": "The Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case at the Special Court against 175 individuals, including former ministers, secretaries, and land brokers."
+    },
+    {
+      "event_date": "2023-08-21",
+      "title": "Former PMs Questioned by CIB",
+      "description": "The Central Investigation Bureau (CIB) interrogated former Prime Ministers Madhav Kumar Nepal and Baburam Bhattarai regarding cabinet decisions that facilitated the land transfers."
+    },
+    {
+      "event_date": "2023-08-27",
+      "title": "Forgery Case Filed by DGAO",
+      "description": "The District Government Attorney's Office, Kathmandu, filed a separate case for forgery against 290 individuals, seeking to recover over NPR 18 billion from the defendants."
+    },
+    {
+      "event_date": "2024-02-15",
+      "title": "Special Court Issues Verdict",
+      "description": "The Special Court convicted 12 individuals, including alleged mastermind Ram Kumar Subedi and broker Shova Kant Dhakal, along with former secretaries Chhabi Raj Pant and Dip Basnyat. It acquitted former ministers Bijay Kumar Gachchhadar, Dambar Bahadur Shrestha, and Chandra Dev Joshi. The court ordered the sequestration of land registered in the names of 65 people."
+    }
+  ],
+  "sources": [
+    {
+      "title": "What is the Lalita Niwas land scam all about? - The Kathmandu Post",
+      "url": "https://kathmandupost.com/national/2020/02/13/what-is-the-land-scam-that-has-shaken-the-government-s-seat-all-about",
+      "description": "An explanatory article by The Kathmandu Post detailing the background of the Lalita Niwas scandal, the individuals involved, and the CIAA's initial charges."
+    },
+    {
+      "title": "Baluwatar land scam: CIAA files case against 175 - Onlinekhabar English",
+      "url": "https://english.onlinekhabar.com/baluwatar-land-scam-ciaa-files-case-against-175-including-former-ministers-high-officials-and-owners.html",
+      "description": "News report on the CIAA filing a case against 175 individuals at the Special Court, naming several of the accused."
+    },
+    {
+      "title": "DGAO Kathmandu files case against 290 for forgery in Lalita Niwas land grab - Setopati",
+      "url": "https://eng.setopati.com/political/161474",
+      "description": "Report on the District Government Attorney's Office (DGAO) filing a forgery case against 290 people and seeking to reclaim over Rs 18 billion."
+    },
+    {
+      "title": "Lalita Niwas land grab: 12 convicted, Gachchhadar acquitted - The Himalayan Times",
+      "url": "https://thehimalayantimes.com/nepal/lalita-niwas-land-grab-12-convicted-gachchhadar-acquitted",
+      "description": "News article covering the Special Court's verdict on February 15, 2024, which convicted 12 individuals and acquitted three former ministers."
+    },
+    {
+      "title": "CIB concludes investigation on Lalita Niwas land grab case - The Rising Nepal",
+      "url": "https://www.risingnepaldaily.com/news/32001",
+      "description": "Report on the conclusion of the Central Investigation Bureau's (CIB) investigation, which provided the basis for the forgery charges."
+    }
+  ]
+}

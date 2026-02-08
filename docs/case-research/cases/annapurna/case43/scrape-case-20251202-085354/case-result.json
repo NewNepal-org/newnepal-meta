@@ -1,0 +1,190 @@
+{
+  "title": "Oriental Cooperative and Sudhir Basnet Fraud Case",
+  "description": "<p>The Oriental Cooperative fraud case, led by its chairman <strong>Sudhir Basnet</strong>, is one of Nepal's largest financial scandals, involving the misappropriation of billions of rupees from thousands of depositors and homebuyers. Starting around 2012, Basnet allegedly funneled funds from the cooperative and advance payments for apartments into a network of personal businesses, primarily in the real estate sector. A downturn in the real estate market led to a liquidity crisis, causing Oriental Cooperative to default on refunds and Basnet's construction companies to fail in delivering promised housing units.</p><p>The total liability is estimated to be between <strong>NPR 16.1 billion and NPR 17 billion</strong>, affecting over 7,600 depositors and numerous homebuyers. In response, the Government of Nepal declared Oriental Co-operative 'problematic' in 2017 and formed the <strong>Problematic Cooperatives Management Committee (PCMC)</strong> to liquidate Basnet's assets and repay victims. Despite numerous arrests, court sentences, and government interventions over more than a decade, the vast majority of victims have yet to recover their savings. The case highlights severe regulatory failures in Nepal's cooperative sector and the prolonged struggle for financial justice for thousands of citizens.</p>",
+  "unverified_info": "<p>The following information consists of claims and suspicions that have been reported but not fully substantiated by official findings:</p><ul><li>Claims made by Sudhir Basnet during interrogations that his personal assets were worth NPR 12-14 billion against liabilities of NPR 8 billion, a figure that was not independently verified by the management committee at the time.</li><li>Suspicions held by the Problematic Cooperatives Management Committee (PCMC) that Basnet possesses numerous 'hidden' assets registered under the names of third parties. The Central Investigation Bureau (CIB) was reportedly asked to help identify these assets.</li><li>Allegations from victims that Sudhir Basnet, following his release from prison, attempted to initiate new schemes by soliciting more funds from them for land deals (such as the Meghouli land plot incident) with the promise of recovering their original losses.</li></ul>",
+  "key_allegations": [
+    "Misappropriating over NPR 16 billion from cooperative depositors, apartment buyers, and financial institutions.",
+    "Illegally diverting funds from Oriental Cooperative to finance personal real estate ventures and other companies like Agni Air.",
+    "Defrauding homebuyers by collecting advance payments for housing and apartment projects that were never completed or delivered.",
+    "Issuing bouncing cheques to creditors and depositors.",
+    "Defaulting on loans worth over NPR 1.6 billion from at least 14 different banks and financial institutions."
+  ],
+  "alleged_entities": [
+    "Sudhir Basnet",
+    "Oriental Co-operative Limited",
+    "Oriental Builders and Developers",
+    "Kohinoor Hill Housing",
+    "Aayusha Builders",
+    "Vegas City Apartments",
+    "Agni Air"
+  ],
+  "related_entities": [
+    "Problematic Cooperatives Management Committee (PCMC)",
+    "Gauri Bahadur Karki High-Level Probe Panel",
+    "Depositors' Rights Protection Committee",
+    "Grand Bank",
+    "Sunrise Bank",
+    "International Leasing and Finance Company",
+    "Rastriya Banijya Bank",
+    "Employees Provident Fund"
+  ],
+  "locations": [
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Pokhara",
+      "district": "Kaski",
+      "province": "Gandaki"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Biratnagar",
+      "district": "Morang",
+      "province": "Koshi"
+    },
+    {
+      "other": "Dhapasi area, residence of Sudhir Basnet",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Cooperative Fraud",
+    "Embezzlement",
+    "Real Estate Fraud",
+    "Banking Offence",
+    "Problematic Cooperative",
+    "Large Scale Fraud"
+  ],
+  "case_start_date": "2012-01-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2013-01-05",
+      "title": "Sudhir Basnet Arrested on Fraud Charges",
+      "description": "Sudhir Basnet was arrested by the Metropolitan Police Crime Investigation Division on charges of fraud, including issuing bouncing cheques and failing to deliver apartments to buyers."
+    },
+    {
+      "event_date": "2013-02-04",
+      "title": "Basnet Released on Bail",
+      "description": "The Kathmandu District Court released Sudhir Basnet on a bail of NPR 600,000."
+    },
+    {
+      "event_date": "2013-11-01",
+      "title": "High-Level Probe Panel Formed",
+      "description": "The government formed a high-level probe panel led by former Special Court Chairman Gauri Bahadur Karki to investigate troubled cooperatives, including Oriental."
+    },
+    {
+      "event_date": "2014-08-22",
+      "title": "Supreme Court Orders Basnet Back into Custody",
+      "description": "The Supreme Court overturned a lower court's decision and ordered Sudhir Basnet to be kept in judicial custody."
+    },
+    {
+      "event_date": "2015-11-23",
+      "title": "Bhaktapur District Court Sentences Basnet",
+      "description": "The Bhaktapur District Court sentenced Sudhir Basnet to two years in prison and imposed a fine in a fraud-related case."
+    },
+    {
+      "event_date": "2016-03-29",
+      "title": "Kathmandu District Court Convicts Basnet",
+      "description": "The Kathmandu District Court found Basnet guilty of fraud, sentencing him to two years in jail and a fine of NPR 59.2 million."
+    },
+    {
+      "event_date": "2016-12-27",
+      "title": "Basnet Arrested After Evading Prison",
+      "description": "After evading prior prison sentences, Sudhir Basnet was arrested by police from his residence in Dhapasi, Kathmandu."
+    },
+    {
+      "event_date": "2017-11-06",
+      "title": "Oriental Co-operative Declared 'Problematic'",
+      "description": "The government officially declared Oriental Co-operative a 'problematic' entity, paving the way for the state to manage its assets and liabilities."
+    },
+    {
+      "event_date": "2018-06-04",
+      "title": "Basnet Released from Jail",
+      "description": "Sudhir Basnet was released from prison after completing his jail sentences as per the verdicts from the Kathmandu and Bhaktapur district courts."
+    },
+    {
+      "event_date": "2019-03-11",
+      "title": "PCMC Report Reveals NPR 16.1 Billion Liability",
+      "description": "A report by the Problematic Cooperatives Management Committee (PCMC) revealed that the total liabilities of Oriental Cooperative and its associated entities amounted to NPR 16.1 billion."
+    },
+    {
+      "event_date": "2019-04-03",
+      "title": "PCMC Decides to Auction Basnet's Assets",
+      "description": "The PCMC announced its decision to proceed with the auction of all assets registered in the name of Sudhir Basnet and Oriental Cooperative to settle liabilities."
+    },
+    {
+      "event_date": "2022-09-22",
+      "title": "Oriental Declared 'Problematic' for a Second Time",
+      "description": "The government re-declared Oriental Co-operative as 'problematic' after a previous declaration was quashed by the Supreme Court, allowing the PCMC to resume the asset management process."
+    },
+    {
+      "event_date": "2023-09-04",
+      "title": "Reports Indicate Minimal Repayment to Victims",
+      "description": "Over a decade after the cooperative's collapse, news reports highlighted that victims had received almost none of their money back, with only NPR 27.8 million being prepared for distribution out of a total liability of nearly NPR 17 billion."
+    }
+  ],
+  "sources": [
+    {
+      "title": "ShareSansar: Sudhir Basnet arrested on fraud charges (Jan 2013)",
+      "url": "https://www.sharesansar.com/newsdetail/sudhir-basnet-arrested-on-fraud-charges-2013-01-05",
+      "description": "Report on the initial arrest of Sudhir Basnet in January 2013, detailing the fraud charges and the financial distress of his companies."
+    },
+    {
+      "title": "ShareSansar: Court releases Sudhir Basnet on bail (Feb 2013)",
+      "url": "https://www.sharesansar.com/newsdetail/court-releases-sudhir-basnet-on-bail-2013-02-04",
+      "description": "Article covering Basnet's release on bail by the Kathmandu District Court in February 2013."
+    },
+    {
+      "title": "ShareSansar: Supreme Court orders Basnet back into custody (Aug 2014)",
+      "url": "https://www.sharesansar.com/newsdetail/supreme-court-orders-basnet-back-into-custody-2014-08-24",
+      "description": "News about the Supreme Court's 2014 ruling to overturn a lower court's decision and keep Basnet in custody."
+    },
+    {
+      "title": "Kathmandu Post: Police arrest disgraced real estate tycoon Basnet (Dec 2016)",
+      "url": "https://kathmandupost.com/money/2016/12/29/police-arrest-disgraced-real-estate-tycoon-basnet",
+      "description": "Report on Basnet's re-arrest in December 2016 after he had been evading previous prison sentences. Mentions a debt of Rs 1.6 billion to financial institutions."
+    },
+    {
+      "title": "OnlineKhabar: Sudheer Basnet released after serving sentences (June 2018)",
+      "url": "https://english.onlinekhabar.com/notorious-fraudster-sudheer-basnet-released-after-serving-multiple-sentences.html",
+      "description": "Article reporting on Sudhir Basnet's release from prison in June 2018 after completing his sentences from Kathmandu and Bhaktapur court verdicts."
+    },
+    {
+      "title": "ShareSansar: PCMC report reveals NPR 16.1 billion liability (Mar 2019)",
+      "url": "https://www.sharesansar.com/newsdetail/problematic-oriental-cooperative-has-to-refund-rs-161-billion-report-2019-03-11",
+      "description": "Details the 2019 report from the Problematic Cooperatives Management Committee (PCMC) stating that Oriental's total liability is NPR 16.1 billion and provides a breakdown of the amount owed."
+    },
+    {
+      "title": "Sahakari Khabar: PCMC to auction Basnet's assets (Apr 2019)",
+      "url": "https://sahakarikhabar.com/news/11366",
+      "description": "A 2019 report (in Nepali) on the decision by the PCMC to move forward with auctioning all assets belonging to Sudhir Basnet and Oriental Cooperative."
+    },
+    {
+      "title": "MyRepublica: Victims await justice a decade later (Sept 2023)",
+      "url": "https://myrepublica.nagariknetwork.com/news/victims-of-oriental-cooperative-await-justice-only-rs-30-million-out-of-rs-17-billion-is-ready-to-be-paid/",
+      "description": "A 2023 report highlighting the decade-long wait for justice by victims and noting that only a minimal amount (approx. NPR 30 million) was ready for distribution out of the nearly NPR 17 billion total liability."
+    },
+    {
+      "title": "Sahakari Khabar: Government calls for victim claims again (Sept 2022)",
+      "url": "https://sahakarikhabar.com/en/news/17397",
+      "description": "Article from 2022 detailing the government's renewed call for victims to submit claims after Oriental was declared 'problematic' for a second time."
+    },
+    {
+      "title": "CIJ Nepal: Investigative story on cooperative fraud (2024)",
+      "url": "https://cijnepal.org.np/cooperative-fraud-will-the-rs-49-billion-of-peoples-deposits-be-returned/",
+      "description": "An investigative piece from the Centre for Investigative Journalism-Nepal on the broader cooperative crisis, citing Oriental as the first cooperative declared 'crisis-ridden' in 2017."
+    }
+  ]
+}

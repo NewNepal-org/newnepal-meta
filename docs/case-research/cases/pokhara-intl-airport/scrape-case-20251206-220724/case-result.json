@@ -1,0 +1,138 @@
+{
+  "title": "Pokhara International Airport Construction Corruption Case",
+  "description": "<p>A sub-committee of the Parliament's Public Accounts Committee (PAC), led by Rastriya Prajatantra Party Chairman Rajendra Lingden, concluded in an April 2025 report that there were significant financial irregularities and corruption in the construction of Pokhara International Airport. The report, which was later endorsed by the full PAC and forwarded to the Commission for the Investigation of Abuse of Authority (CIAA) for further action, alleged embezzlement amounting to approximately <strong>NPR 14 billion</strong>.</p><p>The investigation was initiated in response to widespread concerns about the project, which was built with a loan from the Exim Bank of China and constructed by China CAMC Engineering Co. Ltd.</p><p><strong>Key findings from the sub-committee's report include:</strong></p><ul><li><strong>Cost Inflation:</strong> The project's cost was allegedly inflated from an initial Civil Aviation Authority of Nepal (CAAN) estimate of <strong>$145 million</strong> to a final contract value of <strong>$215.96 million</strong> through negotiations that reportedly violated public procurement laws.</li><li><strong>Tax Irregularities:</strong> The construction company was granted an improper tax exemption of <strong>NPR 2.22 billion</strong>, which the sub-committee termed \"policy-level corruption\".</li><li><strong>Irregular Payments & Construction Flaws:</strong> Payments were made for uncompleted or flawed work, including <strong>NPR 320 million</strong> for cutting down a hill (a task the report claims was not done), approximately <strong>$5.5 million</strong> for transporting soil that was never delivered, and construction of the runway at a lower elevation (2,636 ft) than specified in the agreement (2,674-2,677 ft).</li><li><strong>Misappropriation of Funds:</strong> The report alleges that payments were made for other uncompleted items, including <strong>$10.648 million</strong> for the runway and taxiway and <strong>$742,000</strong> for an HVAC system.</li></ul><p>The sub-committee recommended the suspension of and investigation into several officials from the Civil Aviation Authority of Nepal (CAAN), including Director General <strong>Pradeep Adhikari</strong> (who was the airport project chief from 2014-2017), former DGs Sanjiv Gautam and Rajan Pokharel, and project chief Binesh Munakarmi, among others.</p><p>On May 22, 2025, the PAC officially instructed the CIAA to investigate the issues raised in the report and take action against those found guilty. In August 2025, DG Pradeep Adhikari publicly refuted the allegations, calling the report baseless. On December 3, 2025, the CIAA arrested Pradeep Adhikari and five others in relation to a separate corruption case concerning the Nalinchowk Heliport.</p>",
+  "unverified_info": "<p>The exact total amount of corruption is subject to varying reports. While some sources cite a figure of <strong>NPR 14 billion</strong>, others mention <strong>NPR 10 billion</strong> or as high as <strong>NPR 18 billion</strong>. A committee member stated the figure could be higher as the Finance Ministry did not provide all requested documents.</p><p>There are also claims that the parliamentary report intentionally omitted the names of high-level political leaders who made policy-level decisions that enabled the alleged corruption, such as then-Finance Minister Gyanendra Karki, who reportedly approved the tax exemptions. This suggests that some decision-makers may have been granted 'policy immunity'.</p><p>Two members of the sub-committee from the CPN-UML party, Gokul Baskota and Tara Lama Tamang, registered a dissenting opinion on the report, arguing that a more in-depth study was needed on technical matters and that named officials should have been consulted before conclusions were drawn.</p>",
+  "key_allegations": [
+    "Inflation of project cost from an estimated $145 million to a contract value of $215.96 million in violation of public procurement laws.",
+    "Granting of improper tax exemption worth NPR 2.22 billion to the contractor, described as 'policy-level corruption'.",
+    "Irregular payment of NPR 320 million for excavation work on Chhine Danda hill that was allegedly not completed.",
+    "Irregular payment of approximately $5.5 million for transporting soil and pebbles that were reportedly not brought to the site.",
+    "Construction of the runway at 2,636 feet, below the contractually agreed elevation of 2,674-2,677 feet.",
+    "Misappropriation of $10.648 million through payments for uncompleted runway, taxiway, and drainage construction.",
+    "Irregular payment of $742,000 for an HVAC system.",
+    "Irregular expenditure of $28 million on consulting services in violation of the project agreement.",
+    "Misappropriation of an estimated $220,000 for a fuel storage facility that was not built."
+  ],
+  "alleged_entities": [
+    "Civil Aviation Authority of Nepal (CAAN)",
+    "Pradeep Adhikari",
+    "Sanjiv Gautam",
+    "Rajan Pokharel",
+    "Binesh Munakarmi",
+    "Chandmala Shrestha",
+    "Baburam Poudel",
+    "Pravin Neupane",
+    "Rajendra Prasad Poudel",
+    "China CAMC Engineering Co. Ltd."
+  ],
+  "related_entities": [
+    "Public Accounts Committee, House of Representatives",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Exim Bank of China",
+    "Rastriya Prajatantra Party (RPP)"
+  ],
+  "locations": [
+    {
+      "other": "Pokhara International Airport",
+      "ward_no": null,
+      "municipality": "Pokhara Metropolitan City",
+      "district": "Kaski",
+      "province": "Gandaki"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Public Procurement",
+    "Infrastructure Project",
+    "Financial Irregularity",
+    "Tax Evasion",
+    "Abuse of Authority",
+    "Parliamentary Investigation"
+  ],
+  "case_start_date": "2014-01-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "date": "2014-01-01",
+      "title": "Project Leadership Appointed",
+      "description": "Pradeep Adhikari becomes the project head for the Pokhara airport construction, a role he held until 2017. The key contract negotiations and decisions under investigation began during this period."
+    },
+    {
+      "date": "2022-12-29",
+      "title": "Construction Completed",
+      "description": "China CAMC Engineering Co. Ltd. completes the construction of Pokhara International Airport."
+    },
+    {
+      "date": "2023-01-01",
+      "title": "Airport Inaugurated",
+      "description": "Pokhara International Airport is officially inaugurated and begins operations."
+    },
+    {
+      "date": "2024-06-09",
+      "title": "Parliamentary Investigation Begins",
+      "description": "The Public Accounts Committee (PAC) of the House of Representatives forms a sub-committee, led by MP Rajendra Lingden, to investigate alleged financial irregularities in the airport's construction."
+    },
+    {
+      "date": "2025-04-18",
+      "title": "Sub-committee Submits Report",
+      "description": "The Lingden-led sub-committee submits its 38-page report to the PAC, concluding that massive corruption and embezzlement occurred during the project."
+    },
+    {
+      "date": "2025-05-21",
+      "title": "PAC Endorses Report",
+      "description": "The full Public Accounts Committee endorses the sub-committee's findings on corruption in the airport project."
+    },
+    {
+      "date": "2025-05-22",
+      "title": "CIAA Instructed to Investigate",
+      "description": "The PAC formally directs the Commission for the Investigation of Abuse of Authority (CIAA) to conduct a further, detailed investigation and take action against those responsible."
+    },
+    {
+      "date": "2025-08-22",
+      "title": "CAAN DG Refutes Allegations",
+      "description": "CAAN Director General Pradeep Adhikari holds a press conference at Pokhara Airport, calling the corruption allegations 'baseless,' 'arbitrary,' and 'exaggerated'."
+    },
+    {
+      "date": "2025-12-03",
+      "title": "Key Accused Arrested in Separate Case",
+      "description": "The CIAA arrests CAAN DG Pradeep Adhikari and five others in connection with a different investigation into alleged corruption during the construction of the Nalinchowk Heliport."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Billions embezzled in Pokhara airport works, probe finds",
+      "url": "https://kathmandupost.com/national/2025/04/18/billions-embezzled-in-pokhara-airport-works-probe-finds",
+      "description": "The Kathmandu Post article reporting on the findings of the PAC sub-committee's draft report, detailing the allegations of embezzlement."
+    },
+    {
+      "title": "House committee asks CIAA to look into Pokhara airport scam",
+      "url": "https://kathmandupost.com/politics/2025/05/22/house-committee-asks-ciaa-to-look-into-pokhara-airport-scam",
+      "description": "The Kathmandu Post report on the PAC's official decision to instruct the CIAA to launch a formal investigation into the case."
+    },
+    {
+      "title": "Lingden-led House sub-committee finds corruption in construction of Pokhara International Airport",
+      "url": "https://setopati.net/politics/342129",
+      "description": "Setopati news report summarizing the conclusions of the Rajendra Lingden-led parliamentary sub-committee."
+    },
+    {
+      "title": "10 billion corruption in Pokhara Airport, immunity for policy decision making leadership",
+      "url": "https://ekantipur.com/news/2025/04/27/en/10-billion-corruption-in-pokhara-airport-immunity-for-policy-decision-making-leadership-35-43.html",
+      "description": "Ekantipur article detailing the NPR 10 billion corruption figure and alleging that high-level political leaders were shielded from the investigation."
+    },
+    {
+      "title": "Nepal probe panel reveals Rs 14 billion graft in airport built by Chinese firm",
+      "url": "https://www.indiatoday.in/world/story/nepal-probe-panel-reveals-rs-14-billion-graft-in-airport-built-by-chinese-firm-2661580-2025-04-19",
+      "description": "India Today article covering the probe panel's findings, highlighting the NPR 14 billion figure and the involvement of the Chinese construction firm."
+    },
+    {
+      "title": "Pokhara airport corruption allegations baseless: CAAN DG challenges Lingden panel to prove",
+      "url": "https://myrepublica.nagariknetwork.com/news/pokhara-airport-corruption-allegations-baseless-caan-dg-challenges-lingden-panel-to-prove/",
+      "description": "MyRepublica report on CAAN DG Pradeep Adhikari's press conference where he denied all corruption allegations."
+    },
+    {
+      "title": "Six arrested including CAAN DG Adhikari in Pokhara Airport corruption case",
+      "url": "https://www.nepalnews.com/s/nation/six-arrested-including-caan-dg-adhikari-in-pokhara-airport-corruption-case",
+      "description": "Nepal News report on the arrest of Pradeep Adhikari. Note: The article title links the arrest to the Pokhara case, but the event itself was related to the Nalinchowk Heliport investigation."
+    }
+  ]
+}

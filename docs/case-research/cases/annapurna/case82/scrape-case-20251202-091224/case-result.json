@@ -1,0 +1,109 @@
+{
+  "title": "Bhrikutimandap Land Lease Corruption Case",
+  "description": "<p>The Bhrikutimandap Land Lease case, also known as the Fun Park Corruption Case, involves significant irregularities in the leasing of 60 ropani of public land belonging to the Social Welfare Council (SWC) in a prime area of Kathmandu. The land was leased to operate a fun park.</p><p>In September 2012, a decision led by the then Minister for Women, Children and Social Welfare and SWC Chairperson, <strong>Badri Prasad Neupane</strong>, awarded a 15-year lease contract for the land to Kathmandu Fun Park. The Commission for the Investigation of Abuse of Authority (CIAA) investigated the matter following complaints and uncovered major procedural and financial misconduct.</p><p>The key findings of the CIAA investigation were:</p><ul><li><strong>Procedural Violations:</strong> The contract was awarded directly without a competitive public tender process, which is a mandatory requirement under Nepal's public procurement laws for managing state assets.</li><li><strong>Gross Undervaluation:</strong> The land was leased for a monthly rent of NPR 555,000, amounting to approximately NPR 9,250 per ropani. The CIAA established that this rate was drastically below the market value, citing a nearby plot that was leased for NPR 78,571 per ropani, causing a substantial financial loss to the state.</li></ul><p>On February 4, 2019, the CIAA filed a corruption case at the Special Court against 14 individuals, including former Minister Neupane, SWC officials, and the park operators. The CIAA claimed a total loss of <strong>NPR 315,200,000</strong> to the state exchequer.</p><p>On February 28, 2023, the Special Court delivered its verdict, convicting nine of the accused. Badri Prasad Neupane was identified as the main perpetrator, while Nepali Congress lawmaker <strong>Tek Bahadur Gurung</strong>, an operator of the fun park, was convicted as an accomplice. The court acquitted five others. Sentences, including prison terms and hefty fines, were pronounced on March 9, 2023.</p>",
+  "unverified_info": "<p>There are some minor discrepancies across various news reports regarding the exact fine amounts for some individuals. For instance, one source reports that Rabindra Gurung was ordered to pay over NPR 2.43 crore, while another suggests the amount was NPR 1.21 crore in fine and the same in restitution. The primary amounts have been recorded in the main case file based on the most consistent reporting.</p>",
+  "key_allegations": [
+    "Awarding a land lease contract without a public procurement/tender process.",
+    "Leasing public land at a significantly undervalued rate, causing financial loss to the state.",
+    "Abuse of authority by public officials for personal and collective gain."
+  ],
+  "alleged_entities": [
+    "Badri Prasad Neupane",
+    "Tek Bahadur Gurung",
+    "Rabindra Gurung",
+    "Pramod Mehta",
+    "Ravindra Kumar Yadav",
+    "Kunjabihari Prasad Chaudhary",
+    "Mohanraj Sharma",
+    "Madan Kumar Lal Karna",
+    "Hari Neupane",
+    "Ratna Gaha Magar",
+    "Madan Prasad Rimal",
+    "Bal Bahadur Swar",
+    "Prem Singh Dhami",
+    "Jagadev Chaudhary"
+  ],
+  "related_entities": [
+    "Social Welfare Council (SWC)",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu",
+    "Kathmandu Fun Park",
+    "Government of Nepal, Ministry of Women, Children and Social Welfare",
+    "Supreme Court of Nepal"
+  ],
+  "locations": [
+    {
+      "other": "Bhrikutimandap",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Land Lease",
+    "Corruption",
+    "Abuse of Authority",
+    "Public Procurement",
+    "Political Corruption",
+    "Social Welfare Council",
+    "Special Court",
+    "Conviction"
+  ],
+  "case_start_date": "2012-09-01",
+  "case_end_date": "2023-03-09",
+  "timeline": [
+    {
+      "event_date": "2012-09-01",
+      "title": "Land Lease Contract Awarded",
+      "description": "The Social Welfare Council, chaired by Minister Badri Neupane, awarded a 15-year contract to Rabindra Gurung to operate a fun park on 60 ropani of land in Bhrikutimandap without a competitive bidding process."
+    },
+    {
+      "event_date": "2019-02-04",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA filed a corruption case at the Special Court against 14 individuals, including former Minister Badri Prasad Neupane and lawmaker Tek Bahadur Gurung, alleging a loss of NPR 315.2 million."
+    },
+    {
+      "event_date": "2022-12-27",
+      "title": "MP Tek Bahadur Gurung Suspended",
+      "description": "The Federal Parliament Secretariat suspended Tek Bahadur Gurung from his position as a Member of Parliament due to the sub judice corruption case against him."
+    },
+    {
+      "event_date": "2023-02-28",
+      "title": "Special Court Convicts Nine Individuals",
+      "description": "The Special Court, in a bench of Shree Kanta Paudel, Shaligram Koirala, and Balbhadra Bastola, convicted nine out of the fourteen accused, including Badri Prasad Neupane and Tek Bahadur Gurung. Five were acquitted."
+    },
+    {
+      "event_date": "2023-03-09",
+      "title": "Sentences Pronounced",
+      "description": "The Special Court announced the sentences for the nine convicts. Badri Prasad Neupane was sentenced to 9 years and 6 months in prison and fined, while Tek Bahadur Gurung was fined but received no jail time."
+    },
+    {
+      "event_date": "2024-03-29",
+      "title": "Supreme Court Revokes MP's Suspension",
+      "description": "The Supreme Court revoked the suspension of MP Tek Bahadur Gurung, ruling that a conviction without a jail sentence did not warrant suspension under the Prevention of Corruption Act."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CIAA files corruption case against 14, including ex-minister Neupane, over Bhrikutimandap land lease",
+      "url": "https://english.onlinekhabar.com/ciaa-files-corruption-case-against-14-including-ex-minister-neupane-over-bhrikutimandap-land-lease.html",
+      "description": "Onlinekhabar report from February 4, 2019, detailing the CIAA's filing of the corruption case at the Special Court against 14 individuals, specifying the alleged loss of NPR 31.52 crore."
+    },
+    {
+      "title": "Ex-minister Neupane, lawmaker Gurung convicted in Bhrikutimandap land lease scam",
+      "url": "https://kathmandupost.com/national/2023/02/28/ex-minister-neupane-lawmaker-gurung-convicted-in-bhrikutimandap-land-lease-scam",
+      "description": "The Kathmandu Post report from February 28, 2023, on the Special Court's verdict convicting nine individuals, including Badri Prasad Neupane and Tek Bahadur Gurung, and acquitting five others."
+    },
+    {
+      "title": "Special Court slaps Neupane with 9.5 years jail term in Bhrikutimandap land lease scam",
+      "url": "https://myrepublica.nagariknetwork.com/news/special-court-slaps-neupane-with-9-5-years-jail-term-in-bhrikutimandap-land-lease-scam/",
+      "description": "My Republica report from March 9, 2023, outlining the specific sentences, including prison terms and fines, handed down by the Special Court to the nine individuals convicted in the case."
+    },
+    {
+      "title": "SC revokes suspension of Congress lawmaker Tek Bahadur Gurung",
+      "url": "https://kathmandupost.com/national/2024/03/29/sc-revokes-suspension-of-congress-lawmaker-tek-bahadur-gurung",
+      "description": "The Kathmandu Post report from March 29, 2024, on the Supreme Court's decision to overturn the suspension of MP Tek Bahadur Gurung, allowing him to resume his parliamentary duties."
+    }
+  ]
+}

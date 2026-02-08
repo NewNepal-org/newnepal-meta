@@ -1,0 +1,119 @@
+{
+  "title": "Pashupatinath Temple Gold Jalahari Corruption Case",
+  "description": "<p>The case concerns allegations of corruption and financial irregularities during the installation of a gold Jalahari (a base covering the Shivalinga) at the Pashupatinath Temple in 2021. The project was initiated by then-Prime Minister K.P. Sharma Oli with a government grant of <strong>NPR 300 million</strong> to the Pashupati Area Development Trust (PADT).</p><p>Controversy arose following a report from the Office of the Auditor General which flagged that nearly 11 kg of gold was not properly accounted for. This prompted an investigation by the Commission for the Investigation of Abuse of Authority (CIAA). On June 25, 2023, the CIAA temporarily removed the Jalahari to conduct a precise measurement of its weight and gold purity.</p><p>Following its investigation, the CIAA concluded that there was a misappropriation of <strong>1.491 kilograms of gold</strong>. On October 1, 2023, it filed a corruption case at the Special Court against three officials associated with PADT, seeking to recover <strong>NPR 11.7 million</strong>.</p><p>However, on April 30, 2024, the Special Court acquitted all three accused individuals. The court's verdict stated that the CIAA failed to prove its allegations, attributing the weight discrepancy to natural loss during the crafting process and the legal addition of other metals for structural integrity. The court also criticized the CIAA for engaging in what it termed 'selective prosecution'.</p>",
+  "unverified_info": "<p>There is no significant unverified information as the case has concluded with a final verdict from the Special Court. All key details are supported by official reports and court documents.</p>",
+  "key_allegations": [
+    "Misappropriation of 1.491 kilograms of gold worth approximately NPR 11.7 million.",
+    "Financial irregularities and procedural flaws in the installation of the gold Jalahari.",
+    "Failure to account for approximately 11 kg of gold intended for rings on the Jalahari, as initially flagged by the Office of the Auditor General."
+  ],
+  "alleged_entities": [
+    "Dr. Milan Kumar Thapa (Member Secretary, Pashupati Area Development Trust)",
+    "Dr. Pradeep Dhakal (Former Member Secretary, Pashupati Area Development Trust)",
+    "Arun Kumar Shrestha (Storekeeper, Pashupati Area Development Trust)"
+  ],
+  "related_entities": [
+    "Pashupati Area Development Trust (PADT)",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Nepal",
+    "Office of the Auditor General, Nepal",
+    "K.P. Sharma Oli (Former Prime Minister)",
+    "Bidya Devi Bhandari (Former President)",
+    "Nepal Rastra Bank",
+    "Nepal Army"
+  ],
+  "locations": [
+    {
+      "other": "Pashupatinath Temple",
+      "ward_no": 8,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Financial Irregularity",
+    "Acquittal",
+    "CIAA",
+    "Special Court",
+    "Religious Trust",
+    "Pashupati Area Development Trust"
+  ],
+  "case_start_date": "2021-01-25",
+  "case_end_date": "2024-04-30",
+  "timeline": [
+    {
+      "event_date": "2021-01-25",
+      "title": "Government Announces Grant for Gold Jalahari",
+      "description": "Then Prime Minister K.P. Sharma Oli announced a government grant of NPR 300 million to install a gold Jalahari at Pashupatinath Temple, replacing the existing silver one."
+    },
+    {
+      "event_date": "2021-02-11",
+      "title": "PADT Purchases Gold",
+      "description": "The Pashupati Area Development Trust (PADT) purchased 103.773 kg of gold from Nepal Rastra Bank for approximately NPR 801.1 million."
+    },
+    {
+      "event_date": "2021-02-24",
+      "title": "Jalahari Unveiled Amid Controversy",
+      "description": "Then President Bidya Devi Bhandari unveiled the newly installed gold Jalahari during a special worship ceremony, just before the Supreme Court issued a stay order on the installation."
+    },
+    {
+      "event_date": "2022-07-27",
+      "title": "Auditor General's Report Flags Irregularities",
+      "description": "The 59th annual report of the Office of the Auditor General flagged financial irregularities, noting that nearly 11 kg of gold was not properly accounted for in the project."
+    },
+    {
+      "event_date": "2023-06-25",
+      "title": "CIAA Removes Jalahari for Investigation",
+      "description": "The CIAA took control of the temple premises, removed the gold Jalahari under Nepal Army protection, and transported it for official weighing and quality testing."
+    },
+    {
+      "event_date": "2023-10-01",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA filed a corruption case at the Special Court against Dr. Milan Kumar Thapa, Dr. Pradeep Dhakal, and Arun Kumar Shrestha, alleging misappropriation of 1.491 kg of gold and claiming damages of NPR 11.7 million."
+    },
+    {
+      "event_date": "2024-04-30",
+      "title": "Special Court Acquits All Accused",
+      "description": "A bench of the Special Court acquitted all three accused individuals of all charges, ruling that the evidence did not substantiate the claims of corruption and criticizing the CIAA's prosecution."
+    }
+  ],
+  "sources": [
+    {
+      "title": "My Republica: CIAA files corruption case against three individuals",
+      "url": "https://myrepublica.nagariknetwork.com/news/pashupati-jalhari-case-ciaa-files-corruption-case-against-three-individuals-including-two-member-secretaries/",
+      "description": "News report from October 1, 2023, detailing the CIAA's filing of the corruption case at the Special Court against three officials of the PADT."
+    },
+    {
+      "title": "The Kathmandu Post: Special Court acquits sitting, ex-Pashupati officials of corruption",
+      "url": "https://kathmandupost.com/national/2024/04/30/special-court-acquits-sitting-ex-pashupati-officials-of-corruption",
+      "description": "News article from April 30, 2024, reporting on the Special Court's verdict to acquit all three accused in the Jalahari case."
+    },
+    {
+      "title": "PalikaNews: Full text of the Special Court's decision (Nepali)",
+      "url": "https://palikanews.com/2024/05/20993/",
+      "description": "Provides the full text of the Special Court's verdict, detailing the reasoning for the acquittal, including the finding that charges were not proven and the prosecution was selective."
+    },
+    {
+      "title": "The Kathmandu Post: Due process flouted while installing gold Jalahari at Pashupati",
+      "url": "https://kathmandupost.com/national/2023/06/27/due-process-flouted-while-installing-gold-jalahari-at-pashupati",
+      "description": "Report from June 27, 2023, on the CIAA's investigation, including the weighing of the Jalahari and background from the Auditor General's report."
+    },
+    {
+      "title": "The Hindu: Nepal’s CIAA begins probe over missing gold report in Pashupatinath temple",
+      "url": "https://www.thehindu.com/news/international/nepals-ciaa-begins-probe-over-missing-gold-report-in-pashupatinath-temple-devotees-barred-from-entry/article67008129.ece",
+      "description": "Article from June 25, 2023, covering the start of the CIAA's physical investigation at the temple, including the removal of the Jalahari."
+    },
+    {
+      "title": "Onlinekhabar: Gold lost while installing Jalahari at Pashupati (Nepali)",
+      "url": "https://www.onlinekhabar.com/2022/07/1160359",
+      "description": "News report from July 27, 2022, citing the 59th annual report of the Office of the Auditor General regarding unaccounted-for gold in the Jalahari project."
+    },
+    {
+      "title": "Khabarhub: Special Court acquits defendants in Pashupatinath Gold Jalahari case",
+      "url": "https://www.khabarhub.com/2024/28/402839/",
+      "description": "Report detailing the Special Court's reasoning for acquitting the defendants, highlighting the court's criticism of the CIAA's investigation and prosecution."
+    }
+  ]
+}

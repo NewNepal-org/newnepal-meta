@@ -1,0 +1,70 @@
+{
+  "title": "Prado-Pajero Scandal (1995)",
+  "description": "<p>The Prado-Pajero Scandal, also known as 'Prado Kand', refers to a major political controversy in Nepal during 1994-1995. The scandal centered on a decision by the coalition government, led by then-Prime Minister <strong>Sher Bahadur Deuba</strong>, to grant Members of Parliament (MPs) a facility to import vehicles with a <strong>95% customs duty and sales tax exemption</strong>.</p><p>This privilege was allegedly widely abused. Instead of purchasing vehicles for personal use, an estimated <strong>80% of MPs</strong> reportedly sold their duty-free import permits to businessmen and smugglers for personal profit. Many MPs lacked the personal funds, estimated at around Rs 5 million at the time, to purchase the expensive SUVs themselves and effectively acted as intermediaries. This act was seen as a gross abuse of power and a method for the politically unstable government to secure the loyalty of parliamentarians.</p><p>The key consequences of the scandal were:</p><ul><li>A significant loss of state revenue, with some sources claiming it amounted to billions of rupees.</li><li>Widespread public condemnation and a significant erosion of public trust in the newly restored democratic institutions.</li><li>The incident is often cited as a 'black spot' in Nepal's political history.</li></ul><p>Due to the public outcry and the scale of the misuse, the vehicle exemption facility was later discontinued. The scandal remains a prominent example of policy corruption in Nepal. For more details, see reports from <a href=\"https://www.onlinekhabar.com/2020/06/874135\">Onlinekhabar</a> and <a href=\"https://www.nepalitimes.com/blogs/thebuzz/2011/04/22/shamelessness/\">Nepali Times</a>.</p>",
+  "unverified_info": "<p>Certain details from initial research could not be independently verified by credible public sources:</p><ul><li><strong>Specific Financial Loss:</strong> An initial claim of a loss of <strong>Rs 55 Crore (५५ करोड)</strong> could not be corroborated. Available sources generally refer to a loss of \"billions\" of rupees without providing a precise figure.</li><li><strong>Involvement of Other Bodies:</strong> Allegations regarding the specific involvement of \"Parliament officials\" (संसद्‌का पदाधिकारी) and the \"Army\" (सेना) in the scheme could not be confirmed through the available documentation.</li></ul>",
+  "key_allegations": [
+    "Abuse of authority by granting a 95% tax waiver on vehicle imports for MPs.",
+    "Members of Parliament selling their duty-free import privilege for personal profit.",
+    "Causing significant revenue loss to the state.",
+    "Using policy incentives to secure political loyalty in a coalition government."
+  ],
+  "alleged_entities": [
+    "Sher Bahadur Deuba",
+    "Members of Parliament (1995-1997 term)"
+  ],
+  "related_entities": [],
+  "locations": [
+    {
+      "other": "Seat of Government and Parliament of Nepal",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati Province"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Abuse of authority",
+    "Tax evasion",
+    "Policy corruption",
+    "Political corruption",
+    "Prado Kand",
+    "Pajero Scandal"
+  ],
+  "case_start_date": "1995-09-12",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "1995-09-12",
+      "title": "Deuba Forms Coalition Government",
+      "description": "A new coalition government is formed under the leadership of Prime Minister Sher Bahadur Deuba, with support from the Rastriya Prajatantra Party and the Nepal Sadbhawana Party."
+    },
+    {
+      "event_date": "1995-09-13",
+      "title": "Introduction of Tax Waiver and Subsequent Misuse",
+      "description": "During Prime Minister Deuba's tenure (1995-1997), his government introduced a policy granting a 95% tax exemption for Members of Parliament to import vehicles. Following this decision, a large number of MPs allegedly sold their import permits to businessmen, leading to the 'Prado-Pajero Scandal'."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Onlinekhabar - The most infamous parliament in history: from Prado-Pajero to wine-women",
+      "url": "https://www.onlinekhabar.com/2020/06/874135",
+      "description": "An article (in Nepali) detailing various scandals in Nepal's parliamentary history, with a significant section dedicated to the Prado-Pajero scandal. It states that 80% of MPs sold their vehicle import facility."
+    },
+    {
+      "title": "myRepublica - Lawmakers seek tax waiver on personal vehicles",
+      "url": "https://myrepublica.nagariknetwork.com/news/lawmakers-seek-tax-waiver-on-personal-vehicles/",
+      "description": "A 2017 article referencing the 1994 scandal, stating the Deuba-led government waived 95% of taxes for MPs and that most lawmakers misused the facility to buy Pajero jeeps for businessmen."
+    },
+    {
+      "title": "Nepali Times - Shamelessness",
+      "url": "https://www.nepalitimes.com/blogs/thebuzz/2011/04/22/shamelessness/",
+      "description": "A blog post on Nepali Times calling the 'Pajero Scandal' of 1994 a 'black spot' in Nepali politics, where MPs granted themselves duty-free SUV import facilities."
+    },
+    {
+      "title": "Wikipedia - Sher Bahadur Deuba",
+      "url": "https://en.wikipedia.org/wiki/Sher_Bahadur_Deuba",
+      "description": "The Wikipedia entry for Sher Bahadur Deuba, which corroborates the date of his appointment as Prime Minister on September 12, 1995."
+    }
+  ]
+}

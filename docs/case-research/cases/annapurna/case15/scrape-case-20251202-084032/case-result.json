@@ -1,0 +1,134 @@
+{
+  "title": "Maoist Combatant Cantonment Corruption Case",
+  "description": "<p>The Maoist Combatant Cantonment case concerns significant allegations of corruption and financial irregularities involving state funds disbursed by the Government of Nepal for the management of former Maoist People's Liberation Army (PLA) combatants. Following the <strong>Comprehensive Peace Agreement on November 21, 2006</strong>, thousands of PLA combatants were housed in seven main and 21 satellite cantonments across Nepal, with their management monitored by the United Nations Mission in Nepal (UNMIN).</p><p>The central allegation is that the Maoist leadership systematically inflated the number of registered combatants to embezzle government funds. While the Maoist party initially claimed to have approximately 32,250 combatants, a formal verification process conducted by UNMIN in 2007 confirmed only <strong>19,602 individuals</strong>. The discrepancy between the reported numbers and the verified count forms the basis of the corruption charges, suggesting that funds for thousands of \"ghost\" or non-existent combatants were siphoned off by the leadership.</p><p>The controversy gained significant traction after a video, recorded in 2008 at the Shaktikhor cantonment, was leaked. In the video, then-Maoist Supreme Commander Pushpa Kamal Dahal (\"Prachanda\") appears to admit that the actual number of fighters was only around 7,000-8,000 and that the figures were deliberately inflated for strategic advantage in negotiations.</p><p>In 2012, a formal complaint was filed with the Commission for the Investigation of Abuse of Authority (CIAA) by the Youth Association Nepal (the youth wing of CPN-UML), accusing the Maoist leadership of embezzling at least <strong>NPR 4 billion</strong>. The CIAA initiated investigations multiple times, but the probe has repeatedly stalled, allegedly due to political pressure. The investigation lost its momentum after then-CIAA Chief Commissioner Lokman Singh Karki, who had aggressively pursued the case, was impeached and subsequently removed from his post by the Supreme Court in 2017. As of May 2023, there have been renewed public and political calls to reopen and conclude the investigation.</p>",
+  "unverified_info": "<p>An initial report associated with this case mentioned a loss amount of <strong>९९ अर्व ७१ करोड (99.71 billion NPR)</strong>. This figure has not been substantiated by any credible sources or official documents and appears to be a gross overestimation. The widely reported and officially investigated claim, as per the complaint filed at the CIAA, is for the embezzlement of approximately <strong>NPR 4 billion</strong>.</p>",
+  "key_allegations": [
+    "Systematic embezzlement of state funds allocated for the upkeep of Maoist combatants.",
+    "Deliberate inflation of the number of combatants to siphon off government funds.",
+    "Misappropriation of at least NPR 4 billion from the state treasury.",
+    "Use of political influence to stall and obstruct the investigation by the CIAA."
+  ],
+  "alleged_entities": [
+    "Pushpa Kamal Dahal (\"Prachanda\")",
+    "Dr. Baburam Bhattarai",
+    "Krishna Bahadur Mahara",
+    "Communist Party of Nepal (Maoist Centre)"
+  ],
+  "related_entities": [
+    "Nanda Bahadur Pun",
+    "Janardan Sharma",
+    "Barshaman Pun",
+    "Chakrapani Khanal (\"Baldev\")",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "United Nations Mission in Nepal (UNMIN)",
+    "Ministry of Peace and Reconstruction",
+    "Youth Association Nepal"
+  ],
+  "locations": [
+    {
+      "other": "Shaktikhor Cantonment",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Chitwan",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Seven main and 21 satellite cantonments across various parts of Nepal",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Embezzlement",
+    "Political Corruption",
+    "CIAA",
+    "Maoist Combatants",
+    "Peace Process",
+    "Stalled Investigation",
+    "Ghost Employees"
+  ],
+  "case_start_date": "2006-11-21",
+  "case_end_date": "2012-09-20",
+  "timeline": [
+    {
+      "event_date": "2006-11-21",
+      "title": "Comprehensive Peace Agreement Signed",
+      "description": "The Government of Nepal and the CPN (Maoist) sign the Comprehensive Peace Agreement, which includes provisions for confining Maoist PLA combatants and their weapons in designated cantonments."
+    },
+    {
+      "event_date": "2007-01-23",
+      "title": "UNMIN Established",
+      "description": "The United Nations Security Council establishes the United Nations Mission in Nepal (UNMIN) to monitor the peace process, including the management of arms and armies."
+    },
+    {
+      "event_date": "2007-12-28",
+      "title": "UNMIN Completes Combatant Verification",
+      "description": "UNMIN completes its first phase of verification, officially registering 19,602 Maoist combatants as eligible for allowances and potential integration."
+    },
+    {
+      "event_date": "2010-02-28",
+      "title": "Disqualified Combatants Discharged",
+      "description": "A total of 4,008 combatants deemed disqualified (minors and late recruits) during the UNMIN verification are discharged from the cantonments over January-February 2010."
+    },
+    {
+      "event_date": "2012-09-20",
+      "title": "Corruption Complaint Filed at CIAA",
+      "description": "The Youth Association Nepal, affiliated with CPN-UML, files a formal complaint at the CIAA, accusing Maoist leaders of embezzling NPR 4 billion from the cantonment funds."
+    },
+    {
+      "event_date": "2014-06-08",
+      "title": "CIAA Confirms Investigation is Underway",
+      "description": "The CIAA officially confirms that it has initiated an investigation into the alleged financial irregularities in the management of Maoist cantonments."
+    },
+    {
+      "event_date": "2016-09-16",
+      "title": "CIAA Expedites Probe Under Lokman Singh Karki",
+      "description": "The CIAA, under Chief Commissioner Lokman Singh Karki, announces it is accelerating the investigation and summons Maoist leaders to provide clarification within 30 days."
+    },
+    {
+      "event_date": "2016-10-19",
+      "title": "Impeachment Motion Filed Against CIAA Chief",
+      "description": "Lawmakers from CPN-UML and the CPN (Maoist Centre) file an impeachment motion in Parliament against CIAA Chief Commissioner Lokman Singh Karki."
+    },
+    {
+      "event_date": "2017-01-08",
+      "title": "Supreme Court Disqualifies CIAA Chief Karki",
+      "description": "The Supreme Court of Nepal finds Lokman Singh Karki's appointment to the CIAA to be unlawful and disqualifies him from the post, effectively stalling the cantonment probe."
+    },
+    {
+      "event_date": "2023-05-11",
+      "title": "Renewed Calls to Reopen Investigation",
+      "description": "Following a separate high-profile corruption scandal (the fake Bhutanese refugee case), political leaders, including CPN-UML Chairman KP Sharma Oli, publicly demand the government reopen and conclude the investigation into the cantonment funds."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kathmandu Post: Oli asks government to probe Maoist cantonment scam",
+      "url": "https://kathmandupost.com/politics/2023/05/12/oli-asks-government-to-probe-maoist-cantonment-scam",
+      "description": "A news report from May 2023 detailing renewed calls to investigate the cantonment case. It mentions the original complaint filed by UML's youth wing alleging embezzlement of 'at least Rs4 billion'."
+    },
+    {
+      "title": "MyRepublica: CIAA begins probe into Maoist cantonments scam",
+      "url": "https://myrepublica.nagariknetwork.com/news/1739/",
+      "description": "A 2014 news report confirming the CIAA's initiation of the probe. It cites ministry documents submitted to the CIAA showing a total expenditure of Rs 9.79 billion for cantonment management."
+    },
+    {
+      "title": "UNMIN: Monitoring of Arms and Armies",
+      "url": "https://humansecuritygateway.com/documents/UNMIN_AMMAA_summary.pdf",
+      "description": "An official summary document from the UN Peacekeeping mission in Nepal (UNMIN) detailing the process and results of monitoring arms and armies, which serves as a basis for verified combatant numbers."
+    },
+    {
+      "title": "Leaked Video of Pushpa Kamal Dahal's Speech at Shaktikhor Cantonment",
+      "url": "https://www.youtube.com/watch?v=KzqP19VbWb0",
+      "description": "A widely circulated video on YouTube showing Pushpa Kamal Dahal addressing combatants, where he discusses inflating combatant numbers. This video is a key piece of circumstantial evidence."
+    },
+    {
+      "title": "The Himalayan Times: CIAA expedites probe into cantonment corruption",
+      "url": "https://thehimalayantimes.com/nepal/ciaa-expedites-probe-maoist-cantonment-corruption",
+      "description": "A news report from September 2016 detailing the CIAA's decision, under then-chief Lokman Singh Karki, to expedite the investigation and summon Maoist leaders."
+    }
+  ]
+}

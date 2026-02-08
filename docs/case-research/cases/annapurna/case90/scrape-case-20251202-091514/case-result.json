@@ -1,0 +1,151 @@
+{
+  "title": "Taragaon Development Committee Land Lease and Share Dilution Case",
+  "description": "<p>The case involves allegations of significant irregularities in the leasing and transfer of approximately 304 ropani of government land belonging to the Taragaon Development Committee (TDC) to Taragaon Regency Hotels Ltd, the operator of Hyatt Regency Kathmandu. The controversy stems from a 1992 agreement to establish a luxury hotel as a public-private partnership.</p><p>The core issues are:</p><ol><li><strong>Illegal Land Transfer and Lease:</strong> In May 1994, 150 ropani of TDC's land in Boudha, Kathmandu, was transferred to the ownership of the joint venture company, Taragaon Regency Hotels Ltd. Parliamentary investigations later deemed this transfer illegal, stating that government land cannot be converted into private ownership in this manner. An additional 148 ropani were leased to the company for 49 years at rates alleged to be well below market value.</li><li><strong>Systematic Dilution of Government Shareholding:</strong> The government, through the TDC, initially held a <strong>39.77% stake</strong> in the hotel company. Over several years, through successive rights share issues in which the government did not participate, its ownership was drastically reduced. By 2014, the government's share had plummeted to just <strong>9.01%</strong>. This is alleged to have been a deliberate strategy by private partners to marginalize the state's interest and control over the valuable asset.</li></ol><p>Multiple investigations have been conducted by bodies including the Public Accounts Committee (PAC), the Commission for the Investigation of Abuse of Authority (CIAA), the National Vigilance Centre (NVC), and several sub-committees of the parliament's International Relations Committee. A 2019 report by a parliamentary sub-committee led by Agni Prasad Sapkota confirmed major irregularities and recommended that the government reclaim the land. Despite these findings, the CIAA decided later that year not to file a formal corruption case. However, a subsequent NVC report contradicted the CIAA's conclusion, recommending the government take steps to protect the land and recover lost share value. The case remains unresolved and is under fresh review by a parliamentary committee as of September 2024.</p>",
+  "unverified_info": "<p>Certain details from initial reports remain uncorroborated by later, more comprehensive investigations:</p><ul><li>An early reference to the case year as '2072' (2015-2016 AD) and a loss of '35 ropani' is not substantiated in the main reports from 2019, which focus on the entire 304 ropani land parcel. The '35 ropani' might refer to a specific sub-parcel or could be an inaccurate detail.</li><li>The specific government officials who authorized the initial land transfer in 1994, and the TDC board members who made decisions not to subscribe to rights share issues, have been subject to investigation. However, their names are not consistently listed as formally accused individuals in publicly available reports, although parliamentary committees have recommended taking action against those responsible.</li></ul>",
+  "key_allegations": [
+    "Illegal transfer of 150 ropani of government land to a private entity.",
+    "Irregular leasing of 148 ropani of government land at non-market rates for a 49-year term.",
+    "Systematic and deliberate dilution of the government's shareholding in Taragaon Regency Hotels Ltd. from 39.77% to 9.01%.",
+    "Causing significant financial loss to the state through share dilution and undervalued land lease.",
+    "Lack of financial transparency, including unaccounted payments worth Rs 381.20 million to board members and management."
+  ],
+  "alleged_entities": [
+    "Taragaon Regency Hotels Ltd.",
+    "ICTC Group",
+    "Radheshyam Saraf",
+    "Ram Lal Shrestha"
+  ],
+  "related_entities": [
+    "Taragaon Development Committee (TDC)",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Parliament of Nepal (Public Accounts Committee, International Relations Committee)",
+    "National Vigilance Centre (NVC)",
+    "Ministry of Culture, Tourism and Civil Aviation",
+    "Central Investigation Bureau (CIB)"
+  ],
+  "locations": [
+    {
+      "other": "Boudha",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Land Grabbing",
+    "Public-Private Partnership",
+    "Share Dilution",
+    "Corruption",
+    "Parliamentary Investigation",
+    "CIAA",
+    "Hyatt Regency",
+    "Lease Agreement"
+  ],
+  "case_start_date": "1992-10-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "1977-01-01",
+      "title": "Establishment of Taragaon Development Committee",
+      "description": "The Government of Nepal establishes the Taragaon Development Committee (TDC) under the Ministry of Tourism to promote tourism infrastructure."
+    },
+    {
+      "event_date": "1992-10-01",
+      "title": "Joint Venture Agreement Signed",
+      "description": "An agreement is reached between the TDC, the ICTC Group, and hotelier Radheshyam Saraf to jointly operate a world-class hotel. The government's initial share via TDC is set at 39.77%."
+    },
+    {
+      "event_date": "1993-01-01",
+      "title": "First Parliamentary Scrutiny",
+      "description": "The Public Accounts Committee (PAC) of parliament conducts an initial study and raises concerns about the deal's terms and potential for losses to the state."
+    },
+    {
+      "event_date": "1994-05-01",
+      "title": "Land Transferred and Leased",
+      "description": "150 ropani of TDC's land is transferred to the ownership of the joint venture, Taragaon Regency Hotels Ltd. Another 148 ropani are leased to the company for 49 years."
+    },
+    {
+      "event_date": "1999-08-01",
+      "title": "Hotel Operations Begin",
+      "description": "The Hyatt Regency Kathmandu hotel officially begins its operations."
+    },
+    {
+      "event_date": "2014-01-01",
+      "title": "Government Share Diluted",
+      "description": "After a series of rights share issues, the government's stake in the hotel company is reduced to its current level of 9.01%, down from the initial 39.77%."
+    },
+    {
+      "event_date": "2019-03-27",
+      "title": "Government Committee Submits Report",
+      "description": "A government-formed investigation committee, led by Samer Bahadur Singh Thakuri, submits its report on the land dispute to the Ministry of Land Management."
+    },
+    {
+      "event_date": "2019-04-02",
+      "title": "Parliamentary Sub-Committee Submits Report",
+      "description": "A sub-committee of the parliament's International Relations Committee, led by Agni Prasad Sapkota, submits its report concluding major irregularities in the land and share transfers."
+    },
+    {
+      "event_date": "2019-04-07",
+      "title": "Parliamentary Committee Directs Government",
+      "description": "The full International Relations Committee directs the government to take immediate steps to reclaim the 150 ropanis of land transferred to the hotel and scrap the lease."
+    },
+    {
+      "event_date": "2019-10-02",
+      "title": "CIAA Decides Against Filing Case",
+      "description": "The Commission for the Investigation of Abuse of Authority (CIAA) announces its decision not to file a formal corruption case regarding the issue."
+    },
+    {
+      "event_date": "2020-06-05",
+      "title": "TDC Requests Action",
+      "description": "The Taragaon Development Committee officially requests the Ministry of Tourism to take action to reclaim the land as per the parliamentary committee's directive."
+    },
+    {
+      "event_date": "2021-06-01",
+      "title": "National Vigilance Centre Reports Irregularities",
+      "description": "The National Vigilance Centre (NVC) submits a report with findings contrary to the CIAA, instructing the TDC to pursue recovery of share value and protect the land."
+    },
+    {
+      "event_date": "2023-04-18",
+      "title": "Ministry Seeks Clarification from Hyatt",
+      "description": "The Ministry of Culture, Tourism and Civil Aviation sends a letter to the Hyatt Regency management seeking clarification and asking why the land lease contract should not be terminated."
+    },
+    {
+      "event_date": "2024-09-15",
+      "title": "New Parliamentary Study Launched",
+      "description": "The House of Representatives' International Relations and Tourism Committee begins a new internal study into the decades-old dispute."
+    }
+  ],
+  "sources": [
+    {
+      "title": "House panel directs govt to scrap Taragaon land lease deal, take back land",
+      "url": "https://myrepublica.nagariknetwork.com/news/house-panel-directs-govt-to-scrap-taragaon-land-lease-deal-take-back-land/",
+      "description": "A MyRepublica news report from April 8, 2019, detailing the findings and recommendations of the parliamentary sub-committee led by Agni Sapkota, which called for reclaiming the land."
+    },
+    {
+      "title": "Panel directs government to scrap Hyatt land deal",
+      "url": "https://thehimalayantimes.com/nepal/panel-directs-government-to-scrap-hyatt-land-deal",
+      "description": "The Himalayan Times report from April 7, 2019, covering the parliamentary committee's directive to the government to annul the land deal with Taragaon Regency Hotels."
+    },
+    {
+      "title": "CIAA decides not to file corruption case against Hyatt Regency",
+      "url": "https://english.onlinekhabar.com/ciaa-decides-not-to-file-corruption-case-against-hyatt-regency/",
+      "description": "Onlinekhabar report from October 2, 2019, stating the CIAA's decision not to proceed with a formal corruption case, citing lack of evidence of malafide intent from government officials during the process."
+    },
+    {
+      "title": "Vigilance Center's report on Hyatt's land: Different from CIAA's conclusion, instructions to recover arrears",
+      "url": "https://himalpress.com/2021/06/61984/",
+      "description": "A Himal Press article (in Nepali) from June 6, 2021, reporting on the National Vigilance Centre's investigation which contradicted the CIAA's earlier decision and recommended pursuing recovery of state assets."
+    },
+    {
+      "title": "Parliamentary committee launches study into decades-old Taragaon dispute",
+      "url": "https://myrepublica.nagariknetwork.com/news/parliamentary-committee-launches-study-into-decades-old-taragaon-dispute/",
+      "description": "A MyRepublica report from September 15, 2024, confirming that the parliamentary International Relations and Tourism Committee has initiated a new study into the unresolved land controversy."
+    },
+    {
+      "title": "Taragaon Development Committee Official Website",
+      "url": "https://www.taragaon.com/",
+      "description": "Official website of the Taragaon Development Committee, the government entity at the center of the case. It provides background on the committee's mandate and history."
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "title": "Sardu Jaladhar Watershed Land Encroachment Case",
+  "description": "<p>This case concerns the illegal registration and sale of over 300 bighas of government-owned watershed land in the Sardu Jaladhar area of Dharan, Sunsari. This land is the primary drinking water source for the Dharan Sub-Metropolitan City.</p><p>The issue originated between 1977 and 1981 (2034-2038 BS) when the Government of Nepal compensated and relocated approximately 180 families from 348 bighas of land to protect the watershed, following a directive from King Birendra. The compensated families were given alternative land in the Bayarban area of Morang District. However, a critical administrative failure occurred: the land records for the Sardu plots were never updated to reflect government ownership (a process known as <strong>'lagat katta'</strong>). The land remained registered in the names of the original, compensated owners.</p><p>Decades later, a group allegedly led by political figures and local strongmen, including <strong>Nain Kumar Rai</strong>, <strong>Bansi Moktan</strong>, and <strong>Jagat Rai</strong>, discovered this loophole. They allegedly colluded with some original landowners to fraudulently acquire and sell off the valuable watershed land.</p><p>The illegal activities were exacerbated by a <strong>Supreme Court</strong> decision in July 2012. The court dismissed a review petition filed by the Sunsari District Development Committee, reportedly because evidence of the prior compensation was not adequately presented. This ruling emboldened the land grabbers, leading to widespread plotting and selling of the public land.</p><p>Following a comprehensive investigation by the 'Commission for the Investigation of Government, Public and Guthi Land, 2076 BS,' the government initiated action to reclaim the land. The commission's report confirmed that 348 bighas were illegally held and recommended prosecution of those involved. Acting on this, the Land Revenue Office in Dharan has successfully cancelled private registrations and returned a significant portion of the land to state ownership:</p><ul><li><strong>May 11, 2021:</strong> 182 bigha, 10 kattha, 4 dhur</li><li><strong>December 22, 2022:</strong> 23 bigha, 2 kattha, 0.5 dhur</li><li><strong>February 10, 2023:</strong> 1 bigha, 16 kattha, 1 dhur</li></ul><p>As of early 2023, over 312 bighas have been recovered. However, approximately 42 bighas that were sold to numerous third parties remain in dispute, complicated by a stay order from the High Court in Biratnagar.</p>",
+  "unverified_info": "<p>There are several serious allegations that require further verification:</p><ul><li>An article by Annapurna Post alleges that a corruption file on the Sardu case was deliberately made to 'disappear' from the CIAA's Itahari office. This was allegedly done by the then-chief, <strong>Prem Prasad Bhattarai</strong>, to protect his brother, <strong>Phadindra Bhattarai</strong>, a Land Revenue Officer implicated in a separate fraudulent land transfer in the same area.</li><li>The same article alleges that Supreme Court judges were in collusion with the 'land mafias' to secure a favorable verdict, which enabled the land grabbing.</li><li>The full extent of collusion by officials within the Land Revenue Office and Survey Office is not fully established, though several employees, including Kharidars Ram Bhattarai and Om Lamsal, and Survey Chief Shashikant Jha, have been named in news reports as being complicit.</li></ul>",
+  "key_allegations": [
+    "Fraudulent registration and sale of public watershed land",
+    "Exploitation of administrative negligence in land record management",
+    "Collusion between private individuals, political figures, and government officials",
+    "Organized crime ('land mafia') to illegally acquire and profit from government property"
+  ],
+  "alleged_entities": [
+    "Nain Kumar Rai",
+    "Bansi Moktan",
+    "Jagat Rai",
+    "Dilip Rai",
+    "Birke Rai",
+    "Phadindra Bhattarai",
+    "Prem Prasad Bhattarai",
+    "Ram Bhattarai",
+    "Om Lamsal",
+    "Shashikant Jha"
+  ],
+  "related_entities": [
+    "Dharan Sub-Metropolitan City",
+    "Sunsari District Development Committee",
+    "Supreme Court of Nepal",
+    "Land Revenue Office, Dharan",
+    "Survey Office, Sunsari",
+    "Commission for the Investigation of Abuse of Authority (CIAA), Itahari",
+    "Commission for the Investigation of Government, Public and Guthi Land, 2076 BS",
+    "Ministry of Land Management, Cooperatives and Poverty Alleviation",
+    "High Court, Biratnagar"
+  ],
+  "locations": [
+    {
+      "other": "Sardu Jaladhar (watershed) area, including Chotimorang Dada and Kabita Kunja",
+      "ward_no": 4,
+      "municipality": "Dharan Sub-Metropolitan City",
+      "district": "Sunsari",
+      "province": "Koshi"
+    },
+    {
+      "other": "Bayarban area (location of compensation land)",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Morang",
+      "province": "Koshi"
+    }
+  ],
+  "tags": [
+    "Land Grabbing",
+    "Corruption",
+    "Public Land",
+    "Environmental Crime",
+    "Administrative Negligence",
+    "Dharan",
+    "Sunsari"
+  ],
+  "case_start_date": "1977-01-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "1977-01-01",
+      "title": "Land Swap and Administrative Failure",
+      "description": "Between 1977 and 1981, approximately 180 families in the Sardu watershed were compensated with land in Morang. However, the government failed to cancel the original land titles ('lagat katta'), leaving them in private hands."
+    },
+    {
+      "event_date": "2001-07-01",
+      "title": "Illegal Sales Discovered",
+      "description": "The Sunsari District Development Committee discovered that the watershed land was being illegally sold and issued an order to freeze all transactions related to it. (Date is approximate)."
+    },
+    {
+      "event_date": "2012-07-23",
+      "title": "Supreme Court Dismisses Review Petition",
+      "description": "A joint bench of the Supreme Court, including Justice Sushila Karki, dismissed a review petition filed by the government. This decision intensified the illegal plotting and selling of the land."
+    },
+    {
+      "event_date": "2020-01-15",
+      "title": "Cabinet Approves Land Reclamation",
+      "description": "The Council of Ministers, acting on the report of a high-level commission, decided to reclaim the 348 bighas of encroached land and prosecute those involved. (Date is approximate for January 2020)."
+    },
+    {
+      "event_date": "2021-05-11",
+      "title": "First Major Land Recovery",
+      "description": "The Land Revenue Office in Dharan officially cancelled private registrations and returned 182 bighas, 10 katthas, and 4 dhurs of land to the ownership of the Sardu watershed."
+    },
+    {
+      "event_date": "2022-12-22",
+      "title": "Second Land Recovery",
+      "description": "An additional 23 bighas, 2 katthas, and 0.5 dhurs of encroached land were officially returned to state ownership."
+    },
+    {
+      "event_date": "2023-02-10",
+      "title": "Land Returned by Key Accused",
+      "description": "Following pressure from a CIAA investigation, key accused Jagat Rai consented to return 1 bigha, 16 katthas, and 1 dhur of land to the watershed's name."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nagarik News: 1 Bigha Land of Sardu Returned",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/745161-1676263500.html",
+      "description": "Reports on the return of over 1 bigha of land by Jagat Prasad Rai in February 2023, noting that this occurred after the CIAA called him for statements. It identifies Rai as a key figure."
+    },
+    {
+      "title": "Annapurna Post: Government Land in Sardu Area in Individual's Name",
+      "url": "http://annapurnapost.com/news/sardu-jaladhar-kshetako-sarkari-jagga-byaktiko-namma-180869",
+      "description": "A detailed investigative piece alleging corruption and collusion, including the claim that a CIAA file was made to 'disappear' to protect an official's brother."
+    },
+    {
+      "title": "myRepublica: Land mafia selling land of Sardu watershed area",
+      "url": "https://myrepublica.nagariknetwork.com/news/land-mafia-selling-land-of-sardu-watershed-area-locals/",
+      "description": "An October 2017 report on the encroachment, quoting locals and activists who accuse political leaders and civil servants of involvement."
+    },
+    {
+      "title": "Nagarik News: 182 Bighas of Encroached Land in Sardu Returned",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/567953-1623810180.html",
+      "description": "News report confirming the first major land recovery of 182 bighas in May 2021, detailing the history of the land swap and subsequent encroachment."
+    },
+    {
+      "title": "Kapuri News: Decision to Reclaim 348 Bighas of Sardu",
+      "url": "https://kapurinews.com/2020/01/5766/",
+      "description": "Reports on the cabinet's decision in early 2020 to implement the recommendation of the land investigation commission to reclaim the 348 bighas of land."
+    },
+    {
+      "title": "myRepublica: Sardu watershed area faces existential crisis",
+      "url": "https://myrepublica.nagariknetwork.com/news/sardu-watershed-area-faces-existential-crisis/",
+      "description": "Details the environmental threat posed by the land encroachment and the ongoing illegal plotting activities in the watershed."
+    },
+    {
+      "title": "Nagarik News: Sardu land is being plotted",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/78644-1547568900.html",
+      "description": "An article from January 2019 describing the ongoing illegal plotting and selling of land in the watershed area."
+    },
+    {
+      "title": "Khabarjyoti: The Story of the Sardu Land Loot",
+      "url": "https://www.khabarjyoti.com/2021/02/14/40540.html",
+      "description": "Provides a historical overview of the case, from the original royal order to the Supreme Court's controversial decision and the involvement of political figures."
+    }
+  ]
+}

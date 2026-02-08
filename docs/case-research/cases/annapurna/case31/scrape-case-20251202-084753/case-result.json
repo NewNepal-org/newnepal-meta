@@ -1,0 +1,84 @@
+{
+  "title": "Substandard Construction and Contract Termination of Tinkune Bridge",
+  "description": "<p>This case concerns the construction of an 85-metre arch bridge over the Bagmati River at Tinkune, Kathmandu. The contract was awarded to <strong>Pappu Construction Pral.</strong> in December 2014, with a total project value of Rs 210 million.</p><p>The project was plagued by significant delays and substandard work from the outset. A technical study conducted by the Department of Roads (DoR) on August 1, 2019, revealed that the construction was of poor quality and the bridge's foundation was unstable. Despite repeated warnings to dismantle and rebuild the faulty structure according to the approved design and engineering guidelines, the company failed to comply.</p><p>As a result of the persistent non-compliance and failure to meet quality standards, the Government of Nepal officially terminated the contract with Pappu Construction on <strong>November 19, 2019</strong>. At the time of termination, only about 25% of the work had been completed, for which the company had already received payments totaling Rs 60 million. The government seized the bank guarantee of Rs 27 million that Pappu Construction had deposited.</p><p>Following the termination, the Public Procurement Monitoring Office (PPMO) blacklisted the company in February 2020. In September 2021, the Kathmandu Valley Road Improvement Project issued a public notice demanding Pappu Construction pay a cash penalty of approximately <strong>Rs 50 million</strong> as compensation for breaching the contract.</p>",
+  "unverified_info": "<p>Initial information may have conflated this case with another high-profile corruption case involving Pappu Construction concerning the Jabdighat Bridge in Bardiya. A reported loss figure of 'sadhe 21 karod' (21.5 crore or Rs 215 million) is very close to the total estimated project cost of the Tinkune Bridge (<strong>Rs 210 million or 21 crore</strong>). It is plausible that the 'loss' was informally equated with the total value of the failed project. However, no official document specifies a loss of exactly 21.5 crore for this case. The direct financial loss based on payments made to the company before termination was reported to be Rs 60 million (6 crore).</p>",
+  "key_allegations": [
+    "Substandard public infrastructure",
+    "Willful negligence",
+    "Non-performance of contract"
+  ],
+  "alleged_entities": [
+    "Pappu Construction Pral.",
+    "Harinarayan Prasad Sah Rauniyar"
+  ],
+  "related_entities": [
+    "Department of Roads (DoR)",
+    "Government of Nepal",
+    "Kathmandu Valley Road Improvement Project",
+    "Public Procurement Monitoring Office (PPMO)"
+  ],
+  "locations": [
+    {
+      "other": "Tinkune, Bagmati River Bridge",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati Province"
+    }
+  ],
+  "tags": [
+    "Infrastructure",
+    "Construction",
+    "Contract Termination",
+    "Substandard Work",
+    "Blacklisting",
+    "Pappu Construction",
+    "Department of Roads"
+  ],
+  "case_start_date": "2014-12-19",
+  "case_end_date": "2021-09-22",
+  "timeline": [
+    {
+      "event_date": "2014-12-19",
+      "title": "Contract Signed",
+      "description": "A contract to build the Tinkune arch bridge was signed between the government and Pappu Construction Pral."
+    },
+    {
+      "event_date": "2019-08-01",
+      "title": "Technical Report Finds Substandard Work",
+      "description": "A technical study by the Department of Roads (DoR) revealed that the construction work was of poor quality and the bridge's base was unstable."
+    },
+    {
+      "event_date": "2019-11-19",
+      "title": "Contract Terminated",
+      "description": "The Government of Nepal officially terminated the construction contract with Pappu Construction due to failure to meet quality standards and heed warnings."
+    },
+    {
+      "event_date": "2020-02-01",
+      "title": "Company Blacklisted",
+      "description": "The Public Procurement Monitoring Office (PPMO) blacklisted Pappu Construction in February 2020 following the contract termination."
+    },
+    {
+      "event_date": "2021-09-22",
+      "title": "Penalty Demanded",
+      "description": "The Kathmandu Valley Road Improvement Project issued a public notice demanding a cash penalty of approximately Rs 50 million from Pappu Construction for breach of contract."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Govt scraps construction agreement with Pappu",
+      "url": "https://thehimalayantimes.com/business/government-scraps-construction-agreement-with-pappu",
+      "description": "The Himalayan Times article reporting on the contract termination in November 2019, the project cost of Rs 210 million, the Rs 60 million paid to Pappu, the seizure of the Rs 27 million bank guarantee, and the DoR's technical findings."
+    },
+    {
+      "title": "Pappu Construction slapped with cash penalty of Rs 50 million for low quality construction",
+      "url": "https://myrepublica.nagariknetwork.com/news/pappu-construction-slapped-with-cash-penalty-of-rs-50-million-for-low-quality-construction/",
+      "description": "My Republica article detailing the penalty demanded in September 2021, the dates of contract signing and termination, and the blacklisting of the company in February 2020."
+    },
+    {
+      "title": "Pappu Construction beset by a series of setbacks after its owner was suspended as a lawmaker",
+      "url": "https://kathmandupost.com/national/2019/12/02/pappu-construction-beset-by-a-series-of-setbacks-after-its-owner-was-suspended-as-a-lawmaker",
+      "description": "The Kathmandu Post article confirming the contract termination for the Tinkune bridge and noting that the company had rejected instructions to correct mistakes and rebuild according to the approved design."
+    }
+  ]
+}

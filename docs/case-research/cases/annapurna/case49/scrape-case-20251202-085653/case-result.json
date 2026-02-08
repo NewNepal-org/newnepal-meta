@@ -1,0 +1,132 @@
+{
+  "title": "Omni Group Medical Procurement Scandal",
+  "description": "<p>The \"Omni Scandal\" involves significant irregularities in an emergency contract awarded by Nepal's Ministry of Health and Population to <strong>Omni Business Corporate International (OBCI) Pvt. Ltd.</strong> in March 2020 for the procurement of medical supplies during the initial phase of the COVID-19 pandemic. The contract, valued at over <strong>NPR 1.24 billion</strong> (approximately $10 million USD), was for critical items such as Personal Protective Equipment (PPE), N95 masks, and testing kits.</p><p>The deal was pushed through without a competitive bidding process, citing emergency provisions. However, allegations of corruption emerged almost immediately due to several key issues:</p><ul><li><strong>Inflated Prices:</strong> Omni charged prices significantly higher than market rates. For instance, N95 masks were procured at Rs 828.67 each, while the market rate was around Rs 462.50. Non-contact thermometers were bought for Rs 7,500 against a market price of approximately Rs 4,000.</li><li><strong>Irregular Process:</strong> The parliamentary <strong>Public Accounts Committee (PAC)</strong> found that the procurement decision was driven by then-Health Minister Bhanubhakta Dhakal and his chief advisor, Dr. Khem Karki, who allegedly lacked the legal authority to lead negotiations. The PAC concluded the process violated the Public Procurement Act.</li><li><strong>Lack of Qualification:</strong> Omni Group had no prior experience in supplying medical equipment and reportedly failed to submit a valid tax clearance certificate at the time of the agreement.</li><li><strong>Failed and Substandard Deliveries:</strong> Omni delivered only about 10% of the goods. Furthermore, the 75,000 Rapid Diagnostic Test (RDT) kits it supplied were later found by the Nepal Health Research Council to be of inferior quality and low effectiveness.</li></ul><p>Following intense public and media pressure, the Department of Health Services (DoHS) <strong>cancelled the contract on April 1, 2020</strong>, citing Omni's failure to deliver supplies on time. The government seized the company's Rs 50 million security deposit. Subsequently, the Public Procurement Monitoring Office blacklisted Omni Group for one year. The PAC's investigation concluded that corruption had occurred and formally instructed the Commission for the Investigation of Abuse of Authority (CIAA) to investigate and prosecute those responsible.</p>",
+  "unverified_info": "<p>The following information is based on claims reported in the media but has not been fully verified through official court or investigative documents:</p><ul><li>While the contract value was over NPR 1.24 billion, the exact financial loss to the state due to corruption has not been officially quantified by a court or investigative body.</li><li>Media reports suggested that Omni Group secured the deal due to its close political connections. Specifically, Yubaraj Sharma, a person linked to the company, was alleged to have close relations with then-Prime Minister KP Sharma Oli.</li><li>The final outcome of the CIAA investigation remains unclear. Despite the PAC's formal request for a probe in December 2020, reports from April 2021 indicated that the investigation had stalled, with no public information available on whether legal action was taken against the implicated officials.</li></ul>",
+  "key_allegations": [
+    "Awarding a procurement contract without competitive bidding",
+    "Procurement of medical supplies at inflated prices",
+    "Involvement of unauthorized officials in the procurement decision",
+    "Supply of substandard and low-quality medical equipment (RDT kits)",
+    "Violation of the Public Procurement Act"
+  ],
+  "alleged_entities": [
+    "Omni Business Corporate International (OBCI) Pvt. Ltd.",
+    "Ministry of Health and Population",
+    "Department of Health Services (DoHS)",
+    "Bhanubhakta Dhakal",
+    "Dr. Khem Karki"
+  ],
+  "related_entities": [
+    "Ishwar Pokharel",
+    "Mahendra Shrestha",
+    "Yadav Koirala",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Parliamentary Public Accounts Committee (PAC)",
+    "Public Procurement Monitoring Office",
+    "High-Level Coordination Committee to Control Covid-19"
+  ],
+  "locations": [
+    {
+      "other": "Nepal",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Procurement Irregularity",
+    "COVID-19",
+    "Healthcare",
+    "Public Health",
+    "Ministry of Health and Population",
+    "Political Corruption"
+  ],
+  "case_start_date": "2020-03-25",
+  "case_end_date": "2020-04-01",
+  "timeline": [
+    {
+      "event_date": "2020-03-25",
+      "title": "Procurement Agreement Signed",
+      "description": "The Department of Health Services (DoHS) signed an agreement with Omni Business Corporate International (OBCI) to procure medical equipment from China."
+    },
+    {
+      "event_date": "2020-03-29",
+      "title": "First Shipment Delivered",
+      "description": "Omni Group delivered its first and only shipment of medical supplies, which constituted about 10% of the total order."
+    },
+    {
+      "event_date": "2020-04-01",
+      "title": "Contract Cancelled",
+      "description": "Amid public outcry over high prices and procedural flaws, the DoHS unilaterally cancelled the contract with Omni Group, citing its failure to deliver supplies as per the agreement."
+    },
+    {
+      "event_date": "2020-09-13",
+      "title": "Omni Group Blacklisted",
+      "description": "The Public Procurement Monitoring Office formally decided to blacklist Omni Group for a period of one year."
+    },
+    {
+      "event_date": "2020-12-18",
+      "title": "PAC Concludes Corruption Occurred",
+      "description": "The parliamentary Public Accounts Committee (PAC) concluded its investigation, finding evidence of corruption, and decided to write to the CIAA to investigate and prosecute those involved."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Kathmandu Post - PAC Investigation Begins",
+      "url": "https://kathmandupost.com/national/2020/06/23/public-accounts-committee-begins-investigation-into-omni-group-s-procurement-of-medical-supplies",
+      "description": "Report on the start of the Public Accounts Committee's investigation into the Omni Group's procurement of medical supplies."
+    },
+    {
+      "title": "The Kathmandu Post - Concern over Stalled Investigation",
+      "url": "https://kathmandupost.com/national/2021/04/02/lack-of-urgency-to-investigate-omni-case-raises-concern",
+      "description": "Article reporting on concerns that the CIAA's investigation into the Omni case had not made significant progress, suggesting political pressure."
+    },
+    {
+      "title": "The Kathmandu Post - Omni Blacklisted",
+      "url": "https://kathmandupost.com/national/2020/09/14/omni-gets-off-lightly-being-blacklisted-for-just-a-year-instead-of-three-years",
+      "description": "News report on Omni Group being blacklisted for one year, a penalty considered lenient by critics."
+    },
+    {
+      "title": "myRepublica - Govt Scraps Procurement Deal",
+      "url": "https://myrepublica.nagriknetwork.com/news/under-flak-for-irregularities-govt-scraps-huge-medical-procurement-deal/",
+      "description": "Report on the government's decision to scrap the controversial medical procurement deal with Omni Group following public criticism."
+    },
+    {
+      "title": "myRepublica - Details on Contract Cancellation",
+      "url": "https://myrepublica.nagriknetwork.com/news/govt-scraps-controversial-procurement-deal-with-omni-group/",
+      "description": "Article providing details on the cancellation of the Omni contract and the seizure of its security deposit."
+    },
+    {
+      "title": "Setopati - PAC Finds Corruption",
+      "url": "https://en.setopati.com/political/154181",
+      "description": "Report on the Public Accounts Committee's final conclusion that corruption occurred in the Omni deal and its decision to hand the case to the CIAA."
+    },
+    {
+      "title": "The Himalayan Times - PAC Indicts Omni",
+      "url": "https://thehimalayantimes.com/nepal/pac-indicts-omni-group-for-irregularities",
+      "description": "Article covering the PAC's indictment of Omni Group for irregularities and its call for a formal probe by the CIAA."
+    },
+    {
+      "title": "OnlineKhabar - Nepal Corruption Scandals",
+      "url": "https://english.onlinekhabar.com/nepal-corruption-scandals-election-agenda.html",
+      "description": "An article providing context on major corruption scandals in Nepal, including the Omni case."
+    },
+    {
+      "title": "The Record - The Omni Scandal and Its Impacts",
+      "url": "https://www.recordnepal.com/the-omni-scandal-and-its-impacts",
+      "description": "In-depth analysis of the Omni scandal, its political implications, and the failure of accountability mechanisms."
+    },
+    {
+      "title": "The Record - CIAA's Role in Probing Corruption",
+      "url": "https://www.recordnepal.com/corrupt-ciaa-tasked-with-probing-covid-corruption",
+      "description": "A commentary on the role of the CIAA in investigating corruption cases from the COVID-19 pandemic, with a focus on the Omni scandal."
+    },
+    {
+      "title": "Parliamentary Public Accounts Committee (PAC) Reports",
+      "url": "Not available",
+      "description": "The official investigation reports from the PAC which concluded that the procurement process was illegal and involved corruption. The findings are widely cited and summarized in the news articles provided as sources."
+    }
+  ]
+}

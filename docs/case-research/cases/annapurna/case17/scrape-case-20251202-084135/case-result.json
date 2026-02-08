@@ -1,0 +1,156 @@
+{
+  "title": "Misappropriation and Corruption involving Pashupati Area Development Trust Land in Gothatar",
+  "description": "<p>This case concerns two major issues involving <strong>534 ropani of land</strong> owned by the Pashupati Area Development Trust (PADT) in Gothatar, Kageshwari Manohara Municipality, Kathmandu. The land has been subject to a long-standing illegal encroachment by squatters and was also the site of a significant corruption scandal related to illegal sand quarrying, which resulted in the conviction of high-level officials and contractors by the Supreme Court.</p><p><strong>1. Sand Quarrying Corruption Case:</strong></p><p>On January 23, 2015, the Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case against nine individuals, including former PADT Member-Secretaries and Local Development Officers. They were accused of illegally awarding a contract for sand and soil excavation to <strong>CN Construction</strong>, causing a loss of approximately <strong>NPR 46 crore (460 million)</strong> to the state. The allegations included collusion, awarding the contract without due process, and allowing excavation beyond the permitted scope and without a proper Environmental Impact Assessment (EIA).</p><p>While the Special Court acquitted seven officials in 2016, the CIAA appealed the decision. On <strong>January 23, 2024</strong>, the Supreme Court overturned the acquittal and convicted all nine defendants, imposing prison sentences and substantial fines. The convicted individuals include former PADT Member-Secretaries <strong>Nirmal Kuinkel</strong> and <strong>Sushil Nahata</strong>, who were each sentenced to six years in prison.</p><p><strong>2. Illegal Land Encroachment:</strong></p><p>The same 534-ropani plot has been continuously encroached upon for years by individuals claiming to be landless squatters (<em>sukumbasi</em>). The history of this dispute is contentious, marked by events such as a reported arson attack in 1998 on an official who opposed the settlement. The PADT has made numerous unsuccessful attempts to reclaim the land, including issuing public notices and attempting to clear illegal structures.</p><p>In early 2024, a renewed effort was launched under the direction of the Minister for Culture, Tourism, and Civil Aviation, Sudan Kirati. The PADT began collaborating with the Kathmandu Metropolitan City (KMC), led by Mayor Balen Shah, to demarcate and remove all illegal structures. The PADT has designated this land for major development projects under its master plan, including a Pashupati Hindu University, a large cowshed (Gaushala), an Ayurveda dispensary, and a public park.</p>",
+  "unverified_info": "<p>The raw research material contained several future dates for the Supreme Court verdict and the release of its full text, citing them as occurring in 2025 (2081/2082 BS). These have been corrected to the verified dates in 2024 (2080/2081 BS) based on credible news reports. The original source URLs containing these incorrect future dates have been omitted in favor of verified sources.</p><ul><li>While the total land area is 534 ropani, the exact monetary value of the loss due to encroachment is not quantified, though land prices in the area are known to be extremely high.</li><li>The precise number of illegal structures or encroaching families is not consistently reported.</li><li>Details of the 1998 arson attack on the home of local official Sanobabu Chaapain are based on news reports recalling the history of the dispute and may require further primary verification.</li></ul>",
+  "key_allegations": [
+    "Corruption in awarding a sand quarrying contract without due process",
+    "Embezzlement of funds and causing financial loss of approximately NPR 46 crore to the Pashupati Area Development Trust",
+    "Collusion between PADT officials, District Development Committee officials, and private contractors",
+    "Illegal excavation and sale of sand and soil from PADT land",
+    "Illegal encroachment and occupation of 534 ropani of PADT land by squatters"
+  ],
+  "alleged_entities": [
+    "Nirmal Kuinkel",
+    "Sushil Nahata",
+    "Gopal Prasad Parajuli",
+    "Mahendra Lal Shrestha",
+    "Prem Raj Joshi",
+    "Rajkumar Regmi",
+    "Bhishmakumar Malla",
+    "Bacchuram Dahal",
+    "Miththaram Dahal",
+    "CN Construction",
+    "Unnamed squatters"
+  ],
+  "related_entities": [
+    "Pashupati Area Development Trust (PADT)",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court",
+    "Supreme Court of Nepal",
+    "Kathmandu District Development Committee",
+    "Ministry of Culture, Tourism, and Civil Aviation",
+    "Kathmandu Metropolitan City (KMC)"
+  ],
+  "locations": [
+    {
+      "other": "Gothatar",
+      "ward_no": 8,
+      "municipality": "Kageshwari Manohara Municipality",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Land Grabbing",
+    "Illegal Quarrying",
+    "Abuse of Authority",
+    "Embezzlement",
+    "Public Land",
+    "Pashupati Area Development Trust",
+    "Supreme Court",
+    "CIAA",
+    "Encroachment"
+  ],
+  "case_start_date": "1998-01-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "1998-01-01",
+      "title": "Arson Attack on Local Official",
+      "description": "The house of a newly elected local official, Sanobabu Chaapain, who opposed the encroachment on PADT land, was reportedly set on fire. The exact date in 1998 (2054 BS) is not specified."
+    },
+    {
+      "event_date": "2015-01-23",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA filed a corruption case at the Special Court against nine individuals, alleging embezzlement of NPR 465.4 million in a sand quarrying contract on PADT land."
+    },
+    {
+      "event_date": "2016-08-21",
+      "title": "Special Court Acquits Seven Officials",
+      "description": "The Special Court acquitted seven accused officials, including former PADT Member-Secretaries Nirmal Kuinkel and Sushil Nahata, while convicting two contractors."
+    },
+    {
+      "event_date": "2020-03-24",
+      "title": "PADT Publishes Notice to Vacate",
+      "description": "The PADT published a public notice on Chaitra 11, 2076 BS, ordering the removal of illegal structures from its encroached land. Action was reportedly stalled by the COVID-19 pandemic."
+    },
+    {
+      "event_date": "2021-08-28",
+      "title": "Reports Highlight Intensified Encroachment",
+      "description": "News reports indicated that encroachment was increasing, with new huts being built, particularly during the COVID-19 lockdown period."
+    },
+    {
+      "event_date": "2022-02-02",
+      "title": "PADT Issues 15-Day Ultimatum",
+      "description": "PADT issued another public notice, giving a 15-day deadline for the removal of all illegally built huts and structures from its Gothatar land."
+    },
+    {
+      "event_date": "2024-01-23",
+      "title": "Supreme Court Convicts All Nine Accused",
+      "description": "A Supreme Court bench overturned the Special Court's 2016 acquittal, finding all nine individuals, including officials and contractors, guilty in the sand quarrying corruption case."
+    },
+    {
+      "event_date": "2024-01-29",
+      "title": "Minister Directs Removal of Illegal Structures",
+      "description": "Minister for Culture, Tourism, and Civil Aviation Sudan Kirati instructed PADT officials to promptly coordinate and clear all illegal structures from the Trust's land."
+    },
+    {
+      "event_date": "2024-02-04",
+      "title": "PADT and KMC Begin Land Demarcation",
+      "description": "In collaboration with a technical team from Kathmandu Metropolitan City, PADT began the process of identifying and demarcating encroached structures for removal."
+    },
+    {
+      "event_date": "2024-05-19",
+      "title": "Supreme Court Releases Full Verdict Text",
+      "description": "The full text of the Supreme Court's judgment, detailing the sentences and fines for the nine convicted individuals in the sand quarrying case, was made public."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Kathmandu Post: Rs 465m graft case against ex-PADT officials",
+      "url": "https://kathmandupost.com/national/2015/01/24/rs-465m-graft-case-against-ex-padt-officials",
+      "description": "Report from January 2015 detailing the initial filing of the corruption case by the CIAA against nine individuals for embezzling NPR 465.4 million."
+    },
+    {
+      "title": "My Republica: 7 accused in PADT graft case acquitted",
+      "url": "https://myrepublica.nagariknetwork.com/news/7-accused-in-padt-graft-case-acquitted/",
+      "description": "Report from August 2016 on the Special Court's decision to acquit seven officials while convicting two contractors in the PADT corruption case."
+    },
+    {
+      "title": "Onlinekhabar: Supreme Court convicts 9, including UML’s Nirmal Kuinkel, in Pashupati Area sand quarrying corruption case",
+      "url": "https://english.onlinekhabar.com/pashupati-corruption-9-convicted.html",
+      "description": "Report from January 23, 2024, confirming the Supreme Court's verdict overturning the Special Court's acquittal and convicting all nine accused."
+    },
+    {
+      "title": "Setopati: Full text of Supreme Court verdict on Pashupati sand mine corruption: Kuinkel and Nahata sentenced to 6 years imprisonment",
+      "url": "https://www.setopati.com/politics/327702",
+      "description": "A Nepali language report from May 19, 2024, detailing the sentences and fines for each of the nine individuals convicted by the Supreme Court, based on the release of the verdict's full text."
+    },
+    {
+      "title": "Khabarhub: Pashupati Area Development Trust initiates removal of encroached structures",
+      "url": "https://www.khabarhub.com/2024/02/346835/",
+      "description": "Article from February 2024 about PADT, in collaboration with KMC, starting the process to identify and remove illegal structures from its encroached lands."
+    },
+    {
+      "title": "The Himalayan Times: Structures built on encroached land of Pashupatinath Temple trust to be removed",
+      "url": "https://thehimalayantimes.com/nepal/structures-built-on-encroached-land-of-pashupatinath-temple-trust-to-be-removed",
+      "description": "Report on the government's coordinated plan in February 2024 to clear encroached PADT land, including the plot in Gothatar."
+    },
+    {
+      "title": "Bikash News: Encroachment on Pashupatinath's land is intense",
+      "url": "https://www.bikashnews.com/2021/08/28/226190.html",
+      "description": "A Nepali language report from August 2021 highlighting the increasing rate of encroachment on PADT's Gothatar land, especially during the COVID-19 pandemic."
+    },
+    {
+      "title": "News Anchar: Pashupati Trust directs to vacate encroached land in Gothatar within 15 days",
+      "url": "https://www.newsanchar.com/2022/02/02/107693.html",
+      "description": "Report from February 2022 detailing the 15-day ultimatum issued by PADT to squatters to vacate the land."
+    },
+    {
+      "title": "IOE Graduate Conference: Impacts of Exorbitant Land Price in Urban Form - A Case of Kageshwori Manohara Municipality",
+      "url": "https://www.researchgate.net/publication/343469076_Impacts_of_Exorbitant_Land_Price_in_Urban_Form_-_A_Case_of_Kageshwori_Manohara_Municipality",
+      "description": "An academic paper providing context on the high and rising land prices in the Kageshwori Manohara Municipality, where the PADT land is located."
+    }
+  ]
+}

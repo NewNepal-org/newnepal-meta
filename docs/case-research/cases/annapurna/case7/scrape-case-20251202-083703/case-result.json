@@ -1,0 +1,70 @@
+{
+  "title": "Nepal Airlines - China Southwest Aircraft Lease Scandal",
+  "description": "<p>This case concerns allegations of corruption and financial irregularities within the Nepal Airlines Corporation (NAC) related to an aircraft lease agreement with China Southwest Airlines around 1998-1999. The incident, known as the 'China Southwest Scandal' (चाइना साउथवेष्ट काण्ड), is listed among several significant corruption cases that have affected the state-owned airline over the years.</p><p>The central allegation is that an improper aircraft rental agreement resulted in a substantial financial loss to NAC, estimated at <strong>NPR 22 Crore</strong>. The deal occurred during a period when <strong>Bhim Rawal</strong> served as the Minister of Culture, Tourism and Civil Aviation (1998-1999), placing the ministry in an oversight role. The primary individual accused in internal documents is identified as <strong>BK Man Singh</strong>.</p><p>Despite being cited as a notable scandal in public records like Wikipedia, detailed official reports, investigation outcomes from bodies like the CIAA, or contemporary news articles were not readily available in public domain searches. This case is distinct from the more recent, widely documented issues concerning Chinese-made MA60 and Y12 aircraft that Nepal Airlines acquired in the 2010s.</p>",
+  "unverified_info": "<p>The following information is derived from initial case notes but has not been independently corroborated with publicly available external sources. It represents important leads for further investigation.</p><ul><li><strong>Specifics of the Allegation:</strong> The core issue was an allegedly improper 'जहाज भाडा' (aircraft rental) from 'South China West,' believed to be China Southwest Airlines.</li><li><strong>Main Accused Person:</strong> An individual named <strong>बीकेमान सिंह (BK Man Singh)</strong> is cited as the main person accused. His exact role or title within Nepal Airlines or in relation to the transaction is unconfirmed from public sources.</li><li><strong>Exact Financial Loss:</strong> The deal is claimed to have caused a precise loss of <strong>२२ करोड (22 Crore) Nepali Rupees</strong>. The mechanics of how this loss was incurred (e.g., through unfavorable lease terms, excessive commissions, or other irregularities) are not detailed in available documents.</li></ul>",
+  "key_allegations": [
+    "Financial irregularity in an aircraft lease agreement with China Southwest Airlines",
+    "Causing a financial loss of approximately NPR 22 Crore to a state-owned enterprise",
+    "Abuse of authority in the procurement process of aviation assets"
+  ],
+  "alleged_entities": [
+    "Nepal Airlines Corporation"
+  ],
+  "related_entities": [
+    "China Southwest Airlines",
+    "Ministry of Culture, Tourism and Civil Aviation"
+  ],
+  "locations": [
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Aircraft Lease",
+    "Financial Irregularity",
+    "State-Owned Enterprise",
+    "Procurement",
+    "Abuse of Authority"
+  ],
+  "case_start_date": "1998-01-01",
+  "case_end_date": "1999-12-31",
+  "timeline": [
+    {
+      "event_date": "1998-01-01",
+      "title": "Period of Alleged Lease Agreement",
+      "description": "The aircraft lease deal between Nepal Airlines Corporation and China Southwest Airlines, which allegedly caused a loss of NPR 22 Crore, is reported to have occurred around 1998-1999 (corresponding to Nepali year 2055 BS)."
+    },
+    {
+      "event_date": "1998-08-26",
+      "title": "Minister's Tenure Begins",
+      "description": "Bhim Rawal takes office as the Minister of Culture, Tourism and Civil Aviation, placing him in a position of authority over Nepal Airlines during the period of the alleged scandal. His tenure lasted until May 1999."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nepal Airlines - Nepali Wikipedia",
+      "url": "https://ne.wikipedia.org/wiki/नेपाल_वायुसेवा_निगम",
+      "description": "The Nepali Wikipedia page for Nepal Airlines Corporation lists the 'China Southwest Scandal' (चाइना साउथवेष्ट काण्ड) as one of the major corruption cases involving the airline, providing public acknowledgement of the event."
+    },
+    {
+      "title": "Bhim Bahadur Rawal - English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bhim_Bahadur_Rawal",
+      "description": "This source confirms Bhim Rawal's tenure as Minister of Culture, Tourism and Civil Aviation from 1998 to 1999, which coincides with the timeline of the alleged scandal."
+    },
+    {
+      "title": "Bhim Bahadur Rawal - Wikiwand",
+      "url": "https://www.wikiwand.com/en/Bhim_Bahadur_Rawal",
+      "description": "An alternative interface for the Wikipedia article that corroborates the timeline of Bhim Rawal's ministerial position during the 1998-1999 period."
+    },
+    {
+      "title": "Bhim Bahadur Rawal - Alchetron",
+      "url": "https://alchetron.com/Bhim-Bahadur-Rawal",
+      "description": "This encyclopedic entry provides additional confirmation of Bhim Rawal's role as Minister of Tourism and Civil Aviation from 1998-1999, aligning with the case's timeline."
+    }
+  ]
+}

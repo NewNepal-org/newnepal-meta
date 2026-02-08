@@ -1,0 +1,177 @@
+{
+  "title": "Nepal Electricity Authority (NEA) Transformer Corruption Case",
+  "description": "<p>A major corruption case involving the procurement of substandard electrical transformers by the Nepal Electricity Authority (NEA). The Commission for the Investigation of Abuse of Authority (CIAA) investigated allegations that NEA officials, including top management, colluded with foreign suppliers to purchase transformers that did not meet quality specifications, resulting in significant financial losses for the state and posing risks to public safety.</p><p>The investigation revealed that transformers procured from Chinese and Thai companies in 2011 were defective, most notably using <strong>aluminum wiring instead of the specified copper wiring</strong>. This defect led to high rates of power leakage, frequent explosions, and widespread equipment failure. Consequently, the CIAA filed four separate corruption cases at the Special Court in August and September 2013 against dozens of NEA officials and representatives of supplier companies.</p><p>On <strong>March 28, 2017</strong>, the Special Court delivered its verdict, convicting 20 NEA officials and 5 individuals associated with the supplier companies. The convicted individuals included former NEA Managing Directors Rameshwar Yadav and Dr. Jivendra Jha. The court imposed a combined penalty of approximately <strong>Rs 462 million</strong> in fines and varying jail sentences. The case was subsequently appealed and, as of August 2021, was undergoing final hearings at the Supreme Court.</p>",
+  "unverified_info": "<p>The following information is unconfirmed or approximate and is included for investigative purposes:</p><ul><li>The CIAA's initial claim across the cases was for a financial loss ranging from <strong>Rs 411.8 million to Rs 500 million</strong>. In one specific case involving 575 transformers, the CIAA sought Rs 79.1 million in fines and an equal amount in compensation.</li><li>The investigation was reportedly expedited after Lokman Singh Karki assumed the role of CIAA chief.</li><li>The CIAA initially sought a bail amount of Rs 175 million from Hu Zheng Qiang of Hubei Sunlight Electric Co Ltd and Rs 180 million from Ou Yang Shi of Sichuan Dongfang Transformer Company. The Supreme Court later significantly reduced the bail amounts for several accused individuals.</li></ul>",
+  "key_allegations": [
+    "Procurement of substandard electrical transformers",
+    "Collusion between Nepal Electricity Authority officials and foreign suppliers",
+    "Deliberate use of aluminum wiring instead of the specified copper wiring",
+    "Causing significant financial loss to the state and endangering public infrastructure"
+  ],
+  "alleged_entities": [
+    "Nepal Electricity Authority (NEA)",
+    "Rameshwar Yadav",
+    "Dr. Jivendra Jha",
+    "Yugal Kishor Sah",
+    "Chiranjivi Sharma Poudel",
+    "Kailash Prasad Atal",
+    "Surendra Yadav",
+    "Surendra Prasad Paneru",
+    "Shekhar Kumar Dutta",
+    "Surendra Raj Joshi",
+    "Krishna Bahadur Thapa",
+    "Pramod Rijal",
+    "Tika Ram BC",
+    "Krishna Bahadur KC",
+    "Dev Sharma Poudel",
+    "Sushil Prasad Khanal",
+    "Hubei Sunlight Electric Co Ltd",
+    "Hu Zheng Qiang",
+    "Li Dao Gu",
+    "Sichuan Dongfang Transformer Company (SDTC)",
+    "Hongyu Ouyang",
+    "Ou Yang Shi",
+    "Pra Patra",
+    "Amar Rajbhandari"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Nepal",
+    "Supreme Court of Nepal",
+    "Prime International"
+  ],
+  "locations": [
+    {
+      "other": "Procurement and distribution locations across Nepal",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    },
+    {
+      "other": "Hubei Province, China (Location of Hubei Sunlight Electric Co Ltd)",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    },
+    {
+      "other": "Sichuan Province, China (Location of Sichuan Dongfang Transformer Company)",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    },
+    {
+      "other": "Thailand (Location of Thai supplier)",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Procurement Fraud",
+    "Public Infrastructure",
+    "State-Owned Enterprise",
+    "CIAA",
+    "Special Court"
+  ],
+  "case_start_date": "2011-01-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2011-01-01",
+      "title": "Procurement of Substandard Transformers",
+      "description": "The Nepal Electricity Authority (NEA) procured 1,260 transformers in a first phase and 735 in a second phase, which were later found to be substandard, using aluminum wires instead of copper."
+    },
+    {
+      "event_date": "2012-09-01",
+      "title": "CIAA Intensifies Investigation",
+      "description": "The CIAA intensified its investigation into the import of thousands of substandard transformers from China and Thailand following numerous complaints."
+    },
+    {
+      "event_date": "2013-08-04",
+      "title": "First Arrests in the Case",
+      "description": "The CIAA arrested NEA Assistant Director Harish Bahadur Pal, two assistant managers, an engineer, a storekeeper, and two Chinese nationals from Hubei Sunlight Electric Co Ltd."
+    },
+    {
+      "event_date": "2013-08-20",
+      "title": "Arrest of Top NEA Officials",
+      "description": "The CIAA arrested 10 more NEA officials, including then-Managing Director Rameshwar Yadav and former MD Dr. Jivendra Jha."
+    },
+    {
+      "event_date": "2013-09-13",
+      "title": "CIAA Files Corruption Cases",
+      "description": "Over August and September (Bhadra 9 and 28, 2070 BS), the CIAA filed four separate corruption cases at the Special Court against 60 individuals, including NEA employees and suppliers."
+    },
+    {
+      "event_date": "2014-02-21",
+      "title": "Additional Charge Sheets Filed",
+      "description": "The CIAA filed additional charge sheets against former NEA Executive Director Jibendra Jha and other officials for their involvement in the procurement from Sichuan Dongfang Transformer Co. Ltd."
+    },
+    {
+      "event_date": "2014-07-14",
+      "title": "Supreme Court Reduces Bail Amounts",
+      "description": "Responding to a writ petition, the Supreme Court significantly reduced the high bail amounts set by the Special Court for several accused officials, including Rameshwar Yadav and Jibendra Jha."
+    },
+    {
+      "event_date": "2017-03-28",
+      "title": "Special Court Convicts Officials and Suppliers",
+      "description": "The Special Court convicted 20 NEA officials and 5 foreign nationals, imposing jail sentences and substantial fines totaling approximately Rs 462 million. Former MDs Rameshwar Yadav and Jivendra Jha were among those convicted."
+    },
+    {
+      "event_date": "2017-10-12",
+      "title": "Appeal Registered at Supreme Court",
+      "description": "An appeal against the Special Court's verdict was registered at the Supreme Court."
+    },
+    {
+      "event_date": "2018-02-25",
+      "title": "Supreme Court Consolidates Cases",
+      "description": "A Supreme Court bench ordered the consolidation of the multiple transformer-related cases for a final hearing."
+    },
+    {
+      "event_date": "2021-08-01",
+      "title": "Supreme Court Begins Final Hearings",
+      "description": "The Supreme Court began final hearings on the appeal, eight years after the CIAA initially filed the cases."
+    }
+  ],
+  "sources": [
+    {
+      "title": "SC begins final hearings on transformer scam after 8 years",
+      "url": "https://kathmandupost.com/national/2021/08/04/supreme-court-begins-final-hearings-on-transformer-scam-after-8-years",
+      "description": "A Kathmandu Post article from August 2021 reporting on the commencement of final hearings at the Supreme Court, providing a summary of the case's history, the Special Court's verdict, and the long delay."
+    },
+    {
+      "title": "Transformer scam: SC to conduct final hearing on case",
+      "url": "https://myrepublica.nagariknetwork.com/news/transformer-scam-sc-to-conduct-final-hearing-on-case/",
+      "description": "A My Republica article from February 2018 detailing the Supreme Court's decision to consolidate the cases for a final hearing and mentioning key figures convicted by the Special Court."
+    },
+    {
+      "title": "NEA officials, suppliers convicted in transformer scam",
+      "url": "https://thehimalayantimes.com/nepal/nepal-electricity-authority-officials-suppliers-convicted-transformer-scam",
+      "description": "A Himalayan Times report from March 2017 detailing the Special Court's verdict, listing the names of convicted NEA officials and suppliers, their sentences, and the fines imposed."
+    },
+    {
+      "title": "Apex court reduces bail for transformer scam accused",
+      "url": "https://kathmandupost.com/miscellaneous/2014/07/15/apex-court-reduces-bail-for-transformer-scam-accused",
+      "description": "A Kathmandu Post article from July 2014 reporting that the Supreme Court reduced the bail amounts for several individuals accused in the transformer scam, including Rameshwar Yadav and Jibendra Jha."
+    },
+    {
+      "title": "Transformer scam: CIAA files another charge-sheet",
+      "url": "https://thehimalayantimes.com/nepal/transformer-scam-ciaa-files-another-charge-sheet",
+      "description": "A Himalayan Times article from February 2014 on the CIAA filing an additional charge-sheet against former NEA officials, including Jibendra Jha, related to the Sichuan Dongfang Transformer Co."
+    },
+    {
+      "title": "CIAA nets 10 more in transformer scam",
+      "url": "https://thehimalayantimes.com/kathmandu/ciaa-nets-10-more-in-transformer-scam",
+      "description": "A Himalayan Times report from August 2013 on the arrest of 10 more NEA officials, including former managing directors Rameshwar Yadav and Jivendra Jha."
+    },
+    {
+      "title": "Eight held in connection with transformer scam",
+      "url": "https://thehimalayantimes.com/kathmandu/eight-held-in-connection-with-transformer-scam",
+      "description": "A Himalayan Times article from August 2013 detailing the initial arrests made by the CIAA, including NEA officials and Chinese nationals from a supplier company."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "title": "Sikta Irrigation Project Corruption Case",
+  "description": "<p>This case involves allegations of significant corruption and negligence in the construction of the main canal of the <strong>Sikta Irrigation Project</strong>, a designated National Pride Project in Banke District. The <strong>Commission for the Investigation of Abuse of Authority (CIAA)</strong> filed a case at the Special Court on <strong>December 7, 2018</strong>, against 21 individuals, including former minister <strong>Bikram Pandey</strong>, the head of the contracting firm <strong>CTCE Kalika Construction JV</strong>.</p><p>The core allegation is that the defendants knowingly engaged in <strong>substandard construction</strong> using faulty designs and low-quality materials despite being aware of problematic soil conditions. Feasibility studies from as early as 1980 had identified the presence of 'dispersive soil,' which is highly erodible and unsuitable for canal construction without special measures. These warnings were allegedly ignored, leading to repeated collapses of the main canal during testing in <strong>June 2016</strong> and <strong>July 2018</strong>. The CIAA sought to recover a total of <strong>NPR 8.59 billion</strong> in damages.</p><p>On <strong>June 19, 2022</strong>, the Special Court acquitted all 21 defendants. The court ruled that the canal's collapse was due to unforeseen technical issues related to the dispersive soil, which it claimed the defendants were not aware of during the design and construction phases. The court classified the issue as a matter of civil liability rather than criminal corruption.</p><p>Disagreeing with the verdict, the CIAA filed an appeal at the Supreme Court on <strong>April 4, 2023</strong>. In January 2025, the Supreme Court accepted the appeal for a full judicial review, stating that the Special Court's decision was 'worth consideration' as evidence suggested the soil issues were previously documented. The case is currently sub-judice at the Supreme Court.</p>",
+  "unverified_info": "<p>There are slight variations in the total corruption amount cited across different news reports. While the CIAA charge-sheet specifies a claim of <strong>NPR 8.59 billion</strong>, some sources mention figures like 'over NPR 2 billion' or 'NPR 8.32 billion'.</p><p>Additionally, there is an unconfirmed allegation mentioned in one news report that the consulting company, <strong>ERMC-ITECO Nepal JV</strong>, may have used falsified curricula vitae (CVs) for its experts to secure the project's consultancy contract.</p>",
+  "key_allegations": [
+    "Substandard construction of the main canal using low-quality materials and faulty designs.",
+    "Willful negligence of warnings from prior feasibility studies (1980, 2004) about problematic 'dispersive soil' conditions.",
+    "Failure in project design and supervision by project officials, consultants, and the contractor.",
+    "Causing a financial loss of NPR 8,598,800,000 to the state due to repeated canal collapses."
+  ],
+  "alleged_entities": [
+    "Bikram Pandey",
+    "Sarva Dev Prasad",
+    "Saroj Chandra Pandit",
+    "Dilip Bahadur Karki",
+    "Ramesh Basnet",
+    "Uddhav Raj Chaulagain",
+    "CTCE Kalika Construction JV",
+    "ERMC-ITECO Nepal JV",
+    "Department of Irrigation"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu",
+    "Supreme Court of Nepal",
+    "Lahmeyer International GMBH"
+  ],
+  "locations": [
+    {
+      "other": "Sikta Irrigation Project Main Canal",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Banke",
+      "province": "Lumbini Province"
+    },
+    {
+      "other": "Special Court Location",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati Province"
+    },
+    {
+      "other": "Supreme Court of Nepal",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati Province"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Infrastructure",
+    "Substandard Construction",
+    "Negligence",
+    "National Pride Project",
+    "CIAA",
+    "Special Court",
+    "Supreme Court",
+    "Acquittal",
+    "Appeal"
+  ],
+  "case_start_date": "2016-06-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "1980-08-01",
+      "title": "Initial Feasibility Study",
+      "description": "A feasibility study conducted by Lahmeyer International GMBH reportedly identifies the presence of dispersive soil in the project area, posing a risk to construction."
+    },
+    {
+      "event_date": "2004-04-01",
+      "title": "Second Feasibility Study",
+      "description": "Another feasibility study allegedly reiterates the findings of problematic soil conditions in the project area."
+    },
+    {
+      "event_date": "2016-06-01",
+      "title": "First Canal Collapse",
+      "description": "The main canal of the Sikta Irrigation Project collapses at multiple sections during its first trial run, even with water flow below its design capacity."
+    },
+    {
+      "event_date": "2018-07-01",
+      "title": "Second Canal Collapse",
+      "description": "After repairs, the canal collapses again during another test phase, confirming severe structural and soil-related issues."
+    },
+    {
+      "event_date": "2018-12-07",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA files a corruption case at the Special Court against 21 individuals, including contractor Bikram Pandey, seeking NPR 8.59 billion in damages."
+    },
+    {
+      "event_date": "2022-06-19",
+      "title": "Special Court Acquits All Accused",
+      "description": "A joint bench of the Special Court, led by Chairperson Sri Kanta Poudel, acquits all 21 accused, ruling that the canal collapse was due to unforeseen technical issues, not corruption."
+    },
+    {
+      "event_date": "2023-04-04",
+      "title": "CIAA Appeals to Supreme Court",
+      "description": "The CIAA challenges the Special Court's acquittal by filing an appeal at the Supreme Court, arguing that the verdict was flawed and ignored evidence."
+    },
+    {
+      "event_date": "2025-01-16",
+      "title": "Supreme Court Accepts Case for Review",
+      "description": "The Supreme Court agrees to conduct a full judicial review of the Special Court's acquittal, finding the decision 'worth consideration' and summons the defendants."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Kathmandu Post: Court acquits all 21 accused of graft in Sikta project",
+      "url": "https://kathmandupost.com/national/2022/06/20/court-acquits-all-21-accused-of-graft-in-sikta-project",
+      "description": "Reports on the Special Court's verdict of June 19, 2022, acquitting all defendants and detailing the court's reasoning that the canal collapse was a technical, not a criminal, issue."
+    },
+    {
+      "title": "myRepublica: CIAA files graft-case against Bikram Pandey over Sikta project",
+      "url": "https://myrepublica.nagariknetwork.com/news/ciaa-files-graft-case-against-bikram-pandey-over-sikta-project/",
+      "description": "Details the CIAA filing a corruption case on December 7, 2018, against 21 individuals, including contractor Bikram Pandey, and the specific financial claims."
+    },
+    {
+      "title": "The Kathmandu Post: CIAA moves Supreme Court against clean chit given to ex-minister Bikram Pandey and 20 others",
+      "url": "https://kathmandupost.com/politics/2023/04/04/ciaa-moves-supreme-court-against-clean-chit-given-to-ex-minister-bikram-pandey-and-20-others",
+      "description": "Covers the CIAA's appeal to the Supreme Court on April 4, 2023, challenging the acquittal of all 21 individuals involved in the case."
+    },
+    {
+      "title": "Nepal Khabar: Supreme Court to review Special Court's verdict on Sikta graft-case",
+      "url": "https://nepalkhabar.com/politics/163863-2025-1-16-14-11-28",
+      "description": "Reports the Supreme Court's decision on January 16, 2025, to accept the CIAA's appeal for a full judicial review, finding the Special Court's verdict questionable."
+    },
+    {
+      "title": "The Himalayan Times: Ex-minister, others booked for embezzling billions",
+      "url": "https://thehimalayantimes.com/nepal/ex-minister-others-booked-for-embezzling-billions",
+      "description": "An early report from December 8, 2018, outlining the charges filed by the CIAA, the total corruption amount, and the names of the key accused."
+    },
+    {
+      "title": "Ratopati: सिक्टा सिंचाई आयोजना भ्रष्टाचार मुद्दा : पूर्वमन्त्री बिक्रम पाण्डे सहित २१ जनाले पाए सफाइ",
+      "url": "https://www.ratopati.com/story/252924/2022/6/19/sikta-irrigation-project",
+      "description": "A Nepali language report on the Special Court's acquittal of former minister Bikram Pandey and 20 others on June 19, 2022."
+    },
+    {
+      "title": "Nagarik News: सिक्टामा साढे आठ अर्ब भ्रष्टाचार",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/74921-1544242620.html",
+      "description": "A Nepali language news article from December 8, 2018, detailing the CIAA's claim of NPR 8.5 billion in corruption in the Sikta project."
+    },
+    {
+      "title": "Wikipedia: Sikta Irrigation Project",
+      "url": "https://en.wikipedia.org/wiki/Sikta_Irrigation_Project",
+      "description": "Provides a general overview of the project, its history, cost revisions, and the corruption allegations."
+    }
+  ]
+}

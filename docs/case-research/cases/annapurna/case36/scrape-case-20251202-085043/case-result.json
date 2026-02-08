@@ -1,0 +1,141 @@
+{
+  "title": "Ichchha Raj Tamang and Civil Cooperative Fraud and Money Laundering Case",
+  "description": "<p>A large-scale financial fraud and money laundering case involving <strong>Ichchha Raj Tamang</strong>, a former Member of Parliament and founder of the Civil Group, who served as the chairman of <strong>Civil Savings and Credit Cooperative Society Limited</strong>. Tamang is accused of embezzling billions of rupees from the cooperative's depositors by illegally diverting funds to his personal real estate ventures, primarily under the 'Civil Homes' brand.</p><p>Investigations by the Central Investigation Bureau (CIB) of Nepal Police, initiated after complaints from over 1,500 victims, revealed that Tamang channeled approximately 90% of the cooperative's deposits into his own companies, a direct violation of Nepal's Cooperative Act. The cooperative allegedly lured depositors with unusually high interest rates (reportedly up to 17%) and other incentives like gold coins.</p><p>A downturn in the real estate market led to a severe liquidity crisis within the cooperative, preventing thousands of depositors from withdrawing their savings. This led to two major legal actions:</p><ol><li>A <strong>fraud and organized crime case</strong> filed at the Kathmandu District Court against 42 individuals, seeking to recover <strong>NPR 5.67 billion</strong>. This case is currently ongoing.</li><li>A <strong>money laundering case</strong> filed by the Department of Money Laundering Investigation (DMLI) at the Special Court against Tamang and five family members, alleging they laundered embezzled funds.</li></ol><p>On January 21, 2024, the Special Court convicted Ichchha Raj Tamang, his wife Srijana Shakya Tamang, and his associate Keshav Lal Shrestha of money laundering. The court handed down prison sentences, substantial fines, and ordered the confiscation of illegally amassed assets.</p>",
+  "unverified_info": "<p>Initial reports from August 2021 suggested that the total amount of embezzlement being investigated by the Central Investigation Bureau (CIB) was over <strong>Rs 8 billion</strong>. While the formal court filings later specified a claimed amount of Rs 5.67 billion in the fraud case, the initial higher estimate indicates the potential scale of the fraud may have been larger than what was formally prosecuted based on the available victim complaints.</p>",
+  "key_allegations": [
+    "Embezzlement of depositor funds from a cooperative",
+    "Illegal diversion of cooperative funds to private real estate companies",
+    "Violation of Nepal's Cooperative Act",
+    "Money laundering to legitimize illicitly obtained funds",
+    "Organized crime"
+  ],
+  "alleged_entities": [
+    "Ichchha Raj Tamang",
+    "Civil Savings and Credit Cooperative Society Limited",
+    "Srijana Shakya Tamang",
+    "Keshav Lal Shrestha"
+  ],
+  "related_entities": [
+    "Civil Group",
+    "Civil Homes",
+    "Pratiksha Tamang",
+    "Pratistha Tamang",
+    "Central Investigation Bureau (CIB), Nepal Police",
+    "Department of Money Laundering Investigation (DMLI)",
+    "Kathmandu District Court",
+    "Special Court"
+  ],
+  "locations": [
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Cooperative Fraud",
+    "Money Laundering",
+    "Embezzlement",
+    "Organized Crime",
+    "Real Estate",
+    "Political Corruption"
+  ],
+  "case_start_date": "2021-08-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2021-08-01",
+      "title": "CIB Investigation Begins",
+      "description": "The Central Investigation Bureau (CIB) of Nepal Police started an investigation into allegations of embezzlement of over Rs 8 billion at Civil Cooperative."
+    },
+    {
+      "event_date": "2021-10-04",
+      "title": "Ichchha Raj Tamang Arrested",
+      "description": "CIB arrested Ichchha Raj Tamang and 11 other officials from the cooperative on charges of fraud and misappropriation of funds."
+    },
+    {
+      "event_date": "2021-12-01",
+      "title": "Fraud and Organized Crime Case Filed",
+      "description": "The District Attorney Office, Kathmandu, filed a case at the Kathmandu District Court against 42 individuals, including Tamang, with a claimed amount of Rs 5.67 billion."
+    },
+    {
+      "event_date": "2021-12-30",
+      "title": "Court Orders Pre-trial Detention",
+      "description": "The Kathmandu District Court ordered Ichchha Raj Tamang and Keshav Lal Shrestha to be sent to jail for pre-trial detention."
+    },
+    {
+      "event_date": "2022-07-19",
+      "title": "Srijana Shakya Tamang Arrested",
+      "description": "Srijana Shakya Tamang, wife of Ichchha Raj Tamang and a member of the cooperative's audit committee, was arrested by the CIB after being on the run."
+    },
+    {
+      "event_date": "2022-07-22",
+      "title": "Srijana Shakya Tamang Sent to Jail",
+      "description": "Following a court order, Srijana Shakya Tamang was sent to jail for pre-trial detention."
+    },
+    {
+      "event_date": "2022-09-01",
+      "title": "Money Laundering Case Filed",
+      "description": "The Department of Money Laundering Investigation (DMLI) filed a separate case at the Special Court against Tamang and five family members for laundering illicit funds."
+    },
+    {
+      "event_date": "2024-01-21",
+      "title": "Conviction in Money Laundering Case",
+      "description": "The Special Court convicted Ichchha Raj Tamang, Srijana Shakya Tamang, and Keshav Lal Shrestha of money laundering. Tamang's two daughters were acquitted."
+    },
+    {
+      "event_date": "2024-02-04",
+      "title": "Sentencing in Money Laundering Case",
+      "description": "The Special Court announced the verdict: 3 years jail for Ichchha Raj Tamang, 1.5 years for Srijana Shakya Tamang, and 1.5 years for Keshav Lal Shrestha, along with substantial fines and asset confiscation."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Special Court Sentencing Details in Money Laundering Case",
+      "url": "https://www.setopati.net/politics/320150",
+      "description": "Setopati report detailing the final sentences, including jail terms and specific fine amounts, for Ichchha Raj Tamang, Srijana Shakya, and Keshav Lal Shrestha, as decided by the Special Court."
+    },
+    {
+      "title": "Conviction of Ichchha Tamang for Money Laundering",
+      "url": "https://kathmandupost.com/national/2024/01/21/special-court-convicts-former-lawmaker-ichchha-tamang-of-money-laundering",
+      "description": "Kathmandu Post article reporting the Special Court's conviction of Tamang for money laundering. It lists the convicted and acquitted individuals and provides background on both the fraud and money laundering cases."
+    },
+    {
+      "title": "Initial CIB Probe into Embezzlement at Civil Cooperative",
+      "url": "https://myrepublica.nagariknetwork.com/news/cib-to-probe-allegations-of-misappropriation-of-depositors-money-by-civil-group-s-chair-tamang/",
+      "description": "An early report from August 2021 confirming the CIB had begun investigating allegations that Tamang misappropriated over Rs 8 billion from cooperative depositors."
+    },
+    {
+      "title": "Arrest of Ichchha Raj Tamang by CIB",
+      "url": "https://myrepublica.nagariknetwork.com/news/chairperson-of-civil-bank-ichchha-raj-tamang-arrested/",
+      "description": "Report on the arrest of Ichchha Raj Tamang by the Central Investigation Bureau in October 2021 in connection with the cooperative fraud."
+    },
+    {
+      "title": "Filing of Fraud Case Against 42 Individuals (Nepali)",
+      "url": "https://www.nayapatrikadaily.com/news-details/79367/2021-12-04",
+      "description": "A Nepali language report from Naya Patrika detailing the filing of the fraud and organized crime case at the Kathmandu District Court against 42 individuals, specifying the claimed amount."
+    },
+    {
+      "title": "Details of Fraud Case and Compensation Sought",
+      "url": "https://myrepublica.nagariknetwork.com/news/recovery-of-rs-5-67-billion-in-compensation-and-8-years-jail-term-sought-against-civil-group-chairman-tamang/",
+      "description": "MyRepublica article providing details on the district court case, including the claimed recovery amount of Rs 5.67 billion and the proposed jail term for Tamang."
+    },
+    {
+      "title": "Arrest of Srijana Shakya Tamang",
+      "url": "https://www.khabarhub.com/2022/07/262575/",
+      "description": "Khabarhub report on the arrest of Ichchha Raj Tamang's wife, Srijana Shakya, who had been absconding since the investigation began."
+    },
+    {
+      "title": "Guilty Verdict in Money Laundering Case",
+      "url": "https://www.khabarhub.com/2024/01/345592/",
+      "description": "Article covering the Special Court's guilty verdict against Tamang and others in the money laundering case, listing the individuals charged by the DMLI."
+    },
+    {
+      "title": "Final Sentencing Amounts and Jail Terms in Money Laundering Case",
+      "url": "https://ratopati.com/story/395372/2024/02/04/ichchha-raj-tamang",
+      "description": "Ratopati article providing the specific details of the sentences, including the exact fines and prison terms for each convicted person in the money laundering case."
+    }
+  ]
+}

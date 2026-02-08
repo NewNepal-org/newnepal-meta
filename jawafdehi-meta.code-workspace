@@ -1,0 +1,61 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"javascript.autoClosingTags": false,
+		"python.defaultInterpreterPath": "${workspaceFolder}/services/JawafdehiAPI/.venv/bin/python",
+		"python.testing.pytestEnabled": true,
+		"python.testing.pytestArgs": [
+			"/services/JawafdehiAPI/tests"
+		],
+		// "python.testing.cwd": "${workspaceFolder}/services/JawafdehiAPI"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Jawafdehi API",
+				"type": "debugpy",
+				"request": "launch",
+				// "module": "agni",
+				"python": "${workspaceFolder}/services/JawafdehiAPI/.venv/bin/python",
+				"program": "manage.py",
+				"cwd": "${workspaceFolder}/services/JawafdehiAPI",
+				"envFile": "${workspaceFolder}/services/JawafdehiAPI/.env",
+				"django": true,
+				"args": [
+					"runserver"
+				]
+			},
+			{
+				"name": "Jawafdehi API Q Cluster",
+				"type": "debugpy",
+				"request": "launch",
+				// "module": "agni",
+				"python": "${workspaceFolder}/services/JawafdehiAPI/.venv/bin/python",
+				"program": "manage.py",
+				"cwd": "${workspaceFolder}/services/JawafdehiAPI",
+				"envFile": "${workspaceFolder}/services/JawafdehiAPI/.env",
+				"gevent": true,
+				"django": true,
+				"args": [
+					"qcluster"
+				]
+			},
+			{
+				"name": "Scrapy",
+				"type": "debugpy",
+				"request": "launch",
+				"python": "${workspaceFolder}/services/NepalGovernmentModernization/.venv/bin/python",
+				"program": "${workspaceFolder}/services/NepalGovernmentModernization/.venv/bin/scrapy",
+				"args": ["crawl", "supreme_case_enrichment"],
+				"cwd": "${workspaceFolder}/services/NepalGovernmentModernization",
+				"envFile": "${workspaceFolder}/services/NepalGovernmentModernization/.env",
+				"django": false,
+			},
+		]
+	}
+}

@@ -1,0 +1,129 @@
+{
+  "title": "Oxygen Plant Procurement Corruption (Federal and Municipal)",
+  "description": "<p>A series of corruption and mismanagement cases related to the procurement of oxygen generation plants during the COVID-19 pandemic in Nepal (circa 2020-2021). The most significant case involves the federal <strong>Department of Health Services (DoHS)</strong>, which allegedly colluded with the <strong>United Nations Office for Project Services (UNOPS)</strong>, resulting in a loss of over <strong>NPR 3.34 Crore</strong> to the state.</p><p>The DoHS, instead of using its own procurement mechanisms, delegated the purchasing authority to UNOPS, a move allegedly designed to bypass government oversight and auditing procedures. The department transferred <strong>$4,517,378 USD</strong> from a World Bank loan to UNOPS for the procurement of oxygen plants and concentrators. Officials are accused of procuring the equipment at grossly inflated prices.</p><p>The term \"Oxygen Plant Scandal\" also covers other notable incidents:</p><ol><li><strong>Thaha Municipality, Makwanpur:</strong> The Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case against the municipality's then-Chief Administrative Officer, other officials, and a supplier for irregularities worth over <strong>NPR 1.1 Crore</strong>. The accused allegedly colluded to select a supplier who offered lower-quality technology at an inflated price. The case was filed at the Special Court in Kathmandu.</li><li><strong>Dhangadhi Sub-Metropolitan City:</strong> A <strong>NPR 1 Crore</strong> oxygen plant, funded by the Chaudhary Group and the sub-metropolis, was installed in a peripheral health center instead of the main Seti Provincial Hospital due to a political dispute. As a result, the plant remained unused for over two years, with its components left to rust.</li></ol>",
+  "unverified_info": "<p>The specific roles and identities of \"प्राविधिकहरू\" (technicians) in the larger federal procurement scandal involving UNOPS are not detailed in the available sources. It is plausible they were involved in creating technical specifications that favored certain suppliers, but this remains unconfirmed.</p><p>The current investigative or judicial status of the federal case against the Department of Health Services and UNOPS is not clear from public reports. Dr. Dipendraraman Singh, the then-Director-General of DoHS, has publicly denied the allegations of overpricing.</p>",
+  "key_allegations": [
+    "Collusion to procure equipment at grossly inflated prices",
+    "Bypassing government procurement oversight by delegating authority to UNOPS",
+    "Irregular transfer of funds from a World Bank loan for procurement",
+    "Awarding a contract to a supplier with lower-quality technology for financial gain",
+    "Gross mismanagement leading to the non-utilization of a fully procured oxygen plant"
+  ],
+  "alleged_entities": [
+    "Department of Health Services",
+    "United Nations Office for Project Services (UNOPS)",
+    "Dr. Dipendraraman Singh",
+    "Dr. Ramesh Kharel",
+    "Komal Karki",
+    "Charles Rochford Callan",
+    "Harilal Puri",
+    "Haribahadur Khapangi Magar",
+    "Santosh Bohara",
+    "Sudarshan Paheli",
+    "Rajeshwar Kamali",
+    "Subharambha Service Traders Pvt. Ltd.",
+    "Sobit Prasai",
+    "Nrip Bahadur Wad"
+  ],
+  "related_entities": [
+    "World Bank",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu",
+    "Thaha Municipality",
+    "Dhangadhi Sub-Metropolitan City",
+    "Ministry of Social Development, Sudurpashchim Province",
+    "Chaudhary Group",
+    "Seti Provincial Hospital",
+    "Sudurpashchim Provincial Assembly Public Accounts Committee"
+  ],
+  "locations": [
+    {
+      "other": "Federal level procurement management",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Thaha Municipality",
+      "district": "Makwanpur",
+      "province": "Bagmati"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Dhangadhi Sub-Metropolitan City",
+      "district": "Kailali",
+      "province": "Sudurpashchim"
+    }
+  ],
+  "tags": [
+    "Procurement Corruption",
+    "Health Sector",
+    "COVID-19",
+    "Mismanagement of Funds",
+    "UNOPS",
+    "CIAA",
+    "Local Government",
+    "Federal Government",
+    "World Bank Loan"
+  ],
+  "case_start_date": "2020-01-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2021-01-01",
+      "title": "Funds Transferred to UNOPS",
+      "description": "The Department of Health Services transferred approximately $4.5 million USD from a World Bank loan to UNOPS for the procurement of oxygen plants and related equipment."
+    },
+    {
+      "event_date": "2021-07-17",
+      "title": "Corrupt Procurement in Thaha Municipality",
+      "description": "During the fiscal year 2078/79 (2021-2022), Thaha Municipality engaged in a corrupt procurement process for an oxygen plant, later leading to a CIAA investigation and case filing."
+    },
+    {
+      "event_date": "2023-04-07",
+      "title": "Dhangadhi Plant Reported as Unused",
+      "description": "A news report by Naya Patrika revealed that a NPR 1 Crore oxygen plant in Dhangadhi had been lying unused and rusting for two years after being installed in an improper location."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nagarik News: 3.34 Crore corruption in oxygen plant procurement",
+      "url": "https://nagriknews.nagariknetwork.com/social-affairs/816171-1663126800.html",
+      "description": "Details the primary allegation of NPR 3.34 Crore corruption involving the Department of Health Services and UNOPS, naming high-level officials and the specific amount of loss."
+    },
+    {
+      "title": "Himalayan Message: CIAA files corruption case in Thaha Municipality",
+      "url": "https://himalayanmessage.com/archives/14981.html",
+      "description": "Reports on the CIAA filing a corruption case against officials of Thaha Municipality and a supplier for irregularities worth over NPR 1.1 Crore in an oxygen plant purchase."
+    },
+    {
+      "title": "Eknepal: CIAA Takes Action on Oxygen Plant Corruption",
+      "url": "https://eknepal.com/2024/09/56434",
+      "description": "Confirms the CIAA filing a corruption case in the Thaha Municipality oxygen plant deal, naming the accused individuals and the supplier company."
+    },
+    {
+      "title": "Naya Patrika: 1 Crore oxygen plant rusting for two years",
+      "url": "https://nayapatrikadaily.com/news-details/113115/2023-04-07",
+      "description": "Reports that the oxygen plant in Dhangadhi, worth NPR 1 Crore, has been unused for two years due to being installed in an improper location following a political dispute."
+    },
+    {
+      "title": "Swasthya Live: Thaha Municipality awarded contract to higher bidder",
+      "url": "https://swasthyalive.com/story/1120221111005527",
+      "description": "Provides details on the Thaha Municipality case, noting that the contract was given to a company bidding NPR 1.1 Crore over one that bid NPR 97 lakh, indicating collusion."
+    },
+    {
+      "title": "Setopati: Sudurpashchim govt's funding for oxygen plants",
+      "url": "https://www.setopati.com/politics/236688",
+      "description": "Mentions that the Sudurpashchim provincial government, under Social Development Minister Krishna Raj Subedi, had allocated funds for hospitals to set up oxygen plants."
+    },
+    {
+      "title": "Agraalekh: Ineffectiveness of Sudurpashchim Public Accounts Committee",
+      "url": "https://agralekh.com/2024/08/17/144633/",
+      "description": "A news piece criticizing the provincial Public Accounts Committee for its failure to act on financial irregularities from the period in a timely manner."
+    }
+  ]
+}

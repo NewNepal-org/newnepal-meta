@@ -1,0 +1,157 @@
+{
+  "title": "Kathmandu-Terai Fast Track (Expressway) Project Irregularities",
+  "description": "<p>The Kathmandu-Terai Fast Track, a national pride project managed by the <strong>Nepali Army (NA)</strong> since 2017, has been embroiled in significant allegations of corruption, procurement irregularities, and financial mismanagement. Multiple investigations by parliamentary committees and the Office of the Auditor General (OAG) have highlighted systemic issues in the project's execution.</p><p><strong>Key Issues and Investigations:</strong></p><ul><li><strong>Internal Army Probe (2019):</strong> Following complaints, the NA initiated an internal court of inquiry on October 18, 2019, which led to the suspension of then-project chief Brigadier General Sarad Lal Shrestha. Subsequent reports indicated the probe uncovered corruption amounting to 'billions of rupees' and implicated high-ranking officials, including former Chief of Army Staff <strong>Rajendra Chhetri</strong> and retired Major General <strong>Yogendra Bahadur Khand</strong>, in irregularities related to design, consultant selection, and tender awards.</li><li><strong>Procurement and Parliamentary Scrutiny (2021):</strong> The Public Accounts Committee (PAC) of the Parliament investigated the procurement process for the project's second package (tunnels and bridges) following complaints that the tender process was manipulated to favor specific bidders. On April 1, 2021, the PAC directed the government to cancel the tender process. However, the NA <strong>defied this directive</strong>, arguing it had not received instructions from the Ministry of Defence, and awarded the contracts to two Chinese firms in May 2021.</li><li><strong>Auditor General's Findings:</strong> The Office of the Auditor General (OAG) has repeatedly flagged financial and procedural lapses.<ul><li>The 60th Annual Report (2023) questioned <strong>NPR 2.76 billion</strong> in expenditures by the NA on items not directly related to the project, such as vehicles, fuel, and administrative costs.</li><li>A June 2024 report revealed illegal payments of over <strong>$76,000</strong> to South Korean experts working on tourist visas, a violation of labor and immigration laws.</li><li>The OAG also highlighted the neglect of construction materials, noting that Bailey bridge parts worth <strong>NPR 78.51 million</strong> were left to rust at the Khokana project site.</li></ul></li><li><strong>Project Delays and Disputes:</strong> The project has suffered from significant delays, with the completion deadline extended multiple times, most recently to mid-April 2027. A persistent land acquisition dispute in <strong>Khokana, Lalitpur</strong>, has also stalled work at the expressway's designated starting point.</li></ul>",
+  "unverified_info": "<p>This section contains claims and details that are mentioned in sources but have not been officially confirmed by a court of law or a final investigation report.</p><ul><li>The specific claim of financial irregularities amounting to <strong>'at least 6 arba' (NPR 6 billion)</strong> is a general allegation and has not been substantiated by a precise, official figure from an investigative body, although reports of corruption worth 'billions' exist.</li><li>An allegation reported in the media claims that the selection of Chinese companies was influenced by Mr. Rajan Rayamajhi, described as a 'near and dear one of a high-ranking NA official,' but this has not been officially proven.</li><li>The final outcome of the Nepali Army's internal investigation from 2019, including what specific actions were taken against the implicated high-ranking officials like former CoAS <strong>Rajendra Chhetri</strong> and retired Major General <strong>Yogendra Bahadur Khand</strong>, has not been made fully public.</li></ul>",
+  "key_allegations": [
+    "Corruption in preparing project designs, selecting consultants, and awarding tenders",
+    "Awarding contracts without a due and competitive bidding process",
+    "Tailoring procurement procedures and pre-qualification criteria to favor specific bidders",
+    "Defying a directive from the parliamentary Public Accounts Committee to cancel a disputed tender",
+    "Misappropriation of NPR 2.76 billion on expenses not directly related to the project",
+    "Illegal payment of over $76,000 to foreign nationals working on tourist visas",
+    "Mismanagement and neglect of construction materials worth NPR 78.51 million"
+  ],
+  "alleged_entities": [
+    "Nepali Army",
+    "Rajendra Chhetri",
+    "Yogendra Bahadur Khand",
+    "Sarad Lal Shrestha"
+  ],
+  "related_entities": [
+    "Parliamentary Public Accounts Committee (PAC)",
+    "Parliamentary Development and Technology Committee",
+    "Office of the Auditor General (OAG)",
+    "Poly Changda Engineering Co. Ltd.",
+    "China State Construction Engineering Corporation Ltd."
+  ],
+  "locations": [
+    {
+      "other": "Project starts in Kathmandu",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Khokana area, starting point of the expressway",
+      "ward_no": null,
+      "municipality": "Lalitpur Metropolitan City",
+      "district": "Lalitpur",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Project spans across the Terai region",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": "Madhesh"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Procurement Irregularity",
+    "Misappropriation of Funds",
+    "Infrastructure Project",
+    "National Pride Project",
+    "Nepali Army",
+    "Parliamentary Investigation",
+    "Auditor General Report",
+    "Abuse of Authority"
+  ],
+  "case_start_date": "2017-05-04",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2017-05-04",
+      "title": "Government Hands Over Project to Nepali Army",
+      "description": "The Nepal government formally decided to hand over the construction management of the Kathmandu-Terai Fast Track project to the Nepali Army."
+    },
+    {
+      "event_date": "2019-10-18",
+      "title": "Internal Probe Begins, Project Chief Suspended",
+      "description": "The Nepali Army initiated an internal investigation into corruption allegations and suspended the project chief, Brigadier General Sarad Lal Shrestha."
+    },
+    {
+      "event_date": "2019-11-07",
+      "title": "Reports of High-Level Corruption Emerge",
+      "description": "News reports surfaced that the internal army probe had uncovered corruption worth 'billions' and implicated a former Army Chief and a retired Major General."
+    },
+    {
+      "event_date": "2021-03-15",
+      "title": "Parliamentary Committee Launches Investigation",
+      "description": "The parliamentary Public Accounts Committee (PAC) announced it would investigate the contract awarding process for the project's second phase following complaints of irregularities."
+    },
+    {
+      "event_date": "2021-03-22",
+      "title": "Second Parliamentary Committee Forms Subcommittee",
+      "description": "The parliamentary Development and Technology Committee formed a subcommittee to study the alleged irregularities in the project."
+    },
+    {
+      "event_date": "2021-04-01",
+      "title": "PAC Directs Cancellation of Tender",
+      "description": "The PAC directed the government to cancel the second package contract tender for tunnel and bridge construction and call for a new one."
+    },
+    {
+      "event_date": "2021-04-25",
+      "title": "Nepali Army Defies Parliamentary Directive",
+      "description": "The Nepali Army defied the PAC's directive and proceeded with the procurement process by issuing a letter of intent to the selected contractor."
+    },
+    {
+      "event_date": "2021-05-16",
+      "title": "Disputed Contracts Awarded",
+      "description": "The NA officially awarded the disputed contracts for tunnel and bridge construction to Chinese companies Poly Changda Engineering and China State Construction Engineering Corporation."
+    },
+    {
+      "event_date": "2023-04-15",
+      "title": "Auditor General Questions NPR 2.76 Billion Expenditure",
+      "description": "The Office of the Auditor General's 60th Annual Report was published, questioning NPR 2.76 billion spent by the NA on items not directly related to the fast track project."
+    },
+    {
+      "event_date": "2024-06-02",
+      "title": "OAG Reveals Illegal Payments and Material Neglect",
+      "description": "An OAG report revealed that the Nepali Army had made illegal payments to foreign nationals on tourist visas and had mismanaged construction materials worth millions."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NA top brass involved in Tarai Fast Track graft",
+      "url": "https://thehimalayantimes.com/nepal/na-top-brass-involved-in-tarai-fast-track-graft",
+      "description": "The Himalayan Times report from November 2019 detailing the Nepali Army's internal investigation that found high-level corruption involving a former army chief and other senior officials."
+    },
+    {
+      "title": "PAC to probe phase 2 contract-awarding procedures of KTM-Tarai Fast Track Project",
+      "url": "https://myrepublica.nagariknetwork.com/news/pac-to-probe-phase-2-contract-awarding-procedures-of-ktm-tarai-fast-track-project/",
+      "description": "My Republica report from March 2021 on the Public Accounts Committee's decision to investigate the contract process for the project's second phase amid complaints of favoritism."
+    },
+    {
+      "title": "Nepal Army defies House directive to continue fast track construction",
+      "url": "https://english.onlinekhabar.com/nepal-army-defies-house-directive-to-continue-fast-track-construction.html",
+      "description": "Onlinekhabar report from April 2021 describing the Nepali Army's defiance of the PAC's directive to halt the disputed tender process."
+    },
+    {
+      "title": "PAC directs govt to cancel second package contract on expressway",
+      "url": "https://thehimalayantimes.com/nepal/pac-directs-govt-to-cancel-second-package-contract-on-expressway",
+      "description": "The Himalayan Times report on the formal directive from the PAC to the government to cancel the contract for the bridge and tunnel construction."
+    },
+    {
+      "title": "OAG questions NA regarding Rs 2.76 billion spent on topics unrelated to Fast Track project",
+      "url": "https://myrepublica.nagariknetwork.com/news/oag-questions-na-regarding-rs-2-76-billion-spent-on-topics-unrelated-to-fast-track-project/",
+      "description": "My Republica report on the Auditor General's 60th report (2023) questioning NPR 2.76 billion in expenditures by the army on non-project related items."
+    },
+    {
+      "title": "Army illegally employed tourists for Fast Track project",
+      "url": "https://theannapurnaexpress.com/news/army-illegally-employed-tourists-for-fast-track-project-50534",
+      "description": "The Annapurna Express report from June 2024 detailing the OAG's finding that the NA illegally paid foreign nationals on tourist visas and mismanaged materials."
+    },
+    {
+      "title": "Nepal Army is investigating alleged corruption in Kathmandu-Tarai expressway",
+      "url": "https://kathmandupost.com/national/2019/10/25/nepal-army-is-investigating-alleged-corruption-in-kathmandu-tarai-expressway",
+      "description": "Kathmandu Post report from October 2019 confirming the start of the internal army probe and naming key officials under investigation."
+    },
+    {
+      "title": "Nepal Army award Kathmandu-Tarai Fast Track tunnel, bridge construction to Chinese companies despite Parliament's irregularity objections",
+      "url": "https://tunnelcontact.com/discussion/3875/nepal-army-award-kathmandu-tarai-fast-track-tunnel-bridge-construction-to-chinese-companies-despite-parliaments-irregularity-objections",
+      "description": "Industry news source reporting the final award of the disputed contracts to two Chinese firms in May 2021, despite parliamentary objections."
+    }
+  ]
+}

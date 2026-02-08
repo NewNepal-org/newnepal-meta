@@ -1,0 +1,210 @@
+{
+  "title": "Prithvi Bahadur Shah International Fraud and Money Laundering Case",
+  "description": "<p>Prithvi Bahadur Shah, a native of Achham district, is accused of leading an organized criminal group that defrauded foreign nationals, primarily from the United States, and laundered the proceeds in Nepal. The Central Investigation Bureau (CIB) of Nepal Police concluded that the group illicitly funneled approximately <strong>NPR 639.5 million</strong> (equivalent to $4,546,639 USD, £22,000 GBP, and 340,000 CAD) into the country.</p><p>The group's modus operandi involved sophisticated online scams. They would contact victims, often elderly individuals, under the pretext of providing technical support for services like Amazon, Geek Squad, or anti-virus software. Gaining remote access to the victims' computers, the fraudsters would manipulate their bank interfaces to show a fake, large deposit. They would then convince the victims to 'return' this non-existent money, tricking them into transferring their own savings to bank accounts in Nepal controlled by Shah's network.</p><p>To launder the money, Shah and his associates established over 24 companies in Nepal, including <strong>World Export and Import Private Limited</strong> and <strong>'Hunting Reserve of Nepal Pvt Ltd'</strong>. The illicit funds were quickly invested in real estate, company shares, and gold to obscure their criminal origin. Investigations revealed the use of forged documents and thumbprints for company registrations.</p><p>The case gained prominence after the U.S. Department of Treasury’s Financial Crimes Enforcement Network (FinCEN) alerted Nepal Rastra Bank (NRB), leading to the freezing of Shah's accounts. The case also sparked a major political controversy involving then-Finance Minister Janardan Sharma, who allegedly pressured the NRB to release the frozen funds.</p>",
+  "unverified_info": "<p>The case is marked by significant political controversy surrounding the alleged actions of then-Finance Minister <strong>Janardan Sharma</strong>. After Nepal Rastra Bank (NRB) froze the suspicious funds based on an alert from the U.S. government, Minister Sharma reportedly intervened.</p><ul><li>He is accused of privately pressuring NRB Governor Maha Prasad Adhikari to release the money, arguing it was legitimate foreign investment that should not be blocked.</li><li>When Governor Adhikari refused to comply, Sharma allegedly orchestrated his suspension by the cabinet, a move that was later overturned by the Supreme Court.</li><li>Sharma has publicly denied knowing Prithvi Bahadur Shah personally, stating he only acted on an 'emotional appeal' to inquire why a foreign investment was being held up.</li></ul><p>It was also reported that the investigation into Shah's activities stalled during the tenure of the government in which Sharma served as Finance Minister, only gaining significant momentum after a change in government.</p>",
+  "key_allegations": [
+    "International Fraud",
+    "Money Laundering",
+    "Organized Crime",
+    "Document Forgery",
+    "Cooperative Fraud"
+  ],
+  "alleged_entities": [
+    "Prithvi Bahadur Shah",
+    "Vijay Bikram Shah",
+    "Rang Bahadur Saud",
+    "Anup Khadka",
+    "Chakra Bahadur Khatri",
+    "Rukmangat Kafle",
+    "Binita (Manika) Tamang",
+    "Laxman Regmi",
+    "World Export and Import Private Limited",
+    "Hunting Reserve of Nepal Pvt Ltd",
+    "Mission Holiday LCC"
+  ],
+  "related_entities": [
+    "Janardan Sharma",
+    "Nepal Rastra Bank (NRB)",
+    "Central Investigation Bureau (CIB), Nepal Police",
+    "Department of Money Laundering Investigation (DMLI)",
+    "Financial Crimes Enforcement Network (FinCEN)",
+    "Federal Bureau of Investigation (FBI)",
+    "Kumari Bank",
+    "NCC Bank",
+    "Global IME Bank",
+    "Supreme Court of Nepal",
+    "Kathmandu District Court"
+  ],
+  "locations": [
+    {
+      "other": "Origin of the main accused",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Achham",
+      "province": "Sudurpashchim"
+    },
+    {
+      "other": "Location of arrests, court proceedings, and company registrations",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Location of victims and origin of illicit funds",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Fraud",
+    "Money Laundering",
+    "International Crime",
+    "Political Interference",
+    "Cybercrime",
+    "Organized Crime"
+  ],
+  "case_start_date": "2021-07-27",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2021-07-27",
+      "title": "Shah Files Petition at Supreme Court",
+      "description": "Prithvi Bahadur Shah files a petition at the Supreme Court of Nepal, demanding the release of his funds which were frozen by Nepal Rastra Bank following an alert from US authorities."
+    },
+    {
+      "event_date": "2022-01-25",
+      "title": "DMLI Recommends Unfreezing Accounts",
+      "description": "The Department of Money Laundering Investigation (DMLI) issues a letter suggesting the unfreezing of Shah's accounts, citing insufficient evidence to prove money laundering at that time. However, NRB keeps the funds blocked."
+    },
+    {
+      "event_date": "2022-03-25",
+      "title": "Shah Pleads to Finance Minister",
+      "description": "Prithvi Shah writes a formal plea to then-Finance Minister Janardan Sharma, requesting his assistance in releasing the frozen funds."
+    },
+    {
+      "event_date": "2022-04-08",
+      "title": "NRB Governor Suspended",
+      "description": "On Finance Minister Sharma's recommendation, the Cabinet forms a committee to probe NRB Governor Maha Prasad Adhikari, leading to his automatic suspension, allegedly as retaliation for refusing to release Shah's funds."
+    },
+    {
+      "event_date": "2022-04-19",
+      "title": "Supreme Court Reinstates Governor",
+      "description": "The Supreme Court issues an interim order to reinstate Governor Maha Prasad Adhikari, thwarting the government's attempt to remove him."
+    },
+    {
+      "event_date": "2023-01-06",
+      "title": "Arrest of Shah and Associates",
+      "description": "The Central Investigation Bureau (CIB), in collaboration with the U.S. FBI, arrests Prithvi Bahadur Shah and six of his associates for their involvement in the fraud and money laundering scheme."
+    },
+    {
+      "event_date": "2023-03-01",
+      "title": "CIB Submits Investigation Report",
+      "description": "The CIB concludes its investigation and submits its report to the District Attorney's Office, recommending prosecution against Shah and his associates on four counts: fraud, document forgery, cooperative fraud, and organized crime."
+    },
+    {
+      "event_date": "2023-03-14",
+      "title": "Accused Sent to Judicial Custody",
+      "description": "The Kathmandu District Court orders Prithvi Bahadur Shah and five of his associates to be sent to judicial custody pending trial. Shah and his brother Vijay Bikram Shah are jailed at Dillibazar prison."
+    }
+  ],
+  "sources": [
+    {
+      "title": "'Mastermind' of US$ 4 million fraud case sent to prison",
+      "url": "https://myrepublica.nagariknetwork.com/news/mastermind-of-us-4-million-fraud-case-sent-to-prison/",
+      "description": "Reports on the court's decision to send Prithvi Bahadur Shah to prison following his arrest."
+    },
+    {
+      "title": "Shah arrested on charges of suspicious transactions worth Rs 650 million",
+      "url": "https://myrepublica.nagariknetwork.com/news/shah-arrested-on-charges-of-suspicious-transactions-worth-rs-650-million/",
+      "description": "News of Prithvi Bahadur Shah's arrest and the total amount of suspicious transactions involved in the case."
+    },
+    {
+      "title": "Prithvi Bahadur Shah defrauded 56 Americans: CIB",
+      "url": "https://en.nepalkhabar.com/news/crime/10323/",
+      "description": "A CIB report stating that the investigation identified 56 American citizens as victims of Shah's fraud scheme."
+    },
+    {
+      "title": "CIB submits investigation report of Prithvi Bahadur Shah to public prosecutor",
+      "url": "https://english.makalukhabar.com/2023/03/01/57999/",
+      "description": "Article confirming the submission of the CIB's final investigation report to the public prosecutor for legal action."
+    },
+    {
+      "title": "अमेरिकाबाट शंकास्पद रकम ल्याएका पृथ्वीबहादुर शाहको मुद्दामा आज सर्वोच्चमा सुनुवाइ हुँदै (Hearing in Supreme Court today on Prithvi Bahadur Shah's case of bringing suspicious money from America)",
+      "url": "https://ekantipur.com/news/2022/04/20/165042211474584288.html",
+      "description": "A news report in Nepali about a Supreme Court hearing regarding Shah's attempt to unfreeze the funds."
+    },
+    {
+      "title": "अमेरिकाबाट शंकास्पद धन भित्र्याएको अभियोगमा पृथ्वीबहादुर शाह पक्राउ (Prithvi Bahadur Shah arrested on charges of bringing suspicious money from America)",
+      "url": "https://sajhavoice.com/2023/01/08/176918/",
+      "description": "Nepali language report on the arrest of Prithvi Bahadur Shah for bringing suspicious funds from the US."
+    },
+    {
+      "title": "Prithvi Bahadur Shah arrest: Here's how he allegedly duped an American",
+      "url": "https://english.onlinekhabar.com/prithvi-bahadur-shah-arrest.html",
+      "description": "Details the modus operandi used by Shah and his group to defraud American citizens, including the anti-virus scam."
+    },
+    {
+      "title": "Anti-money laundering body to seek US data on Shah's suspicious money",
+      "url": "https://kathmandupost.com/national/2022/04/23/anti-money-laundering-body-to-seek-us-data-on-shah-s-suspicious-money",
+      "description": "Reports on the Department of Money Laundering Investigation's plan to request more data from US authorities."
+    },
+    {
+      "title": "CIB recommends prosecuting Prithvi Bahadur Shah and his associates on four counts of crimes",
+      "url": "https://kathmandupost.com/national/2023/03/01/cib-recommends-prosecuting-prithvi-bahadur-shah-and-his-associates-on-four-counts-of-crimes",
+      "description": "Details the CIB's recommendation to prosecute Shah and others on charges of fraud, document forgery, cooperative fraud, and organized crime."
+    },
+    {
+      "title": "Police bureau recommends prosecution of Prithvi Bahadur Shah and associates",
+      "url": "https://tkpo.st/3kU93v1",
+      "description": "A shortened link to a Kathmandu Post article about the CIB's recommendation for prosecution."
+    },
+    {
+      "title": "Man who put ex-finance minister and governor on a collision course arrested for fraud",
+      "url": "https://kathmandupost.com/national/2023/01/07/man-who-put-ex-finance-minister-and-governor-on-a-collision-course-arrested-for-fraud",
+      "description": "Highlights the arrest of Shah and contextualizes it within the political conflict between Finance Minister Sharma and Governor Adhikari."
+    },
+    {
+      "title": "Nepal Police – U.S. Cooperation Leads to Prosecution of Fraud Scheme",
+      "url": "https://np.usembassy.gov/nepal-police-u-s-cooperation-leads-to-prosecution-of-fraud-scheme/",
+      "description": "Official press release from the U.S. Embassy in Nepal confirming the joint law enforcement cooperation between CIB and U.S. agencies like the FBI."
+    },
+    {
+      "title": "Prithvi Bahadur Shah and finance minister-NRB governor tussle: Your FAQs answered",
+      "url": "https://english.onlinekhabar.com/prithvi-bahadur-shah-janardan-sharma.html",
+      "description": "An explainer article detailing the background of the case and the political controversy involving Janardan Sharma."
+    },
+    {
+      "title": "अमेरिकाबाट शंकास्पद धन भित्र्याएको अभियोगमा पृथ्वीबहादुर शाहसहित पाँच जना पक्राउ (Five people including Prithvi Bahadur Shah arrested on charges of bringing suspicious money from America)",
+      "url": "https://ehimalayatimes.com/2023/01/223297/",
+      "description": "A Nepali news report on the arrest of Shah and his associates."
+    },
+    {
+      "title": "अमेरिकीबाट शंकास्पद रुपमा रकम ल्याएको आरोप लागेका पृथ्वीबहादुर शाहसहित ६ जना जेल चलान (Six people including Prithvi Bahadur Shah, accused of bringing suspicious money from America, sent to jail)",
+      "url": "https://reportersnepal.com/2023/03/758178",
+      "description": "Reports on the court's decision to send Shah and five others to judicial custody."
+    },
+    {
+      "title": "शंकास्पद रकम भित्र्याएको आरोप लागेका पृथ्वीबहादुर शाह पक्राउ (Prithvi Bahadur Shah arrested on charges of bringing suspicious money)",
+      "url": "https://www.nepalijanta.com/prithvi-bahadur-shah-arrested-for-bringing-suspicious-money/2023/01/08/",
+      "description": "Nepali language report covering the arrest of Prithvi Bahadur Shah."
+    },
+    {
+      "title": "How Prithvi Shah scams US $4 million from US citizens with false FDI promises",
+      "url": "https://english.khabarhub.com/2023/05/309192/",
+      "description": "An article detailing the fraudulent methods used by Shah, framing the illicit funds as Foreign Direct Investment (FDI)."
+    },
+    {
+      "title": "Prithvi Bahadur Shah and associates sent to judicial custody for fraud",
+      "url": "https://kathmandupost.com/national/2023/03/15/prithvi-bahadur-shah-and-associates-sent-to-judicial-custody-for-fraud",
+      "description": "News article from The Kathmandu Post about Shah and his associates being sent to jail pending trial."
+    },
+    {
+      "title": "Six including Prithvi Bahadur Shah sent to custody for fraud",
+      "url": "https://risingnepaldaily.com/news/23115",
+      "description": "A report from The Rising Nepal confirming that six individuals, including Shah, were remanded to custody."
+    }
+  ]
+}

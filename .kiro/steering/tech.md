@@ -1,174 +1,68 @@
-# Technology Stack
+# Meta-Repo Technical Standards
 
-## Backend Services
+## Service Navigation Rules
 
-### Nepal Entity Service (NES)
-- **Language**: Python 3.12+
-- **Package Manager**: Poetry
-- **Framework**: FastAPI (optional API extra)
-- **Database**: File-based JSON storage with optional in-memory caching
-- **CLI**: Click
-- **Testing**: pytest, pytest-asyncio, hypothesis
-- **Code Quality**: black, isort, flake8
+### Before Making Changes
+- **Navigate to service directory** - Always `cd services/<service-name>` first
+- **Read service AGENTS.md** - Each service has specific patterns and commands
+- **Check service dependencies** - Use Poetry (Python) or Bun (TypeScript)
 
-### Jawafdehi API (JDS)
-- **Language**: Python 3.12+
-- **Package Manager**: Poetry
-- **Framework**: Django 5.2+, Django REST Framework
-- **Database**: PostgreSQL (via psycopg2-binary)
-- **Admin**: Jazzmin (Bootstrap 4)
-- **API Docs**: drf-spectacular (OpenAPI)
-- **Permissions**: django-rules
-- **Testing**: pytest, pytest-django, hypothesis
-- **Server**: Gunicorn
+### Cross-Service Coordination
+- **API changes** - Update both backend and frontend services
+- **Database schema** - Consider impact on all consuming services
+- **Authentication** - Coordinate across all user-facing services
 
-## Frontend Services
+## Package Management
 
-### Jawafdehi Frontend
-- **Language**: TypeScript
-- **Runtime**: Node.js
-- **Package Manager**: npm
-- **Framework**: React 18, Vite
-- **Routing**: react-router-dom
-- **UI Components**: Radix UI, shadcn/ui
-- **Styling**: Tailwind CSS
-- **Forms**: react-hook-form, zod
-- **State**: @tanstack/react-query
-- **i18n**: i18next, react-i18next
-- **Testing**: Vitest, jsdom
+### Python Services
+- **Poetry only** - Use `poetry run <command>` (never pip)
+- **Service isolation** - Each service has own pyproject.toml
+- **Virtual environments** - Poetry manages automatically
 
-### Tundikhel
-- **Language**: TypeScript
-- **Runtime**: Node.js
-- **Package Manager**: npm
-- **Framework**: React 19, Vite (rolldown-vite)
-- **Routing**: react-router-dom
-- **Markdown**: react-markdown
+### TypeScript Services
+- **Bun runtime** - Use Bun for package management and execution
+- **Vite build tool** - For frontend applications
+- **Service isolation** - Each service has own package.json
 
-## Infrastructure
+## Infrastructure Management
 
-### Deployment
-- **Platform**: Google Cloud Platform
-- **IaC**: Terraform
-- **Container Registry**: GCR
-- **Compute**: Cloud Run
-- **Database**: Cloud SQL PostgreSQL 18
-- **CI/CD**: Cloud Build
-- **Load Balancer**: Global HTTPS with managed SSL
-
-### Containerization
-- **Base Images**: python:3.12-slim
-- **Build Tool**: Docker
-
-## Common Commands
-
-### Nepal Entity Service
+### Terraform Operations
 ```bash
-# Install with all extras
-poetry install --extras all
-
-# Run API server
-poetry run nes-api
-
-# Run CLI
-poetry run nes --help
-
-# Run tests
-poetry run pytest
-
-# Format code
-poetry run black .
-poetry run isort .
-
-# Lint
-poetry run flake8
-```
-
-### Jawafdehi API
-```bash
-# Install dependencies
-poetry install
-
-# Run development server
-poetry run python manage.py runserver
-
-# Run migrations
-poetry run python manage.py migrate
-
-# Create superuser
-poetry run python manage.py createsuperuser
-
-# Collect static files
-poetry run python manage.py collectstatic
-
-# Run tests
-poetry run pytest
-
-# Run with Gunicorn (production)
-poetry run gunicorn config.wsgi:application --bind 0.0.0.0:8080
-```
-
-### Frontend Services (Jawafdehi & Tundikhel)
-```bash
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Lint
-npm run lint
-
-# Preview production build
-npm run preview
-
-# Deploy (GitHub Pages)
-npm run deploy
-```
-
-### Infrastructure
-```bash
-# Initialize Terraform
-cd gcp-infra/terraform
+cd services/infra
 terraform init
-
-# Plan changes
 terraform plan
-
-# Apply changes
 terraform apply
-
-# Destroy infrastructure
-terraform destroy
 ```
 
-## Environment Configuration
+### GCP Services
+- **Cloud Run** - Container deployment
+- **Cloud SQL** - PostgreSQL databases
+- **Cloud Storage** - File storage and static assets
+- **Cloud Build** - CI/CD pipelines
 
-### NES
-- `NES_DB_URL`: Database path (file:// or file+memcached://)
+## Testing Strategy
 
-### JDS
-- `SECRET_KEY`: Django secret key
-- `DEBUG`: Debug mode (True/False)
-- `ALLOWED_HOSTS`: Comma-separated hostnames
-- `CSRF_TRUSTED_ORIGINS`: Comma-separated origins
-- `DATABASE_URL`: PostgreSQL connection string
-- `NES_API_URL`: Nepal Entity Service API URL
-- `EXPOSE_CASES_IN_REVIEW`: Feature flag (True/False)
+### Service-Level Testing
+- **Unit tests** - Test individual components
+- **Integration tests** - Test service interactions
+- **API tests** - Test endpoint functionality
 
-## Code Quality Standards
+### Cross-Service Testing
+- **End-to-end tests** - Test complete user workflows
+- **Contract testing** - Verify API compatibility
+- **Performance testing** - Load and stress testing
 
-### Python
-- **Formatter**: black (line length: 88)
-- **Import Sorter**: isort (black profile)
-- **Linter**: flake8
-- **Type Hints**: Encouraged but not enforced
-- **Testing**: pytest with hypothesis for property-based testing
+## Essential Commands
 
-### TypeScript/JavaScript
-- **Linter**: ESLint
-- **Type Checking**: TypeScript strict mode
-- **Testing**: Vitest
+### Meta-Repo Navigation
+```bash
+# Service-specific work
+cd services/jawafdehi-api && poetry run python manage.py runserver
+cd services/jawafdehi-frontend && bun run dev
+
+# Infrastructure work
+cd services/infra && terraform plan
+
+# Documentation updates
+# Edit files in docs/ directory
+```

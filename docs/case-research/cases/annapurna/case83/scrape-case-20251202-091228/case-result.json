@@ -1,0 +1,73 @@
+{
+  "title": "Alleged Forestry Corruption in Dhanusha involving Hem Bahadur Malla (c. 1986)",
+  "description": "<p>This case concerns allegations of corruption against former minister <strong>Hem Bahadur Malla</strong> related to forestry activities in Dhanusha district, purported to have occurred around 2043 BS (c. 1986-1987 AD). The core allegation, originating from a single internal document, claims a financial loss of NPR 3,24,00,000.</p><p>However, extensive research of public records, news archives, and legal databases has yielded <strong>no corroborating evidence</strong> to support these specific claims. There is no public information about a corruption case from that period involving Hem Bahadur Malla, his alleged alias 'Shere of Dhanusha', or an associate named Sharada Malla.</p><p>Publicly available information, in contrast, portrays Hem Bahadur Malla as a respected public administrator, primarily known as the founder and leader of the Salt Trading Corporation. In recognition of his contributions, the 'Hem Bahadur Malla Samman' was established in 2059 BS (2002 AD) by the Nepal Public Administration Association and Salt Trading Corporation to honor excellence in public service. He passed away in 2057 BS (2000 AD).</p><p>It is worth noting that the Sagarnath Forest area has been the subject of other, more recent and unrelated corruption investigations, such as those involving illegal land encroachment by local officials in the 2020s.</p>",
+  "unverified_info": "<p>The following details are derived exclusively from an initial, uncorroborated source document and <strong>could not be independently verified</strong> through public records. They should be treated as unconfirmed allegations.</p><ul><li><strong>Alleged Case Name:</strong> Corruption of 'Shere' of Dhanusha (धनुषाका 'शेरे' को भ्रष्टाचार)</li><li><strong>Alleged Subject:</strong> Forestry (वन)</li><li><strong>Year of Allegation:</strong> 2043 BS (c. 1986-1987 AD)</li><li><strong>Alleged Financial Loss:</strong> NPR 32,400,000 (३ करोड २४ लाख)</li><li><strong>Primary Accused:</strong> Hem Bahadur Malla (हेमबहादुर मल्ल)</li><li><strong>Alleged Alias:</strong> 'Shere' (शेरे)</li><li><strong>Associated Individual:</strong> Sharada Malla (शारदा मल्ल)</li></ul>",
+  "key_allegations": [
+    "Alleged corruption in forestry management causing a financial loss of NPR 32,400,000"
+  ],
+  "alleged_entities": [
+    "Hem Bahadur Malla",
+    "Sharada Malla"
+  ],
+  "related_entities": [
+    "Salt Trading Corporation",
+    "Nepal Public Administration Association"
+  ],
+  "locations": [
+    {
+      "other": "Sagarnath Forest Area",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Dhanusha",
+      "province": "Madhesh"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Forestry",
+    "Unverified Allegation",
+    "Historical Case",
+    "Dhanusha"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "1986-01-01",
+      "title": "Alleged Corruption Incident",
+      "description": "The alleged corruption incident involving forestry in Dhanusha district took place during the year 2043 BS (circa 1986-1987 AD). This information is unverified and originates from a single internal source."
+    },
+    {
+      "event_date": "2000-11-15",
+      "title": "Death of Hem Bahadur Malla",
+      "description": "Hem Bahadur Malla passed away on Kartik 30, 2057 BS (November 15, 2000)."
+    },
+    {
+      "event_date": "2002-01-01",
+      "title": "Establishment of 'Hem Bahadur Malla Samman'",
+      "description": "The 'Hem Bahadur Malla Samman' (Award) was established in his memory in 2059 BS (c. 2002 AD) by the Nepal Public Administration Association and Salt Trading Corporation to honor individuals for outstanding contributions to public administration."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Internal Case Detail Document",
+      "url": "internal_document://tmp/annapurna/case83/details.md",
+      "description": "The initial internal document that contains all the core allegations against Hem Bahadur Malla. The details within could not be externally or publicly verified."
+    },
+    {
+      "title": "Himalaya Times: 'Hem Bahadur Malla Award' to former Chief Justice Shrestha",
+      "url": "https://himalayatimes.com/news/30526",
+      "description": "News report on the 'Hem Bahadur Malla Award' ceremony. It confirms Malla's death in 2057 BS (2000 AD) and the establishment of the award in his honor, highlighting his respected public career."
+    },
+    {
+      "title": "ekantipur: Case against 6 including suspended mayor and deputy mayor of Bagmati in Sagarnath forest encroachment offence",
+      "url": "https://ekantipur.com/news/2025/04/25/171399890100813955.html",
+      "description": "Details a modern and unrelated corruption case concerning the Sagarnath Forest area, showing the location has been subject to other accountability investigations."
+    },
+    {
+      "title": "Instakhabar: Corruption case against 8 people in Sagarnath forest area encroachment case",
+      "url": "https://instakhabar.com/news/2024/06/28/491953",
+      "description": "Reports on a recent corruption case filed by the CIAA regarding illegal encroachment in the Sagarnath Forest area, which is not connected to Hem Bahadur Malla."
+    }
+  ]
+}

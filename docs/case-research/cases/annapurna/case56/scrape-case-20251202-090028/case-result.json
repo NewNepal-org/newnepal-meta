@@ -1,0 +1,41 @@
+{
+  "title": "Examination Result Alteration Case (Kamlesh DC and Binay Kumar Das)",
+  "description": "<p>This case involves allegations of corruption where examination results were manipulated to fraudulently pass students who had initially failed. The offense is reported to have occurred in the year 2079 BS (approximately 2022-2023 AD).</p><p>The primary individuals accused are <strong>Kamlesh DC</strong> and <strong>Binay Kumar Das</strong>. They are alleged to have added marks to the answer sheets or records of failed students. The case file also notes the involvement of the <strong>guardians of the failed students</strong>, suggesting a potential scheme of bribery or collusion to secure passing grades.</p><p>No specific educational institution, monetary amounts, or the exact number of students affected have been specified in the available source material.</p>",
+  "unverified_info": "<p><strong>The entirety of this case is based on a single internal document and remains unverified by any external, public source.</strong> Extensive searches of online records, reputable news archives, and the official database of the Commission for the Investigation of Abuse of Authority (CIAA) did not yield any matching case involving individuals named Kamlesh DC and Binay Kumar Das for examination fraud during the specified period.</p><ul><li>The specific educational institution where the alleged fraud occurred is not identified. While similar cases often involve entities like Tribhuvan University, this is purely speculative.</li><li>The exact dates of the offense are unknown; only the year 2079 BS (approx. April 2022 - April 2023) is mentioned.</li><li>No details regarding the status of any investigation or legal proceedings are available.</li></ul>",
+  "key_allegations": [
+    "Manipulation of examination results by adding marks to the scores of failed students.",
+    "Corruption and collusion between officials and guardians to alter academic outcomes."
+  ],
+  "alleged_entities": [
+    "Kamlesh DC",
+    "Binay Kumar Das",
+    "Guardians of the failed students"
+  ],
+  "related_entities": [],
+  "locations": [
+    {
+      "other": "Nepal",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Education",
+    "Corruption",
+    "Examination Fraud",
+    "Result Alteration",
+    "Unverified"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [],
+  "sources": [
+    {
+      "title": "Internal Case File: details.md",
+      "url": "internal_document:///tmp/annapurna/case56/details.md",
+      "description": "The sole source for this case. It is an internal markdown file containing brief, key details about the allegation in Nepali. All information derived from this source is currently uncorroborated by public records."
+    }
+  ]
+}

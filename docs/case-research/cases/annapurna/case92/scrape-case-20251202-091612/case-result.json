@@ -1,0 +1,130 @@
+{
+  "title": "Tukucha Khola Encroachment and Excavation Case",
+  "description": "<p>The Tukucha Khola case involves a section of the Ikshumati stream, a tributary of the Bagmati River in Kathmandu, that was historically channelled underground and built over. The controversy escalated in 2022 when the <strong>Kathmandu Metropolitan City (KMC)</strong>, under the leadership of Mayor <strong>Balendra Shah</strong>, initiated an aggressive campaign to excavate and reclaim the 'lost' stream, which had disappeared from view between the Narayanhiti Palace Museum and Putalisadak.</p><p>The KMC's campaign, which began with a notice on July 28, 2022, and physical excavation on September 15, 2022, was based on the premise that the river and its banks are public land that had been illegally encroached upon. The city's primary goal was to restore the natural water flow, mitigate flood risks in areas like Hattisar, and create a public corridor.</p><p>The excavation and demolition efforts were met with strong legal opposition from property owners who hold legal land ownership certificates (Lal Purja) and building permits for the structures constructed over the covered stream. Multiple writ petitions were filed at the <strong>Patan High Court</strong>, leading to an interim order on September 18, 2022, to halt demolitions.</p><p>The case was further complicated when the <strong>Department of Archaeology (DOA)</strong>, on October 23, 2022, declared the underground brick tunnel channelling the river to be a heritage structure dating back to the Rana era (c. 1885-1901), making it over 100 years old and protecting it under the Ancient Monument Preservation Act, 1956. This finding barred the demolition of the tunnel itself.</p><p>On January 18, 2023, the Patan High Court delivered a landmark verdict that acknowledged two competing rights: <ul><li>It affirmed that the <strong>Tukucha is a river, not a sewer</strong>, and as such, it is public property.</li><li>However, it also upheld the rights of landowners, ruling that the state cannot demolish legally registered private property without following due process and providing <strong>fair compensation</strong>.</li></ul></p><p>The ruling effectively halted the KMC's campaign to unilaterally demolish the structures. Mayor Shah framed the verdict as a partial victory for establishing the stream's legal status as a river and vowed to initiate a formal legal process to acquire the land. The dispute remains ongoing, balancing urban development, private property rights, and heritage preservation.</p>",
+  "unverified_info": "<ul><li>The exact length of the concealed section of the Tukucha stream is estimated to be between <strong>450 and 500 meters</strong>.</li><li>It was reported that around <strong>21 separate writ petitions</strong> were filed at the Patan High Court by affected property owners against the KMC's actions.</li><li>The historical motive for covering the stream during the Rana period is believed to be for aesthetic and sanitation purposes, specifically to <strong>prevent flooding and foul smells</strong> from affecting newly constructed palaces, as suggested by the Department of Archaeology's study.</li></ul>",
+  "key_allegations": [
+    "Illegal encroachment and construction on public land (riverbed)",
+    "Unlawful destruction of private property without due process or compensation",
+    "Violation of the Ancient Monument Preservation Act, 1956 by attempting to demolish a heritage structure"
+  ],
+  "alleged_entities": [
+    "Property owners along the covered section of Tukucha Khola",
+    "President Travels and Tours Private Limited",
+    "Jai Nepal Cinema Hall",
+    "Laxmi Bank",
+    "Kathmandu Metropolitan City (KMC)"
+  ],
+  "related_entities": [
+    "Balendra Shah",
+    "Patan High Court",
+    "Department of Archaeology (DOA)",
+    "Supreme Court of Nepal",
+    "Bhola Bikram Thapa",
+    "Vishwa Prakash Sakh"
+  ],
+  "locations": [
+    {
+      "other": "Hattisar, Kamaladi, Putalisadak, Narayanhiti Palace Museum area",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Land Encroachment",
+    "River Encroachment",
+    "Public Property",
+    "Urban Development",
+    "Heritage Preservation",
+    "Legal Dispute",
+    "Kathmandu",
+    "Balen Shah"
+  ],
+  "case_start_date": "2022-07-28",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2022-07-28",
+      "title": "KMC Issues 35-Day Notice",
+      "description": "The Kathmandu Metropolitan City, led by Mayor Balen Shah, issues a 35-day public notice demanding the removal of all structures built by encroaching on the Tukucha stream."
+    },
+    {
+      "event_date": "2022-09-15",
+      "title": "KMC Finds Buried Stream",
+      "description": "After an earlier attempt failed, KMC's excavation team successfully locates the Tukucha stream flowing 15 feet underground within the premises of Jai Nepal Cinema Hall in Kathmandu."
+    },
+    {
+      "event_date": "2022-09-18",
+      "title": "Patan High Court Stays Demolition",
+      "description": "Acting on a writ petition filed by President Travels and Tours, a single bench of Judge Dipendra Bahadur Bam at the Patan High Court issues an interim order to halt the demolition of structures built over the Tukucha."
+    },
+    {
+      "event_date": "2022-09-19",
+      "title": "KMC Continues Excavation",
+      "description": "Despite the court's stay order, KMC continues excavation work on open land in the Hattisar area, claiming it had not yet been officially served with the court's written order."
+    },
+    {
+      "event_date": "2022-10-23",
+      "title": "Department of Archaeology Declares Tunnel a Heritage Site",
+      "description": "The Department of Archaeology concludes its study, announcing that the underground tunnel covering the Tukucha is a Rana-era structure over 100 years old, qualifying it as an archaeological heritage site that must be preserved."
+    },
+    {
+      "event_date": "2023-01-18",
+      "title": "Patan High Court Delivers Full Verdict",
+      "description": "A division bench of the Patan High Court rules that Tukucha is a river and thus public property, but also rules that the government cannot demolish legally registered private structures on its surface without due process and compensation."
+    },
+    {
+      "event_date": "2023-12-19",
+      "title": "Supreme Court Issues Broader River Conservation Order",
+      "description": "In a separate case, the Supreme Court issues a comprehensive verdict directing authorities to clear encroachments on riverbanks, including Tukucha, and to implement other conservation measures."
+    },
+    {
+      "event_date": "2024-08-09",
+      "title": "Mayor Shah Highlights Risk of Covered River",
+      "description": "Mayor Balen Shah posts a video of a large sinkhole on a road near the KMC office, attributing it to the underlying Tukucha stream to highlight the public safety risks."
+    }
+  ],
+  "sources": [
+    {
+      "title": "KMC finds Tukucha River after excavating Jai Nepal Hall",
+      "url": "https://myrepublica.nagariknetwork.com/news/kmc-finds-tukucha-river-after-excavating-jai-nepal-hall/",
+      "description": "A myRepublica news report from September 15, 2022, detailing the successful excavation and discovery of the Tukucha stream beneath the Jai Nepal Hall property by the KMC."
+    },
+    {
+      "title": "Tukucha Khola: High Court stays demolition",
+      "url": "https://thehimalayantimes.com/nepal/tukucha-khola-high-court-stays-demolition",
+      "description": "The Himalayan Times article from September 18, 2022, reporting on the Patan High Court's interim order halting the KMC's demolition of structures over the Tukucha."
+    },
+    {
+      "title": "Despite court order, Kathmandu city continues digging Tukucha river",
+      "url": "https://english.onlinekhabar.com/kathmandu-city-continues-digging-tukucha-river.html",
+      "description": "Onlinekhabar report from September 19, 2022, confirming that KMC continued its excavation activities in the Hattisar area despite the High Court's stay order."
+    },
+    {
+      "title": "Tukucha river covering proven archaeological heritage; city govt barred from uncovering",
+      "url": "https://english.onlinekhabar.com/tukucha-river-archaeological-heritage.html",
+      "description": "Onlinekhabar article from October 23, 2022, reporting on the Department of Archaeology's finding that the tunnel over Tukucha is a protected heritage site."
+    },
+    {
+      "title": "Tukucha is a River but Property on Surface is Private: High Court",
+      "url": "https://www.newbusinessage.com/MagazineArticles/view/3642",
+      "description": "New Business Age report on the Patan High Court's final verdict of January 18, 2023, which declared Tukucha a river but protected private property rights, requiring compensation for acquisition."
+    },
+    {
+      "title": "Tukucha is a river, not a sewer, rules Patan High Court",
+      "url": "https://myrepublica.nagariknetwork.com/news/tukucha-is-a-river-not-a-sewer-rules-patan-high-court/",
+      "description": "A myRepublica report providing details and quotes from the Patan High Court's final verdict, emphasizing the court's affirmation of Tukucha's status as a river."
+    },
+    {
+      "title": "Supreme Court orders removal of riverside squatters",
+      "url": "https://kathmandupost.com/kathmandu/2024/07/17/supreme-court-orders-removal-of-riverside-squatters",
+      "description": "The Kathmandu Post article from July 17, 2024, detailing a broader Supreme Court directive on river conservation in Kathmandu, which includes orders relevant to the Tukucha."
+    },
+    {
+      "title": "Showing a big ditch on the road, Mayor Balen said, ‘This is the road over Tukucha’",
+      "url": "https://myrepublica.nagariknetwork.com/news/showing-a-big-ditch-on-the-road-mayor-balen-said-this-is-the-road-over-tukucha/",
+      "description": "A myRepublica report from August 9, 2024, about Mayor Balen Shah's social media post highlighting a sinkhole to raise awareness about the dangers of the covered river."
+    }
+  ]
+}

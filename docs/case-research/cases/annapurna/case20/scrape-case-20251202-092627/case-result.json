@@ -1,0 +1,71 @@
+{
+  "title": "Corruption in Ginger Subsidy Program in Galyang Municipality (FY 2018/19)",
+  "description": "<p>The Commission for the Investigation of Abuse of Authority (CIAA) has filed a corruption case concerning a ginger farming subsidy program in Galyang Municipality, Syangja, during the fiscal year 2075/076 (2018-2019). The case implicates the then-Mayor, Bhupuraj Adhikari, along with other municipal officials and a private supplier, Spook Traders Pvt. Ltd.</p><p>The core allegations involve a total corruption amount of <strong>NPR 21,070,499</strong>. The charges are twofold:</p><ul><li><strong>Price Inflation:</strong> Then-Mayor Bhupuraj Adhikari is accused of unilaterally increasing the procurement price of ginger seeds from the recommended NPR 155 per kg to NPR 165 per kg. This decision, applied to the purchase of 130,000 kg of seeds, allegedly caused a direct loss of <strong>NPR 1,300,000</strong> to the municipality.</li><li><strong>Procurement of Substandard Goods:</strong> The officials are accused of procuring and approving payment for ginger seeds that were of poor quality and did not meet technical specifications. The procurement was allegedly done without any quality testing. The total payment made to the supplier for these substandard seeds was NPR 2,14,50,000, resulting in a claimed loss of <strong>NPR 1,97,70,499</strong>.</li></ul><p>The CIAA initially filed the case at the Special Court in Kathmandu. Following a verdict from the Special Court, the CIAA, being dissatisfied with the outcome, has appealed the decision to the Supreme Court of Nepal. The charges are based on the Prevention of Corruption Act, 2059 (2002 AD).</p>",
+  "unverified_info": "<p>The specific details of the verdict issued by the Special Court in Kathmandu, which prompted the CIAA's appeal to the Supreme Court, are not publicly available in the cited source. It is unclear whether the accused were acquitted or if the penalty was deemed insufficient by the CIAA.</p>",
+  "key_allegations": [
+    "Unilateral price inflation of ginger seeds by NPR 10 per kilogram for a total of 130,000 kgs, causing a loss of NPR 1,300,000.",
+    "Procurement of substandard ginger seeds without quality testing, causing a loss of NPR 1,97,70,499.",
+    "Providing illegal benefit to the supplier, Spook Traders Pvt. Ltd.",
+    "Misuse of authority by public officials for personal and third-party gain."
+  ],
+  "alleged_entities": [
+    "Bhupuraj Adhikari",
+    "Ishwari Prasad Pandey",
+    "Arvind Mani Tripathi",
+    "Rajendra Regmi",
+    "Santosh Koirala",
+    "Spook Traders Pvt. Ltd."
+  ],
+  "related_entities": [
+    "Galyang Municipality",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu",
+    "Supreme Court of Nepal"
+  ],
+  "locations": [
+    {
+      "other": "The case pertains to the ginger farming subsidy program.",
+      "ward_no": null,
+      "municipality": "Galyang Municipality",
+      "district": "Syangja",
+      "province": "Gandaki Province"
+    },
+    {
+      "other": "Supplier's registered address.",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati Province"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Procurement",
+    "Agriculture",
+    "Subsidy Abuse",
+    "Local Government",
+    "CIAA",
+    "Price Inflation"
+  ],
+  "case_start_date": "2018-07-17",
+  "case_end_date": "2019-07-16",
+  "timeline": [
+    {
+      "event_date": "2019-07-16",
+      "title": "Corruption Allegedly Occurs",
+      "description": "The alleged acts of corruption, including price inflation and procurement of substandard ginger seeds, took place during the fiscal year 2075/076 (2018-2019)."
+    },
+    {
+      "event_date": "2024-05-19",
+      "title": "CIAA Appeals to Supreme Court",
+      "description": "The CIAA issued a press release announcing its decision to appeal the verdict of the Special Court, Kathmandu, at the Supreme Court of Nepal. The CIAA was dissatisfied with the lower court's decision."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CIAA Press Release: Appeal Filed in Supreme Court",
+      "url": "https://ciaa.gov.np/np/press-release/10530",
+      "description": "Official press release from the CIAA dated 2081/02/06 BS (May 19, 2024), detailing the charges against Bhupuraj Adhikari and others, the alleged corruption amounts, and the commission's decision to appeal the Special Court's verdict to the Supreme Court."
+    }
+  ]
+}

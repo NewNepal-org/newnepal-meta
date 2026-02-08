@@ -1,0 +1,110 @@
+{
+  "title": "Fertilizer Contract Default by Shailung Enterprises and Honiko Multiple (2020)",
+  "description": "<p>In 2020, two private contractors, <strong>Shailung Enterprises Pvt. Ltd.</strong> and <strong>Honiko Multiple Pvt. Ltd.</strong>, defaulted on agreements to supply a total of 50,000 metric tons of urea fertilizer. This failure led to a severe nationwide fertilizer shortage during the peak paddy plantation season, significantly impacting farmers and threatening national food security.</p><p>The state-owned <strong>Krishi Samagri Company Limited (KSCL)</strong>, also known as Agriculture Inputs Company Limited (AICL), had awarded the contracts to address the country's agricultural needs.</p><ul><li><strong>Shailung Enterprises Pvt. Ltd.</strong>, owned by Sharada Prasad Adhikari, signed a contract on <strong>April 20, 2020</strong>, to import 25,000 metric tons of urea.</li><li><strong>Honiko Multiple Pvt. Ltd.</strong>, owned by Homnath Koirala, signed a contract on <strong>April 27, 2020</strong>, for an additional 25,000 metric tons of urea.</li></ul><p>Both companies failed to deliver the fertilizers by the initial deadline of July 23, 2020, and a subsequent extended deadline of September 5, 2020. According to reports, the companies could not provide any details about the shipment or transport vessels when questioned by AICL.</p><p>As a result of the default, the government took decisive action. On or around <strong>September 7, 2020</strong>, the Ministry of Agriculture and Livestock Development announced the termination of both contracts. The government also seized the performance guarantee deposits from both companies, totaling over NPR 90 million (approximately NPR 48 million from each). AICL initiated proceedings to blacklist the firms and seek further compensation for damages.</p><p>The case drew significant public attention due to the alleged political connections of the contractors. Sharada Prasad Adhikari is widely known as the landlord of Pushpa Kamal Dahal, chairman of the CPN (Maoist Center), leading to allegations that political influence was used to secure the contract despite a poor track record. This incident highlighted systemic issues in Nepal's public procurement process and its dependency on imports for critical agricultural inputs, a problem that <a href=\"https://kathmandupost.com/opinion/2022/08/17/nepal-s-fertilizer-crisis-a-symptom-of-a-broken-agricultural-supply-chain\">chronically affects the nation's farmers</a>.</p>",
+  "unverified_info": "<p>Some internal case files reportedly list the year of the incident as <strong>2078 BS</strong>, which conflicts with verifiable news reports and official announcements from <strong>2020 AD (2077 BS)</strong>.</p><p>While Sharada Prasad Adhikari's connection to Pushpa Kamal Dahal is widely reported, the political affiliation of Homnath Koirala of Honiko Multiple with the Nepali Congress party is mentioned in some reports but is less frequently substantiated.</p><p>Some sources state the contract for Shailung Enterprises was signed on April 24, 2020, while others state April 20, 2020. The latter is used in the main record as it appears in more detailed reports.</p>",
+  "key_allegations": [
+    "Breach of contract by failing to supply 50,000 metric tons of chemical fertilizer by the agreed deadline.",
+    "Causing a nationwide fertilizer shortage during the peak paddy plantation season.",
+    "Alleged use of political connections to secure public procurement contracts without sufficient capacity or intent to deliver."
+  ],
+  "alleged_entities": [
+    "Shailung Enterprises Pvt. Ltd.",
+    "Honiko Multiple Pvt. Ltd."
+  ],
+  "related_entities": [
+    "Krishi Samagri Company Limited (KSCL) / Agriculture Inputs Company Limited (AICL)",
+    "Sharada Prasad Adhikari",
+    "Homnath Koirala",
+    "Ministry of Agriculture and Livestock Development",
+    "Ghanashyam Bhusal"
+  ],
+  "locations": [
+    {
+      "other": "Nationwide impact across Nepal due to fertilizer shortage",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Procurement",
+    "Breach of Contract",
+    "Agriculture",
+    "Fertilizer Shortage",
+    "Political Connection",
+    "Shailung Enterprises",
+    "Public Procurement"
+  ],
+  "case_start_date": "2020-04-20",
+  "case_end_date": "2020-09-07",
+  "timeline": [
+    {
+      "event_date": "2020-04-20",
+      "title": "Contract Signed with Shailung Enterprises",
+      "description": "Agriculture Inputs Company Limited (AICL) signed a contract with Shailung Enterprises Pvt. Ltd. to supply 25,000 metric tons of urea fertilizer."
+    },
+    {
+      "event_date": "2020-04-27",
+      "title": "Contract Signed with Honiko Multiple",
+      "description": "AICL signed a second contract with Honiko Multiple Pvt. Ltd. to supply 25,000 metric tons of urea fertilizer."
+    },
+    {
+      "event_date": "2020-05-12",
+      "title": "Letters of Credit Opened",
+      "description": "AICL opened letters of credit for both companies, officially initiating the import process."
+    },
+    {
+      "event_date": "2020-07-23",
+      "title": "Original Deadline Missed",
+      "description": "The initial deadline for importing the fertilizer passed, with neither company having made the delivery."
+    },
+    {
+      "event_date": "2020-09-05",
+      "title": "Extended Deadline Missed",
+      "description": "The final extended deadline of 25 days passed, and both companies failed to supply the fertilizer."
+    },
+    {
+      "event_date": "2020-09-07",
+      "title": "Contracts Terminated and Deposits Seized",
+      "description": "The government officially terminated the contracts with both Shailung Enterprises and Honiko Multiple. It also seized their performance guarantee deposits of NPR 48 million each."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Govt scraps contracts with companies failing to import much-needed chemical fertilizer on time",
+      "url": "https://www.himalayantribune.com/govt-scraps-contracts-with-companies-failing-to-import-much-needed-chemical-fertilizer-on-time/",
+      "description": "A detailed English news report from September 7, 2020, confirming the contract cancellation, quantities (25,000 metric tons each), seized deposit amounts (NPR 48 million each), and contract dates for both Shailung Enterprises and Honiko Multiple."
+    },
+    {
+      "title": "Govt scraps fertiliser import deal with Sailung and Honiko",
+      "url": "https://www.newbusinessage.com/Articles/view/12028",
+      "description": "A news report from September 7, 2020, confirming the termination of the contracts and quoting then-Minister for Agriculture Ghanashyam Bhusal on the decision to take action against the careless companies."
+    },
+    {
+      "title": "Govt scraps tender of Adhikari's company, seizes deposit",
+      "url": "https://www.janaprashasan.com/2020/09/06/25509/",
+      "description": "A Nepali language article from September 6, 2020, reporting the cancellation of the contracts with Shailung Enterprises and Honiko Multiple and the forfeiture of their security deposits."
+    },
+    {
+      "title": "Prachanda's landlord Sharada Adhikari's deposit forfeited",
+      "url": "https://khabarjaleshwor.com/archives/19435",
+      "description": "A Nepali news report about the forfeiture of Sharada Adhikari's deposit, identifying him as the landlord of politician Pushpa Kamal Dahal and also mentioning Homnath Koirala of Honiko Multiple."
+    },
+    {
+      "title": "Contractor Sharada Adhikari is the cause of the fertilizer crisis",
+      "url": "https://dainiki.com/2020/07/26410.html",
+      "description": "A Nepali language article from July 2020 alleging that Sharada Prasad Adhikari's failure to import fertilizer after winning the contract was the primary reason for the impending crisis."
+    },
+    {
+      "title": "Understanding Fertilizer Shortage in Nepal",
+      "url": "https://www.newbusinessage.com/articles/view/understanding-fertilizer-shortage-in-nepal",
+      "description": "An article providing background on Nepal's chronic fertilizer shortages, the roles of AICL and STC, and the systemic issues with import dependency."
+    },
+    {
+      "title": "Nepal's fertilizer crisis: a symptom of a broken agricultural supply chain",
+      "url": "https://kathmandupost.com/opinion/2022/08/17/nepal-s-fertilizer-crisis-a-symptom-of-a-broken-agricultural-supply-chain",
+      "description": "An opinion piece from The Kathmandu Post detailing the systemic failures in Nepal's fertilizer supply chain, from procurement to distribution."
+    }
+  ]
+}

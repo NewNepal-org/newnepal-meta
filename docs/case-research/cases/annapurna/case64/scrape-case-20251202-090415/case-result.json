@@ -1,0 +1,139 @@
+{
+  "title": "Encroachment and Misappropriation of Cotton Development Board Land",
+  "description": "<p>This case concerns the large-scale and persistent encroachment of land belonging to the Cotton Development Board (CDB), a state-owned entity established in 1980. The primary incident began around 2001-2002, during the CPN (Maoist) insurgency, when approximately <strong>825 bigha (550 hectares)</strong> of the Board's Kumbher farm land in Bardiya district were captured by Maoist cadres and subsequently occupied by landless individuals and freed bonded laborers.</p><p>The situation is complicated by several factors:</p><ul><li><strong>Lack of Formal Title:</strong> The government allocated the land to the CDB in 1980 but never transferred the formal ownership certificate (lalpurja), weakening the Board's legal claim to the property.</li><li><strong>Government-Sanctioned Settlement:</strong> The Government of Nepal later formalized the settlement of 555 families of freed bonded laborers on 138 bigha and 15 kaththa of the encroached land.</li><li><strong>Destruction of Assets:</strong> During the insurgency, the CDB's head office in Khajura, Banke, was bombed and set on fire by then-rebel CPN (Maoist) forces, resulting in an estimated loss of <strong>NPR 5.93 crore</strong>.</li><li><strong>Ongoing Encroachment Attempts:</strong> Other CDB properties remain under threat. In 2023, a 3-bigha plot in Madhuwan, Bardiya, saw encroachment attempts by a group named the 'Nepal Shuddha Landless Independent Party'. Madhuwan Municipality was also implicated for demolishing the plot's fencing to build a road without the CDB's consent.</li></ul><p>The CDB, once a profitable enterprise, has been crippled by the loss of its primary land assets and the decline of the domestic textile industry. In its 2023 budget, the government announced its decision to dissolve the Board, creating further uncertainty about the future of its remaining and encroached lands.</p>",
+  "unverified_info": "<p><ul><li>The exact date of the bombing and arson attack on the Cotton Development Board's headquarters in Khajura, Banke, is unknown, though sources confirm it occurred during the Maoist insurgency (1996-2006).</li><li>Some early reports mentioned a loss of '700 bigha,' which may be an approximation or refer to a specific portion of the total 825 bigha encroached at the Kumbher farm.</li><li>One source mentions a total of 1,320 bigha of CDB land across several districts that lacks official ownership certificates. This figure is higher than the 825 bigha repeatedly cited for the Kumbher farm and may represent the total land holdings of the Board, but this requires further verification.</li></ul></p>",
+  "key_allegations": [
+    "Illegal encroachment and long-term occupation of approximately 825 bigha of land belonging to the Cotton Development Board in Bardiya, initiated by CPN (Maoist) cadres.",
+    "Destruction of public property, specifically the bombing and arson of the Board's headquarters in Khajura, Banke, causing an estimated loss of NPR 59.3 million.",
+    "Organized attempts by political groups, such as the 'Nepal Shuddha Landless Independent Party', to illegally occupy Board land.",
+    "Alleged facilitation of encroachment by Madhuwan Municipality officials, who ordered the demolition of fencing and felling of trees on Board property without authorization."
+  ],
+  "alleged_entities": [
+    "CPN (Maoist)",
+    "Madhuwan Municipality",
+    "Nepal Shuddha Landless Independent Party"
+  ],
+  "related_entities": [
+    "Cotton Development Board",
+    "Government of Nepal",
+    "Armed Police Force, Nepal"
+  ],
+  "locations": [
+    {
+      "other": "Kumbher Farm",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Bardiya",
+      "province": "Lumbini Province"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Khajura Rural Municipality",
+      "district": "Banke",
+      "province": "Lumbini Province"
+    },
+    {
+      "other": "Durgapur",
+      "ward_no": 8,
+      "municipality": "Madhuwan Municipality",
+      "district": "Bardiya",
+      "province": "Lumbini Province"
+    }
+  ],
+  "tags": [
+    "Land Encroachment",
+    "State-Owned Enterprise",
+    "Destruction of Public Property",
+    "Insurgency-related",
+    "Political Corruption",
+    "Bardiya",
+    "Banke"
+  ],
+  "case_start_date": "2001-04-14",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "1980-01-01",
+      "title": "Government Establishes Cotton Development Board",
+      "description": "The Government of Nepal establishes the Cotton Development Board and allocates approximately 1,200 hectares of cleared forest land, including 550 hectares (825 bigha) in Kumbher, Bardiya, for cotton farming. The formal land ownership certificate (lalpurja) was not transferred to the Board."
+    },
+    {
+      "event_date": "2001-04-14",
+      "title": "Large-Scale Land Encroachment Begins",
+      "description": "At the height of the CPN (Maoist) insurgency, cadres and supporters of the party begin capturing and distributing approximately 825 bigha of the Board's land at Kumbher farm in Bardiya to landless individuals and squatters."
+    },
+    {
+      "event_date": "2007-01-01",
+      "title": "Armed Police Deployed to Reclaim Land",
+      "description": "Following the end of the conflict, the Armed Police Force (APF) is stationed at a 3-bigha CDB property in Madhuwan, Bardiya, to clear it of encroachment by Maoist-affiliated groups."
+    },
+    {
+      "event_date": "2023-05-29",
+      "title": "Government Announces Dissolution of CDB",
+      "description": "In the budget speech for the fiscal year 2080/81, the Government of Nepal announces its decision to scrap the Cotton Development Board."
+    },
+    {
+      "event_date": "2023-06-15",
+      "title": "Municipality Demolishes Fence on CDB Land",
+      "description": "Madhuwan Municipality demolishes the wire fence and fells 27 trees on the CDB's 3-bigha plot in Durgapur, allegedly to build a road, without coordinating with the Board. The activity was halted by the District Administration Office."
+    },
+    {
+      "event_date": "2023-10-31",
+      "title": "New Encroachment Attempt in Madhuwan",
+      "description": "Over 150 people under the banner of the 'Nepal Shuddha Landless Independent Party' arrive from multiple districts and attempt to occupy the 3-bigha Madhuwan plot by building makeshift shelters."
+    },
+    {
+      "event_date": "2023-11-04",
+      "title": "Police Intervene and Disperse Squatters",
+      "description": "Following the encroachment attempt, police intervene and warn the squatters, who subsequently vacate the Madhuwan property. The event was reported by local media around mid-November 2023."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kharibot: News on Encroachment of CDB Land (2018)",
+      "url": "https://www.kharibot.com/news-details/17393/2018-10-21",
+      "description": "An October 2018 article reporting on the long-standing encroachment of 825 bigha of Cotton Development Board land, stating it began in 2058 BS (2001/02)."
+    },
+    {
+      "title": "Setopati: Detailed History of Kumbher Farm Encroachment",
+      "url": "https://setopati.com/social/260904",
+      "description": "Details the history of the 550-hectare Kumbher farm in Bardiya, its encroachment since 2058 BS, the government's distribution of 138 bigha to freed kamaiyas, and the Rs 5.93 crore loss from the Khajura office attack."
+    },
+    {
+      "title": "ANN Nepal: Report on 2023 Madhuwan Encroachment Attempt",
+      "url": "https://annnepal.com/story/52839",
+      "description": "A November 2023 report focusing on the recent encroachment attempt on a 3-bigha plot in Madhuwan, Bardiya, by the 'Nepal Shuddha Landless Independent Party' and implicating the local municipality."
+    },
+    {
+      "title": "Farak Samachar: History of Madhuwan Land Capture",
+      "url": "https://faraksamachar.com/2019/11/14/4038/",
+      "description": "A 2019 article corroborating the history of Maoist capture of the Madhuwan land and recent attempts by landless groups to re-occupy it. It highlights the Board's lack of an ownership certificate (lalpurja)."
+    },
+    {
+      "title": "The Rising Nepal: Municipality Implicated in Encroachment",
+      "url": "https://risingnepaldaily.com/news/46513",
+      "description": "English-language report from November 1, 2023, on the Madhuwan encroachment attempt, noting the municipality's role in removing the fence and felling trees prior to the occupation."
+    },
+    {
+      "title": "Mission Today: Government Scraps CDB",
+      "url": "https://missiontodaynews.com/2023/06/07/20230607101831_17997/",
+      "description": "Reports on the government's decision to dissolve the CDB and provides background on the 825 bigha of encroached land, confirming the 2058/59 timeline."
+    },
+    {
+      "title": "Setokhari: Government Distribution of Encroached Land",
+      "url": "https://www.setokhari.com/news-details/3410/2021-06-25",
+      "description": "A 2021 report confirming that of the 550 hectares (825 bigha) encroached, the government itself distributed 138 bigha to freed bonded laborers."
+    },
+    {
+      "title": "Lumbini Patra: Police Disperse Squatters in Madhuwan",
+      "url": "https://www.lumbinipatra.com/2023/11/17/129759/",
+      "description": "A November 17, 2023 article reporting that police action led to the 'Nepal Pure Landless Independent Party' squatters vacating the Madhuwan land."
+    },
+    {
+      "title": "The Rising Nepal: Reaction to Scrapping of CDB",
+      "url": "https://risingnepaldaily.com/news/28414",
+      "description": "An article from June 2023 detailing the negative reaction from farmers and stakeholders following the government's budget announcement to dissolve the Cotton Development Board."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+I would like to create to fill in the case template.md for Rabi cooperative fraud case. Use the source1.md, the openai.md and the google.md to compile into fill in the case-template.md, which originally is at `services/jawafdehi-frontend/public/case-entry-template/case-entry-template.md`.

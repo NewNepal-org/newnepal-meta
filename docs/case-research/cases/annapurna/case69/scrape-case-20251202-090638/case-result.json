@@ -1,0 +1,68 @@
+{
+  "title": "Corruption Case Regarding Construction of a Bridge Without Road Access in Gorkha",
+  "description": "<p>The Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case against three government officials regarding the construction of a concrete bridge over the Daraudi River in Gorkha. The bridge, which cost over NPR 50 million, was built in a location with no road access, connecting Jarebar of Gorkha Municipality-3 and Siranchok Rural Municipality-5.</p><p>The investigation was prompted by media reports and public complaints. The CIAA alleges that the officials colluded to change the project's location and name from the original plan, abused their authority, and caused a significant financial loss to the state. The total loss claimed by the CIAA is <strong>NPR 54,552,671</strong>.</p><p>The accused individuals are:</p><ul><li><strong>Ishworchand Marahatta:</strong> Then-Secretary of the Ministry of Physical Infrastructure, Gandaki Province. He is the main accused, with the CIAA seeking the recovery of the full loss amount from him.</li><li><strong>Ram Kumar Shrestha:</strong> Then-Acting Director of the State Road Directorate, Gandaki Province. He is specifically accused of embezzling NPR 571,780 for the process of naming a non-existent road.</li><li><strong>Omraj Dhungana:</strong> Senior Division Engineer at the Infrastructure Development Office, Gorkha. He is accused of spending the project budget without obtaining necessary environmental permits from the forest department.</li></ul><p>The case was filed at the Special Court in Kathmandu.</p>",
+  "unverified_info": "<p>It was widely reported that the former Minister for Physical Infrastructure Development of Gandaki Province, <strong>Ramsharan Basnet</strong>, allegedly misused his authority to have the bridge constructed near his personal farm. While these reports triggered the investigation, the CIAA has not formally filed charges against him. He remains a person of interest in the case due to his alleged influence over the project's planning and location.</p>",
+  "key_allegations": [
+    "Construction of a public bridge without connecting roads",
+    "Misuse of public authority for personal gain",
+    "Unauthorized change of project location and name in violation of original agreements",
+    "Causing a financial loss to the Government of Nepal amounting to NPR 54,552,671",
+    "Spending public funds without obtaining necessary permits from the forest department"
+  ],
+  "alleged_entities": [
+    "Ishworchand Marahatta",
+    "Ram Kumar Shrestha",
+    "Omraj Dhungana"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu",
+    "Ministry of Physical Infrastructure, Gandaki Province",
+    "State Road Directorate, Gandaki Province",
+    "Infrastructure Development Office, Gorkha",
+    "Ramsharan Basnet"
+  ],
+  "locations": [
+    {
+      "other": "Bridge over Daraudi River connecting Gorkha Municipality-3 (Jarebar) and Siranchok Rural Municipality-5",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Gorkha",
+      "province": "Gandaki"
+    }
+  ],
+  "tags": [
+    "Infrastructure",
+    "Corruption",
+    "Misuse of Authority",
+    "CIAA",
+    "Gandaki Province",
+    "Public Procurement"
+  ],
+  "case_start_date": "2022-08-23",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2022-08-23",
+      "title": "CIAA Initiates Investigation",
+      "description": "The CIAA confirmed it had started an investigation into the bridge's construction. A team conducted a field examination and began collecting documents from the Infrastructure Development Office in Gorkha and the provincial ministry."
+    },
+    {
+      "event_date": "2023-02-26",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA filed a formal corruption case at the Special Court against Ishworchand Marahatta, Ram Kumar Shrestha, and Omraj Dhungana, alleging a total loss of NPR 54,552,671 to the state."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CIAA shows concern over construction of a bridge where there is no road",
+      "url": "https://myrepublica.nagariknetwork.com/news/ciaa-shows-concern-over-construction-of-a-bridge-where-there-is-no-road/",
+      "description": "A news report from myRepublica detailing the initiation of the CIAA investigation. It mentions the project's location, cost (approx. Rs 53.9 million), and the controversy surrounding then-minister Ramsharan Basnet."
+    },
+    {
+      "title": "Case against 3 people including the then secretary involved in building a bridge where there is no road",
+      "url": "https://english.makalukhabar.com/2023/02/26/30349/",
+      "description": "An article from Makalu Khabar reporting on the filing of the corruption case by the CIAA. It names the three accused officials, their roles, and the specific financial claims, including the total corruption amount of NPR 54,552,671."
+    }
+  ]
+}

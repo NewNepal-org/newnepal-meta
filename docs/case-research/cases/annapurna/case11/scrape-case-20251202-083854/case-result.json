@@ -1,0 +1,157 @@
+{
+  "title": "Poverty Alleviation Fund (PAF): Misappropriation of Funds and Unaccounted NPR 19 Billion",
+  "description": "<p>The Poverty Alleviation Fund (PAF), established in 2003 to support anti-poverty programs, has been embroiled in multiple corruption scandals and large-scale administrative failure. The case involves two primary issues:</p><ol><li><strong>Unaccounted Revolving Fund of NPR 19.37 Billion:</strong> Following the government's decision in 2018 and formal announcement in 2021 to dissolve the PAF, a massive revolving fund of approximately <strong>NPR 19.37 billion</strong> was left in an administrative vacuum. This fund, comprising government contributions (largely from World Bank grants) and community-generated capital, was distributed among 32,276 community groups. The government dissolved the parent body without establishing a clear mechanism for transferring, monitoring, or recovering the funds. As of late 2024, the Ministry of Land Management, Cooperatives and Poverty Alleviation, which inherited PAF's portfolio, formally acknowledged that it has no information on the status or whereabouts of this money, raising fears of widespread misuse or loss.</li><li><strong>Documented Corruption by Officials:</strong> The Commission for the Investigation of Abuse of Authority (CIAA) has filed multiple cases against PAF officials for direct embezzlement and fraud. These cases involve:<ul><li>Creating fake bills and forging documents for programs that were never conducted.</li><li>A <strong>March 2015</strong> case filed against 14 top officials, including then-Executive Director Rajbabu Shrestha, for embezzling <strong>NPR 27.86 million</strong>.</li><li>An <strong>April 2016</strong> case against 36 officials for misappropriating <strong>NPR 43.4 million</strong>, which resulted in the conviction of 17 officials by the Special Court in August 2022.</li><li>A <strong>2019</strong> probe by the National Vigilance Centre (NVC) which uncovered irregularities worth <strong>NPR 185.96 million</strong> and revealed that office equipment valued at <strong>NPR 41.47 million</strong> was missing.</li></ul></ol><p>These events highlight a combination of systemic corruption within the institution and a major governance failure in managing its dissolution, leaving billions in public and community funds unaccounted for.</p>",
+  "unverified_info": "<p>While the total amount of the revolving fund is known to be NPR 19.37 billion, the following details remain unverified:</p><ul><li>The exact amount of the fund that has been misused versus what might still be circulating correctly within community organizations or newly formed cooperatives is unknown. The entire fund is currently classified as unaccounted for by the government.</li><li>The specific role and accountability of the various Councils of Ministers involved, beyond the policy decision to dissolve the fund without a clear transition and monitoring plan, has not been formally investigated or specified in public records. The issue is primarily framed as one of administrative and policy failure.</li></ul>",
+  "key_allegations": [
+    "Large-scale administrative negligence leading to NPR 19.37 billion being unaccounted for after the fund's dissolution.",
+    "Embezzlement of funds by officials through the creation of fake bills and forged documents.",
+    "Misappropriation of funds intended for anti-poverty programs and daily allowances.",
+    "Loss and mismanagement of office assets worth millions.",
+    "Failure to establish a proper handover and monitoring mechanism for community-level revolving funds."
+  ],
+  "alleged_entities": [
+    "Poverty Alleviation Fund (PAF)",
+    "Raj Babu Shrestha"
+  ],
+  "related_entities": [
+    "Government of Nepal (Council of Ministers)",
+    "Ministry of Land Management, Cooperatives and Poverty Alleviation",
+    "Ministry of Federal Affairs and General Administration",
+    "World Bank",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court",
+    "National Vigilance Centre (NVC)"
+  ],
+  "locations": [
+    {
+      "other": "PAF Headquarters and relevant ministries",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "PAF program operations were spread across 64 districts in Nepal.",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Misappropriation of Funds",
+    "Administrative Negligence",
+    "Embezzlement",
+    "Forgery",
+    "Poverty Alleviation",
+    "Government Fund",
+    "Revolving Fund"
+  ],
+  "case_start_date": "2009-07-16",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2009-07-16",
+      "title": "Start of Period of Misappropriation",
+      "description": "Start of the period (Fiscal Year 2009/10) during which 36 PAF officials were later accused of misappropriating NPR 43.4 million through bill forgery."
+    },
+    {
+      "event_date": "2015-03-11",
+      "title": "CIAA Files First Major Case",
+      "description": "The CIAA filed a corruption case at the Special Court against 14 PAF officials, including Executive Director Rajbabu Shrestha, for embezzling NPR 27.86 million between 2010 and 2012."
+    },
+    {
+      "event_date": "2016-04-17",
+      "title": "CIAA Files Second Major Case",
+      "description": "The CIAA filed another case against 36 PAF officials for misappropriating NPR 43.4 million by forging bills between 2009 and 2012."
+    },
+    {
+      "event_date": "2018-09-01",
+      "title": "Special Court Convicts Former Executive Director",
+      "description": "The Special Court convicted nine PAF officials, including former Executive Director Raj Babu Shrestha, in a corruption case. The exact case this corresponds to is not specified in the source."
+    },
+    {
+      "event_date": "2018-11-01",
+      "title": "Cabinet Decides to Dissolve PAF",
+      "description": "The Government of Nepal's cabinet decided to scrap the Poverty Alleviation Fund, citing that its functions would be transferred to local governments."
+    },
+    {
+      "event_date": "2019-03-19",
+      "title": "NVC Probe Uncovers Irregularities",
+      "description": "The National Vigilance Centre (NVC) released findings from a probe that uncovered irregularities worth NPR 185.96 million and noted that office equipment valued at NPR 41.47 million was missing."
+    },
+    {
+      "event_date": "2021-05-29",
+      "title": "Formal Dissolution Announced in Budget",
+      "description": "Then-Finance Minister Bishnu Paudel officially announced the dissolution of the PAF in the budget speech for FY 2078/79, stating the community groups would be converted to cooperatives with the NPR 19 billion fund as seed money."
+    },
+    {
+      "event_date": "2021-11-29",
+      "title": "PAF Structure Placed Under Ministry",
+      "description": "The Council of Ministers decided to bring the PAF's structure under the Ministry of Land Management, Cooperatives and Poverty Alleviation."
+    },
+    {
+      "event_date": "2022-08-14",
+      "title": "Special Court Convicts 17 Officials",
+      "description": "In the case filed in April 2016, the Special Court convicted 17 of the 36 accused officials for corruption, while acquitting 19 others, including Raj Babu Shrestha."
+    },
+    {
+      "event_date": "2024-11-27",
+      "title": "Ministry Admits Funds Are Unaccounted For",
+      "description": "The Ministry of Land Management sent a letter to the Ministry of Federal Affairs seeking details on the status of PAF's community groups and the NPR 19.37 billion fund, admitting the federal government had no information on its whereabouts."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ukeraa: गरिबी निवारण कोषको १९ अर्ब गायब (19 Billion of Poverty Alleviation Fund Disappeared)",
+      "url": "https://www.ukeraa.com/news/2024/11/27/213038",
+      "description": "News report from November 2024 detailing the Ministry of Land Management's admission that the NPR 19.37 billion fund is unaccounted for."
+    },
+    {
+      "title": "The Kathmandu Post: Poverty Alleviation Fund was scrapped, but it still exists. What does it do?",
+      "url": "https://kathmandupost.com/national/2021/04/05/poverty-alleviation-fund-was-scrapped-but-it-still-exists-what-does-it-do",
+      "description": "An April 2021 article discussing the limbo state of the PAF after the decision to scrap it but before its formal dissolution."
+    },
+    {
+      "title": "Naya Patrika: गरिबी निवारण कोष अब मन्त्रालयको महाशाखामा सीमित (Poverty Alleviation Fund now limited to a ministry division)",
+      "url": "https://nayapatrikadaily.com/news-details/79313/2021-11-30",
+      "description": "Reports on the government's decision in November 2021 to downgrade the PAF to a division under the Ministry of Land Management."
+    },
+    {
+      "title": "Himal Khabar: गरीबी निवारण कोष खारेजी- रु.१९ अर्ब अलपत्र (Poverty Alleviation Fund Dissolution - Rs. 19 Billion Stranded)",
+      "url": "https://himalkhabar.com/news/108505",
+      "description": "An older report discussing the potential stranding of the NPR 19 billion revolving fund following the dissolution decision."
+    },
+    {
+      "title": "The Kathmandu Post: Government prepares to scrap Poverty Alleviation Fund in next three months",
+      "url": "https://kathmandupost.com/national/2021/07/14/government-prepares-to-scrap-poverty-alleviation-fund-in-next-three-months",
+      "description": "A July 2021 report on the government's preparations to formally dissolve the PAF."
+    },
+    {
+      "title": "Setopati: गरिबी निवारण कोष खारेज (Poverty Alleviation Fund Dissolved)",
+      "url": "https://www.setopati.com/kinmel/finance/239336",
+      "description": "News report covering the formal announcement of the PAF's dissolution in the 2021 budget speech."
+    },
+    {
+      "title": "The Kathmandu Post: Irregularities reign supreme at agency established to combat poverty",
+      "url": "https://kathmandupost.com/valley/2019/03/19/irregularities-reign-supreme-at-agency-established-to-combat-poverty",
+      "description": "A March 2019 article detailing the findings of the National Vigilance Centre (NVC) probe into irregularities at the PAF."
+    },
+    {
+      "title": "The Kathmandu Post: 17 Poverty Alleviation Fund officials found guilty of corruption",
+      "url": "https://kathmandupost.com/national/2022/08/14/17-poverty-alleviation-fund-officials-found-guilty-of-corruption",
+      "description": "Reports on the August 2022 Special Court verdict convicting 17 PAF officials and acquitting 19 in a major corruption case."
+    },
+    {
+      "title": "MyRepublica: PAF chief, managers taken to court for Rs 27.86m graft",
+      "url": "https://myrepublica.nagariknetwork.com/news/paf-chief-managers-taken-to-court-for-rs-27-86m-graft/",
+      "description": "News report from March 2015 on the CIAA filing a corruption case against PAF officials for embezzling NPR 27.86 million."
+    },
+    {
+      "title": "Khabarhub: Special Court convicts 17 of 36 accused in PAF graft case",
+      "url": "https://www.khabarhub.com/2022/14/278363/",
+      "description": "Provides details on the Special Court's August 2022 verdict against PAF officials."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "title": "Giribandhu Tea Estate Land Swap Scandal",
+  "description": "<p>The Giribandhu Tea Estate case is a prominent alleged instance of <strong>'policy corruption'</strong> involving an attempt to swap approximately <strong>343 bighas (232 hectares)</strong> of valuable land in Birtamod, Jhapa, for less valuable land elsewhere. The estate's land was granted an exemption from the national land ceiling under the <strong>Land Reform Act of 1964</strong>, on the strict condition that it be used exclusively for tea cultivation. Any change in use would mean the land reverts to government ownership.</p><p>The core allegation is that the government led by then-Prime Minister <strong>K.P. Sharma Oli</strong> deliberately amended the Land Act in 2020 to create a legal loophole. This Eighth Amendment introduced a provision allowing land held under ceiling exemptions to be swapped or relocated. Critics argue this amendment was tailor-made to benefit Giribandhu Tea Estate's owners and associated business interests, who sought to convert the prime agricultural land into a commercial real estate venture, potentially worth billions of rupees.</p><p>Following the amendment, the Oli-led cabinet on <strong>April 26, 2021</strong>, officially approved the land swap. This decision was immediately challenged in court by Advocate Om Prakash Aryal and others.</p><p>The case culminated in a landmark decision by the Supreme Court. On <strong>February 7, 2024</strong>, a Constitutional Bench of the court annulled the cabinet's decision, calling it 'immature', 'illogical', and contrary to the spirit of the Land Act. In its full verdict released on <strong>May 12, 2024</strong>, the court not only invalidated the swap but also ordered that any part of the estate's land found to be unused for tea production must be confiscated by the government. This verdict set a strong precedent against using policy changes for private gain.</p>",
+  "unverified_info": "<p>Initial information provided from a non-public document suggested a separate, internal family dispute within the Giribandhu Tea Estate.</p><ul><li><strong>Subject:</strong> Family dispute within Giribandhu Tea Estate (गिरिवन्धु टि स्टेटभित्र पारिवारिक लफडा).</li><li><strong>Year:</strong> 2078 BS (approx. 2021-2022 AD).</li><li><strong>Alleged Loss:</strong> NPR 2,351,000.</li><li><strong>Main Accused:</strong> Chhatra Bahadur Giri.</li><li><strong>Associated Individuals:</strong> Prem Kumar, Krishna Kumar, Trilochana, Shyam, etc.</li></ul><p><strong>Note:</strong> These details could not be independently verified through publicly available sources and appear to be distinct from the widely reported land swap scandal.</p>",
+  "key_allegations": [
+    "Policy corruption through the Eighth Amendment of the Land Act to benefit a private entity.",
+    "Illegal attempt to swap legally protected agricultural land for commercial real estate development.",
+    "Violation of the Land Reform Act of 1964, which mandates land be used for its specified purpose or revert to the state.",
+    "Abuse of authority by the Cabinet led by K.P. Sharma Oli to facilitate the land swap.",
+    "Conspiracy between political figures, government officials, and business interests for illicit financial gain."
+  ],
+  "alleged_entities": [
+    "Giribandhu Tea Estate Pvt. Ltd.",
+    "Chhatra Bahadur Giri (Director/Chairman)",
+    "Government of Nepal (K.P. Sharma Oli Administration)",
+    "K.P. Sharma Oli (Then-Prime Minister)",
+    "Padma Aryal (Then-Minister for Land Management)",
+    "Tek Narayan Pandey (Then-Secretary of Land Management)",
+    "Deepak Malhotra (Businessman/Land Broker)"
+  ],
+  "related_entities": [
+    "Supreme Court of Nepal",
+    "CPN-UML",
+    "Om Prakash Aryal (Advocate)",
+    "Om Prakash Mishra (Advocate)",
+    "Bhakta Raj Bharati (Advocate)"
+  ],
+  "locations": [
+    {
+      "other": "Giribandhu Tea Estate",
+      "ward_no": null,
+      "municipality": "Birtamod",
+      "district": "Jhapa",
+      "province": "Koshi Province"
+    }
+  ],
+  "tags": [
+    "Policy Corruption",
+    "Land Grab",
+    "Abuse of Authority",
+    "Supreme Court",
+    "Jhapa",
+    "K.P. Sharma Oli",
+    "Land Management"
+  ],
+  "case_start_date": "2020-03-11",
+  "case_end_date": "2024-05-12",
+  "timeline": [
+    {
+      "event_date": "1964-12-25",
+      "title": "Land Ceiling Exemption Granted",
+      "description": "The Government of Nepal grants Giribandhu Tea Estate an exemption for approximately 343 bighas of land in Jhapa, on the condition that it is used solely for tea cultivation."
+    },
+    {
+      "event_date": "2020-03-11",
+      "title": "Eighth Amendment to Land Act Enacted",
+      "description": "The government led by K.P. Sharma Oli enacts the Eighth Amendment to the Land Act (2021 BS), which controversially introduces provisions allowing land held under ceiling exemptions to be swapped or relocated."
+    },
+    {
+      "event_date": "2021-04-26",
+      "title": "Cabinet Approves Land Swap",
+      "description": "The K.P. Sharma Oli-led Cabinet makes a decision to allow Giribandhu Tea Estate to swap its 343.19 bighas of valuable land in Jhapa for other land within Koshi province."
+    },
+    {
+      "event_date": "2021-05-15",
+      "title": "Writ Petition Filed at Supreme Court",
+      "description": "Advocate Om Prakash Aryal and others file a writ petition at the Supreme Court challenging the constitutionality of the Land Act amendment and the legality of the Cabinet's decision."
+    },
+    {
+      "event_date": "2021-08-15",
+      "title": "Supreme Court Issues Interim Order",
+      "description": "The Supreme Court issues an interim order, halting the implementation of the Cabinet's decision to allow the land swap pending a final verdict."
+    },
+    {
+      "event_date": "2024-02-07",
+      "title": "Supreme Court Annuls Cabinet Decision",
+      "description": "The Constitutional Bench of the Supreme Court definitively annuls the government's April 26, 2021 decision, ruling it was illogical and contravened the Land Act."
+    },
+    {
+      "event_date": "2024-05-12",
+      "title": "Supreme Court Releases Full Verdict",
+      "description": "The Supreme Court releases the full text of its verdict, elaborating on the reasons for annulling the land swap and ordering the confiscation of any land held by the estate that is not being used for tea cultivation."
+    }
+  ],
+  "sources": [
+    {
+      "title": "SC annuls Oli Cabinet's decision to allow swapping of Giri Bandhu Tea Estate land",
+      "url": "https://thehimalayantimes.com/nepal/sc-annuls-oli-cabinets-decision-to-allow-swapping-of-giri-bandhu-tea-estate-land",
+      "description": "The Himalayan Times report on the Supreme Court's Constitutional Bench annulling the K.P. Sharma Oli government's decision to permit the land swap."
+    },
+    {
+      "title": "Court quashes permit to Giri Bandhu estate to swap land above legal limit",
+      "url": "https://kathmandupost.com/national/2024/02/07/court-quashes-permit-to-giri-bandhu-estate-to-swap-land-above-legal-limit",
+      "description": "The Kathmandu Post article detailing the Supreme Court's decision to quash the land swap permit, with quotes from the petitioner."
+    },
+    {
+      "title": "SC orders confiscation of excessive land above ceiling not utilized by tea estate",
+      "url": "https://myrepublica.nagariknetwork.com/news/sc-orders-confiscation-of-excessive-land-above-ceiling-not-utilized-by-tea-estate/",
+      "description": "MyRepublica report on the Supreme Court's full verdict, which includes the order to confiscate any land not used for its stated purpose of tea cultivation."
+    },
+    {
+      "title": "SC invalidates land swap of Giribandhu Tea Estate",
+      "url": "https://nepalnews.com.np/s/nation/sc-invalidates-land-swap-of-giribandhu-tea-estate",
+      "description": "Nepal News report summarizing the Supreme Court's ruling to invalidate the land swap, highlighting the legal reasoning."
+    },
+    {
+      "title": "Giribandhu Tea Estate is not state property, claims Director Chhatra Giri",
+      "url": "https://khabarhub.com/2024/12/36735/",
+      "description": "An article from Khabarhub where Director Chhatra Bahadur Giri presents his side, claiming the estate is ancestral private property."
+    },
+    {
+      "title": "Calls grow in Parliament to probe Giri Bandhu tea estate corruption",
+      "url": "https://kathmandupost.com/national/2024/06/12/calls-grow-in-parliament-to-probe-giri-bandhu-tea-estate-corruption",
+      "description": "Report on parliamentary discussions and demands for a formal investigation into the corruption allegations surrounding the case."
+    },
+    {
+      "title": "What is the 'Giribandhu Tea Estate' case that the Prime Minister said will be investigated?",
+      "url": "https://www.onlinekhabar.com/2023/08/1355433",
+      "description": "A detailed explainer (in Nepali) by Onlinekhabar about the background of the Giribandhu Tea Estate scandal."
+    },
+    {
+      "title": "Giri Bandhu Tea Estate Corruption - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Giri_Bandhu_Tea_Estate_Corruption",
+      "description": "The Wikipedia page providing a summary of the corruption case, key individuals, and timeline."
+    }
+  ]
+}

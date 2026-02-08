@@ -1,0 +1,94 @@
+{
+  "title": "Disappearance and Encroachment of Public Ponds in Birgunj",
+  "description": "<p>This case concerns the long-term, systematic encroachment and effective disappearance of numerous public ponds in Birgunj, Parsa. The initial allegation stems from an internal document pointing to a specific event in the year <strong>2043 BS (1986/1987 AD)</strong> involving five ponds, resulting in an estimated financial loss in the billions of Nepali Rupees. While a singular event in 1986 remains uncorroborated by public records, there is extensive evidence of widespread and gradual encroachment on public water bodies in Birgunj over several decades.</p><p>A prominent and well-documented example is the case of <strong>Mairam Pokhari</strong>. According to a survey from 2022 BS (c. 1965 AD), the pond originally spanned <strong>4 bighas and 18 kaththa</strong>. Over the years, it was illegally encroached upon and reduced to approximately 15-19 kaththa. A 'Children's Park', partially funded by the Asian Development Bank (ADB), was later constructed on the encroached land. Locals have accused former mayor <strong>Vijay Saraf</strong> of colluding with business interests to legitimize this encroachment through the park's construction.</p><p>The scale of historical encroachment was highlighted by a recent anti-encroachment campaign initiated by the administration of Mayor <strong>Rajeshman Singh</strong> (elected in 2022). As of April 2024, this campaign has successfully reclaimed <strong>28 public ponds and over 148 bighas of public land</strong>. As part of this drive, illegal structures built on the former Mairam Pokhari land, including parts of <strong>Advance Hospital</strong> and <strong>Shanti Polyclinic</strong>, were demolished.</p><p>Historical ponds in Birgunj that have been subject to encroachment or disappearance include:</p><ul><li>Mairam Pokhari</li><li>Ghadiarwa Pokhari</li><li>Nagwa Pokhari</li><li>Chhapkaiya Pokhari</li><li>Sripur Pokhari</li><li>Ranighat Pokhari</li></ul>",
+  "unverified_info": "<p>Several key aspects of this case require further investigation as they are currently based on preliminary information or lack direct documentary evidence.</p><ul><li><strong>The 2043 BS (1986/1987 AD) Event:</strong> No public records have been found to confirm a specific, singular event in 2043 BS that caused the disappearance of five ponds. The year's significance is a lead, but the encroachment appears to have been a gradual process over many years.</li><li><strong>Identity of the 'Five Ponds':</strong> It is unclear whether 'Five Ponds' refers to a specific location named 'Panch Pokhari' or five individual, named ponds that were encroached upon around the same time.</li><li><strong>Role of Bimal Prasad Shrivastav:</strong> Bimal Prasad Shrivastav served as the head (Pradhan Panch) of the Birgunj Nagar Panchayat from <strong>1983 to 1989</strong>, coinciding with the alleged 2043 BS incident. While his position places him as the chief executive at the time, no specific evidence has surfaced directly linking him to decisions or actions causing the ponds' disappearance. His potential role, whether through negligence or complicity, remains a primary area for investigation.</li><li><strong>Financial Loss Estimation:</strong> The initial allegation of a loss amounting to 'billions' (अर्वौ) of rupees is an estimate from an internal document. A formal valuation based on the exact area and historical value of the encroached land is required to verify this figure.</li></ul>",
+  "key_allegations": [
+    "Illegal encroachment and disappearance of public ponds in Birgunj, with a specific focus on an alleged event around 1986/1987 involving five ponds.",
+    "Massive financial loss to the state, estimated in the billions of Nepali Rupees, due to the illegal privatization of public land.",
+    "Systematic encroachment on public water bodies over several decades, allegedly involving collusion between public officials and private interests."
+  ],
+  "alleged_entities": [
+    "Birgunj Nagar Panchayat (1983-1989)",
+    "Vijay Saraf"
+  ],
+  "related_entities": [
+    "Birgunj Metropolitan City",
+    "Asian Development Bank (ADB)",
+    "Advance Hospital",
+    "Shanti Polyclinic",
+    "Office of the Mayor and Municipal Executive, Birgunj (Rajeshman Singh administration)"
+  ],
+  "locations": [
+    {
+      "other": "Various public ponds including Mairam Pokhari, Ghadiarwa Pokhari, Nagwa Pokhari.",
+      "ward_no": null,
+      "municipality": "Birgunj Metropolitan City",
+      "district": "Parsa",
+      "province": "Madhesh Province"
+    }
+  ],
+  "tags": [
+    "Land Encroachment",
+    "Corruption",
+    "Abuse of Authority",
+    "Public Property",
+    "Environmental Degradation",
+    "Birgunj"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "1965-04-14",
+      "title": "Land Survey Records Mairam Pokhari's Area",
+      "description": "A land survey conducted in 2022 BS (c. 1965 AD) records the area of Mairam Pokhari as 4 bighas and 18 kaththa."
+    },
+    {
+      "event_date": "1983-01-01",
+      "title": "Bimal Prasad Shrivastav's Tenure Begins",
+      "description": "Bimal Prasad Shrivastav begins his tenure as the head (Pradhan Panch) of the Birgunj Nagar Panchayat, which lasted until 1989."
+    },
+    {
+      "event_date": "1986-04-14",
+      "title": "Alleged 'Disappearance' of Five Ponds",
+      "description": "Approximate start of the year 2043 BS, the period when an internal document alleges five ponds 'disappeared', causing a massive financial loss."
+    },
+    {
+      "event_date": "2022-05-21",
+      "title": "Report Highlights Mairam Pokhari Encroachment",
+      "description": "An Onlinekhabar report details the history of encroachment on Mairam Pokhari for the construction of a Children's Park, and quotes locals accusing former mayor Vijay Saraf of facilitating it."
+    },
+    {
+      "event_date": "2023-01-10",
+      "title": "Anti-Encroachment Drive Begins",
+      "description": "The Kathmandu Post reports on the start of a large-scale anti-encroachment drive by the Birgunj Metropolitan City under Mayor Rajeshman Singh to reclaim public lands and ponds."
+    },
+    {
+      "event_date": "2024-04-05",
+      "title": "Authorities Report Massive Land Reclamation",
+      "description": "Nepal Press reports that the Birgunj metropolitan authority has successfully reclaimed 28 public ponds and over 148 bighas of public land from illegal encroachment."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Internal Document 'details.md'",
+      "url": "Internal Document",
+      "description": "An internal case file that outlines the initial allegation regarding the disappearance of five ponds in 2043 BS and the estimated financial loss of 'billions'. The fields for the accused were left blank."
+    },
+    {
+      "title": "Nepal Press: 'वीरगञ्जमा २८ वटा पोखरी र १४८ बिघा सार्वजनिक जग्गा अतिक्रमणमुक्त' (28 ponds and 148 bighas of public land in Birgunj freed from encroachment)",
+      "url": "https://nepalpress.com/2024/04/05/593256/",
+      "description": "This news article from April 5, 2024, reports on the success of the anti-encroachment campaign by Mayor Rajeshman Singh's administration, confirming the reclamation of 28 ponds and 148 bighas of public land."
+    },
+    {
+      "title": "Onlinekhabar: 'पार्क बनाउने नाममा वीरगञ्जको मन्दिर र पोखरी क्षेत्र अतिक्रमण' (Temple and pond area in Birgunj encroached in the name of building a park)",
+      "url": "https://www.onlinekhabar.com/2022/05/1138258",
+      "description": "This report from May 21, 2022, details the encroachment of Mairam Pokhari, the construction of a Children's Park on its land, and includes accusations from locals against former mayor Vijay Saraf."
+    },
+    {
+      "title": "The Kathmandu Post: 'Birgunj metropolis’s anti-encroachment drive continues'",
+      "url": "https://kathmandupost.com/madhesh-province/2023/01/10/birgunj-metropolis-s-anti-encroachment-drive-continues",
+      "description": "This article from January 10, 2023, covers the ongoing anti-encroachment drive in Birgunj, including the demolition of illegal structures on public land."
+    }
+  ]
+}

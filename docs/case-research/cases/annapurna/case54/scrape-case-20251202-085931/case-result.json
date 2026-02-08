@@ -1,0 +1,111 @@
+{
+  "title": "Irregularities and Alleged Corruption in Karnali-Rara Tourism Year 2075 Inauguration",
+  "description": "<p>The Karnali Provincial Government, led by then-Chief Minister Mahendra Bahadur Shahi, is accused of significant financial irregularities during the inauguration of the 'Karnali-Rara Tourism Year 2075'. The event, launched by then-Prime Minister K.P. Sharma Oli on <strong>April 14, 2018</strong>, at Rara Lake, aimed to attract 500,000 tourists to the province.</p><p>The allegations center on starkly conflicting expenditure reports from various government bodies, which prompted an investigation by the provincial Public Accounts Committee (PAC). The financial discrepancies were significant:</p><ul><li><strong>Initial Cabinet Budget:</strong> NPR 4.6 million</li><li><strong>Reported to Provincial Assembly:</strong> NPR 4.94 million</li><li><strong>Submitted to PAC by Ministries:</strong> NPR 7.81 million</li><li><strong>Final figure in Auditor General's Report:</strong> NPR 8.71 million</li></ul><p>The PAC's investigation concluded that the expenditure was made in gross violation of the <strong>Public Procurement Act</strong>, without proper cost estimation, and lacked necessary supporting documents. The committee identified a misappropriated amount of <strong>NPR 3,777,000</strong> and recommended action against the involved ministers and officials. Further corroborating these irregularities, the Office of the Auditor General's annual report not only confirmed the highest expenditure figure but also noted that vouchers for NPR 902,877 were never submitted for audit.</p><p>Despite these findings and a formal complaint filed with the Commission for the Investigation of Abuse of Authority (CIAA), the case has reportedly been stalled for several years, leading to accusations that the anti-graft body is deliberately delaying the investigation to protect high-profile political figures.</p>",
+  "unverified_info": "<p>While the CIAA's Surkhet office has confirmed an ongoing investigation into the matter, the specific reasons for the multi-year delay are not officially clarified. An information officer cited the frequent changing of investigation officers as a potential cause. However, accusations persist that the delay is intentional to provide immunity to the high-profile individuals involved, including several then-ministers of the Karnali provincial government.</p><p>Specific details on how the allegedly misappropriated funds were spent by individual officials are not publicly available and are presumably part of the confidential CIAA investigation file.</p>",
+  "key_allegations": [
+    "Misappropriation of NPR 3,777,000 as identified by the Public Accounts Committee.",
+    "Violation of the Public Procurement Act by spending without competitive bidding or proper procedure.",
+    "Expenditure without prior cost estimation and required supporting documentation.",
+    "Presenting conflicting and escalating expenditure figures to the Provincial Assembly, PAC, and Auditor General.",
+    "Failure to submit vouchers worth NPR 902,877 for audit, as noted by the Office of the Auditor General."
+  ],
+  "alleged_entities": [
+    "Mahendra Bahadur Shahi",
+    "Prakash Jwala",
+    "Naresh Bhandari",
+    "Dal Rawal",
+    "Bimala K.C.",
+    "Nandsingh Budha",
+    "Khadga Bahadur Khatri",
+    "Karnali Provincial Government"
+  ],
+  "related_entities": [
+    "Public Accounts Committee (PAC), Karnali Provincial Assembly",
+    "Commission for the Investigation of Abuse of Authority (CIAA), Surkhet",
+    "Office of the Auditor General"
+  ],
+  "locations": [
+    {
+      "other": "Rara Lake",
+      "ward_no": null,
+      "municipality": "Chhayanath Rara",
+      "district": "Mugu",
+      "province": "Karnali Province"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Financial Irregularity",
+    "Public Procurement",
+    "Provincial Government",
+    "Tourism",
+    "Karnali Province",
+    "Abuse of Authority"
+  ],
+  "case_start_date": "2018-03-10",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2018-03-10",
+      "title": "Decision to Organize Tourism Year",
+      "description": "The Karnali provincial cabinet, under Chief Minister Mahendra Bahadur Shahi, decided to organize the 'Karnali-Rara Tourism Year-2075' starting from Baisakh 1, 2075 BS."
+    },
+    {
+      "event_date": "2018-04-10",
+      "title": "Budget Approved for Inauguration",
+      "description": "A cabinet meeting approved a budget of NPR 4.6 million for the inauguration event. Some initial media reports mentioned a budget of NPR 3.9 million."
+    },
+    {
+      "event_date": "2018-04-14",
+      "title": "Inauguration Event at Rara Lake",
+      "description": "Then-Prime Minister KP Sharma Oli inaugurated the 'Karnali-Rara Tourism Year 2075' at Rara Lake in Mugu district."
+    },
+    {
+      "event_date": "2018-06-07",
+      "title": "First Expenditure Report Presented",
+      "description": "Following pressure in the Provincial Assembly, Minister for Economic Affairs Prakash Jwala reported a total expenditure of NPR 4,941,795 for the inauguration event."
+    },
+    {
+      "event_date": "2019-06-17",
+      "title": "Public Accounts Committee Finds Corruption",
+      "description": "The Public Accounts Committee (PAC) of the Karnali Provincial Assembly released its findings, concluding that NPR 3,777,000 was misappropriated and the expenditure violated the Public Procurement Act. This date is based on news reports covering the PAC's conclusion."
+    },
+    {
+      "event_date": "2019-04-15",
+      "title": "Auditor General's Report Highlights Irregularities",
+      "description": "The 56th Annual Report of the Office of the Auditor General, covering the fiscal year of the event, stated the total expenditure was NPR 8,718,973 and that vouchers for NPR 902,877 were missing. The date is representative of the report's publication period."
+    }
+  ],
+  "sources": [
+    {
+      "title": "अख्तियार दाहिने बन्दा ओझलमा 'रारा पर्यटन वर्ष' उद्घाटनको भ्रष्टाचार प्रकरण - Janta Ko Rai",
+      "url": "https://janakorai.com/news-details/3414/2025-07-31",
+      "description": "A 2024 report (despite the future date in the URL) detailing how the corruption case file at the CIAA has seen no progress for seven years, alleging that the anti-graft body is shielding the accused officials. It confirms the investigation is still 'under detailed investigation'."
+    },
+    {
+      "title": "कर्णाली रारा पर्यटन वर्षमा प्रक्रियागत अनियमितता : लेखा समिति - Thaha Khabar",
+      "url": "https://thahakhabar.com/news/51016",
+      "description": "News report from June 2019 detailing the findings of the Public Accounts Committee (PAC), which concluded that there were procedural irregularities in the expenditure for the tourism year inauguration."
+    },
+    {
+      "title": "‘राराको उद्घाटन कार्यक्रममा ३७ लाख भ्रष्टाचार’ - Nagarik News",
+      "url": "https://nagrika.com/news/58369",
+      "description": "A report stating that the Public Accounts Committee (PAC) found evidence of NPR 3.7 million in corruption during the Rara inauguration event and had submitted its report to the Chief Minister's office."
+    },
+    {
+      "title": "रारामा पर्यटन वर्ष उद्घाटन गर्दा ६४ लाख खर्च - Onlinekhabar",
+      "url": "https://www.onlinekhabar.com/2018/06/682289",
+      "description": "An early report from June 2018 providing an interim expenditure figure of around NPR 6.4 million (63.81 lakh), indicating the evolving and conflicting nature of the cost reporting."
+    },
+    {
+      "title": "‘रारा–कर्णाली पर्यटन वर्ष’को खर्च झण्डै ६४ लाख - Setopati",
+      "url": "https://setopati.com/politics/156947",
+      "description": "Another news report from June 2018, also quoting the expenditure at nearly NPR 6.4 million, based on documents submitted to the PAC by the ministries involved."
+    },
+    {
+      "title": "कर्णाली रारा पर्यटन वर्ष उद्घाटनका लागि ३९ लाख बजेट - Kharibot",
+      "url": "https://www.kharibot.com/news/17392",
+      "description": "A news article published before the event, reporting that the Karnali provincial government had allocated an initial budget of NPR 3.9 million for the inauguration ceremony."
+    }
+  ]
+}

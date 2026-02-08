@@ -1,0 +1,58 @@
+{
+  "title": "Corruption in Leasing Land and Sheds of Chandannath Bhairavnath Guthi",
+  "description": "<p>This case involves alleged corruption in the leasing of land and sheds (टहरा) belonging to the <strong>Chandannath Bhairavnath Guthi</strong> during the Nepali fiscal year 2063 B.S. (approximately 2006-2007 A.D.).</p><p>The primary accused, <strong>Jaykrishna Acharya</strong>, is alleged to have manipulated the leasing process for the Guthi's property. This action purportedly led to a direct financial loss of <strong>NPR 201,000</strong> for the Guthi. The District Administration Office has also been implicated in connection with the case, although its specific role is not detailed in the available information.</p>",
+  "unverified_info": "<p>While the specific allegations against Jaykrishna Acharya for the year 2063 B.S. are noted from an internal file, public domain searches did not corroborate these details. However, the searches revealed a broader and persistent history of issues concerning the Chandannath Bhairavnath Guthi's land, providing important context:</p><ul><li>There have been ongoing problems with the <strong>encroachment of the Guthi's land</strong> in Jumla, which has been used for building roads and private structures.</li><li>A 2019 report by <a href=\"https://myrepublica.nagariknetwork.com/news/rampant-encroachment-of-guthi-land-in-jumla/\">myRepublica</a> noted that of the Guthi's approximately 205 ropani of land, a significant portion of about 108 ropani has fallen into private hands.</li><li>Past committee members have stated that land was illicitly registered in private names during land surveys, with these irregularities often being discovered much later.</li><li>The Guthi's land is considered highly valuable as it is located in the middle of the Jumla market, making it a prime target for encroachment and unauthorized long-term use.</li></ul><p>These points highlight the systemic vulnerability of the Guthi's assets but do not directly confirm the specific charges against Jaykrishna Acharya from 2006-2007.</p>",
+  "key_allegations": [
+    "Manipulation of the leasing process for Guthi-owned land and sheds.",
+    "Causing a financial loss of NPR 201,000 to the Chandannath Bhairavnath Guthi."
+  ],
+  "alleged_entities": [
+    "Jaykrishna Acharya",
+    "District Administration Office, Jumla"
+  ],
+  "related_entities": [
+    "Chandannath Bhairavnath Guthi"
+  ],
+  "locations": [
+    {
+      "other": "Land and sheds located in the Jumla market area.",
+      "ward_no": null,
+      "municipality": "Chandannath",
+      "district": "Jumla",
+      "province": "Karnali Province"
+    }
+  ],
+  "tags": [
+    "Guthi Land",
+    "Land Lease",
+    "Corruption",
+    "Financial Irregularity",
+    "Abuse of Authority"
+  ],
+  "case_start_date": "2006-04-14",
+  "case_end_date": "2007-04-13",
+  "timeline": [
+    {
+      "event_date": "2006-04-14",
+      "title": "Alleged Corrupt Leasing of Guthi Property",
+      "description": "During the Nepali year 2063 B.S. (April 14, 2006 to April 13, 2007), Jaykrishna Acharya allegedly engaged in a corrupt act by leasing out land and sheds belonging to the Chandannath Bhairavnath Guthi, resulting in a financial loss of NPR 201,000 to the Guthi."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Internal Case File: details.md",
+      "url": "File: tmp/annapurna/case81/details.md",
+      "description": "Internal case file serving as the primary source for the specific allegations against Jaykrishna Acharya, including the alleged financial loss of NPR 201,000 and the timeframe of the incident in 2063 B.S."
+    },
+    {
+      "title": "myRepublica: Rampant encroachment of Guthi land in Jumla",
+      "url": "https://myrepublica.nagariknetwork.com/news/rampant-encroachment-of-guthi-land-in-jumla/",
+      "description": "A news report from June 18, 2019, discussing the broader issue of encroachment on Chandannath Bhairavnath Guthi's land in Jumla, providing context on the vulnerability of the Guthi's properties."
+    },
+    {
+      "title": "Aarthik News: 108 Ropani of Guthi Land Encroached",
+      "url": "https://aarthiknews.com/2020/02/09/25965/",
+      "description": "A news article from February 9, 2020, reporting in Nepali that a significant portion of the Guthi's land (108 ropani) has been encroached upon or has fallen into private hands."
+    }
+  ]
+}

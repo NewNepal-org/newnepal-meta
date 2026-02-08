@@ -1,0 +1,188 @@
+{
+  "title": "Irregularities, Delays, and Corruption in the Procurement and Distribution of Smart Driving Licenses",
+  "description": "<p>The Government of Nepal, through the <strong>Department of Transport Management (DoTM)</strong>, initiated a project to replace paper-based driving licenses with electronic smart cards. The project was part of an Information and Communication Technology (ICT) initiative funded by the <strong>Asian Development Bank (ADB)</strong>. An agreement was signed with <strong>Madras Security Printers Pvt. Ltd. (MSP)</strong> of India in October 2013 to develop the system and supply cards and hardware, with distribution beginning in December 2015.</p><p>From its inception, the project has been marred by severe issues, including <strong>chronic delays, persistent technical failures, supply chain disruptions, and allegations of widespread corruption</strong>. The system's failures have resulted in massive backlogs, at times exceeding 800,000 applicants, forcing citizens to wait for months or even over a year to receive their licenses after passing all required tests.</p><p>The problems have been attributed to multiple factors:</p><ul><li><strong>Faulty Technology:</strong> The software developed by MSP was reportedly buggy and incomplete, and the provided printers were slow and prone to breakdowns.</li><li><strong>Contractual Disputes:</strong> Frequent disputes between the DoTM and its contractors paralyzed operations. In one instance, MSP allegedly attempted to extort an additional $40,000 from the DoTM, relenting only after the department threatened blacklisting.</li><li><strong>Substandard Supplies:</strong> Another contractor, Malika Incorporated, was found to have printed substandard cards that faded over time, forcing a halt to their use.</li></ul><p>A major corruption scandal emerged when an internal DoTM probe revealed that between 2015 and 2023, over <strong>102,000 smart licenses were issued illegally</strong> to individuals who had not passed the mandatory exams. This was allegedly achieved by exploiting vulnerabilities in the Electronic Driving License and Vehicle Registration System (EDLVRS). Consequently, the <strong>Commission for the Investigation of Abuse of Authority (CIAA)</strong> and the <strong>Central Investigation Bureau (CIB)</strong> of the Nepal Police have launched major investigations, targeting numerous current and former DoTM employees.</p>",
+  "unverified_info": "<p>Several pieces of information related to this case are unconfirmed or lack precise details:</p><ul><li>A September 2022 report claimed the DoTM had paid <strong>90% of a Rs 700 billion contract amount</strong> to Madras Security Printers. This figure is exceptionally high and is widely believed to be a reporting error, possibly meaning Rs 700 million. The exact total value of all contracts with MSP over the years remains unclear.</li><li>In early 2021, the DoTM reportedly entered into an agreement with an unnamed <strong>French company</strong> to procure 1.4 million cards. This deal allegedly ran into 'personalization' problems as the new cards were not compatible with the existing software provided by MSP. It is unconfirmed which company secured this contract.</li><li>A German company, <strong>Muhlbauer ID Services GmbH</strong>, reportedly secured a contract worth Rs 190 million to provide 120,000 smart cards. This led to complications when MSP, the original contractor, initially refused to personalize cards from a different manufacturer.</li><li>The <strong>55th Annual Report of the Auditor General</strong> noted an irregularity regarding the license's validity period. The smart cards were procured with a 10-year warranty, but the driving license itself is only valid for 5 years as per Nepali law, indicating a mismatch in procurement specifications and a potential waste of funds.</li></ul>",
+  "key_allegations": [
+    "Illegal issuance of over 102,000 smart licenses to individuals who did not pass mandatory tests.",
+    "Corruption and exploitation of vulnerabilities within the Electronic Driving License and Vehicle Registration System (EDLVRS).",
+    "Gross mismanagement and maladministration leading to chronic delays and a public service delivery crisis.",
+    "Procurement of faulty software, slow printers, and substandard materials from contractors.",
+    "Contractual malpractice, including alleged blackmail by a contractor to extract additional payments."
+  ],
+  "alleged_entities": [
+    "Department of Transport Management (DoTM)",
+    "Madras Security Printers Pvt. Ltd.",
+    "Malika Incorporated",
+    "Srichandra Sah",
+    "Pabitra Dangol",
+    "Raj Kumar Maharjan",
+    "Keshab Raj Gautam",
+    "Kapila Shrestha Thaiba",
+    "Santosh Pokharel",
+    "Suraj Prakash Aryal"
+  ],
+  "related_entities": [
+    "Asian Development Bank (ADB)",
+    "Ministry of Physical Infrastructure and Transport",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Central Investigation Bureau (CIB), Nepal Police",
+    "Muhlbauer ID Services GmbH"
+  ],
+  "locations": [
+    {
+      "other": "Department of Transport Management Headquarters",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Transport Management Office, Ekantakuna (Initial rollout location)",
+      "ward_no": null,
+      "municipality": "Lalitpur",
+      "district": "Lalitpur",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Procurement",
+    "Maladministration",
+    "Technology",
+    "Government Services",
+    "Department of Transport Management",
+    "CIAA",
+    "Public Service Delivery"
+  ],
+  "case_start_date": "2013-10-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2013-10-01",
+      "title": "Agreement Signed with Madras Security Printers",
+      "description": "The Department of Transport Management (DoTM) signs an agreement with Madras Security Printers (MSP) of India to develop software and supply smart driving licenses, funded by an ADB grant."
+    },
+    {
+      "event_date": "2015-12-01",
+      "title": "Smart License Distribution Begins",
+      "description": "The distribution of smart licenses officially starts, beginning at the Ekantakuna transport office in Lalitpur, Bagmati Zone."
+    },
+    {
+      "event_date": "2016-04-18",
+      "title": "License Issuance Halted Due to Technical Failures",
+      "description": "DoTM halts the issuance of smart licenses from the Ekantakuna office due to a range of technical glitches with the software, including 'migration mismatch and total failure'."
+    },
+    {
+      "event_date": "2016-12-13",
+      "title": "Major Flaws Identified in Issued Licenses",
+      "description": "Reports emerge that the smart licenses being issued contain serious flaws, such as incorrect categorization and missing information about the issuing authority."
+    },
+    {
+      "event_date": "2017-10-16",
+      "title": "New Contract Awarded to MSP",
+      "description": "DoTM awards a new contract to Madras Security Printers to supply an additional 750,000 smart cards and three printing machines for approximately $980,000."
+    },
+    {
+      "event_date": "2018-02-22",
+      "title": "License Backlog Surpasses 200,000",
+      "description": "It is reported that the backlog of unprinted smart licenses has reached over 200,000, with some applicants waiting since August 2017."
+    },
+    {
+      "event_date": "2019-01-15",
+      "title": "Printing Halted Due to Substandard Cards",
+      "description": "DoTM stops printing licenses after discovering that contractor Malika Incorporated produced substandard cards using a thermal printing method that caused the text to fade."
+    },
+    {
+      "event_date": "2020-07-15",
+      "title": "Auditor General Notes Unusable Printers",
+      "description": "The 57th Annual Report of the Auditor General highlights that smart card printers purchased in 2013 and 2017 are unusable due to the unavailability of spare parts."
+    },
+    {
+      "event_date": "2022-09-11",
+      "title": "DoTM Publicly Blames Contractor for Failures",
+      "description": "DoTM publicly blames Madras Security Printers for persistent technical issues, stating the company failed to provide adequate support despite receiving 90% of its payment."
+    },
+    {
+      "event_date": "2024-01-12",
+      "title": "Internal Report Reveals Massive Illegal License Distribution",
+      "description": "A DoTM internal report submitted to the CIAA accuses seven employees of involvement in the illegal issuance of 102,711 smart licenses over an eight-year period."
+    },
+    {
+      "event_date": "2024-04-13",
+      "title": "Contractor Relents After Blacklisting Threat",
+      "description": "Madras Security Printers agrees to personalize 120,000 cards from another manufacturer after initially refusing and demanding an extra $40,000. MSP backed down after the Transport Minister ordered the DoTM to threaten blacklisting."
+    },
+    {
+      "event_date": "2024-08-25",
+      "title": "CIAA Investigation Nears Completion",
+      "description": "The CIAA announces that its investigation into the distribution of over 100,000 fake licenses is in its final stage, with around 350 DoTM employees under scrutiny."
+    }
+  ],
+  "sources": [
+    {
+      "title": "myRepublica - CIAA intensifies investigation into fake driving licenses scam (Aug 2024)",
+      "url": "https://myrepublica.nagariknetwork.com/news/ciaa-intensifies-investigation-into-fake-driving-licenses-scam/",
+      "description": "Reports on the final stage of the CIAA investigation into the illegal issuance of over 100,000 licenses, with 350 employees under investigation."
+    },
+    {
+      "title": "myRepublica - Madras Security Printers resumes license personalization (Apr 2024)",
+      "url": "https://myrepublica.nagariknetwork.com/news/madras-security-printers-resumes-license-personalization-following-dotm-s-warning/",
+      "description": "Details the incident where MSP agreed to personalize 120,000 cards after the DoTM threatened to blacklist the company."
+    },
+    {
+      "title": "Metakhabar - Seven govt employees accused of embezzling... (Jan 2024)",
+      "url": "https://metakhabar.com/2024/01/12/37452/",
+      "description": "Article naming seven DoTM employees implicated in an internal report for illegally issuing 102,711 smart licenses."
+    },
+    {
+      "title": "Business 360 - DoTM blames Madras Security Printers for technical issues (Sep 2022)",
+      "url": "https://b360nepal.com/dotm-blames-madras-security-printers-for-technical-issues-in-smart-licence/",
+      "description": "Reports on the DoTM publicly accusing MSP of failing to deliver services as per the contract and not providing technical support."
+    },
+    {
+      "title": "Office of the Auditor General - 57th Annual Report Summary (2020)",
+      "url": "https://oag.gov.np/uploads/backend/files/annual_reports_sum/57_Annual_Report_2076_Summary_English_2021-02-18_15-46-35.pdf",
+      "description": "Official report summary noting that smart card printers were unusable due to a lack of available parts."
+    },
+    {
+      "title": "Onlinekhabar - Govt halts printing smart driving licences... (Jan 2019)",
+      "url": "https://english.onlinekhabar.com/govt-halts-printing-smart-driving-licences-as-contractor-fails-to-meet-standard.html",
+      "description": "News report on the DoTM halting printing due to the substandard quality of cards produced by contractor Malika Incorporated."
+    },
+    {
+      "title": "Nepal In Data - Over 200000 await digital driving licenses (Feb 2018)",
+      "url": "https://nepalindata.com/media/resources/items/17/Digital_Driving_License_Backlog_Republica_22Feb2018.pdf",
+      "description": "A news clipping from myRepublica reporting that the backlog for smart licenses had exceeded 200,000."
+    },
+    {
+      "title": "The Himalayan Times - Madras Security Printers wins contract for 750,000 cards (Oct 2017)",
+      "url": "https://thehimalayantimes.com/business/madras-security-printers-wins-contract-supply-750000-smart-cards",
+      "description": "Reports on MSP being awarded a new contract to supply 750,000 more smart cards and three printing machines."
+    },
+    {
+      "title": "myRepublica - The smart driving license has 3 serious flaws (Dec 2016)",
+      "url": "https://myrepublica.nagariknetwork.com/news/11053/",
+      "description": "Article from late 2016 detailing three major flaws found in the newly issued smart licenses."
+    },
+    {
+      "title": "Onlinekhabar - Smart licences are anything but smart (Apr 2016)",
+      "url": "https://english.onlinekhabar.com/2016/04/19/393161",
+      "description": "Early report on the halting of smart license distribution from Ekantakuna due to technical failures."
+    },
+    {
+      "title": "The Kathmandu Post - Nepal formally adopts digital driving licence (Dec 2015)",
+      "url": "https://kathmandupost.com/money/2015/12/01/nepal-formally-adopts-digital-driving-licence",
+      "description": "News article covering the initial launch of the smart driving license system in Nepal."
+    },
+    {
+      "title": "Office of the Auditor General - 55th Annual Report (2018)",
+      "url": "https://oag.gov.np/uploads/backend/files/annual_reports_sum/55th-Annual-Report-2074_Summary_English.pdf",
+      "description": "Official report summary that noted the irregularity of procuring cards with a 10-year warranty for a license legally valid for only 5 years."
+    },
+    {
+      "title": "Khabarhub - “Driving license printing delayed due to inter-company dispute” (Jun 2024)",
+      "url": "https://english.khabarhub.com/2024/23/363673/",
+      "description": "Provides context on delays caused by disputes between different companies supplying cards and software."
+    }
+  ]
+}

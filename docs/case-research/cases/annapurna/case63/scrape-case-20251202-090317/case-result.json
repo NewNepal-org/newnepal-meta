@@ -1,0 +1,179 @@
+{
+  "title": "Jabdighat Bridge Corruption Case",
+  "description": "<p>The Jabdighat Bridge Corruption Case involves the construction of a substandard bridge over the Babai River in Bardiya district, which collapsed in August 2017 before its official handover to the government. The bridge was a critical infrastructure project intended to connect Gulariya, the district headquarters, with Barbardiya Municipality.</p><p>The primary contractor, <strong>Pappu Construction Pvt. Ltd.</strong>, owned by then-lawmaker <strong>Harinarayan Prasad Sah Rauniyar</strong> and his son <strong>Sumit Rauniyar</strong>, was accused of gross negligence, using substandard materials, and deviating from the approved engineering design. An investigation by the Commission for the Investigation of Abuse of Authority (CIAA) revealed that the bridge's piles were not built to the required depth, leading to its structural failure during floods.</p><p>The CIAA also implicated several officials from the <strong>Division Road Office, Nepalgunj</strong>, alleging they colluded with the contractor by approving the flawed construction and releasing payments without conducting proper quality checks. In October 2018, the CIAA filed a corruption case at the Special Court against 12 individuals, including the Rauniyars, government engineers, and a consultant.</p><p>Key outcomes of the case include:</p><ul><li>Harinarayan Rauniyar's automatic suspension from his post as a Member of Parliament upon the filing of the corruption case.</li><li>In May 2022, the <strong>Special Court</strong> found the Rauniyars and several government officials guilty. The court imposed significant fines on the father-son duo and handed down prison sentences and fines to a number of the accused officials.</li><li>Several accused individuals were acquitted by the Special Court.</li><li>The defendants have since appealed the verdict at the <strong>Supreme Court</strong>, where the case is currently pending.</li></ul><p>As of late 2023, the bridge has not been reconstructed, causing significant hardship for local residents who are forced to use boats or temporary crossings to access essential services.</p>",
+  "unverified_info": "<p>There are several discrepancies in the financial figures reported across different sources. This information requires further verification.</p><ul><li><strong>Initial Contract Value:</strong> Sources cite varying amounts for the contract, including <strong>Rs 166.8 million</strong>, <strong>Rs 190.75 million</strong>, and <strong>Rs 165 million</strong>.</li><li><strong>Amount Claimed by CIAA:</strong> The amount the CIAA sought to recover from the accused also varies in reports. Figures include <strong>Rs 193,225,695</strong> each from Harinarayan and Sumit Rauniyar (totaling over Rs 380 million), and a separate figure of <strong>Rs 190.32 million</strong> from Harinarayan Rauniyar.</li><li><strong>Special Court Fine:</strong> There is conflicting information regarding the fine imposed on the Rauniyars by the Special Court on May 8, 2022. One source states the fine was <strong>Rs 72.40 million</strong> combined, while another indicates it was <strong>Rs 37.2 million</strong>.</li></ul>",
+  "key_allegations": [
+    "Use of substandard construction materials and deviation from approved design.",
+    "Collusion between the contractor and government officials to approve flawed work and release payments.",
+    "Negligence leading to the structural failure and collapse of the bridge before its official handover.",
+    "Embezzlement of funds allocated for the bridge construction."
+  ],
+  "alleged_entities": [
+    "Pappu Construction Pvt. Ltd.",
+    "Harinarayan Prasad Sah Rauniyar",
+    "Sumit Rauniyar",
+    "Bhanu Joshi",
+    "Manoj Shrestha",
+    "Rajesh Kumar Yadav",
+    "Nawaraj KC",
+    "Prem Prasad Chuwai",
+    "Hari Bahadur Khadka",
+    "Dipendra Bahadur Bista",
+    "Karma Tenzing Tamang",
+    "Govinda Gaire",
+    "Krishna Dev Yadav"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Division Road Office, Nepalgunj",
+    "Department of Roads",
+    "Special Court",
+    "Supreme Court of Nepal",
+    "Everest Engineering Consultancy",
+    "Federal Socialist Forum-Nepal"
+  ],
+  "locations": [
+    {
+      "other": "Jabdighat, Babai River",
+      "ward_no": null,
+      "municipality": "Gulariya / Barbardiya",
+      "district": "Bardiya",
+      "province": "Lumbini"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Nepalgunj",
+      "district": "Banke",
+      "province": "Lumbini"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Infrastructure",
+    "Construction",
+    "Public Procurement",
+    "Collusion",
+    "Substandard Work",
+    "Bridge Collapse",
+    "CIAA",
+    "Special Court",
+    "Politician"
+  ],
+  "case_start_date": "2011-07-06",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2011-07-06",
+      "title": "Construction Contract Signed",
+      "description": "The contract for the construction of the Jabdighat bridge was signed between the Division Road Office, Nepalgunj, and Pappu Construction Pvt. Ltd."
+    },
+    {
+      "event_date": "2017-08-15",
+      "title": "Bridge Collapses",
+      "description": "The newly constructed bridge over the Babai River at Jabdighat collapsed during heavy floods in August 2017, before it could be formally handed over to the government."
+    },
+    {
+      "event_date": "2018-10-05",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA filed a corruption case at the Special Court against 12 individuals, including Harinarayan Rauniyar, his son Sumit, and 10 government officials and consultants, for their involvement in the substandard construction."
+    },
+    {
+      "event_date": "2019-02-24",
+      "title": "Pappu Construction Owners Released on Bail",
+      "description": "Harinarayan Rauniyar and his son Sumit Rauniyar were released from custody after each posted a bail of Rs 17.5 million (1.75 crores)."
+    },
+    {
+      "event_date": "2019-12-23",
+      "title": "Permission Granted for Repair",
+      "description": "The Division Road Office in Nepalgunj granted permission to Pappu Construction to repair the damaged bridge at its own cost, despite the ongoing corruption case."
+    },
+    {
+      "event_date": "2022-05-08",
+      "title": "Special Court Convicts Accused",
+      "description": "The Special Court found Harinarayan Rauniyar, Sumit Rauniyar, and several government officials guilty of corruption. Fines were imposed on the Rauniyars, and prison sentences and fines were handed to officials. Four of the accused were acquitted."
+    },
+    {
+      "event_date": "2023-05-13",
+      "title": "MP Begins Hunger Strike for Reconstruction",
+      "description": "Sanjay Gautam, a federal parliament member from Bardiya, began a fast-unto-death strike under the ruins of the collapsed bridge, demanding its immediate reconstruction."
+    },
+    {
+      "event_date": "2023-08-30",
+      "title": "Case Pending at Supreme Court",
+      "description": "Reports confirm that the defendants have appealed the Special Court's verdict at the Supreme Court, where the case remains pending. The bridge has not been repaired."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Kathmandu Post: CIAA charges lawmaker Rauniyar and his son for poor bridge works",
+      "url": "https://kathmandupost.com/national/2018/10/06/ciaa-charges-lawmaker-rauniyar-and-his-son-for-poor-bridge-works",
+      "description": "Reports on the CIAA filing a corruption case against lawmaker Harinarayan Rauniyar, his son, and others, seeking to recover Rs 193.2 million from each."
+    },
+    {
+      "title": "My Republica: CIAA sues Pappu Construction's Rauniyar, 11 others",
+      "url": "https://myrepublica.nagariknetwork.com/news/ciaa-sues-pappu-construction-s-rauniyar-11-others/",
+      "description": "Details the CIAA's charges against 12 individuals and specifies the contract start date as July 2011 and the initial contract value as Rs 166.8 million."
+    },
+    {
+      "title": "Setopati: Father-son duo of Pappu Construction fined Rs 72.4 m in corruption case",
+      "url": "https://en.setopati.com/political/158656",
+      "description": "Reports on the Special Court's verdict, stating Harinarayan and Sumit Rauniyar were fined a total of Rs 72.4 million and details prison sentences for other officials."
+    },
+    {
+      "title": "The Annapurna Express: The troubled tale of Jabdighat bridge",
+      "url": "https://theannapurnaexpress.com/news/the-troubled-tale-of-jabdighat-bridge-40439",
+      "description": "Provides a comprehensive overview of the case, from construction to the Special Court verdict and the pending appeal at the Supreme Court. Mentions the fine as Rs 37.2 million."
+    },
+    {
+      "title": "The Himalayan Times: Pappu construction owners released on bail of Rs 1.75 crore each",
+      "url": "https://thehimalayantimes.com/nepal/pappu-construction-owners-released-on-bail-of-rs-1-75-crore-each",
+      "description": "Confirms the bail amount posted by Harinarayan Rauniyar and Sumit Rauniyar for their release from custody."
+    },
+    {
+      "title": "The Kathmandu Post: Pappu gets permission to repair damaged Jabdighat bridge",
+      "url": "https://kathmandupost.com/province-no-5/2019/12/23/pappu-gets-permission-to-repair-damaged-jabdighat-bridge",
+      "description": "Article stating that the Division Road Office allowed Pappu Construction to begin repair work on the bridge at its own expense while the corruption case was sub-judice."
+    },
+    {
+      "title": "The Kathmandu Post: Bridge construction in Jabdighat area left in limbo",
+      "url": "https://kathmandupost.com/lumbini-province/2023/07/16/bridge-construction-in-jabdighat-area-left-in-limbo",
+      "description": "Discusses the ongoing struggles of locals and the political activism, including MP Sanjay Gautam's hunger strike, aimed at pushing for the bridge's reconstruction."
+    },
+    {
+      "title": "OnlineKhabar English News: With corruption case filed against Pappu, MP Rauniyar faces suspension",
+      "url": "https://english.onlinekhabar.com/with-corruption-case-filed-against-pappu-mp-rauniyar-faces-suspension.html",
+      "description": "Explains the legal provision under which MP Harinarayan Rauniyar was automatically suspended from his post following the filing of the corruption case."
+    },
+    {
+      "title": "The Rising Nepal: Bridge collapse hampers people's movement",
+      "url": "https://risingnepaldaily.com/news/31032",
+      "description": "Reports on the impact of the bridge collapse on local communities and the delay in reconstruction, mentioning the bridge was 435 meters long."
+    },
+    {
+      "title": "The Himalayan Times: Contractor's negligence responsible for collapse of Jabdighat Bridge",
+      "url": "https://thehimalayantimes.com/nepal/contractors-negligence-responsible-for-collapse-of-jabdighat-bridge",
+      "description": "Details the findings of an investigation pointing to contractor negligence, including issues with the bridge piles, as the cause of the collapse."
+    },
+    {
+      "title": "CEO Tab: CIAA files corruption case against 12 including Pappu Construction Chair",
+      "url": "https://www.ceotab.com/ciaa-files-corruption-case-against-12-including-pappu-construction-chair/",
+      "description": "News report covering the CIAA's charge sheet against 12 individuals involved in the Jabdighat bridge project."
+    },
+    {
+      "title": "Setopati: Corruption case against promoter of Pappu and lawmaker Rauniyar",
+      "url": "https://en.setopati.com/political/148003",
+      "description": "An early report on the filing of the corruption case against Harinarayan Rauniyar."
+    },
+    {
+      "title": "Peoples' Review: Pappu construction under CIAA net, MP Rauniyar suspended",
+      "url": "http://www.peoplesreview.com.np/2018/10/10/pappu-construction-under-ciaa-net-mp-rauniyar-suspended/",
+      "description": "Article discussing the suspension of MP Rauniyar and the CIAA's investigation into Pappu Construction."
+    },
+    {
+      "title": "My Republica: Fate of dozens of contracts handled by Pappu Construction uncertain",
+      "url": "https://myrepublica.nagariknetwork.com/news/fate-of-dozens-of-contracts-handled-by-pappu-construction-uncertain/",
+      "description": "Provides context on the wider issues surrounding Pappu Construction's numerous delayed and substandard projects across Nepal."
+    }
+  ]
+}

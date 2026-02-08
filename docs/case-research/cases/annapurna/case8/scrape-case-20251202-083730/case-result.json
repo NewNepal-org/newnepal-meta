@@ -1,0 +1,134 @@
+{
+  "title": "Nepal Airlines 2009 Airbus MoU Corruption Case",
+  "description": "<p>This case concerns a corruption charge filed by the Commission for the Investigation of Abuse of Authority (CIAA) against Sugat Ratna Kansakar, then Executive Chairman of Nepal Airlines Corporation (NAC), and other officials. The charges stemmed from a Memorandum of Understanding (MoU) signed with Airbus on November 5, 2009, to procure one A320 and one A330 aircraft.</p><p>The primary allegation was that on November 6, 2009, Kansakar authorized the transfer of a <strong>non-refundable commitment fee of $750,000 (approx. 57.3 million NPR)</strong> to Airbus without the approval of the NAC board and without securing the necessary financial resources for the full purchase. The CIAA accused the officials of violating the Public Procurement Act and embezzling the funds sent as the commitment fee.</p><p>The case proceeded through the legal system:</p><ul><li>On December 25, 2010, the CIAA filed a formal case at the Special Court.</li><li>In February 2011, Kansakar was jailed after failing to post a demanded bail of Rs 60 million.</li><li>Airbus returned the $750,000 commitment fee to NAC in April 2011.</li><li>The Special Court acquitted all accused officials in 2012, with one of the grounds being that the state incurred no loss since the fee was returned.</li><li>The Supreme Court upheld this acquittal on April 25, 2013, bringing the case to a legal close.</li></ul><p>It is important to note that a separate global settlement by Airbus in 2020 revealed admissions of bribery related to later aircraft sales to Nepal, providing context to the company's dealings in the country but was not part of this specific 2009 case.</p>",
+  "unverified_info": "<p><strong>Conflation with the Wide-Body Scandal:</strong> Early reports and discussions about corruption at NAC often conflate this 2009 case with a separate, later scandal involving the purchase of two wide-body A330 aircraft. The alleged loss of <strong>Rs 4.35 billion</strong> is associated with the wide-body deal, not this case, which only involved the temporary transfer of a $750,000 commitment fee.</p><p><strong>Discrepancy in Acquittal Date:</strong> There are minor discrepancies in media reports regarding the exact date of the Special Court's acquittal. While the Supreme Court decision confirms it happened, some sources cite April 2011, while others cite 2012. The 2012 date is used in the timeline as it aligns more logically with the 2013 Supreme Court appeal.</p>",
+  "key_allegations": [
+    "Embezzlement of a $750,000 commitment fee (equivalent to Rs 57.3 million).",
+    "Violation of the Public Procurement Act.",
+    "Making a financial commitment without board approval.",
+    "Authorizing payment without securing financial resources for the full aircraft purchase."
+  ],
+  "alleged_entities": [
+    "Nepal Airlines Corporation",
+    "Sugat Ratna Kansakar",
+    "Raju Bahadur KC",
+    "Ganesh Thakur",
+    "Gyanendra Purush Dhakal",
+    "Mayur Shumsher Rana",
+    "Keshav Raj Sharma"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Nepal",
+    "Supreme Court of Nepal",
+    "Public Accounts Committee (PAC)",
+    "Airbus S.A.S."
+  ],
+  "locations": [
+    {
+      "other": "Case filed and tried in Kathmandu",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "MoU signed at the Dubai Air Show",
+      "ward_no": null,
+      "municipality": "Dubai",
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Procurement",
+    "State-Owned Enterprise",
+    "Acquittal",
+    "CIAA",
+    "Nepal Airlines Corporation",
+    "Sugat Ratna Kansakar",
+    "Aviation"
+  ],
+  "case_start_date": "2009-11-05",
+  "case_end_date": "2013-04-25",
+  "timeline": [
+    {
+      "event_date": "2009-11-05",
+      "title": "MoU Signed with Airbus",
+      "description": "At the Dubai Air Show, NAC Executive Chairman Sugat Ratna Kansakar signs a Memorandum of Understanding with Airbus to purchase one A320 and one A330 aircraft."
+    },
+    {
+      "event_date": "2009-11-06",
+      "title": "Commitment Fee Sent",
+      "description": "Nepal Airlines Corporation sends a non-refundable commitment fee of $750,000 to Airbus."
+    },
+    {
+      "event_date": "2010-12-25",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA files a corruption case at the Special Court against Sugat Ratna Kansakar and five other NAC officials for embezzling Rs 57.3 million."
+    },
+    {
+      "event_date": "2011-02-27",
+      "title": "Kansakar Jailed Over Bail Failure",
+      "description": "The Special Court orders Sugat Ratna Kansakar to be sent to prison after he fails to post the demanded bail of Rs 60 million."
+    },
+    {
+      "event_date": "2011-04-01",
+      "title": "Airbus Returns Commitment Fee",
+      "description": "Airbus returns the $750,000 commitment fee to Nepal Airlines. The exact date in April is not specified in sources."
+    },
+    {
+      "event_date": "2012-04-01",
+      "title": "Special Court Acquits Accused",
+      "description": "The Special Court acquits Kansakar and all other officials of corruption charges, partly on the grounds that the fee was returned, preventing a loss to the state. The exact date is disputed."
+    },
+    {
+      "event_date": "2013-04-25",
+      "title": "Supreme Court Upholds Acquittal",
+      "description": "The Supreme Court of Nepal upholds the Special Court's decision, finalizing the acquittal of Sugat Ratna Kansakar and the other officials in this case."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kansakar jailed after failing to pay Rs 60m bail - myRepublica",
+      "url": "https://myrepublica.nagariknetwork.com/news/kansakar-jailed-after-failing-to-pay-rs-60m-bail/",
+      "description": "News report from February 28, 2011, detailing the Special Court's decision to jail Sugat Ratna Kansakar after he was unable to post the Rs 60 million bail in the Airbus procurement case."
+    },
+    {
+      "title": "Nepal Airline's Chairman, Sugat Kansakar Jailed On Aircraft Purchase Corruption - AvStop",
+      "url": "https://www.avstop.com/news_march_2011/nepal_airline_s_chairman_sugat_kansakar_jailed_on_aircraft_purchase_corruption.htm",
+      "description": "A report from March 2011 covering the imprisonment of Sugat Kansakar on corruption charges related to the aircraft purchase deal and the bail amount set by the court."
+    },
+    {
+      "title": "Airbus admits to paying at least 340,000 euros in bribes to Nepali officials - The Kathmandu Post",
+      "url": "https://kathmandupost.com/national/2020/02/04/airbus-admits-to-paying-at-least-340-000-euros-in-bribes-to-nepali-officials",
+      "description": "Provides context on a later bribery scandal where Airbus, in a 2020 global settlement, admitted to paying bribes to secure aircraft deals in Nepal. This is related but distinct from the 2009 case."
+    },
+    {
+      "title": "NAC wide-body controversy: Rs 1.47 billion corruption in wide-body, 32 defendants including ex-minister Shahi - Onlinekhabar English",
+      "url": "https://english.onlinekhabar.com/nac-wide-body-controversy.html",
+      "description": "This article details a separate, later corruption case involving the purchase of wide-body aircraft, which is often confused with the 2009 MoU case. It helps differentiate the two scandals."
+    },
+    {
+      "title": "CIAA starts probe into Nepal Airlines’ aircraft purchase misconduct - The Kathmandu Post",
+      "url": "https://kathmandupost.com/national/2018/09/15/ciaa-starts-probe-into-nepal-airlines-aircraft-purchase-misconduct",
+      "description": "News report from 2018 about the CIAA investigating the later wide-body aircraft purchase, mentioning Sugat Ratna Kansakar's role in that deal after his reappointment."
+    },
+    {
+      "title": "साँढे चार अर्बको घोटाला छायाँमा पार्न चलखेल - Sanghu News",
+      "url": "http://sanghunews.com/2019/01/14/6683/",
+      "description": "An article in Nepali discussing the 4.5 billion NPR scandal (the wide-body deal), which is useful for distinguishing it from the 2009 MoU case."
+    },
+    {
+      "title": "Revealed: the intermediaries and companies behind Nepal Airlines US$ 216m Airbus purchase - CIJAC",
+      "url": "https://www.cijac.org/revealed-the-intermediaries-and-companies-behind-nepal-airlines-us-216m-airbus-purchase/",
+      "description": "An investigative report detailing the complex financial arrangements and intermediaries involved in the subsequent purchase of Airbus jets, which followed this initial 2009 controversy."
+    },
+    {
+      "title": "Anti-corruption body resists Nepal Airlines A320 probe - ch-aviation",
+      "url": "https://www.ch-aviation.com/news/86043-anti-corruption-body-resists-nepal-airlines-a320-probe",
+      "description": "A 2020 article mentioning the broader context of Airbus deals in Nepal and investigations, referencing the UK court findings about bribery."
+    }
+  ]
+}

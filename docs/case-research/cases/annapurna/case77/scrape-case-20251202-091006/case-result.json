@@ -1,0 +1,127 @@
+{
+  "title": "Encroachment of Rani Mahal Palace Land",
+  "description": "<p>The case involves the illegal encroachment and private registration of land belonging to the historic Rani Mahal palace, located in Palpa district on the banks of the Kali Gandaki River. An investigation by the <strong>National Vigilance Centre (NVC)</strong> revealed that a significant portion of the palace's land, estimated to be between <strong>24 to 30 ropani</strong>, was systematically transferred to private individuals through collusion between government officials and other parties.</p><p>The process of encroachment reportedly began during a land survey in 1975-76 (2032 BS). The situation was significantly exacerbated by a fire in the Palpa Durbar on January 31, 2006, which destroyed crucial documents at the District Land Revenue and Survey offices. This loss of records was allegedly exploited to formalize the illegal registrations.</p><p>The NVC's investigation concluded that the illegal registration was facilitated by the collusion of employees from the <strong>District Land Revenue Office (Malpot)</strong>, the <strong>District Survey Office (Napi)</strong>, and the offices of the then-local Village Development Committees (VDCs). While official records at the Survey Office indicate Rani Mahal covers only about 5 ropani, historical and local accounts suggest the original area was much larger.</p><p>Key findings of the investigation include:</p><ul><li>Systematic partitioning and registration of palace land to private individuals.</li><li>Manipulation of official survey maps, where land not subdivided in main maps was shown as partitioned in local office maps.</li><li>Use of a recommendation from the former Khani Gaun VDC to register a 5-ropani plot to an individual in 2006.</li></ul><p>The Department of Archaeology officially handed over the responsibility for the palace to <strong>Tansen Municipality</strong> on August 25, 2018, which has since initiated its own efforts to investigate and reclaim the encroached land.</p>",
+  "unverified_info": "<p>The following information is noted in preliminary research but could not be independently verified by credible public sources:</p><ul><li><strong>Main Accused - 'Samakote family' (सामाकोटे परिवार):</strong> No public reports or official documents reviewed mention a 'Samakote family' in connection with this case. The individuals identified in the NVC investigation and news reports are Mahalakshmi Shrestha, Chakrapani Pande, and the Thapa brothers.</li><li><strong>Amount of Land Encroached - '40 Ropani':</strong> Some initial claims suggested a loss of 40 ropani. However, the official NVC investigation and subsequent media reports consistently cite the encroached area as being between <strong>24 to 30 ropani</strong>. The 40 ropani figure is not substantiated by the available evidence.</li></ul><p>Additionally, it is reported that individuals Chakrapani Pande, Thambahadur Thapa, and Durgabahadur Thapa, who had land registered in their names, have not come forward to formally establish their title (श्रेस्ता कायम), making their exact role and the current legal status of that specific plot unclear.</p>",
+  "key_allegations": [
+    "Systematic encroachment of 24 to 30 ropani of land belonging to the historic Rani Mahal palace.",
+    "Collusion of government officials from the District Land Revenue Office and District Survey Office in illegal land registration.",
+    "Manipulation and tampering of official land records and survey maps.",
+    "Exploitation of a 2006 fire that destroyed official documents to formalize illegal land registrations.",
+    "Illegal registration of public and Guthi (trust) land in the names of private individuals."
+  ],
+  "alleged_entities": [
+    "District Land Revenue Office, Palpa",
+    "District Survey Office, Palpa",
+    "Khani Gaun VDC (Former)",
+    "Mahalakshmi Shrestha",
+    "Chakrapani Pande",
+    "Thambahadur Thapa",
+    "Durgabahadur Thapa"
+  ],
+  "related_entities": [
+    "National Vigilance Centre (NVC)",
+    "Tansen Municipality",
+    "Department of Archaeology",
+    "Khadgabhakteshwar Guthi",
+    "Bodhgumba Rani Ghat Guthi"
+  ],
+  "locations": [
+    {
+      "other": "Rani Mahal Palace, on the bank of the Kali Gandaki River",
+      "ward_no": 13,
+      "municipality": "Tansen Municipality",
+      "district": "Palpa",
+      "province": "Lumbini Province"
+    }
+  ],
+  "tags": [
+    "Land Encroachment",
+    "Corruption",
+    "Collusion",
+    "Abuse of Authority",
+    "Public Property",
+    "Historical Site",
+    "Guthi Land"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2003-12-02",
+      "title": "Land Subdivision",
+      "description": "A plot of land north of the palace (Kitta No. 166, measuring 13 ropani, 9 aana, 2 dam) is subdivided into two new plots, Kitta No. 660 and Kitta No. 661."
+    },
+    {
+      "event_date": "2006-01-31",
+      "title": "Fire Destroys Land Records",
+      "description": "A fire at the Palpa Durbar destroys official documents belonging to the District Land Revenue and Survey offices, creating an opportunity for the manipulation of land records."
+    },
+    {
+      "event_date": "2006-06-19",
+      "title": "Illegal Land Registration",
+      "description": "Based on a recommendation from the former Khani Gaun VDC, a 5-ropani plot (Kitta No. 660) is registered under Mahalakshmi Shrestha's name as a tenant of Khadgabhakteshwar Guthi."
+    },
+    {
+      "event_date": "2018-08-25",
+      "title": "Handover to Tansen Municipality",
+      "description": "The Department of Archaeology formally hands over the Rani Mahal palace to Tansen Municipality for its management and preservation."
+    },
+    {
+      "event_date": "2019-04-07",
+      "title": "Municipality Begins Investigation",
+      "description": "Tansen Municipality, after taking ownership, begins a formal investigation into the land holdings of the palace, confirming that encroachment has occurred."
+    },
+    {
+      "event_date": "2019-07-10",
+      "title": "NVC Investigation Findings Publicized",
+      "description": "News reports emerge detailing the findings of a National Vigilance Centre (NVC) investigation, which confirms about 30 ropani of land has been illegally registered to individuals with the help of government officials."
+    },
+    {
+      "event_date": "2020-01-05",
+      "title": "Encroachment Confirmed by NVC Report",
+      "description": "A Kathmandu Post article cites the National Vigilance Centre (NVC) report, stating 24 ropanies of Rani Mahal's land have been encroached upon and ownership papers erased from record books."
+    }
+  ],
+  "sources": [
+    {
+      "title": "eKantipur: Rani Mahal's 30 Ropani land encroached",
+      "url": "https://ekantipur.com/news/2019/04/07/15546419520791483.html",
+      "description": "An article detailing the initial findings by Tansen Municipality after taking over Rani Mahal, confirming significant encroachment of its land."
+    },
+    {
+      "title": "Aarthik News: NVC finds collusion in Rani Mahal land grab",
+      "url": "https://aarthiknews.com/2019/07/10/79840/",
+      "description": "Reports on the National Vigilance Centre's investigation, which concluded that 30 ropani of land were registered to individuals through collusion with government employees."
+    },
+    {
+      "title": "Kathmandu Post: 24 ropanies of Rani Mahal’s land encroached upon: report",
+      "url": "https://kathmandupost.com/province-no-5/2020/01/05/24-ropanies-of-rani-mahal-s-land-encroached-upon-report",
+      "description": "A report citing the National Vigilance Centre (NVC) findings that 24 ropani of the palace's land were encroached upon by individuals and businesses, with records being manipulated."
+    },
+    {
+      "title": "Desh Ko News: 30 ropani of Rani Mahal land in private names",
+      "url": "https://deshkonews.com/archives/26815",
+      "description": "News report on the NVC investigation, mentioning the involvement of Land Revenue and Survey office employees in the illegal registration."
+    },
+    {
+      "title": "PNP Khabar: NVC report reveals 30 ropani of Rani Mahal land encroached",
+      "url": "https://pnpkhabar.com/archives/20190710080649",
+      "description": "This article discusses the NVC's findings about the encroachment and the historical context of the land registration."
+    },
+    {
+      "title": "HK Nepal: Rani Mahal's land registered to individuals",
+      "url": "https://hknepal.com/2019/07/190807/",
+      "description": "A news story detailing how land around the palace, including plots belonging to a Guthi, was illegally registered in private names."
+    },
+    {
+      "title": "Khabar Dabali: NVC investigation confirms encroachment",
+      "url": "https://khabardabali.com/2019/07/28096/",
+      "description": "Covers the NVC's report on the collusion between government officials and land mafia to encroach upon Rani Mahal's property."
+    },
+    {
+      "title": "Thaha Khabar: Handover of Rani Mahal to Tansen Municipality",
+      "url": "https://thahakhabar.com/news/72793",
+      "description": "Reports on the official handover of the palace from the Department of Archaeology to Tansen Municipality in 2018."
+    }
+  ]
+}

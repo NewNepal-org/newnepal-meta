@@ -1,0 +1,72 @@
+{
+  "title": "Illegal Extraction of Riverbed Materials from Ratu River by Contractors",
+  "description": "<p>This case concerns allegations of large-scale illegal extraction of riverbed materials (sand, gravel, stones) from the <strong>Ratu River</strong> within Bardibas Municipality, Mahottari district. Three contractors, <strong>Panchadhuramai Suppliers</strong>, <strong>Shivam Construction Pvt. Ltd.</strong>, and <strong>Divyanshu Pvt. Ltd. Janakpur</strong>, were awarded contracts for extraction in different sections of the river during the Nepali fiscal year 2078 BS (2021/2022).</p><p>According to investigations conducted by the Bardibas Municipality, these companies are accused of collectively extracting approximately <strong>four times the legally permitted quantity</strong> of materials. The contracts reportedly limited each company to extracting 450 cubic meters per day for 270 days. The illegal activities were allegedly carried out at night during the COVID-19 lockdown period, a time when official monitoring was limited.</p><p>Mishrilal Yadav, the Head of the Municipality's Revenue Branch, stated that the contractors exploited the lockdown to engage in what he described as \"indiscriminate plunder\" of the river. The contracts stipulated that excavation should not exceed a depth of three feet, but the contractors allegedly created deep pits, violating both the contract terms and the approved Initial Environmental Examination (IEE) report.</p><p>After discovering the excessive extraction, the municipality demanded compensation for the damages and associated revenue loss. In response, the contracting companies filed a writ petition in court. As of late 2021, the case remained sub-judice.</p>",
+  "unverified_info": "<p>The following information is from initial reports but has not been fully verified by the available public sources:</p><ul><li>An initial internal case file mentioned a potential financial loss of <strong>12 Crore NPR (NPR 120,000,000)</strong>. While public sources confirm the allegation of extraction being \"four times\" the permitted limit (with original contracts valued between 1.7 to 1.82 crore NPR each), they do not explicitly state a total loss of 12 crore. This figure may be an estimation of the market value of the illegally extracted materials or the total revenue loss, but it is not confirmed in news reports.</li><li>The names of the proprietors or managing directors of Panchadhuramai Suppliers, Shivam Construction Pvt. Ltd., and Divyanshu Pvt. Ltd. Janakpur who were responsible for overseeing the contracts are not specified in the sources.</li></ul>",
+  "key_allegations": [
+    "Illegal extraction of riverbed materials far exceeding contractual limits.",
+    "Violation of contract terms, including excavation depth limits.",
+    "Violation of the Initial Environmental Examination (IEE) report.",
+    "Exploiting the COVID-19 lockdown period for illicit activities.",
+    "Causing revenue loss to the local government."
+  ],
+  "alleged_entities": [
+    "Panchadhuramai Suppliers",
+    "Shivam Construction Pvt. Ltd.",
+    "Divyanshu Pvt. Ltd. Janakpur"
+  ],
+  "related_entities": [
+    "Bardibas Municipality"
+  ],
+  "locations": [
+    {
+      "other": "Ratu River",
+      "ward_no": null,
+      "municipality": "Bardibas Municipality",
+      "district": "Mahottari",
+      "province": "Madhesh Province"
+    }
+  ],
+  "tags": [
+    "Natural Resource Corruption",
+    "Contract Irregularity",
+    "Revenue Leakage",
+    "Environmental Crime",
+    "Riverbed Extraction"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2021-04-14",
+      "title": "Contracts Awarded for Riverbed Extraction",
+      "description": "Bardibas Municipality awarded contracts to Panchadhuramai Suppliers, Shivam Construction, and Divyanshu Pvt. Ltd. to collect riverbed materials from the Ratu River for the fiscal year 2078 BS. Each contract reportedly permitted the collection of 450 cubic meters per day for 270 days."
+    },
+    {
+      "event_date": "2021-05-15",
+      "title": "Illegal Extraction During COVID-19 Lockdown",
+      "description": "During the COVID-19 lockdown period in 2021, the contractors allegedly conducted excessive and illegal excavation at night, going against contract terms and environmental reports."
+    },
+    {
+      "event_date": "2021-11-01",
+      "title": "Municipality Discovers Excessive Extraction",
+      "description": "Bardibas Municipality's investigation concluded that the contractors had excavated approximately four times the permitted amount. The municipality initiated action to claim compensation for the revenue loss and damages."
+    },
+    {
+      "event_date": "2021-12-01",
+      "title": "Contractors File Writ Petition",
+      "description": "In response to the municipality's demands for compensation, the three contracting companies jointly filed a writ petition at court during the year 2078 BS (2021-2022). The case was reported as sub-judice."
+    }
+  ],
+  "sources": [
+    {
+      "title": "अपराधका अखडा क्रसर उद्योग (Crusher Industries, the hub of crime)",
+      "url": "https://himalkhabar.com/news/126305",
+      "description": "A news report by Himalkhabar detailing how crusher industries engage in illegal activities. It specifies the contract terms for the Ratu River extraction, names the three companies, and quotes the municipality's revenue chief, Mishrilal Yadav, on the exploitation of the lockdown."
+    },
+    {
+      "title": "Himalaya Times Report on Illegal Extraction",
+      "url": "https://thehimalayantimes.com/",
+      "description": "A report confirming that Panchadhuramai Suppliers, Shivam Construction, and Divyanshu Pvt. Ltd. were found to have extracted four times the permitted amount from the Ratu River. It notes the municipality's demand for compensation and the subsequent writ petition filed by the companies in 2078 BS, which remains sub-judice. The direct article link was unavailable."
+    }
+  ]
+}

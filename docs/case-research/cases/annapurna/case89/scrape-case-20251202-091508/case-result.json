@@ -1,0 +1,60 @@
+{
+  "title": "Carpet Scandal (2034 BS)",
+  "description": "<p>The Carpet Scandal (गलैंचा काण्ड) of 1977-78 was a major corruption case during Nepal's Panchayat era involving allegations of systemic financial irregularities in the carpet export industry. The primary allegation was the <strong>widespread under-invoicing of carpet exports</strong> to evade customs duties and illegally retain foreign currency abroad, causing significant financial loss to the state.</p><p>The case gained prominence as it implicated the recently dismissed Prime Minister, <strong>Dr. Tulsi Giri</strong>, along with 90 other influential individuals, including politicians, senior bureaucrats, and businessmen. The investigation was initiated in 1978 by the Commission for the Control of Abuse of Authority (अख्तियार दुरुपयोग नियन्त्रण आयोग), which had been formed in 1975. This was reportedly the first major case handled by the new anti-graft body.</p><p>Dr. Giri's cabinet was dissolved by the palace on September 9, 1977. The following year, corruption charges were filed against him. Amid the political climate leading to the 1979 referendum, Dr. Giri publicly denied the allegations, claiming he was a victim of a political conspiracy and famously stated he was \"ready to be hanged if corruption charges against him were proven.\"</p>",
+  "unverified_info": "<ul><li>The specific identities of the other 90 individuals implicated in the scandal alongside Dr. Tulsi Giri are not publicly documented.</li><li>The exact monetary value of the alleged corruption or the financial loss incurred by the state due to the under-invoicing scheme is not specified in available records.</li><li><strong>The final outcome of the case is unknown.</strong> There are no public records confirming whether Dr. Tulsi Giri or the other accused were convicted, acquitted, or if the case was dismissed by the Special Court.</li></ul>",
+  "key_allegations": [
+    "Policy Corruption",
+    "Abuse of Authority",
+    "Under-invoicing of carpet exports to evade customs duties",
+    "Illegal retention of foreign currency abroad"
+  ],
+  "alleged_entities": [
+    "Dr. Tulsi Giri"
+  ],
+  "related_entities": [
+    "Commission for the Control of Abuse of Authority"
+  ],
+  "locations": [
+    {
+      "other": "Nationwide, related to carpet export industry",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Policy Corruption",
+    "Abuse of Authority",
+    "Export",
+    "Customs Evasion",
+    "Panchayat Era",
+    "Under-invoicing"
+  ],
+  "case_start_date": "1975-12-01",
+  "case_end_date": "1977-09-09",
+  "timeline": [
+    {
+      "event_date": "1977-09-09",
+      "title": "Giri's Cabinet Dissolved",
+      "description": "The cabinet led by Prime Minister Dr. Tulsi Giri was dissolved by the palace, ending his term which began on December 1, 1975."
+    },
+    {
+      "event_date": "1978-01-01",
+      "title": "Corruption Case Filed",
+      "description": "The Commission for the Control of Abuse of Authority filed charges in the 'carpet scam' against Dr. Tulsi Giri and 90 others. The exact date in 1978 is not specified."
+    },
+    {
+      "event_date": "1979-01-01",
+      "title": "Public Denial of Allegations",
+      "description": "Amidst public campaigning for the 1979 referendum, Dr. Tulsi Giri publicly denied the corruption allegations, framing them as a political conspiracy. The exact date in 1979 is not specified."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tulsi Giri, the extremist - The Annapurna Express",
+      "url": "https://www.annapurnapost.com/news/tulsi-giri-the-extremist-142279",
+      "description": "A news article detailing the political career of Dr. Tulsi Giri. It mentions his dismissal as Prime Minister and the subsequent filing of the 'carpet scam' case against him and 91 others in 1978 by the Commission for Control of Abuse of Authority."
+    }
+  ]
+}

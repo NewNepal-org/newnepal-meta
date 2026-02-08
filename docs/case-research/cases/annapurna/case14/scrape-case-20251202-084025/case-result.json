@@ -1,0 +1,85 @@
+{
+  "title": "Illegal Sand Mining on Pashupati Area Development Trust (PADT) Land",
+  "description": "<p>The Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case against nine individuals, including former member secretaries of the Pashupati Area Development Trust (PADT), former Local Development Officers (LDOs) of Kathmandu, and contractors. The case centered on the <strong>illegal awarding of a contract to excavate sand</strong> from 534 ropanis of PADT-owned land in Gothatar, Kathmandu, for a period of 18 months between 2008 and 2010.</p><p>The CIAA alleged that officials colluded to award the contract to CN Construction without following due process, at a rate significantly below market price, causing a loss of <strong>NPR 465.4 million</strong> to the state. According to reports, the PADT sold a truckload of sand for as low as NPR 305, while the market rate was around NPR 2,200.</p><p>Key allegations included:</p><ul><li>Awarding the sand mining contract without a proper legal process.</li><li>Accepting a proposal to sell sand at excessively low rates.</li><li>Allowing the contractor to excavate more sand than stipulated in the contract.</li><li>Failing to conduct a required Environmental Impact Assessment (EIA).</li></ul><p>On January 23, 2015, the CIAA filed the case at the Special Court. On August 21, 2016, a bench at the Special Court delivered its verdict. It <strong>acquitted all seven public officials</strong>, including former PADT member secretaries Sushil Nahata and Nirmal Kuikel, and former LDOs Mahendra Lal Shrestha, Gopal Prasad Parajuli, and Premraj Joshi, citing that the charges brought against them by the CIAA lacked sufficient evidence. However, the court found the contractors guilty, fining <strong>Bachchuram Dahal Rs 144.5 million</strong> and <strong>Mitharam Dahal Rs 1.42 million</strong>.</p>",
+  "unverified_info": "<p>A source mentioned that the CIAA was yet to investigate 14 additional corruption cases related to the PADT, suggesting that the misuse of funds at the organization could be more extensive than this single case.</p>",
+  "key_allegations": [
+    "Illegal awarding of a sand excavation contract on public land",
+    "Abuse of authority by public officials for personal gain",
+    "Causing a financial loss of NPR 465.4 million to the state",
+    "Excavation of natural resources without a proper Environmental Impact Assessment (EIA)",
+    "Selling public resources at rates significantly below market value"
+  ],
+  "alleged_entities": [
+    "Sushil Nahata",
+    "Nirmal Kuikel",
+    "Mahendra Lal Shrestha",
+    "Gopal Prasad Parajuli",
+    "Premraj Joshi",
+    "Bachchuram Dahal",
+    "Mitharam Dahal",
+    "Bhisma Kumar Malla",
+    "Raj Kumar Regmi",
+    "CN Construction"
+  ],
+  "related_entities": [
+    "Pashupati Area Development Trust (PADT)",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court"
+  ],
+  "locations": [
+    {
+      "other": "Gothatar",
+      "ward_no": 3,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati Province"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Illegal Mining",
+    "Natural Resources",
+    "Abuse of Authority",
+    "Public Land",
+    "Pashupati Area Development Trust",
+    "CIAA",
+    "Special Court",
+    "Acquittal"
+  ],
+  "case_start_date": null,
+  "case_end_date": "2016-08-21",
+  "timeline": [
+    {
+      "event_date": "2010-03-30",
+      "title": "CIAA Halts Sand Mining Operation",
+      "description": "The CIAA directs the Pashupati Area Development Trust (PADT) to immediately stop sand mining operations on its land in Gothatar and seizes relevant files for investigation."
+    },
+    {
+      "event_date": "2015-01-23",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA files a formal corruption case at the Special Court against nine individuals, including former PADT officials and contractors, seeking to recover embezzled funds amounting to Rs 465.4 million."
+    },
+    {
+      "event_date": "2016-08-21",
+      "title": "Special Court Issues Verdict",
+      "description": "The Special Court acquits all seven accused public officials due to lack of evidence but convicts two contractors, Bachchuram Dahal and Mitharam Dahal, imposing significant fines."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CIAA tells PADT to stop sand mining in Gothatar",
+      "url": "https://myrepublica.nagariknetwork.com/news/ciaa-tells-padt-to-stop-sand-mining-in-gothatar/",
+      "description": "A news report from myRepublica dated March 30, 2010, detailing the CIAA's initial action to halt the illegal sand mining. It specifies the location, land area, contractor's name, and the disparity between PADT's price and the market rate."
+    },
+    {
+      "title": "Rs 465m graft case against ex-PADT officials",
+      "url": "https://kathmandupost.com/miscellaneous/2015/01/24/rs-465m-graft-case-against-ex-padt-officials",
+      "description": "A Kathmandu Post article from January 24, 2015, reporting on the CIAA filing a Rs 465.4 million graft case. It lists the names of all nine defendants and the specific allegations against them."
+    },
+    {
+      "title": "7 accused in PADT graft case acquitted",
+      "url": "https://myrepublica.nagariknetwork.com/news/7-accused-in-padt-graft-case-acquitted/",
+      "description": "A myRepublica article from August 22, 2016, reporting on the Special Court's verdict. It details the acquittal of the seven officials and the conviction of the two contractors, including their names."
+    }
+  ]
+}

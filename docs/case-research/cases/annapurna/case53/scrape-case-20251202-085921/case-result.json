@@ -1,0 +1,75 @@
+{
+  "title": "Mini Tiller Procurement Corruption Case in Lumbini Province",
+  "description": "<p>The Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case at the Special Court, Kathmandu, against five individuals, including Baikuntha Adhikari, the then-Secretary of the Ministry of Land Management, Agriculture, and Cooperatives of Lumbini Province. The case, filed on <strong>April 19, 2022</strong>, concerns irregularities in the procurement of mini tillers for farmers during the fiscal year 2018-2019 (2075/76 BS).</p><p>The accused are charged with causing a total loss of <strong>NPR 4,337,500</strong> to the provincial government. The allegations center on the 'Agricultural Mechanization Program' run by the then-Province No. 5 (now Lumbini Province). The scheme involved two primary methods of fraud:</p><ul><li><strong>Substandard Equipment:</strong> The supplier, Aadhunik Krishi Kisan Sansar Pvt. Ltd., allegedly delivered cheaper, lower-quality Chinese mini tillers instead of the contracted Indian-made models. This substitution is reported to have caused a loss of <strong>NPR 3,715,000</strong>.</li><li><strong>Fraudulent Billing:</strong> The accused are also alleged to have created fake invoices and processed duplicate payments for seven mini tillers, misappropriating an additional <strong>NPR 622,500</strong>.</li></ul><p>Government officials, including Secretary Adhikari, Division Chief Shreedhar Gyawali, and Officer Mukesh Ramjali Nepali, are accused of approving payments without conducting proper verification of documents or field inspections, thereby indicating collusion with the supplier, Rajaram Tiwari. At the time the case was filed, Adhikari was serving as a Secretary in a different ministry within Lumbini Province and was automatically suspended upon indictment.</p>",
+  "unverified_info": "<p>The final verdict or the current status of the case proceedings at the Special Court, Kathmandu, is not available in the provided sources.</p>",
+  "key_allegations": [
+    "Embezzlement of NPR 4,337,500 in the procurement of mini tillers.",
+    "Supplying cheaper, low-quality Chinese mini tillers instead of the agreed-upon Indian models, causing a loss of NPR 3,715,000.",
+    "Creating fake invoices and processing duplicate payments for seven mini tillers, resulting in a fraudulent gain of NPR 622,500.",
+    "Collusion between government officials and the supplier by approving payments without proper verification or field inspection."
+  ],
+  "alleged_entities": [
+    "Baikuntha Adhikari",
+    "Shreedhar Gyawali",
+    "Mukesh Ramjali Nepali",
+    "Rajaram Tiwari",
+    "Aadhunik Krishi Kisan Sansar Pvt. Ltd.",
+    "Ministry of Land Management, Agriculture and Cooperatives, Lumbini Province"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu"
+  ],
+  "locations": [
+    {
+      "other": "Ministry of Land Management, Agriculture and Cooperatives",
+      "ward_no": null,
+      "municipality": "Butwal",
+      "district": "Rupandehi",
+      "province": "Lumbini Province"
+    }
+  ],
+  "tags": [
+    "Procurement Fraud",
+    "Corruption",
+    "Substandard Goods",
+    "Lumbini Province",
+    "Agricultural Mechanization"
+  ],
+  "case_start_date": "2018-07-17",
+  "case_end_date": "2019-07-16",
+  "timeline": [
+    {
+      "event_date": "2018-07-17",
+      "title": "Irregular Procurement Period Begins",
+      "description": "The procurement of mini tillers under the 'Agricultural Mechanization Program' for the fiscal year 2075/76 (2018-2019) began, during which the alleged irregularities occurred."
+    },
+    {
+      "event_date": "2022-04-19",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA filed a charge sheet at the Special Court, Kathmandu against five individuals and one company, alleging a total corruption amount of NPR 4,337,500."
+    },
+    {
+      "event_date": "2022-04-19",
+      "title": "Secretary Automatically Suspended",
+      "description": "Baikuntha Adhikari, then-Secretary of the Ministry of Agriculture, Food Technology and Land Management for Lumbini Province, was automatically suspended from his post following the filing of the corruption case."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Official CIAA Press Release on Filing of Charge Sheet",
+      "url": "https://ciaa.gov.np/wp-content/uploads/2022/04/Press-Release-2079-01-06-1.pdf",
+      "description": "The official press release from the Commission for the Investigation of Abuse of Authority, dated 2079-01-06 BS (April 19, 2022), confirming the filing of the charge sheet. It names the accused individuals and the company and specifies the corruption amount."
+    },
+    {
+      "title": "किसानका लागि मिनी टिलर किन्दा साढे ४३ लाख अनियमितता (4.35 million irregularity in purchase of mini tillers for farmers)",
+      "url": "https://www.nayapatrikadaily.com/news-details/84687/2022-04-20",
+      "description": "A news report by Naya Patrika detailing the corruption charges, names of the accused, the total irregularity amount, and the methods of corruption (substandard goods and fake bills)."
+    },
+    {
+      "title": "मिनी टिलर किन्दा साढे ४३ लाख अनियमितता (4.35 million irregularity in purchase of mini tillers)",
+      "url": "https://dhadingpost.com/2022/04/20/144985/",
+      "description": "A news report from Dhadingpost corroborating the details of the case, including the accused individuals, financial figures, and the specific models of the substandard Chinese tillers that were supplied."
+    }
+  ]
+}

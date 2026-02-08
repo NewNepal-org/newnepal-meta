@@ -1,0 +1,102 @@
+{
+  "title": "Mahendranagar Development Committee Public Land Sale Corruption Case",
+  "description": "<p>This case involves the alleged illegal sale and leasing of a significant portion of public land belonging to the former <strong>Mahendranagar Development Committee</strong> in Kanchanpur district. The committee, which originally held 638 bighas of land, was left with only 66 bighas, with an estimated <strong>572 bighas</strong> misappropriated, valued at over <strong>NPR 2.5 billion</strong>.</p><p>The Commission for the Investigation of Abuse of Authority (CIAA) initiated an investigation following complaints of widespread corruption. The probe revealed that former committee chairpersons allegedly made unilateral decisions to sell and lease land, bypassing mandatory board approvals. These actions violated the <strong>Town Development Act, 2045</strong>, and the <strong>Town Development Directive, 2061</strong>.</p><p>The CIAA alleged collusion between the committee's leadership, staff, and officials at the Land Revenue and Survey offices in Kanchanpur who facilitated the registration and demarcation of the illegally transferred land.</p><p>On April 24, 2022, the CIAA filed charges at the Special Court against dozens of individuals, including:</p><ul><li><strong>Former Committee Chairpersons:</strong> Paltu Rana, Gopal Rasaili, Pushkal Chaudhary, and Kanturam Paneru.</li><li><strong>Committee Staff:</strong> Member Secretary Chandra Prasad Chaudhary, Nayab Subba Pushparaj Bhatt, and Amin Tuladatt Joshi.</li><li><strong>Government Officials:</strong> Employees from the Land Revenue Office and Survey Office of Kanchanpur.</li><li><strong>Land Purchasers and Intermediaries.</strong></li></ul><p>On May 6, 2024, the <a href=\"https://lekhajokhanews.com/news/12242\">Special Court delivered a verdict</a>, convicting former chairpersons Rasaili, Rana, and Chaudhary, along with three committee staff members. They were sentenced to prison, and the court ordered the confiscation of the illegally distributed land. However, the court acquitted 14 officials from the Land Revenue and Survey offices, reasoning they were acting procedurally based on the committee's directives. The CIAA disagreed with the acquittals and has since appealed the decision to the <strong>Supreme Court</strong>, where the case is currently pending.</p>",
+  "unverified_info": "<p>There are several inconsistencies and unverified details across different reports, requiring further investigation:</p><ul><li><strong>Number of Accused:</strong> The exact number of individuals charged by the CIAA is unclear. Reports variously mention <a href=\"https://dhangadhipost.com/2022/10/19/84045/\">37 individuals</a>, <a href=\"https://thahakhabar.com/news/149887/\">64 individuals</a>, or a first phase involving 111 people. This discrepancy may be due to multiple charge sheets being filed at different times for different aspects of the case.</li><li><strong>Conflicting Financial Claims:</strong> The specific amounts of corruption claimed from the accused chairpersons vary significantly between sources. For instance:<ul><li>One report claims damages of NPR 850,000 from Gopal Rasaili, NPR 3,792,000 from Paltu Rana, and NPR 374,880 from Pushkal Chaudhary.</li><li>Another report, cited by <a href=\"https://myrepublica.nagariknetwork.com/news/ciaa-probing-land-fraud-case-worth-billions-of-rupees-in-mahendranagar/\">myRepublica</a>, mentions much higher claims, including NPR 29,400,000 from Gopal Rasaili, NPR 7,310,000 from Paltu Rana, and NPR 2,970,000 from Kanturam Paneru.</li><li>Claims against other officials also include NPR 30 million from Nayab Subba Pushparaj Bhatt and NPR 38 million from surveyor Tuladatta Joshi. These variations could reflect different charges across separate cases or different methods of calculating losses.</li></ul></li><li><strong>Total Involvement:</strong> An early CIAA statement suggested that over 400 people could be involved in the land grab, but formal charges have been filed against a smaller number so far.</li></ul>",
+  "key_allegations": [
+    "Illegal sale and lease of public land",
+    "Abuse of authority by committee chairpersons through unilateral decisions",
+    "Violation of the Town Development Act, 2045 and Town Development Directive, 2061",
+    "Collusion between committee officials and government employees at Land Revenue and Survey offices"
+  ],
+  "alleged_entities": [
+    "Mahendranagar Development Committee",
+    "Land Revenue Office, Kanchanpur",
+    "Survey Office, Kanchanpur"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu",
+    "Supreme Court of Nepal"
+  ],
+  "locations": [
+    {
+      "other": "Mahendranagar",
+      "ward_no": null,
+      "municipality": "Bhimdatta Municipality",
+      "district": "Kanchanpur",
+      "province": "Sudurpashchim Province"
+    }
+  ],
+  "tags": [
+    "Land Corruption",
+    "Public Land",
+    "Abuse of Authority",
+    "CIAA",
+    "Special Court",
+    "Supreme Court",
+    "Kanchanpur",
+    "Sudurpashchim Province",
+    "Illegal Land Sale"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2022-04-24",
+      "title": "CIAA Files Charge Sheet at Special Court",
+      "description": "The CIAA filed a charge sheet at the Special Court in Kathmandu against dozens of individuals, including former committee chairpersons, staff, and government officials, for their involvement in the illegal sale of public land. The date corresponds to Baishakh 11, 2079 BS."
+    },
+    {
+      "event_date": "2023-05-27",
+      "title": "Hunger Strike Demands Action",
+      "description": "Members of the Revolutionary Communist Party, Nepal, initiated a hunger strike demanding swift and comprehensive action against all individuals involved in the Mahendranagar land scam."
+    },
+    {
+      "event_date": "2024-05-06",
+      "title": "Special Court Delivers Verdict",
+      "description": "The Special Court convicted former chairpersons Gopal Rasaili, Paltu Rana, and Pushkal Chaudhary, along with three staff members. They were sentenced to prison and the illegally sold land was ordered to be confiscated. The court acquitted 14 officials from the Land Revenue and Survey offices."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Lekhajokha News: CIAA Appeals to Supreme Court After Acquittals",
+      "url": "https://lekhajokhanews.com/news/12242",
+      "description": "Reports on the CIAA's decision to appeal to the Supreme Court following the Special Court's acquittal of 14 government employees. It details the convictions and sentences from the May 6, 2024 verdict."
+    },
+    {
+      "title": "myRepublica: CIAA Probing Land Fraud Case Worth Billions",
+      "url": "https://myrepublica.nagariknetwork.com/news/ciaa-probing-land-fraud-case-worth-billions-of-rupees-in-mahendranagar/",
+      "description": "An English-language report detailing the scale of the investigation, mentioning billions of rupees in corruption, hundreds of bighas of land, and naming several accused chairpersons."
+    },
+    {
+      "title": "Setopati: Where did 572 bighas of land go?",
+      "url": "https://www.setopati.com/social/267926",
+      "description": "An investigative piece questioning the disappearance of 572 bighas of land from the Mahendranagar Development Committee and scrutinizing the CIAA's ongoing investigation."
+    },
+    {
+      "title": "Dhangadhi Post: CIAA Charges 37 Individuals in Land Scam",
+      "url": "https://dhangadhipost.com/2022/10/19/84045/",
+      "description": "A detailed article listing the names of 37 individuals charged by the CIAA, including chairpersons, government staff, and land purchasers, and outlining the specific allegations against them."
+    },
+    {
+      "title": "Himalaya Times: Charge Sheet Filed Against 37 People",
+      "url": "https://www.himalayatimes.com.np/2022/10/19/55026",
+      "description": "Reports on the CIAA filing a corruption case against 37 individuals, naming former chairpersons Gopal Rasaili, Paltu Rana, and Pushkal Chaudhary."
+    },
+    {
+      "title": "Thaha Khabar: Case Filed Against 64 People",
+      "url": "https://thahakhabar.com/news/149887/",
+      "description": "A news report stating that the CIAA filed a case against 64 people, including former chairman Gopal Rasaili, in connection with the land scandal."
+    },
+    {
+      "title": "State7Online: Hunger Strike Over Land Scam",
+      "url": "https://state7online.com/2023/05/27/159491.html",
+      "description": "Covers a hunger strike demanding action in the case. It notes that the case was filed on Baishakh 11, 2079, against 64 people and that 572 out of 638 bighas of land are missing."
+    },
+    {
+      "title": "Manaskhand: CIAA Files Charge Sheet in Mahendranagar Land Case",
+      "url": "https://manaskhanda.com/2022/10/19/54316.html",
+      "description": "Reports that a charge sheet has been filed against 37 people for the misuse of public land belonging to the Mahendranagar Development Committee."
+    }
+  ]
+}

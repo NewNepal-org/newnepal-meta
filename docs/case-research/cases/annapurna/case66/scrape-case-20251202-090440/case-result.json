@@ -1,0 +1,93 @@
+{
+  "title": "Godawari Municipality Road Construction Corruption Case",
+  "description": "<p>The Commission for Investigation of Abuse of Authority (CIAA) filed five separate corruption cases against officials and contractors of Godawari Municipality, Kailali, over irregularities in the construction of 13 municipal roads. The accused allegedly caused significant financial loss to the state by making and approving payments for substandard and incomplete work.</p><p>The investigation revealed that former Chief Administrative Officers <strong>Khemraj Bista</strong> and <strong>Devraj Joshi</strong> colluded with engineers, sub-engineers, and contractors. They are accused of knowingly approving payments based on fraudulent measurement books and technical reports that misrepresented the quality and progress of the road construction projects.</p><p>The CIAA filed chargesheets at the Special Court in Kathmandu, implicating a total of 14 individuals. The key individuals and the total claimed damages (bigo) sought by the CIAA are as follows:</p><ul><li><strong>Khemraj Bista</strong> (Former Chief Administrative Officer): NPR 64,806,216</li><li><strong>Devraj Joshi</strong> (Former Chief Administrative Officer): NPR 3,129,746</li><li><strong>Purna Kunwar</strong> (Former Engineer): NPR 9,615,962</li><li><strong>Gyanendra Budha</strong> (Former Sub-Engineer): NPR 3,219,514</li><li><strong>Narendra Shahi</strong> (Former Sub-Engineer): NPR 3,677,000</li><li><strong>Bhaktaraj Joshi</strong> (Former Sub-Engineer): NPR 2,758,432</li><li><strong>Dhan Bahadur Bista</strong> (Lab Technician): NPR 8,441,923</li><li><strong>Dambar Chand</strong> (Contractor): NPR 8,200,000</li><li><strong>Santosh Joshi</strong> (Contractor): NPR 3,798,000</li><li><strong>Kami Sherpa</strong> (Contractor): NPR 2,928,000</li><li><strong>Harisingh Bista</strong> (Contractor): NPR 1,517,000</li></ul><p>The charges include corruption, abuse of authority, and collusion to embezzle government funds. The case highlights a systemic issue of officials overstepping their jurisdiction to interfere in technical evaluations for personal gain.</p>",
+  "unverified_info": "<p>An initial document reviewed for this case listed one of the accused as 'Khemraj Joshi'. However, all subsequent official press releases from the CIAA and reputable media reports consistently name the second accused Chief Administrative Officer as <strong>Devraj Joshi</strong>. It is highly probable that 'Khemraj Joshi' was a typographical error in the initial source.</p>",
+  "key_allegations": [
+    "Payment for substandard and incomplete work",
+    "Corruption",
+    "Collusion",
+    "Abuse of Authority",
+    "Embezzlement of government funds",
+    "Use of fraudulent measurement books"
+  ],
+  "alleged_entities": [
+    "Khemraj Bista",
+    "Devraj Joshi",
+    "Purna Kunwar",
+    "Gyanendra Budha",
+    "Ramchandra Bhandari",
+    "Narendra Shahi",
+    "Rajendra Bhandari",
+    "Bhaktaraj Joshi",
+    "Narendra Joshi",
+    "Dhan Bahadur Bista",
+    "Kami Sherpa",
+    "Dambar Chand",
+    "Harisingh Bista",
+    "Santosh Joshi",
+    "Godawari Municipality, Kailali"
+  ],
+  "related_entities": [
+    "Commission for Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu"
+  ],
+  "locations": [
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Godawari Municipality",
+      "district": "Kailali",
+      "province": "Sudurpashchim Province"
+    }
+  ],
+  "tags": [
+    "Infrastructure Corruption",
+    "Road Construction",
+    "Substandard Work",
+    "Abuse of Authority",
+    "CIAA Case",
+    "Godawari Municipality",
+    "Public Procurement"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2022-04-13",
+      "title": "CIAA Files First Set of Charges",
+      "description": "The CIAA filed a corruption case at the Special Court against officials of Godawari Municipality, including Khemraj Bista and Devraj Joshi, concerning substandard road construction."
+    },
+    {
+      "event_date": "2022-04-21",
+      "title": "CIAA Files Second Case",
+      "description": "The CIAA filed another corruption case against municipal officials related to the ongoing investigation into road projects."
+    },
+    {
+      "event_date": "2022-05-27",
+      "title": "CIAA Files Additional Charges, Totaling Five Cases",
+      "description": "The CIAA filed additional charge sheets at the Special Court, Kathmandu, against Khemraj Bista, Devraj Joshi, and seven others, bringing the total number of related corruption cases to five."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CIAA Press Release on Godawari Municipality Corruption",
+      "url": "https://ciaa.gov.np/press-release/159/--------13-------------------------------------------------",
+      "description": "Official press release from the CIAA detailing the charges against officials and contractors of Godawari Municipality for corruption related to 13 road construction projects. It names the accused and outlines the nature of the corruption."
+    },
+    {
+      "title": "Five corruption cases against the then chief administrative officers of Godawari municipality",
+      "url": "https://sudoortimes.com/archives/37024",
+      "description": "News article by Sudoor Times reporting on the five corruption cases filed by the CIAA. It provides a detailed breakdown of the claimed damages (bigo) sought from each individual accused."
+    },
+    {
+      "title": "Corruption case filed against seven persons including Chief Administrative Officer of Godavari Municipality",
+      "url": "https://peoplesreview.com.np/2022/05/27/corruption-case-filed-against-seven-persons-including-chief-administrative-officer-of-godavari-municipality/",
+      "description": "Peoples' Review report on the corruption case, stating that then Chief Administrative Officers Khemraj Bista and Devraj Joshi were involved in embezzling funds by approving substandard work."
+    },
+    {
+      "title": "Case filed against 8 people including the then administrative officer of Godawari Municipality",
+      "url": "https://himalsanchar.com/news-details/115655/2022-04-14",
+      "description": "Himal Sanchar article detailing the corruption case against eight individuals, including the financial claims against each, related to substandard work on 13 roads in Godawari Municipality."
+    }
+  ]
+}

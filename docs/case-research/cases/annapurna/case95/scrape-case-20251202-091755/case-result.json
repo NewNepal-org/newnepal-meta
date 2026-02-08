@@ -1,0 +1,135 @@
+{
+  "title": "Transfer of Nepal Trust Land to Individuals during Baburam Bhattarai's Premiership",
+  "description": "<p>The case concerns the transfer of approximately <strong>173 ropani of land</strong> belonging to the Nepal Trust to around 100 private individuals. The land, formerly owned by the late King Birendra and his family, is located in Mata Tirtha, Mahadevsthan (Thankot), Satungal, and Ichangu Narayan areas of Kathmandu.</p><p>The transfer was executed based on a 'policy decision' made by the Council of Ministers chaired by then-Prime Minister Dr. Baburam Bhattarai. At the time, Dr. Bhattarai was the Patron of the Nepal Trust, and Deputy Prime Minister Vijay Kumar Gachhadar was its Chairman. Following a cabinet decision, the Land Revenue Office in Kalanki officially registered the land in the names of tenants (mohi) on <strong>June 21, 2013</strong> (Asar 7, 2070 BS).</p><p>The legality of this action has been strongly challenged. The core allegations are that the transfer violates:</p><ul><li><strong>Section 13 of the Nepal Trust Act, 2064</strong>, which prohibits the sale, disposal, or transfer of Trust property.</li><li><strong>Section 25(5) of the Land Act, 2021</strong>, which states that tenancy rights cannot be established on land owned by the Government of Nepal.</li></ul><p>A probe committee formed by the Nepal Trust later concluded the transfer was illegal and recommended the land be reclaimed. The legitimacy of the cabinet decision itself is also disputed, with then-Land Reform Minister Chandra Dev Joshi publicly denying that the cabinet made such a decision to transfer ownership.</p><p>In his defense, Dr. Baburam Bhattarai has maintained that it was a legitimate policy decision to provide land to genuine, long-term tenants who had been paying taxes on the land for decades, and that the decision was based on the recommendations of four separate probe committees.</p>",
+  "unverified_info": "<p>There are conflicting dates cited for the key cabinet decision that authorized the land transfer. One reported date is Bhadra 25, 2069 BS, which has been disputed, with reports claiming the official decision record does not contain the directive for ownership transfer. Another date, Kartik 2, 2069 BS (October 18, 2012), is cited in the Nepal Trust's white paper as the date of a decision by the cabinet's bill committee. The exact nature and influence of a proposal reportedly tabled by then-Cabinet Secretary Jaymukunda Khanal on Bhadra 3, 2069 BS (August 19, 2012) also require further clarification.</p>",
+  "key_allegations": [
+    "Illegal transfer of 173 ropani of Nepal Trust land to private individuals.",
+    "Violation of Section 13 of the Nepal Trust Act, 2064, which prohibits the transfer of trust property.",
+    "Violation of Section 25(5) of the Land Act, 2021, which bars tenancy rights on government-owned land.",
+    "Use of a 'policy decision' by the cabinet to circumvent specific legal prohibitions.",
+    "The cabinet decision used as the legal basis for the transfer is alleged to be fraudulent or misinterpreted."
+  ],
+  "alleged_entities": [
+    "Dr. Baburam Bhattarai",
+    "Vijay Kumar Gachhadar",
+    "Government of Nepal (Council of Ministers)",
+    "Land Revenue Office, Kalanki"
+  ],
+  "related_entities": [
+    "Nepal Trust",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Chandra Dev Joshi",
+    "Jaymukunda Khanal",
+    "Lila Mani Paudel",
+    "Dinesh Hari Adhikari",
+    "Mohan Raman Bhattarai"
+  ],
+  "locations": [
+    {
+      "other": "Mata Tirtha",
+      "ward_no": null,
+      "municipality": "Chandragiri",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Mahadevsthan, Thankot",
+      "ward_no": null,
+      "municipality": "Chandragiri",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Satungal",
+      "ward_no": null,
+      "municipality": "Chandragiri",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Ichangu Narayan (Balaju)",
+      "ward_no": null,
+      "municipality": "Nagarjun",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Kalanki Land Revenue Office",
+      "ward_no": 14,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Singha Durbar",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Land Corruption",
+    "Policy Corruption",
+    "Abuse of Authority",
+    "Nepal Trust",
+    "Government Land",
+    "CIAA Investigation"
+  ],
+  "case_start_date": "2012-08-19",
+  "case_end_date": "2013-06-21",
+  "timeline": [
+    {
+      "event_date": "2012-08-19",
+      "title": "Proposal to Register Land for Tenants Tabled",
+      "description": "Then-Cabinet Secretary Jaymukunda Khanal reportedly tabled a proposal in the Council of Ministers to register 'Farmayasi Birta' lands, including those belonging to the Nepal Trust, in the names of the tenants cultivating them."
+    },
+    {
+      "event_date": "2012-10-18",
+      "title": "Cabinet Committee Allegedly Decides on Land Transfer",
+      "description": "A cabinet bill committee, allegedly chaired by PM Baburam Bhattarai, reportedly made a decision to transfer Nepal Trust lands in Mata Tirtha, Thankot, Satungal, and Balaju to tenants. This date is cited by the Nepal Trust's white paper."
+    },
+    {
+      "event_date": "2013-06-21",
+      "title": "Land Officially Transferred to Individuals",
+      "description": "The Land Revenue Office in Kalanki implemented the cabinet's decision, formally registering approximately 173 ropani of Nepal Trust land into the names of private individuals (tenants)."
+    },
+    {
+      "event_date": "2019-05-21",
+      "title": "Nepal Trust Probe Committee Submits Report",
+      "description": "A probe committee formed by the Nepal Trust submitted its report, concluding that the land transfer was illegal and recommended that the government reclaim the land."
+    },
+    {
+      "event_date": "2020-02-25",
+      "title": "Nepal Trust Issues White Paper",
+      "description": "The Nepal Trust released a white paper detailing its properties, which publicly stated that 172 ropanis of its land were transferred to tenants during the Bhattarai-Gachhadar administration, labeling the act as contrary to law."
+    },
+    {
+      "event_date": "2020-03-01",
+      "title": "CIAA Investigation Reported",
+      "description": "It was reported in the media that the Commission for the Investigation of Abuse of Authority (CIAA) had initiated an investigation into the land transfer case."
+    }
+  ],
+  "sources": [
+    {
+      "title": "News Report on Cabinet Decision Discrepancy (EmountainTv / Nagarik Daily)",
+      "url": "https://emountaintv.com/2024/02/06/339414/",
+      "description": "This report claims the cabinet decision of Bhadra 25, 2069, did not authorize the land ownership transfer and was not gazetted. It quotes former minister Chandra Dev Joshi denying the decision and mentions the Land Revenue Office could not produce the official directive."
+    },
+    {
+      "title": "News Report Detailing Land Distribution (Chandragiri News / Annapurna Post)",
+      "url": "https://chandragirinews.com/2023/07/26/218084/",
+      "description": "This article provides a breakdown of the 173 ropani of land transferred across Thanakot, Mahadevsthan, Matatirtha, Satungal, and Ichangu Narayan, stating the transfer was implemented by the Kalanki Land Revenue Office on Asar 7, 2070, based on a cabinet decision."
+    },
+    {
+      "title": "Nepal Trust Probe Committee Report (May 21, 2019)",
+      "url": "https://emountaintv.com/2024/02/06/339414/",
+      "description": "This official report, cited in news media, concluded that the transfer of 173 ropani was illegal, citing the Nepal Trust Act and Land Act. The report is not publicly available but its findings are detailed in the linked news article."
+    },
+    {
+      "title": "Nepal Trust White Paper (February 25, 2020)",
+      "url": "https://kathmandupost.com/national/2020/02/26/in-white-paper-nepal-trust-unveils-controversial-deals-on-its-properties",
+      "description": "A document released by the Nepal Trust detailing its properties and controversial deals. It explicitly mentions the transfer of 172 ropanis of land to tenants during the Bhattarai administration. The white paper itself is not directly linked, but its contents are extensively covered in this news report from The Kathmandu Post."
+    }
+  ]
+}

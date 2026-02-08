@@ -1,0 +1,121 @@
+{
+  "title": "Corruption Allegations in the Upper Tamakoshi Hydropower Project",
+  "description": "<p>A formal complaint filed at the Commission for the Investigation of Abuse of Authority (CIAA) in the Nepali fiscal year 2080 BS (2023/2024 AD) alleges massive corruption amounting to approximately <strong>NPR 51 billion</strong> in the 456 MW Upper Tamakoshi Hydropower Project. The complaint, lodged by anti-corruption activist Bishwoniti Prakashman Pakhrin, targets former and current high-ranking officials of the Nepal Electricity Authority (NEA) and the project developer, Upper Tamakoshi Hydropower Limited (UTKHPL).</p><p>The central allegation is that the project's budget was deliberately and corruptly inflated. The initial cost estimate in 2009 was <strong>NPR 35.29 billion</strong> (excluding interest), but the final audited cost upon completion was <strong>NPR 86.68 billion</strong> (including interest during construction). The complaint attributes this massive overrun to widespread irregularities and misuse of authority by officials involved.</p><p>The complaint calls for an investigation into the illicit enrichment of the accused officials and their relatives. Earlier, separate complaints dating back to 2013 had also raised concerns over the use of substandard construction materials and the embezzlement of funds meant for local social development.</p><p>Project officials and reports from UTKHPL have consistently attributed the significant cost and time overruns to several factors, including:</p><ul><li>The devastating <strong>2015 Gorkha Earthquake</strong>, which heavily damaged access roads and project infrastructure.</li><li>The <strong>2015-2016 Indian trade blockade</strong>, which severely hampered the import of materials and equipment.</li><li>Poor performance by the hydro-mechanical contractor (Texmaco of India) in installing penstock pipes.</li><li>Fluctuations in the foreign currency exchange rate, particularly the US dollar.</li><li>Accumulation of significant interest due to prolonged project delays.</li></ul><p>As of late 2023, while the complaint has been registered at the CIAA, there is no public confirmation that a formal case has been filed at the Special Court.</p>",
+  "unverified_info": "<p>The following information consists of allegations that have not been substantiated by official court filings or conclusive investigative reports, or details that remain unconfirmed:</p><ul><li><strong>Status of CIAA Investigation:</strong> While it is confirmed that a complaint was filed in 2023, it is <strong>unverified</strong> whether the CIAA has launched a formal, full-scale investigation based on it. There are no public press releases from the CIAA or records from the Special Court to confirm the case is proceeding.</li><li><strong>Direct Proof of Corruption:</strong> The allegation of NPR 51 billion in corruption is primarily based on the large discrepancy between the initial estimated cost and the final project cost. While this is a significant red flag, there is no publicly available evidence (such as audit reports confirming fraud, bank transaction records, or whistleblower testimony) that directly proves this cost overrun was the result of corruption, as opposed to the officially cited reasons (earthquake, blockade, contractor delays, currency fluctuations, and accrued interest).</li><li><strong>Designation of a 'Main Accused':</strong> News reports and the complaint list several individuals. However, the formal designation of a single 'main accused' has not been established by any investigative or judicial body.</li></ul>",
+  "key_allegations": [
+    "Deliberate inflation of project cost by approximately NPR 51 billion",
+    "Corruption, embezzlement, and misuse of authority by public officials",
+    "Illicit enrichment of officials and their relatives",
+    "Use of substandard construction materials",
+    "Embezzlement of funds allocated for local social development"
+  ],
+  "alleged_entities": [
+    "Upper Tamakoshi Hydropower Limited (UTKHPL)",
+    "Nepal Electricity Authority (NEA)",
+    "Mukeshraj Kafle",
+    "Arjun Kumar Karki",
+    "Bigyan Prasad Shrestha",
+    "Ram Sundar Shrestha",
+    "Binod Chandra Karmacharya",
+    "Pradip Kumar Thike",
+    "Dinesh Jung Rana",
+    "Bimal Gurung",
+    "Mukunda Adhikari",
+    "Dr. Ganesh Prasad Neupane"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Texmaco"
+  ],
+  "locations": [
+    {
+      "other": "Lamabagar",
+      "ward_no": null,
+      "municipality": "Bigu Rural Municipality",
+      "district": "Dolakha",
+      "province": "Bagmati Province"
+    }
+  ],
+  "tags": [
+    "Hydropower",
+    "Infrastructure",
+    "Corruption",
+    "Cost Overrun",
+    "CIAA",
+    "Nepal Electricity Authority",
+    "Public Company",
+    "Embezzlement",
+    "Illicit Enrichment"
+  ],
+  "case_start_date": "2009-03-20",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2009-03-20",
+      "title": "Project Cost Estimated",
+      "description": "The Board of Directors of Upper Tamakoshi Hydropower Limited decided to develop the project at an estimated cost of NPR 35.29 billion (without interest) and NPR 48 billion (with interest)."
+    },
+    {
+      "event_date": "2013-07-02",
+      "title": "Locals File Complaint at CIAA",
+      "description": "Residents from Dolakha district traveled to Kathmandu to file complaints at the CIAA and other government bodies, alleging irregularities, use of substandard materials, and embezzlement of social development funds in the project."
+    },
+    {
+      "event_date": "2014-02-21",
+      "title": "CIAA Confirms Probe into Substandard Materials",
+      "description": "The CIAA confirmed it was investigating the use of substandard materials after cracks appeared in an 80-meter section of a tunnel. The agency sent steel and cement samples to a lab in India for testing."
+    },
+    {
+      "event_date": "2015-04-25",
+      "title": "Gorkha Earthquake Halts Project",
+      "description": "The 7.8 magnitude Gorkha Earthquake and its aftershocks caused major damage to the project's access roads and other infrastructure, halting work for nearly a year and contributing to delays and cost increases."
+    },
+    {
+      "event_date": "2021-09-10",
+      "title": "Project Begins Commercial Operation",
+      "description": "The Upper Tamakoshi Hydropower Project achieved full-fledged commercial operation. The final cost was reported to be approximately NPR 86.68 billion, including interest."
+    },
+    {
+      "event_date": "2023-04-14",
+      "title": "Corruption Complaint Filed Alleging NPR 51 Billion Loss",
+      "description": "Anti-corruption activist Bishwoniti Prakashman Pakhrin filed a complaint at the CIAA during the Nepali year 2080 BS. The complaint alleged corruption of NPR 51 billion, based on the difference between the initial estimated cost and the final project cost."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Complaint of corruption of 51 billion in Upper Tamakoshi filed in authority",
+      "url": "https://tulsipurkhabar.com/archives/10398",
+      "description": "News report from Tulsipur Khabar (in Nepali) detailing the corruption complaint filed at the CIAA in 2080 BS, naming the accused individuals and the alleged amount of corruption."
+    },
+    {
+      "title": "Upper Tamakoshi looks for funds as completion deadline looms",
+      "url": "https://kathmandupost.com/money/2019/06/06/upper-tamakoshi-looks-for-funds-as-completion-deadline-looms",
+      "description": "A 2019 Kathmandu Post article discussing the project's funding gap and cost overruns, citing currency fluctuations and other factors."
+    },
+    {
+      "title": "Delay in Upper Tamakoshi causes huge financial loss",
+      "url": "https://myrepublica.nagariknetwork.com/news/delay-in-upper-tamakoshi-causes-huge-financial-loss/",
+      "description": "A 2021 MyRepublica article detailing the financial impact of the project's delays and cost escalations."
+    },
+    {
+      "title": "Locals complain of irregularities in Upper Tamakoshi",
+      "url": "https://myrepublica.nagariknetwork.com/news/locals-complain-of-irregularities-in-upper-tamakoshi/",
+      "description": "A 2013 MyRepublica article reporting on the initial complaints filed by Dolakha locals at the CIAA regarding irregularities and the investigation into two project officials."
+    },
+    {
+      "title": "Upper Tamakoshi hydel project: CIAA finds ‘substandard’ materials used",
+      "url": "https://kathmandupost.com/money/2014/02/21/upper-tamakoshi-hydel-project-ciaa-finds-substandard-materials-used",
+      "description": "A 2014 Kathmandu Post article reporting that the CIAA's preliminary investigation found evidence of substandard materials being used in the project construction."
+    },
+    {
+      "title": "Upper Tamakoshi Hydropower Limited- Rating reaffirmed",
+      "url": "https://icranepal.com/issuer-rating-methodology/Upper%20Tamakoshi%20Hydropower%20Limited-%20Rating%20reaffirmed.html",
+      "description": "An ICRA Nepal credit rating report from May 2024 which states the final audited project cost was NPR 86,684 million (NPR 86.68 billion)."
+    },
+    {
+      "title": "Upper Tamakoshi Hydropower Project delayed yet again",
+      "url": "https://kathmandupost.com/money/2018/11/01/upper-tamakoshi-hydropower-project-delayed-yet-again",
+      "description": "A 2018 Kathmandu Post article detailing project delays, citing poor performance by the hydro-mechanical contractor as a key reason."
+    }
+  ]
+}

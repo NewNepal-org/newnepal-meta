@@ -1,0 +1,117 @@
+{
+  "title": "Corruption Case Regarding Agricultural Grant for High-Tech Nursery in Kalikot",
+  "description": "<p>The Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case at the Special Court in Kathmandu against 12 individuals and one cooperative society concerning the misuse of a government grant. The case revolves around an agricultural subsidy of <strong>NPR 6,650,000</strong> provided by the Karnali Province Government during the 2078/79 fiscal year to Simnath Krishi Vikas Sahakari Sanstha Ltd. in Kalikot for the establishment of a high-tech fruit nursery.</p><p>The core allegations state that the defendants colluded to embezzle the grant money without completing the project as per the agreement. The CIAA's investigation claimed that <strong>Bharat Bahadur Basnet</strong>, then-acting chief of the Agriculture Knowledge Center, along with engineer <strong>Sumit Bhatt</strong> and sub-engineer <strong>Gururaj Sanjyal</strong>, prepared a fraudulent feasibility report. This report allegedly recommended the project for a location that lacked the necessary electricity supply for a high-tech nursery. Furthermore, they were accused of preparing an inflated cost estimate and purchasing equipment at excessively high prices.</p><p>The prosecution claimed that these officials, in collusion with the evaluation committee and cooperative members, produced a <strong>false work completion report</strong> without proper on-site verification, leading to the wrongful disbursement of the grant. The CIAA charged that the evaluation committee members acted with bad faith by approving the flawed evaluation report and forwarding it to the provincial Ministry of Land Management, Agriculture, and Cooperatives. The cooperative's chairman and treasurer were accused of creating a false proposal, despite lacking the institutional financial capacity, and accepting the grant money without actually establishing the nursery.</p><p>On <strong>December 18, 2023</strong>, the Special Court, under a bench led by Chairperson Tek Narayan Kunwar with judges Ram Bahadur Thapa and Muraribabu Shrestha, <strong>acquitted all accused parties</strong>, citing a lack of sufficient evidence to prove the corruption charges. Dissatisfied with this verdict, the CIAA has since filed an appeal at the Supreme Court, moving the case to the next judicial level.</p>",
+  "unverified_info": "<p>The initial source document provided for this case contained the following details that could not be independently verified by public news reports or official press releases:</p><ul><li>The name <strong>Chandra Bhushan Jha</strong> as a main accused. All official reports and news articles list Bharat Bahadur Basnet as the primary government official charged.</li><li>The involvement of employees from <strong>Humla and Mugu</strong> district offices. The case documents and reports specifically focus on the Agriculture Knowledge Center in Kalikot and the provincial ministry in Surkhet.</li></ul>",
+  "key_allegations": [
+    "Embezzlement of NPR 6,650,000 in government grant funds.",
+    "Preparation of a fraudulent and technically unviable feasibility study for a high-tech nursery.",
+    "Creation of an inflated cost estimate for the project and equipment.",
+    "Issuance of a false work completion report without proper site inspection to facilitate payment.",
+    "Collusion between government officials, an evaluation committee, and cooperative members to misuse public funds."
+  ],
+  "alleged_entities": [
+    "Bharat Bahadur Basnet",
+    "Sumit Bhatt",
+    "Gururaj Sanjyal",
+    "Hariprasad Pandit",
+    "Shridhar Adhikari",
+    "Dipak Kumar Bhandari",
+    "Hirananda Devkota",
+    "Anup Tiwari",
+    "Purnabahadur Thapa",
+    "Homanath Lamsal",
+    "Kamal Bahadur Shahi",
+    "Surendra Bahadur Shahi",
+    "Simnath Krishi Vikas Sahakari Sanstha Ltd."
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu",
+    "Supreme Court of Nepal",
+    "Agriculture Knowledge Center, Kalikot",
+    "Khadachakra Municipality, Kalikot",
+    "Water Supply, Irrigation and Energy Development Office, Kalikot",
+    "Karnali Province Government",
+    "Ministry of Land Management, Agriculture, and Cooperatives, Karnali Province"
+  ],
+  "locations": [
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Khadachakra",
+      "district": "Kalikot",
+      "province": "Karnali"
+    },
+    {
+      "other": "Location of the Special Court and Supreme Court",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "corruption",
+    "grant misuse",
+    "agriculture",
+    "cooperative",
+    "CIAA",
+    "Special Court",
+    "acquittal",
+    "appeal",
+    "Karnali Province",
+    "Kalikot",
+    "embezzlement"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2023-03-20",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA filed a corruption case at the Special Court in Kathmandu against 12 individuals and one cooperative, alleging misuse of NPR 6,650,000 from an agricultural grant."
+    },
+    {
+      "event_date": "2023-12-18",
+      "title": "Special Court Acquits All Defendants",
+      "description": "The Special Court acquitted all 13 defendants, including Bharat Bahadur Basnet and the cooperative, citing insufficient evidence to prove the charges."
+    },
+    {
+      "event_date": "2024-08-25",
+      "title": "CIAA Appeals to Supreme Court",
+      "description": "The CIAA issued a press release (dated 2081/05/09 BS) confirming it had filed an appeal at the Supreme Court against the Special Court's acquittal verdict."
+    }
+  ],
+  "sources": [
+    {
+      "title": "कृषि ज्ञान केन्द्र कालिकोटका निमित्त प्रमुखसहित १२ जनाविरूद्ध भ्रष्टाचारको मुद्दा - Setopati",
+      "url": "https://setopati.com/social/295175",
+      "description": "News report from March 20, 2023, detailing the filing of the corruption case by the CIAA against 12 individuals, including Bharat Bahadur Basnet, for embezzling NPR 6.65 million."
+    },
+    {
+      "title": "कृषि ज्ञान केन्द्रको भ्रष्टाचार मुद्दा: प्रमुखसहित १३ जनाले पाए सफाइ - Mahendranagar Post",
+      "url": "https://mahendranagarpost.com/special/118311",
+      "description": "News report from December 19, 2023, announcing the acquittal of all 13 defendants by the Special Court and summarizing the original CIAA allegations."
+    },
+    {
+      "title": "CIAA Press Release Snippet regarding Supreme Court Appeal",
+      "url": "https://ciaa.gov.np/np/press-release/11/1815",
+      "description": "An official notice from the CIAA, noted as being released on 2081/05/09 BS (approx. August 25, 2024), confirming that an appeal was filed at the Supreme Court against the Special Court's verdict in the case involving Bharat Bahadur Basnet and others for the amount of NPR 6,650,000."
+    },
+    {
+      "title": "१२ विरुद्ध कर्मचारीविरुद्ध भ्रष्टाचार मुद्दा - Rajdhani Daily",
+      "url": "https://rajdhanidaily.com/12-employee-against-corruption-case/",
+      "description": "Report on the CIAA filing a case against 12 individuals for corruption related to the agricultural grant in Kalikot."
+    },
+    {
+      "title": "कृषि ज्ञान केन्द्रका तत्कालिन निमित्त प्रमुखसहित १२ जनाविरुद्ध भ्रष्टाचार मुद्दा दायर - Nepal Press",
+      "url": "https://www.nepalpress.com/2023/03/20/307073/",
+      "description": "Article from March 20, 2023, confirming the case filed by the CIAA against 12 people, including Bharat Bahadur Basnet, over illegal gains and losses."
+    },
+    {
+      "title": "कालिकोटका तत्कालिन कृषि ज्ञान केन्द्र निमित्त प्रमुखसहित १२ जनाविरुद्ध भ्रष्टाचार मुद्दा दायर - RatoPati",
+      "url": "https://www.ratopati.com/story/311028/2023/3/20/kalikot",
+      "description": "Report from March 20, 2023, on the corruption case filed against 12 individuals, including members of the evaluation committee."
+    }
+  ]
+}

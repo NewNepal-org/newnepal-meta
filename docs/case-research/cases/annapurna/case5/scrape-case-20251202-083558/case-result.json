@@ -1,0 +1,125 @@
+{
+  "title": "Chase Air Scam (1997)",
+  "description": "<p>The Chase Air scam refers to a fraudulent aircraft lease agreement in 1997-1998 involving the Royal Nepal Airlines Corporation (RNAC), now Nepal Airlines Corporation. RNAC paid a substantial advance to a fraudulent American company, <strong>Chase Air</strong>, for the lease of a Boeing 757 aircraft that was never delivered, resulting in a significant financial loss for the national airline.</p><p>The deal was orchestrated during a coalition government led by Prime Minister Girija Prasad Koirala. The RNAC Executive Chairman, <strong>Hong Kong Ranamagar</strong>, appointed by the then Minister for Tourism and Civil Aviation, Yamlal Kandel, approved the deal. An advance payment of <strong>$783,750</strong> was wired to Chase Air.</p><p>Subsequent investigations by Nepal's Public Accounts Committee (PAC) and the US Federal Bureau of Investigation (FBI) revealed that Chase Air was a shell company created by <strong>Cecil Winters</strong> specifically for this fraud. The FBI found that Winters had used forged documents to legitimize the deal, including an altered aircraft registration certificate.</p><p><strong>Legal and Investigative Actions:</strong></p><ul><li><strong>In Nepal:</strong> The PAC concluded the scam caused a loss of approximately 10 Crore NPR. The Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case against Hong Kong Ranamagar. He was initially convicted by the Special Court and sentenced to three years in prison. However, on March 25, 2009, the Supreme Court of Nepal acquitted him of all charges.</li><li><strong>In the United States:</strong> RNAC initiated a civil case to recover funds, and the FBI launched a criminal investigation into Cecil Winters for fraud. The FBI tracked the movement of the stolen funds through various bank and brokerage accounts.</li></ul><p>This scandal is one of several major corruption cases that plagued the airline during the 1990s and 2000s, contributing to its long-term financial decline.</p>",
+  "unverified_info": "<p>Certain details of the case remain unverified or contain conflicting information:</p><ul><li><strong>Precise Financial Loss:</strong> While the advance payment is widely cited as $783,750, some sources mention a lost amount of over $900,000. Nepali media reports also cite varying figures, such as 5 Crore 34 Lakh Rupees (53.4 million NPR), while the PAC's conclusion was a loss of approximately 10 Crore NPR (100 million NPR).</li><li><strong>US Legal Outcome:</strong> The final outcome of the US criminal proceedings against the fraud's mastermind, Cecil Winters, is not detailed in the available sources.</li><li><strong>Specific Dates:</strong> The exact date in 1997 for the signing of the lease agreement and the subsequent wire transfer of funds is not specified in the records.</li><li><strong>Official Documents:</strong> The full official report from the Public Accounts Committee (PAC) is not publicly available, though its conclusions are widely reported.</li></ul>",
+  "key_allegations": [
+    "Fraud",
+    "Corruption in public procurement",
+    "Embezzlement of funds",
+    "Abuse of authority"
+  ],
+  "alleged_entities": [
+    "Hong Kong Ranamagar",
+    "Nepal Airlines Corporation",
+    "Cecil Winters",
+    "Chase Air"
+  ],
+  "related_entities": [
+    "Yamlal Kandel",
+    "Bamdev Gautam",
+    "Skylink Aviation Services",
+    "Ministry of Tourism and Civil Aviation",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Public Accounts Committee (PAC)"
+  ],
+  "locations": [
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati Province"
+    },
+    {
+      "other": "Arlington, Texas",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    },
+    {
+      "other": "New York, New York",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    },
+    {
+      "other": "Singapore",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Fraud",
+    "Corruption",
+    "Procurement",
+    "Aviation",
+    "State-Owned Enterprise",
+    "Political Corruption",
+    "International Crime"
+  ],
+  "case_start_date": "1997-01-01",
+  "case_end_date": "2009-03-25",
+  "timeline": [
+    {
+      "event_date": "1997-01-01",
+      "title": "Aircraft Lease Agreement Signed",
+      "description": "The Royal Nepal Airlines Corporation (RNAC) signed a lease agreement with Chase Air, a US-based entity, for a Boeing 757. An advance payment of $783,750 was subsequently wired."
+    },
+    {
+      "event_date": "1998-01-01",
+      "title": "Fraud Exposed",
+      "description": "The leased aircraft failed to arrive in Nepal. Investigations revealed Chase Air was a fraudulent shell company, prompting an investigation by the Public Accounts Committee (PAC) and the FBI."
+    },
+    {
+      "event_date": "2003-01-01",
+      "title": "Special Court Convicts RNAC Executive Chairman",
+      "description": "The Special Court of Nepal found Hong Kong Ranamagar, the Executive Chairman of RNAC, guilty of corruption in the Chase Air deal and sentenced him to a three-year jail term. The exact date is not specified but is reported as circa 2003."
+    },
+    {
+      "event_date": "2009-03-25",
+      "title": "Supreme Court Acquits Hong Kong Ranamagar",
+      "description": "A joint bench of the Supreme Court of Nepal, comprising Justices Anup Raj Sharma and Mohan Prakash Sitaula, overturned the Special Court's verdict and acquitted Hong Kong Ranamagar of all charges related to the scam."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The rise and fall of Nepal Airlines - The Kathmandu Post",
+      "url": "https://kathmandupost.com/investigation/2019/09/14/the-rise-and-fall-of-nepal-airlines",
+      "description": "An investigative piece detailing the history of corruption scandals at Nepal Airlines, including the Chase Air scam, its context, and financial impact."
+    },
+    {
+      "title": "Hong Kong Rana acquitted in Chase Air scam - myRepublica",
+      "url": "https://myrepublica.nagariknetwork.com/news/hong-kong-rana-acquitted-in-chase-air-scam/",
+      "description": "News report on the Supreme Court's 2009 verdict acquitting Hong Kong Ranamagar, providing details of the legal case's conclusion in Nepal."
+    },
+    {
+      "title": "चेज एयर काण्डको अमेरिकी पाटो (The American side of the Chase Air scandal) - Kanak Mani Dixit",
+      "url": "https://kanakmanidixit.com.np/chase-air-kandako-ameriki-pato/",
+      "description": "An article in Nepali by journalist Kanak Mani Dixit detailing the investigation in the United States, including the role of the FBI, the fraudster Cecil Winters, and the forged documents."
+    },
+    {
+      "title": "History of Nepal Airlines Corporation: How Politics Destroyed it - Avio Space",
+      "url": "https://aviospace.com/history-of-nepal-airlines-corporation-how-politics-destroyed-it/",
+      "description": "An overview of Nepal Airlines' history, highlighting how political interference and corruption cases like Chase Air contributed to its decline."
+    },
+    {
+      "title": "Old body, old problems - The Kathmandu Post",
+      "url": "https://kathmandupost.com/editorial/2023/12/01/old-body-old-problems",
+      "description": "An editorial referencing past corruption scandals, including Chase Air, as part of a broader commentary on the persistent issues at Nepal Airlines."
+    },
+    {
+      "title": "यस कारण डुब्दैछ 'नेपाल वायुसेवा निगम' (This is why 'Nepal Airlines Corporation' is sinking) - Kendrabindu",
+      "url": "https://kendrabindu.com/news/138138",
+      "description": "A Nepali language article listing major corruption scandals at the airline, including the Chase Air case, as reasons for its financial struggles."
+    },
+    {
+      "title": "निगम जोगाउन संरचनागत सुधार (Structural reform to save the Corporation) - Gorkhapatra",
+      "url": "https://gorkhapatraonline.com/news/53414",
+      "description": "A Nepali language article discussing the need for reforms at Nepal Airlines, mentioning the Chase Air scandal as a historical example of mismanagement."
+    }
+  ]
+}

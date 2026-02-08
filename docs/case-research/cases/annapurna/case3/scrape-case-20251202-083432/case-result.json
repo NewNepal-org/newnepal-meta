@@ -1,0 +1,98 @@
+{
+  "title": "Nepal Airlines Dhamija GSA Scandal (1993)",
+  "description": "<p>The Dhamija Scandal of 1993 (2050 BS) is a major corruption case involving the Royal Nepal Airlines Corporation (RNAC), now Nepal Airlines. The controversy centered on the appointment of a General Sales Agent (GSA) for Europe, which allegedly caused a financial loss of approximately <strong>NPR 39 crore 55 lakh</strong> to the state-owned airline.</p><p>The scandal revolves around the appointment of <strong>Dinesh Dhamija</strong>, a British-Indian businessman, whose UK-based company 'Fair Company' was designated as the sole GSA for RNAC's European operations in April 1993. The appointment was allegedly made in an irregular and arbitrary manner, bypassing standard procedures. Accusations pointed to direct intervention and undue pressure from the then Prime Minister, <strong>Girija Prasad Koirala</strong>, who was said to have a close relationship with Dhamija.</p><p>The deal sparked significant political and public outcry, leading to several investigations:</p><ul><li>The <strong>Public Accounts Committee (PAC)</strong> of the Parliament initiated a probe and summoned Prime Minister Koirala for questioning.</li><li>Following the 1994 mid-term elections, the new CPN-UML government formed a judicial commission led by <strong>Gajendramani Pradhan</strong> to investigate the matter.</li><li>The legality of the Pradhan Commission was later challenged in the Supreme Court in 1995. Concurrently, a writ petition was filed demanding an investigation by the Commission for the Investigation of Abuse of Authority (CIAA).</li></ul><p>The Dhamija scandal is frequently cited as one of the most significant corruption cases in the history of Nepal's national flag carrier, highlighting issues of political interference and lack of transparency in state-owned enterprises.</p>",
+  "unverified_info": "<p>The exact role of <strong>Sujata Koirala</strong>, daughter of the then Prime Minister Girija Prasad Koirala, remains largely unclarified in official documents. While multiple news sources allege she was connected to the scandal and that the controversy marked her entry into politics, the specific nature of her involvement in the appointment of Dinesh Dhamija is not detailed.</p><p>There is a slight discrepancy in the reported financial loss, with figures ranging from <strong>NPR 39.55 crore</strong> to <strong>NPR 40.55 crore</strong>.</p><p>Some reports suggest that Dinesh Dhamija later won a court battle against Nepal Airlines concerning the termination of the GSA contract, but specific details of this legal case, including the court, jurisdiction, and judgment date, are not readily available in the public domain.</p>",
+  "key_allegations": [
+    "Irregular and arbitrary appointment of a General Sales Agent (GSA) bypassing standard procedures.",
+    "Abuse of authority and direct intervention by the Prime Minister in a commercial decision of a state-owned enterprise.",
+    "Causing a financial loss of approximately NPR 39.55 crore to the national airline.",
+    "Cronyism and favoritism in awarding the contract due to personal relationships."
+  ],
+  "alleged_entities": [
+    "Girija Prasad Koirala",
+    "Dinesh Dhamija",
+    "Fair Company",
+    "Sujata Koirala"
+  ],
+  "related_entities": [
+    "Royal Nepal Airlines Corporation (RNAC)",
+    "Nepal Airlines",
+    "Government of Nepal",
+    "Parliament of Nepal (Public Accounts Committee)",
+    "Gajendramani Pradhan Commission",
+    "Supreme Court of Nepal",
+    "Commission for the Investigation of Abuse of Authority (CIAA)"
+  ],
+  "locations": [
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati Pradesh"
+    },
+    {
+      "other": "Europe",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Abuse of Authority",
+    "State-Owned Enterprise",
+    "Aviation",
+    "Political Corruption",
+    "Nepal Airlines",
+    "GSA",
+    "Cronyism"
+  ],
+  "case_start_date": "1993-04-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "1993-04-01",
+      "title": "GSA Appointment",
+      "description": "Dinesh Dhamija's 'Fair Company' is appointed as the sole General Sales Agent (GSA) for Royal Nepal Airlines in Europe. The appointment is allegedly made under direct intervention from Prime Minister Girija Prasad Koirala."
+    },
+    {
+      "event_date": "1994-01-01",
+      "title": "Parliamentary Investigation Begins",
+      "description": "Amidst public outcry, the Public Accounts Committee (PAC) of the Parliament summons Prime Minister Girija Prasad Koirala for questioning over irregularities in the GSA appointment."
+    },
+    {
+      "event_date": "1994-12-01",
+      "title": "Investigative Commission Formed",
+      "description": "Following mid-term elections and a change in government, the new CPN-UML-led administration forms a judicial commission headed by Gajendramani Pradhan to investigate the scandal."
+    },
+    {
+      "event_date": "1995-01-01",
+      "title": "Legal Challenges Launched",
+      "description": "The legality of the Gajendramani Pradhan Commission is challenged in the Supreme Court. A separate writ petition is also filed demanding an investigation by the CIAA."
+    }
+  ],
+  "sources": [
+    {
+      "title": "नेपाल वायुसेवा निगमका चर्चित भ्रष्टाचार काण्ड (Famous corruption scandals of Nepal Airlines Corporation)",
+      "url": "https://www.onlinekhabar.com/2018/07/690918",
+      "description": "An article by Onlinekhabar detailing major corruption scandals at Nepal Airlines, including the Dhamija case. It mentions the key figures, the alleged loss of NPR 39.55 crore, and the role of Sujata Koirala."
+    },
+    {
+      "title": "यसरी भएको थियो गिरिजाप्रसाद प्रधानमन्त्री हुँदा चर्चित धमिजा काण्ड (This is how the famous Dhamija scandal happened when Girija Prasad was Prime Minister)",
+      "url": "https://annapurnapost.com/news/108920-108920",
+      "description": "A detailed report by Annapurna Post on the Dhamija scandal, confirming the timeline, the involvement of the Public Accounts Committee, and the formation of the Gajendramani Pradhan commission."
+    },
+    {
+      "title": "नेपाल एयरलाइन्सका १२ escándalos (12 scandals of Nepal Airlines)",
+      "url": "https://www.setopati.com/kinmel/business/174983",
+      "description": "A Setopati article listing 12 major scandals related to Nepal Airlines. It covers the Dhamija scandal and mentions that Dhamija eventually won a court case against the airline."
+    },
+    {
+      "title": "A legacy of scandals",
+      "url": "https://myrepublica.nagariknetwork.com/news/a-legacy-of-scandals/",
+      "description": "An English-language article by MyRepublica that provides context on corruption at Nepal Airlines, citing the Dhamija scandal, the involvement of PM Koirala, and the estimated financial loss."
+    }
+  ]
+}

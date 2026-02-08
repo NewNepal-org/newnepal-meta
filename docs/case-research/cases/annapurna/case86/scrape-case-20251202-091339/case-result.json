@@ -1,0 +1,142 @@
+{
+  "title": "Budhigandaki Hydropower Project: Allegation of 9 Billion NPR Corruption",
+  "description": "<p>The case concerns a public allegation of corruption made on October 8, 2020, by Dr. Baburam Bhattarai, a former Prime Minister of Nepal. During a speech in Gorkha, Dr. Bhattarai accused three top political leaders of embezzling 9 billion Nepalese Rupees in commission from the 1200 MW Budhigandaki Hydropower Project.</p><p>The leaders he named were:</p><ul><li><strong>KP Sharma Oli</strong> (then Prime Minister)</li><li><strong>Pushpa Kamal Dahal 'Prachanda'</strong> (former Prime Minister)</li><li><strong>Sher Bahadur Deuba</strong> (former Prime Minister)</li></ul><p>The allegation drew significant public and media attention, particularly because the Budhigandaki project's contract had a controversial history. The contract was first awarded to the China Gezhouba Group Corporation (CGGC) by a government led by Pushpa Kamal Dahal, subsequently scrapped by a government led by Sher Bahadur Deuba, and then reinstated by a government led by KP Sharma Oli.</p><p>All three accused leaders and their respective political parties, the Nepal Communist Party (NCP) and the Nepali Congress (NC), vehemently denied the claims. They challenged Dr. Bhattarai to provide evidence to state authorities like the Commission for Investigation of Abuse of Authority (CIAA) and demanded an apology.</p><p>Following these challenges, Dr. Bhattarai did not present any evidence. Instead, he called for a high-level independent committee to investigate the project. At a later event, he clarified that his initial statement was based on <strong>'unconfirmed information'</strong> (अपुष्ट सूचना) and was meant to criticize the project being awarded to a foreign company. Despite the seriousness of the initial charge, the CIAA never launched a formal investigation into the matter.</p>",
+  "unverified_info": "<p>The central claim of this case—that <strong>9 billion NPR was taken as a commission</strong> by KP Sharma Oli, Pushpa Kamal Dahal, and Sher Bahadur Deuba—remains entirely unverified.</p><ul><li>The allegation was made publicly by Dr. Baburam Bhattarai without any supporting evidence being presented.</li><li>Dr. Bhattarai later retracted his statement, admitting it was based on <strong>'unconfirmed information'</strong>.</li><li>There has been no formal investigation by the CIAA or any other state body to substantiate or disprove the claim. The CIAA's official records show no investigation into this specific allegation.</li></ul><p>Therefore, the entire allegation of a 9 billion NPR corruption scandal is considered unsubstantiated and was effectively withdrawn by the accuser.</p>",
+  "key_allegations": [
+    "Embezzlement of 9 billion NPR in commission related to the Budhigandaki Hydropower Project."
+  ],
+  "alleged_entities": [
+    "KP Sharma Oli",
+    "Pushpa Kamal Dahal 'Prachanda'",
+    "Sher Bahadur Deuba"
+  ],
+  "related_entities": [
+    "Dr. Baburam Bhattarai",
+    "Nepal Communist Party (NCP)",
+    "Nepali Congress (NC)",
+    "China Gezhouba Group Corporation (CGGC)",
+    "Commission for Investigation of Abuse of Authority (CIAA)"
+  ],
+  "locations": [
+    {
+      "other": "Accusation made during a political program",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Gorkha",
+      "province": "Gandaki Pradesh"
+    },
+    {
+      "other": "Budhigandaki Hydropower Project Area",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Gorkha",
+      "province": "Gandaki Pradesh"
+    },
+    {
+      "other": "Budhigandaki Hydropower Project Area",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Dhading",
+      "province": "Bagmati Pradesh"
+    }
+  ],
+  "tags": [
+    "Hydropower",
+    "Corruption Allegation",
+    "Political Corruption",
+    "Unsubstantiated Claim",
+    "Budhigandaki Hydropower Project",
+    "Public Procurement"
+  ],
+  "case_start_date": "2020-10-08",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2017-05-23",
+      "title": "Project Awarded to CGGC",
+      "description": "The cabinet led by Prime Minister Pushpa Kamal Dahal decides to award the Budhigandaki project to China Gezhouba Group Corporation (CGGC) without competitive bidding."
+    },
+    {
+      "event_date": "2017-11-13",
+      "title": "Contract with CGGC Scrapped",
+      "description": "The cabinet led by Prime Minister Sher Bahadur Deuba scraps the contract with CGGC, citing irregularities and a lack of competitive bidding."
+    },
+    {
+      "event_date": "2018-09-21",
+      "title": "Contract Reinstated with CGGC",
+      "description": "The cabinet led by Prime Minister KP Sharma Oli reinstates the project, awarding it back to the China Gezhouba Group Corporation (CGGC)."
+    },
+    {
+      "event_date": "2020-10-08",
+      "title": "Public Corruption Allegation",
+      "description": "Dr. Baburam Bhattarai, speaking in Gorkha, publicly accuses KP Sharma Oli, Pushpa Kamal Dahal, and Sher Bahadur Deuba of embezzling 9 billion NPR in commission from the project."
+    },
+    {
+      "event_date": "2020-10-11",
+      "title": "Nepali Congress Denies Allegation",
+      "description": "The Nepali Congress (NC) issues a formal statement refuting the allegation against its president Sher Bahadur Deuba and challenges Dr. Bhattarai to prove it."
+    },
+    {
+      "event_date": "2020-10-14",
+      "title": "Nepal Communist Party Denies Allegation",
+      "description": "The ruling Nepal Communist Party (NCP) releases a statement calling the accusation 'baseless, false, and ill-intentioned' and challenges Dr. Bhattarai to present evidence."
+    },
+    {
+      "event_date": "2020-10-16",
+      "title": "Prime Minister Dismisses Claim",
+      "description": "Prime Minister KP Sharma Oli publicly dismisses Dr. Bhattarai's claim as an 'irresponsible comment' and 'baseless'."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Drishti Sanchar: Bhattarai Retracts Claim",
+      "url": "https://drishtisanchar.com/2022/10/29/119934/",
+      "description": "A Nepali language report quoting Dr. Baburam Bhattarai stating his 9 billion commission claim was based on unconfirmed information."
+    },
+    {
+      "title": "The Record: Examination of Embezzlement Allegations",
+      "url": "https://www.recordnepal.com/bhattarai-s-recent-embezzlement-allegations-against-top-rung-leaders-need-to-be-examined",
+      "description": "A detailed article covering Dr. Bhattarai's allegations, the political history of the Budhigandaki project, and the subsequent reactions from political parties."
+    },
+    {
+      "title": "MyRepublica: Who pocketed nine billion rupees commission?",
+      "url": "https://myrepublica.nagariknetwork.com/news/who-pocketed-nine-billion-rupees-commission-in-budhi-gandaki-project/",
+      "description": "News report from October 2020 detailing Dr. Bhattarai's public accusation against top leaders regarding the alleged 9 billion NPR commission."
+    },
+    {
+      "title": "Nepal Live Today: The fate of Budhi Gandaki Hydro Project",
+      "url": "https://www.nepallivetoday.com/2022/04/08/communists-propose-congress-disposes-what-you-need-to-know-about-the-fate-of-budhi-gandaki-hydro-project/",
+      "description": "An article discussing the political controversy and timeline of decisions regarding the Budhigandaki project, referencing Dr. Bhattarai's allegations."
+    },
+    {
+      "title": "Setopati: PM Oli dismisses Bhattarai's allegations as irresponsible comment",
+      "url": "https://en.setopati.com/political/155998",
+      "description": "Report on Prime Minister KP Oli's official response to the allegations, in which he called them 'irresponsible'."
+    },
+    {
+      "title": "Kathmandu Pati: Silence of CIAA on 9 Arab Corruption",
+      "url": "https://kathmandupati.com/71239/",
+      "description": "A Nepali language report covering the accusations, the challenges from political parties, and noting the silence of the CIAA on the matter."
+    },
+    {
+      "title": "Halesi News: Parties Challenge Bhattarai",
+      "url": "https://halesinews.com/2020/10/15/121855/",
+      "description": "Nepali language report on the challenges issued to Dr. Bhattarai by NCP and NC, and his subsequent call for a high-level investigation committee."
+    },
+    {
+      "title": "Onlinepana: Bhattarai's Speech in Gorkha",
+      "url": "https://onlinepana.com/2020/10/58369/",
+      "description": "A Nepali language news report from October 2020 detailing the speech in Gorkha where Dr. Bhattarai made the 9 billion corruption claim."
+    },
+    {
+      "title": "Nepal Newschecker: Fact-check on Viral Video",
+      "url": "https://nepal.newschecker.co/fact-checks/fact-check-viral-video-of-baburam-bhattarai-alleging-top-leaders-of-embezzling-billions-in-budhi-gandaki-project-is-edited/",
+      "description": "A fact-check article confirming Dr. Bhattarai made the statement in Gorkha, clarifying it was not made in parliament as some social media posts claimed."
+    },
+    {
+      "title": "CIAA Official Website",
+      "url": "https://ciaa.gov.np/",
+      "description": "The official website of the Commission for the Investigation of Abuse of Authority (CIAA). A search of public records shows no formal investigation was launched into this specific allegation."
+    }
+  ]
+}

@@ -1,155 +1,120 @@
-# Project Structure
+# Meta-Repo Structure Guide
 
-## Repository Layout
+## Repository Overview
+Jawafdehi meta-repository containing multiple independent services for Nepal's transparency platform.
+
+## Directory Structure
 
 ```
 /
-├── gcp-infra/              # Infrastructure as Code
-│   ├── terraform/          # Terraform configuration
-│   └── misc/               # Build configs and scripts
+├── AGENTS.md               # Cross-tool entry point (meta-repo)
+├── .kiro/                  # Kiro configuration (meta-repo level)
+│   ├── specs/              # Feature specifications (shared)
+│   └── steering/           # AI steering rules (shared)
 │
-└── services/               # All application services
-    ├── NepalEntityService/     # Core entity management service
-    ├── NepalEntityService-assets/  # Static assets (Jekyll site)
-    ├── NepalEntityService-tundikhel/  # Documentation UI
-    ├── JawafdehiAPI/       # Django accountability API
-    └── Jawafdehi/          # React public frontend
+├── services/               # All application services
+│   ├── jawafdehi-api/      # Django accountability API
+│   │   └── AGENTS.md       # Service-specific entry point
+│   ├── jawafdehi-frontend/ # React public frontend
+│   │   └── AGENTS.md       # Service-specific entry point
+│   ├── nes/                # Nepal entity database
+│   ├── nes-tundikhel/      # NES explorer UI
+│   ├── nes-assets/         # NES static assets
+│   └── infra/              # Infrastructure as Code (git submodule)
+│       ├── terraform/      # Terraform configuration
+│       └── misc/           # Build configs and scripts
+│
+├── docs/                   # Project documentation
+├── case-research/          # Case research materials
+├── laboratory/             # Experimental code and toolkits
+├── tools/                  # Shared development tools
+└── agent-kit/              # Multi-agent documentation toolkit
 ```
 
-## Nepal Entity Service Structure
+## Service Responsibilities
 
-```
-services/NepalEntityService/
-├── nes/                    # Main package
-│   ├── api/               # FastAPI server
-│   ├── cli/               # Click CLI commands
-│   ├── core/              # Core business logic
-│   ├── database/          # Database implementations
-│   ├── models/            # Pydantic models
-│   ├── services/          # Service layer
-│   └── config.py          # Configuration
-├── tests/                 # Test suite
-│   ├── api/              # API tests
-│   ├── cli/              # CLI tests
-│   ├── core/             # Core logic tests
-│   ├── database/         # Database tests
-│   ├── services/         # Service tests
-│   ├── fixtures/         # Test fixtures
-│   └── conftest.py       # Pytest configuration
-├── docs/                  # Documentation
-│   ├── contributors/     # Contributor guides
-│   ├── consumers/        # API consumer guides
-│   └── templates/        # Doc templates
-├── migrations/            # Database migrations
-├── examples/              # Usage examples
-├── nes-db/               # Database storage
-│   └── v2/               # Version 2 schema
-└── pyproject.toml        # Poetry configuration
-```
+### JawafdehiAPI (Django Backend)
+- Corruption case management
+- User authentication and permissions
+- RESTful API for frontend consumption
+- Integration with Nepal Entity Service
 
-## Jawafdehi API Structure
+### Jawafdehi (React Frontend)
+- Public-facing website
+- Case browsing and search
+- User interface for transparency data
+- Responsive design with accessibility
 
-```
-services/JawafdehiAPI/
-├── config/                # Django project settings
-│   ├── settings.py       # Main settings
-│   ├── urls.py           # URL routing
-│   └── wsgi.py           # WSGI application
-├── cases/                 # Main Django app
-│   ├── models.py         # Data models
-│   ├── serializers.py    # DRF serializers
-│   ├── api_views.py      # API views
-│   ├── admin.py          # Admin interface
-│   ├── rules/            # Permission rules
-│   ├── migrations/       # Database migrations
-│   ├── static/           # Static files
-│   └── templates/        # HTML templates
-├── tests/                 # Test suite
-│   ├── api/              # API tests
-│   ├── e2e/              # End-to-end tests
-│   ├── conftest.py       # Pytest configuration
-│   └── strategies.py     # Hypothesis strategies
-├── docs/                  # Documentation
-├── static/                # Project-wide static files
-├── staticfiles/           # Collected static files
-├── tmp/                   # Temporary scripts
-└── pyproject.toml        # Poetry configuration
-```
+### NepalEntityService (Entity Database)
+- Government entity data management
+- Entity search and validation
+- API for entity information
+- Data scraping and updates
+- The actual database is in the `nes-db/v2` folder in the service directory. It is quite large and we should be careful about the read operations we make. Write operations through CLI operations are forbidden.
 
-## Frontend Structure (Jawafdehi & Tundikhel)
+### Infrastructure (services/infra - git submodule)
+- Terraform configuration for GCP
+- Container deployment setup
+- Database provisioning
+- CI/CD pipeline configuration
 
-```
-services/Jawafdehi/  (or NepalEntityService-tundikhel/)
-├── src/
-│   ├── components/       # React components
-│   │   └── ui/          # Reusable UI components (shadcn)
-│   ├── pages/           # Page components
-│   ├── hooks/           # Custom React hooks
-│   ├── services/        # API services
-│   ├── api/             # API client code
-│   ├── types/           # TypeScript types
-│   ├── utils/           # Utility functions
-│   ├── i18n/            # Internationalization
-│   │   ├── config.ts    # i18n configuration
-│   │   └── locales/     # Translation files
-│   ├── App.tsx          # Main app component
-│   └── main.tsx         # Entry point
-├── public/              # Static assets
-├── tests/               # Test files
-├── docs/                # Documentation
-├── package.json         # npm configuration
-├── tsconfig.json        # TypeScript config
-├── vite.config.ts       # Vite config
-└── tailwind.config.ts   # Tailwind config
+## Development Workflow
+
+### Service-Specific Work
+1. Navigate to service directory: `cd services/<service-name>`
+2. Read service AGENTS.md for specific guidance
+3. Use service package manager (Poetry/Bun)
+4. Follow service testing patterns
+
+### Cross-Service Work
+1. Plan changes at meta-repo level
+2. Consider impact on all affected services
+3. Update multiple services consistently
+4. Test service interactions
+
+### Infrastructure Work
+1. Navigate to services/infra directory (git submodule)
+2. Use Terraform for infrastructure changes
+3. Test in staging environment first
+4. Coordinate with service deployments
+
+## Key Integration Points
+
+### API Dependencies
+- jawafdehi-frontend → jawafdehi-api (case data)
+- jawafdehi-api → nes (entity data)
+- nes-tundikhel → nes (entity explorer)
+
+### Shared Resources
+- PostgreSQL databases (via Cloud SQL)
+- File storage (via Cloud Storage)
+- Authentication system (across services)
+- Monitoring and logging (centralized)
+
+## Navigation Patterns
+
+### For Feature Development
+```bash
+# Check specs first
+ls .kiro/specs/
+
+# Navigate to target service
+cd services/jawafdehi-api
+# or
+cd services/jawafdehi-frontend
 ```
 
-## Infrastructure Structure
-
-```
-gcp-infra/
-├── terraform/
-│   ├── main.tf          # Main infrastructure
-│   ├── variables.tf     # Variable definitions
-│   ├── outputs.tf       # Output values
-│   ├── versions.tf      # Provider versions
-│   ├── terraform.tfvars # Variable values (gitignored)
-│   └── terraform.tfvars.example  # Example values
-└── misc/
-    ├── nes-config.yaml  # NES Cloud Build config
-    ├── jds-config.yaml  # JDS Cloud Build config
-    └── manage-triggers.sh  # Trigger management script
+### For Infrastructure Changes
+```bash
+cd services/infra
+terraform plan
 ```
 
-## Key Conventions
+### For Documentation Updates
+```bash
+# Project-wide docs
+edit docs/
 
-### Python Services
-- **Package Structure**: Flat module structure under main package name
-- **Tests**: Mirror source structure in `tests/` directory
-- **Config**: Environment-based configuration with `.env` files
-- **Database**: File-based storage for NES, PostgreSQL for JDS
-- **Migrations**: Versioned migration system
-
-### Frontend Services
-- **Components**: Organized by feature/page, with shared UI components
-- **Routing**: File-based routing with react-router-dom
-- **State**: React Query for server state, React hooks for local state
-- **Styling**: Tailwind utility classes, shadcn components
-- **i18n**: Separate locale files for English and Nepali
-
-### Testing
-- **Python**: pytest with fixtures in `conftest.py`
-- **Property Testing**: hypothesis for Python, vitest for TypeScript
-- **Test Data**: Authentic Nepali names and entities in fixtures
-- **Coverage**: Unit, integration, and E2E tests
-
-### Documentation
-- **Location**: `docs/` directory in each service
-- **Format**: Markdown
-- **Categories**: Contributors, consumers, templates
-- **Examples**: Separate `examples/` directory with runnable code
-
-### Deployment
-- **Containerization**: Dockerfile in each service root
-- **Environment**: `.env` files (gitignored), `.env.example` committed
-- **Static Files**: Collected to `staticfiles/` or `dist/`
-- **Port Conventions**: 8195 (NES), 8080 (JDS), 5173 (Vite dev)
+# Service-specific docs
+cd services/<service-name>/docs/
+```

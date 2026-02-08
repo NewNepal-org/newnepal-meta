@@ -1,0 +1,100 @@
+{
+  "title": "Dr. Dhaka Kumar Shrestha Bribery Allegation Audio Scandal",
+  "description": "<p>The case involves allegations that Dr. Dhaka Kumar Shrestha, a then-lawmaker from the Rastriya Swatantra Party (RSP), solicited a bribe of <strong>NPR 2 crore (20 million)</strong> from medical entrepreneur Durga Prasai. The allegation is based on a leaked audio recording of a telephone conversation that was made public on April 9, 2023.</p><p>In the recording, a voice identified as Dr. Shrestha's is heard asking for the funds to secure the position of Minister for Health and Population. The speaker in the audio claims the money is needed to pay 'the core group members of the party' and that party chairman Rabi Lamichhane would appoint him as minister if the funds were arranged.</p><p>Following the leak, the RSP initiated disciplinary proceedings. On April 12, 2023, the party's Central Committee expelled Dr. Shrestha from the party and moved to strip him of his lawmaker post. The Speaker of the House of Representatives later announced his seat as vacant. Dr. Shrestha admitted the voice in the audio was his but claimed the recording, which he said was from January 2023, was edited and part of a conspiracy. He subsequently challenged his expulsion in the Supreme Court, which issued a short-term interim order pausing his removal.</p>",
+  "unverified_info": "<p>The following information is based on initial reports, but the final outcomes are not available in the public domain based on the research conducted:</p><ul><li><strong>Final Verdict of the Supreme Court:</strong> While the Supreme Court issued a short-term interim order on May 8, 2023, pausing Dr. Shrestha's removal, the final verdict on his petition to be reinstated as a lawmaker is not publicly known. It is unclear if his expulsion was ultimately upheld or overturned by the court.</li><li><strong>Outcome of CIAA Investigation:</strong> It was reported on April 11, 2023, that the Commission for the Investigation of Abuse of Authority (CIAA) had initiated an investigation into the bribery allegations. However, there are no subsequent public reports on whether the CIAA filed a formal corruption case, dropped the investigation, or reached any conclusion.</li><li><strong>Separate Legal Issues:</strong> Some news reports indicated that Dr. Shrestha was arrested and later released on bail in a separate case related to the alleged illegal sale of psychotropic drugs from his pharmacy. This appears to be a separate legal matter from the bribery allegation.</li></ul>",
+  "key_allegations": [
+    "Solicited a bribe of NPR 2 crore from a businessman.",
+    "Sought the bribe to secure the position of Minister for Health and Population.",
+    "Claimed the money was for 'core group members' of the Rastriya Swatantra Party (RSP) to influence the party leadership."
+  ],
+  "alleged_entities": [
+    "Dr. Dhaka Kumar Shrestha"
+  ],
+  "related_entities": [
+    "Rastriya Swatantra Party (RSP)",
+    "Durga Prasai",
+    "Rabi Lamichhane",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Supreme Court of Nepal",
+    "House of Representatives, Nepal",
+    "B&C Medical College and Teaching Hospital"
+  ],
+  "locations": [
+    {
+      "other": "The case involves political actions and legal proceedings that largely took place in the capital.",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati Province"
+    }
+  ],
+  "tags": [
+    "Bribery",
+    "Political Corruption",
+    "Abuse of Authority",
+    "Leaked Audio",
+    "Lawmaker",
+    "Rastriya Swatantra Party"
+  ],
+  "case_start_date": "2023-01-15",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2023-01-15",
+      "title": "Alleged Bribe Solicitation Phone Call",
+      "description": "The alleged phone conversation between Dr. Dhaka Kumar Shrestha and Durga Prasai, where the bribe was reportedly solicited, takes place. This date was later confirmed by Dr. Shrestha."
+    },
+    {
+      "event_date": "2023-04-09",
+      "title": "Audio Recording Leaked",
+      "description": "An audio recording of the conversation is leaked to the public. The Rastriya Swatantra Party (RSP) suspends Dr. Shrestha from the party and his duties as a lawmaker pending an investigation by its discipline committee."
+    },
+    {
+      "event_date": "2023-04-11",
+      "title": "CIAA Begins Investigation",
+      "description": "The Commission for the Investigation of Abuse of Authority (CIAA) reportedly starts an investigation into the audio scandal after a formal complaint was lodged."
+    },
+    {
+      "event_date": "2023-04-12",
+      "title": "RSP Expels Dr. Shrestha",
+      "description": "The RSP's Central Committee, acting on the recommendation of its disciplinary committee, expels Dr. Shrestha from the party's general membership and initiates the process to remove him as a Member of Parliament. The party nominates Bindabasini Kansakar as his replacement."
+    },
+    {
+      "event_date": "2023-04-25",
+      "title": "Parliamentary Seat Declared Vacant",
+      "description": "The Speaker of the House of Representatives, Devraj Ghimire, formally announces in a parliament meeting that Dr. Dhaka Kumar Shrestha's seat has become vacant following his party's action."
+    },
+    {
+      "event_date": "2023-05-08",
+      "title": "Supreme Court Issues Interim Order",
+      "description": "A single bench of Supreme Court Justice Til Prasad Shrestha issues a short-term interim order halting the implementation of the RSP's decision to expel Dr. Shrestha. The order temporarily prevented his removal pending further hearings."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Kathmandu Post: RSP expels Shrestha from party, nominates Kansakar to replace him as lawmaker",
+      "url": "https://kathmandupost.com/politics/2023/04/12/rsp-expels-shrestha-from-party-nominates-kansakar-to-replace-him-as-lawmaker",
+      "description": "News report detailing the Rastriya Swatantra Party's decision on April 12, 2023, to expel Dr. Dhaka Kumar Shrestha from the party and from his position as a lawmaker following the leaked audio scandal."
+    },
+    {
+      "title": "Nepal Live Today: Rastriya Swatantra Party expels its lawmaker Dhaka Kumar Shrestha",
+      "url": "https://www.nepallivetoday.com/2023/04/12/rastriya-swatantra-party-expels-its-lawmaker-dhaka-kumar-shrestha/",
+      "description": "Report on the RSP's expulsion of Dr. Shrestha, providing context on the disciplinary committee's findings and the party's official stance."
+    },
+    {
+      "title": "OnlineKhabar: Dhaka Kumar Shrestha audio scandal: Supreme Court tells party not to remove him now",
+      "url": "https://english.onlinekhabar.com/dhaka-kumar-shrestha-audio-scandal.html",
+      "description": "Article reporting on the Supreme Court's short-term interim order issued on May 8, 2023, which temporarily halted the RSP's decision to remove Dr. Shrestha as a lawmaker."
+    },
+    {
+      "title": "NewsNepa: ढाकाकुमार श्रेष्ठको सांसद पद खारेज (Dhaka Kumar Shrestha's MP post is canceled)",
+      "url": "https://newsnepa.com/archives/142999",
+      "description": "News report in Nepali confirming that the Speaker of the House of Representatives announced on April 25, 2023, that Dr. Shrestha's parliamentary seat had been declared vacant."
+    },
+    {
+      "title": "The Himalayan Times: CIAA begins probe into RSP lawmaker Dhaka Kumar Shrestha's audio scandal",
+      "url": "https://thehimalayantimes.com/nepal/ciaa-begins-probe-into-rsp-lawmaker-dhaka-kumar-shresthas-audio-scandal",
+      "description": "News report from April 11, 2023, confirming that the CIAA had started an investigation into the bribery allegations against Dr. Dhaka Kumar Shrestha."
+    }
+  ]
+}

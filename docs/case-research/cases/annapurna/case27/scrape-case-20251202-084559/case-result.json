@@ -1,0 +1,179 @@
+{
+  "title": "Nepal Meter Interest (Usury) Scandal and Legislative Response",
+  "description": "<p>This case details the systemic issue of predatory lending, known as <strong>\"meter interest\" (मिटरब्याज)</strong>, in Nepal, where loan sharks charge exorbitant interest rates to vulnerable individuals. The practice has led to thousands of victims losing their property, primarily land, and being trapped in a cycle of debt. The perpetrators are accused of using fraudulent methods to secure loans and seize assets, often with impunity.</p><p>Key methods employed by lenders include:</p><ul><li>Inflating the principal loan amount on official documents (<em>tamdeedsuk</em>).</li><li>Forcing borrowers to sign blank papers or checks.</li><li>Refusing to provide receipts for repayments.</li><li>Using threats and coercion to intimidate debtors.</li><li>Illegally seizing property used as collateral, even after the loan has been repaid multiple times over.</li></ul><p>The victims, many of whom are illiterate and from marginalized communities, organized large-scale protests, including long marches from various districts to the capital, Kathmandu. They staged prolonged sit-in demonstrations, claiming that the legal system was being manipulated by lenders and that the government had failed to protect them. Their core grievance was that the burden of proof lay on the victim, who had often been tricked into signing fraudulent but legally-binding documents.</p><p>In response to sustained pressure from the victims' protests, the Government of Nepal took several significant steps:</p><ol><li><strong>Formation of Inquiry Commissions:</strong> A task force was formed in 2022, followed by a high-level Inquiry Commission headed by retired judge Gauri Bahadur Karki, which received nearly 24,000 complaints.</li><li><strong>Agreements with Victims:</strong> The government entered into multiple agreements with victim representatives, promising legal reforms and justice mechanisms.</li><li><strong>Criminalization of Usury:</strong> The practice of \"meter interest\" was declared a crime. A bill was passed by Parliament and authenticated by the President on <strong>July 28, 2023</strong>, amending the Muluki Civil Code. The new law imposes a penalty of up to seven years in prison and a fine of up to Rs 70,000 for usurious lending.</li></ol><p>Despite these measures, victims have continued to protest, alleging that the implementation of the law and the agreements has been slow and ineffective, and that many perpetrators have not been brought to justice.</p>",
+  "unverified_info": "<p>While the scale of the problem is known to be massive, precise aggregate financial data is not available.</p><ul><li>The total financial loss incurred by all victims across the country has not been officially quantified. The Karki-led commission received almost <strong>24,000 complaints</strong>, indicating a widespread crisis.</li><li>Specific details on the full extent of property and funds recovered versus the total amount illegally seized by lenders are not compiled in a single report. There are anecdotal reports of success, such as the return of 8 bigha (5.42 hectares) of land in some cases, but this is not comprehensive data.</li><li>Allegations of sexual exploitation and forced labor by lenders have been made but are not detailed in the provided reports.</li></ul>",
+  "key_allegations": [
+    "Charging exorbitant and illegal interest rates (usury).",
+    "Creating fraudulent loan documents by inflating principal amounts or using blank papers.",
+    "Illegal seizure of land and property used as collateral.",
+    "Using threats, violence, and coercion against debtors.",
+    "Manipulating the legal system by filing fraudulent cases (e.g., check bouncing) against victims.",
+    "Failure to provide receipts for loan repayments.",
+    "Forcing debtors into unpaid labor or sexual exploitation."
+  ],
+  "alleged_entities": [
+    "Ramlochan Gupta",
+    "Ram Kumar Mahato (also known as Ram Babu)"
+  ],
+  "related_entities": [
+    "Government of Nepal",
+    "Ministry of Home Affairs, Nepal",
+    "Meterbadge Crime Control Recommendation Task Force",
+    "Loan Shark Probe Commission (Karki Commission)",
+    "Meter Interest Victims Struggle Committee",
+    "Manojkumar Paswan (Victim Coordinator)",
+    "Abadesh Prasad Kishawaha (Victim Chairman)",
+    "Narayan Kaji Shrestha (Deputy Prime Minister and Home Minister)",
+    "Rabi Lamichhane (Home Minister)",
+    "Dhanraj Gurung (Minister for Law, Justice and Parliamentary Affairs)",
+    "Gauri Bahadur Karki (Retired Judge, Head of Inquiry Commission)",
+    "Rudra Prasad Pandit (Joint Secretary, Government Talks Team)",
+    "Pradip Kumar Koirala (Joint Secretary, Government Talks Team)"
+  ],
+  "locations": [
+    {
+      "other": "Nationwide issue with victims from numerous districts.",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    },
+    {
+      "other": "Site of major protests and negotiations.",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "District of origin for several alleged perpetrators and victims.",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Siraha",
+      "province": "Madhesh"
+    },
+    {
+      "other": "District of origin for protesting victims.",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Mahottari",
+      "province": "Madhesh"
+    },
+    {
+      "other": "District of origin for protesting victims.",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Jhapa",
+      "province": "Koshi"
+    },
+    {
+      "other": "District of origin for protesting victims.",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Kanchanpur",
+      "province": "Sudurpashchim"
+    }
+  ],
+  "tags": [
+    "Predatory Lending",
+    "Usury",
+    "Fraud",
+    "Land Grabbing",
+    "Human Rights Violation",
+    "Protest",
+    "Legal Reform",
+    "Economic Crime",
+    "Government Inaction"
+  ],
+  "case_start_date": "2022-09-12",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2022-09-12",
+      "title": "Task Force Submits Report",
+      "description": "The government-formed 'Meterbadge Crime Control Recommendation Task Force' submits its report, providing recommendations to tackle usury."
+    },
+    {
+      "event_date": "2023-03-30",
+      "title": "Cabinet Declares Usury a Crime",
+      "description": "Following protests from victims in Kathmandu, the Cabinet decides to formally declare 'meter byaj' (usury) a criminal offense."
+    },
+    {
+      "event_date": "2023-04-01",
+      "title": "Government and Victims Sign 5-Point Agreement",
+      "description": "A government negotiation team and the victims' struggle committee sign a five-point agreement, where the government commits to forming an Inquiry Commission and victims agree to withdraw their protest."
+    },
+    {
+      "event_date": "2023-05-05",
+      "title": "Ordinance Issued to Criminalize Usury",
+      "description": "The government issues an ordinance to amend the Muluki Civil Code, criminalizing usurious lending and setting a penalty of up to seven years in jail and a Rs 70,000 fine."
+    },
+    {
+      "event_date": "2023-07-17",
+      "title": "Parliament Passes Anti-Usury Bill",
+      "description": "The House of Representatives unanimously endorses the 'Bill to amend some Nepal Acts related to the Civil Code' aimed at taking action against loan sharks."
+    },
+    {
+      "event_date": "2023-07-28",
+      "title": "Anti-Usury Bill Becomes Law",
+      "description": "President Ram Chandra Paudel authenticates the bill, officially enacting it into law and criminalizing usury."
+    },
+    {
+      "event_date": "2024-03-12",
+      "title": "New 4-Point Agreement Reached",
+      "description": "The government and usury victims reach another four-point agreement, which includes forming a new three-member inquiry commission to continue the work of the previous one. Victims agree to end their ongoing protests."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Home Affairs Report: Meter Interest, An Economic Crime",
+      "url": "https://www.moha.gov.np/uploads/notice/1663041914_%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A4%B0%E0%A4%AC%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9C%20%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A5%80%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%A8.pdf",
+      "description": "Official report from the 'Meterbadge Crime Control Recommendation Task Force' submitted to the Ministry of Home Affairs on 2022-09-12, outlining the problem and recommendations."
+    },
+    {
+      "title": "Bill criminalising usurious lending passes lower house",
+      "url": "https://kathmandupost.com/national/2023/07/17/bill-criminalising-usurious-lending-passes-lower-house",
+      "description": "News report from The Kathmandu Post about the House of Representatives passing the bill to criminalize usury on July 17, 2023."
+    },
+    {
+      "title": "President authenticates Bill on controlling usury",
+      "url": "https://enewspolar.com/president-authenticates-bill-on-controlling-usury/",
+      "description": "Report on President Ram Chandra Paudel officially authenticating the anti-usury bill into law on July 28, 2023."
+    },
+    {
+      "title": "Government Enters Into Five Point Agreements with Struggle Committee against Meter Interest",
+      "url": "https://insec.org.np/en/2023/04/02/government-enters-into-five-point-agreements-with-struggle-committee-against-meter-interest-nepal/",
+      "description": "INSEC report detailing the 5-point agreement signed between the government and meter interest victims on April 1, 2023."
+    },
+    {
+      "title": "Govt issues usury ordinance",
+      "url": "https://thehimalayantimes.com/nepal/govt-issues-usury-ordinance",
+      "description": "The Himalayan Times article reporting on the government issuing an ordinance on May 5, 2023, to criminalize usury."
+    },
+    {
+      "title": "Government, loan shark victims reach agreement",
+      "url": "https://kathmandupost.com/national/2024/03/12/government-loan-shark-victims-reach-agreement",
+      "description": "News report on the four-point agreement reached between the government and victims on March 12, 2024, leading to the end of protests."
+    },
+    {
+      "title": "Research On Criminalization Of Usury In Nepal",
+      "url": "https://lawgratis.com/research-on-criminalization-of-usury-in-nepal/",
+      "description": "An article providing legal analysis and background on the criminalization of usury in Nepal, including the new legal provisions."
+    },
+    {
+      "title": "Meter interest victims in Nepal call the government to address their situation immediately",
+      "url": "https://www.sbs.com.au/language/nepali/en/podcast-episode/meter-interest-victims-in-nepal-call-the-government-to-address-their-situation-immediately-nepal-update/26pkp219k",
+      "description": "A report from March 2023 on the victims' protests in Kathmandu and their demands for government action."
+    },
+    {
+      "title": "मिटरब्याज पीडित र सरकारबीच ५ बुँदे सहमति (5-point agreement between meter interest victims and the government)",
+      "url": "https://nagariknews.nagariknetwork.com/politics/844781-1680356133.html",
+      "description": "Nagarik News report in Nepali confirming the 5-point agreement between the government and victims on April 1, 2023."
+    },
+    {
+      "title": "मिटर ब्याज पीडितसँग सरकारले गर्‍यो चारबुँदे सहमति, जाँचबुझ आयोग गठन गरिने (Government makes four-point agreement with meter interest victims, an inquiry commission to be formed)",
+      "url": "https://www.setopati.com/politics/327790",
+      "description": "Setopati report in Nepali on the 4-point agreement from March 2024, including the plan to form a new inquiry commission."
+    }
+  ]
+}

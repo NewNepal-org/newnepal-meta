@@ -1,0 +1,127 @@
+{
+  "title": "Nepal Airlines Wide-Body Aircraft Purchase Corruption",
+  "description": "<p>The case involves significant corruption and procedural irregularities in the 2017 procurement of two Airbus A330-200 wide-body aircraft by Nepal's national flag carrier, Nepal Airlines Corporation (NAC). The deal was valued at approximately <strong>$209.6 million</strong>, marking it as the largest procurement in Nepal's aviation history.</p><p>Key investigations, notably by a parliamentary Public Accounts Committee (PAC) in 2018, revealed that NAC breached the Public Procurement Act. Instead of purchasing new aircraft directly from the manufacturer, Airbus, NAC procured used aircraft (with 1,000 flight hours) through a complex chain of intermediaries. This involved a US-based company, <strong>AAR Corp</strong>, which led a consortium that created a special purpose vehicle (SPV) in Ireland named HiFly X Ireland Ltd to handle the transaction, a move that critics argued was designed to obscure transparency and inflate costs.</p><p>A central allegation was that NAC officials altered aircraft specifications post-bidding. The initial Request for Proposal (RFP) was for aircraft with a Maximum Takeoff Weight (MTOW) of 242 tonnes. However, NAC accepted planes with a lower MTOW of 230 tonnes without a corresponding price reduction. The PAC's report concluded this discrepancy alone led to massive financial losses, estimating the total irregularity at <strong>Rs 4.35 billion</strong>.</p><p>Following the PAC's recommendation, the Commission for the Investigation of Abuse of Authority (CIAA) launched its own investigation. On April 4, 2024, the CIAA filed a formal corruption case at the Special Court against 32 individuals and two firms, claiming a lower but still substantial corruption amount of <strong>Rs 1.47 billion</strong> (approx. $13.39 million). The accused included former ministers, high-ranking bureaucrats, NAC officials, and foreign suppliers.</p><p>On December 5, 2024, the Special Court delivered its verdict, convicting key figures including former NAC Managing Director Sugat Ratna Kansakar, former Tourism Secretary Shankar Prasad Adhikari, and several foreign nationals representing the supplier companies. The court upheld the CIAA's claimed loss of Rs 1.47 billion and acquitted 21 individuals, including former Tourism Minister Jeevan Bahadur Shahi.</p>",
+  "unverified_info": "<ul><li>There were allegations of political bias in the Public Accounts Committee's investigation. Some lawmakers from the then-ruling party reportedly objected to the report's recommendations against the sitting aviation minister, Rabindra Adhikari (now deceased), while arguing it was lenient on previous ministers.</li><li>The Special Court, in its verdict, reportedly made a judicial note questioning why Prem Kumar Rai was not charge-sheeted by the CIAA. Rai was implicated in the PAC report as a secretary involved in the decision-making process and later became the Chief Commissioner of the CIAA itself.</li></ul>",
+  "key_allegations": [
+    "Breach of the Public Procurement Act by not following open tender procedures.",
+    "Procurement of older aircraft through intermediaries instead of new aircraft directly from the manufacturer.",
+    "Changing aircraft weight specifications (MTOW from 242 to 230 tonnes) after bidding without a corresponding price reduction.",
+    "Collusion between Nepal Airlines officials and suppliers to embezzle public funds.",
+    "Payment of commitment fees to suppliers without securing a proper bank guarantee.",
+    "Bribery of Nepali officials by suppliers to secure the procurement contract."
+  ],
+  "alleged_entities": [
+    "Sugat Ratna Kansakar",
+    "Jeevan Bahadur Shahi",
+    "Shankar Prasad Adhikari",
+    "Shishir Kumar Dhungana",
+    "Buddhi Sagar Lamichhane",
+    "Nepal Airlines Corporation (NAC)",
+    "AAR International Inc.",
+    "Deepak Sharma"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Public Accounts Committee (PAC), Parliament of Nepal",
+    "Special Court, Nepal",
+    "Citizen Investment Trust",
+    "Employee Provident Fund",
+    "Ministry of Culture, Tourism and Civil Aviation"
+  ],
+  "locations": [
+    {
+      "other": "Headquarters of Nepal Airlines Corporation and related government ministries",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Procurement",
+    "Aviation",
+    "State-Owned Enterprise",
+    "Public Funds",
+    "CIAA",
+    "Special Court",
+    "Conviction",
+    "Cross-border Corruption"
+  ],
+  "case_start_date": "2016-09-26",
+  "case_end_date": "2024-12-05",
+  "timeline": [
+    {
+      "event_date": "2016-09-26",
+      "title": "RFP Published",
+      "description": "Nepal Airlines Corporation (NAC) publishes a Request for Proposal (RFP) for the procurement of two new Airbus A330-200 wide-body aircraft."
+    },
+    {
+      "event_date": "2017-01-16",
+      "title": "MoU Signed with Supplier",
+      "description": "NAC signs a Memorandum of Understanding (MoU) with the AAR Corp-led consortium for the aircraft supply."
+    },
+    {
+      "event_date": "2017-02-09",
+      "title": "Commitment Fee Sent",
+      "description": "A commitment fee of $1 million is sent to the supplier, allegedly without a proper bank guarantee."
+    },
+    {
+      "event_date": "2017-06-28",
+      "title": "First Aircraft Arrives",
+      "description": "The first wide-body aircraft, named 'Annapurna', arrives at Tribhuvan International Airport in Kathmandu."
+    },
+    {
+      "event_date": "2017-07-26",
+      "title": "Second Aircraft Arrives",
+      "description": "The second wide-body aircraft, named 'Makalu', arrives in Kathmandu."
+    },
+    {
+      "event_date": "2019-01-02",
+      "title": "PAC Sub-Committee Submits Report",
+      "description": "A sub-committee of the parliamentary Public Accounts Committee (PAC) submits its report, concluding that Rs 4.35 billion was embezzled in the procurement deal."
+    },
+    {
+      "event_date": "2019-01-07",
+      "title": "PAC Endorses Report",
+      "description": "The full PAC endorses the sub-committee's report and recommends the CIAA investigate and suspend implicated officials."
+    },
+    {
+      "event_date": "2024-04-04",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA files a formal corruption case at the Special Court against 32 individuals and 2 firms, claiming a loss of Rs 1.47 billion."
+    },
+    {
+      "event_date": "2024-07-11",
+      "title": "Supplier Executive Pleads Guilty in US Court",
+      "description": "Deepak Sharma, a British national and executive at an AAR Corp subsidiary, pleads guilty in a US court to conspiring to pay bribes to Nepali officials to secure the contract."
+    },
+    {
+      "event_date": "2024-12-05",
+      "title": "Special Court Issues Verdict",
+      "description": "The Special Court convicts four senior Nepali officials, including Sugat Ratna Kansakar, and seven foreign individuals. It acquits 21 others, including former minister Jeevan Bahadur Shahi."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CIAA files graft case against 32 over wide-body scam",
+      "url": "https://kathmandupost.com/national/2024/04/04/ciaa-files-graft-case-against-32-over-wide-body-scam",
+      "description": "News report from The Kathmandu Post detailing the CIAA's filing of a corruption case at the Special Court against 32 individuals and two firms, with a claimed corruption amount of Rs 1.47 billion."
+    },
+    {
+      "title": "Former NAC Chairman Adhikari, MD Kansakar among four convicted in wide-body aircraft procurement corruption",
+      "url": "https://myrepublica.nagariknetwork.com/news/former-nac-chairman-adhikari-md-kansakar-among-four-convicted-in-wide-body-aircraft-procurement-corruption/",
+      "description": "Report from My Republica on the Special Court's verdict, which convicted four Nepali officials and seven foreigners. It confirms the corruption amount and lists the names of those convicted and acquitted."
+    },
+    {
+      "title": "Wide-body scam: PAC directs govt to suspend 3 ministers",
+      "url": "https://english.khabarhub.com/2019/02/1070/",
+      "description": "News article covering the Public Accounts Committee (PAC) report, which concluded that irregularities worth Rs 4.35 billion had occurred and recommended action against top officials."
+    },
+    {
+      "title": "British national pleads guilty in US court to bribing Nepali officials in wide-body deal",
+      "url": "https://kathmandupost.com/national/2024/07/11/british-national-pleads-guilty-in-us-court-to-bribing-nepali-officials-in-wide-body-deal",
+      "description": "The Kathmandu Post report on Deepak Sharma, an executive associated with the supplier AAR Corp, pleading guilty in a US court to conspiracy under the Foreign Corrupt Practices Act (FCPA) for bribing Nepali officials."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "title": "Sudan APC Procurement Corruption Scandal",
+  "description": "<p>The Sudan Scandal is a major corruption case in Nepal involving the embezzlement of funds during the procurement of Armoured Personnel Carriers (APCs) and other logistical equipment for Nepal Police personnel serving in the United Nations peacekeeping mission in Darfur, Sudan (UNAMID). The case implicated three former Inspectors General of Police (IGPs) and other high-ranking officials.</p><p>The core of the scandal was the procurement of obsolete, substandard, and overpriced equipment using funds from the Nepal Police Welfare Fund. An agreement was signed on September 27, 2007, with UK-based supplier <strong>Assured Risk Private Limited</strong> and its Nepali agent, <strong>Bhagwati Traders</strong>. The purchased equipment, including eight APCs, was later found to be old, non-operational, and merely painted to look new. Consequently, the United Nations inspection team in Darfur rejected the equipment, deeming it unfit for use. This not only resulted in a significant financial loss but also endangered the lives of Nepali peacekeepers who were left without adequate protection in a conflict zone.</p><p>The Commission for the Investigation of Abuse of Authority (CIAA) initiated a formal investigation and on May 24, 2011, filed a corruption case at the Special Court. The chargesheet alleged the embezzlement of <strong>NPR 288,161,629.30</strong>.</p><p>The legal process went through several stages:</p><ul><li>On February 13, 2012, the Special Court convicted the three former IGPs—Om Bikram Rana, Hem Bahadur Gurung, and Ramesh Chand Thakuri—along with the suppliers, but acquitted 31 other police officials.</li><li>On April 30, 2017, the Supreme Court of Nepal delivered a final verdict, upholding the conviction of the former IGPs and other police officials. However, it controversially overturned the Special Court's decision against the suppliers, acquitting Michael Rider of Assured Risk Ltd. and local agent Shambhu Bharati.</li></ul><p>The convicted officials, including the three former police chiefs, eventually surrendered and served prison sentences. The scandal severely damaged the reputation of Nepal Police and the country's standing in international peacekeeping circles.</p>",
+  "unverified_info": "<p>There were significant allegations regarding political protection and involvement that were never formally pursued by the CIAA.</p><ul><li><strong>Political Leadership:</strong> The procurement decision was made during the tenure of Home Minister <strong>Krishna Prasad Sitaula</strong> and Home Secretary <strong>Umesh Mainali</strong>. A parliamentary committee report suggested that the political and administrative leadership could not be absolved of responsibility. However, Mr. Sitaula denied involvement, stating the procurement was managed directly by the Police Headquarters using its Welfare Fund, which did not require his ministry's endorsement. The CIAA was criticized for not pressing charges against any political figures.</li><li><strong>Origin of APCs:</strong> It was widely reported in the media that the Armoured Personnel Carriers were extremely old, with some sources claiming they were surplus from <strong>World War II</strong>. While their substandard nature was confirmed, their exact manufacturing date and service history remain unverified public information.</li></ul>",
+  "key_allegations": [
+    "Embezzlement of NPR 288,161,629.30 from the Nepal Police Welfare Fund",
+    "Procurement of substandard, old, and non-operational Armoured Personnel Carriers (APCs)",
+    "Collusion between high-ranking police officials and suppliers",
+    "Breach of trust and abuse of authority",
+    "Violation of public procurement procedures"
+  ],
+  "alleged_entities": [
+    "Nepal Police",
+    "Assured Risk Private Limited",
+    "Bhagwati Traders"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court of Nepal",
+    "Supreme Court of Nepal",
+    "Ministry of Home Affairs, Nepal",
+    "United Nations",
+    "Parliamentary State Affairs Committee (SAC)"
+  ],
+  "locations": [
+    {
+      "other": "Procurement decision-making and legal proceedings.",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "UN Peacekeeping Mission (UNAMID) deployment site.",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": "Darfur"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Procurement",
+    "Nepal Police",
+    "Peacekeeping Mission",
+    "Embezzlement",
+    "High-Profile Case",
+    "Abuse of Authority",
+    "Sudan Scandal"
+  ],
+  "case_start_date": "2007-09-27",
+  "case_end_date": "2019-07-04",
+  "timeline": [
+    {
+      "event_date": "2007-09-27",
+      "title": "Procurement Agreement Signed",
+      "description": "Nepal Police signs an agreement with UK-based Assured Risk Limited, represented by local agent Shambhu Bharati, to supply APCs and other logistical materials for the Darfur mission."
+    },
+    {
+      "event_date": "2009-08-19",
+      "title": "Parliamentary Committee Launches Inquiry",
+      "description": "The parliamentary State Affairs Committee (SAC) directs the Home Ministry to provide all documents related to the procurement for the Sudan mission."
+    },
+    {
+      "event_date": "2011-05-24",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA files a corruption case at the Special Court against 34 police officials, supplier Assured Risk Ltd., and its agent Shambhu Bharati, alleging embezzlement of NPR 288.16 million."
+    },
+    {
+      "event_date": "2012-02-13",
+      "title": "Special Court Verdict",
+      "description": "The Special Court convicts former IGPs Om Bikram Rana, Hem Bahadur Gurung, and Ramesh Chand Thakuri, along with the suppliers. It acquits 31 other police officials."
+    },
+    {
+      "event_date": "2017-04-30",
+      "title": "Supreme Court Final Verdict",
+      "description": "The Supreme Court upholds the conviction of the three former IGPs and other police officials but acquits the suppliers, Michael Rider of Assured Risk Ltd. and Shambhu Bharati."
+    },
+    {
+      "event_date": "2017-06-21",
+      "title": "Convicted Officials Surrender",
+      "description": "Former IGPs Om Bikram Rana and Hem Bahadur Gurung, along with other convicted officials, surrender to the Supreme Court and are sent to jail."
+    },
+    {
+      "event_date": "2019-07-04",
+      "title": "Absconding Ex-IGP Surrenders",
+      "description": "Former IGP Ramesh Chand Thakuri, who had been absconding for over two years after his conviction, surrenders to the Supreme Court and is incarcerated."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court convicts three ex-IGPs in Sudan scam",
+      "url": "https://myrepublica.nagariknetwork.com/news/three-ex-igps-gulity-in-sudan-scam-sc/",
+      "description": "A MyRepublica news report on the Supreme Court's final verdict convicting the three former Inspectors General of Police."
+    },
+    {
+      "title": "Final verdict on Sudan scam: 3 former police chiefs convicted",
+      "url": "https://kathmandupost.com/national/2017/04/30/final-verdict-on-sudan-scam-3-former-police-chiefs-sent-behind-bars",
+      "description": "The Kathmandu Post reports on the Supreme Court's decision to convict the former police chiefs and details the sentences."
+    },
+    {
+      "title": "Sudan Scam: 4 former top cops turn themselves in to court",
+      "url": "https://kathmandupost.com/national/2017/06/22/sudan-scam-4-former-top-cops-turn-themselves-in-to-court",
+      "description": "A news article detailing the surrender of convicted former police officials, including two ex-IGPs, to the Supreme Court."
+    },
+    {
+      "title": "Former police chief Thakuri surrenders, two years after being convicted in Sudan scam",
+      "url": "https://kathmandupost.com/national/2019/07/05/former-police-chief-thakuri-surrenders-two-years-after-being-convicted-in-sudan-scam",
+      "description": "Report on the surrender of former IGP Ramesh Chand Thakuri, who had been on the run after the Supreme Court's verdict."
+    },
+    {
+      "title": "Supreme Court of Nepal: Full text of the Sudan Scandal judgment (in Nepali)",
+      "url": "https://supremecourt.gov.np/web/assets/downloads/gjfnk_lkmfof.pdf",
+      "description": "The official full text of the Supreme Court's judgment on the Sudan procurement scandal (Case No. 069-CR-0036). It provides the complete legal reasoning for the conviction of the police officials and the acquittal of the suppliers."
+    },
+    {
+      "title": "सुडान घोटाला (Sudan Scandal) - Nepali Wikipedia",
+      "url": "https://ne.wikipedia.org/wiki/%E0%A4%B8%E0%A5%81%E0%A4%A1%E0%A4%BE%E0%A4%A8_%E0%A4%98%E0%A5%8B%E0%A4%9F%E0%A4%BE%E0%A4%B2%E0%A4%BE",
+      "description": "The Nepali Wikipedia page for the Sudan Scandal, providing a comprehensive summary of events, key figures, and timeline."
+    },
+    {
+      "title": "Nepali peacekeepers to Sudan in danger sans APCs: Report",
+      "url": "https://myrepublica.nagariknetwork.com/news/nepali-peacekeepers-to-sudan-in-danger-sans-apcs-report/",
+      "description": "An early report highlighting the findings of an investigation team sent to Darfur, which confirmed the APCs were substandard and had been rejected by the UN, putting peacekeepers at risk."
+    },
+    {
+      "title": "CIAA files corruption case against 34 police officials",
+      "url": "https://myrepublica.nagariknetwork.com/news/17398/",
+      "description": "News report from May 2011 detailing the CIAA's action of filing a corruption case at the Special Court against police officials and suppliers involved in the scandal."
+    }
+  ]
+}

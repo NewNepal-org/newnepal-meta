@@ -1,0 +1,161 @@
+{
+  "title": "Impeachment and Disqualification of Lokman Singh Karki",
+  "description": "<p>This case concerns the controversial tenure, impeachment, and eventual disqualification of <strong>Lokman Singh Karki</strong> as the Chief Commissioner of the Commission for the Investigation of Abuse of Authority (CIAA), Nepal's primary anti-corruption body. Appointed on <strong>May 8, 2013</strong>, by the Constitutional Council chaired by Khil Raj Regmi, his appointment was contentious from the outset due to his past record.</p><p>During his tenure, Karki was widely accused of <strong>grossly abusing his authority</strong>. Allegations included running a 'parallel government' by intimidating politicians and bureaucrats, illegally interfering in the medical education sector to benefit relatives associated with KIST Medical College, and using the CIAA to settle personal scores. He was also accused of showing contempt for parliamentary committees and the judiciary.</p><p>The case culminated in two parallel actions:</p><ol><li><strong>Impeachment Motion:</strong> On <strong>October 19, 2016</strong>, 157 lawmakers from the CPN-UML and CPN (Maoist Centre) registered an impeachment motion against him in the Legislature-Parliament, citing nine major charges, including overstepping jurisdiction and running the CIAA in an autocratic manner. This led to his immediate suspension.</li><li><strong>Supreme Court Verdict:</strong> Concurrently, the Supreme Court reviewed a petition challenging the legality of his appointment. On <strong>January 8, 2017</strong>, a full bench of the Supreme Court annulled Karki's appointment. The court ruled he was ineligible for the post from the beginning, stating he lacked the requisite <strong>'high moral character'</strong> (citing the Rayamajhi Commission's findings against him for suppressing the 2006 People's Movement) and did not meet the 20-year service experience criterion stipulated by the constitution.</li></ol><p>Following the Supreme Court's verdict which effectively removed him from office, the impeachment motion in parliament was rendered redundant and did not proceed to a vote.</p>",
+  "unverified_info": "<p>This section contains allegations and claims that were reported in the media or other secondary sources but were not officially substantiated by court verdicts or official investigation reports.</p><ul><li>There were media reports suggesting that India's external intelligence agency, <strong>R&AW (Research and Analysis Wing)</strong>, had influenced Nepali political leaders to secure Karki's appointment to the powerful post of CIAA Chief.</li><li>In a book published after the events, Durga Subedi, the husband of former Chief Justice Sushila Karki, claimed that Lokman Singh Karki had attempted to offer a bribe of <strong>Rs 100 million</strong> to the then-Chief Justice to secure a favorable verdict in his appointment case.</li><li>It was widely alleged in news reports that Karki was using state resources to conduct surveillance and spy on political leaders, security chiefs, and his critics, potentially for the purpose of blackmail.</li><li>Rumors circulated that Karki was selectively pursuing corruption cases, targeting minor offenders while protecting influential individuals or 'big fish' in exchange for illicit benefits.</li></ul>",
+  "key_allegations": [
+    "Abuse of power and running a 'parallel government'",
+    "Unconstitutional appointment due to lack of moral character and insufficient service tenure",
+    "Interference in the medical education sector for personal gain",
+    "Contempt of Court and Parliament",
+    "Vindictiveness and favoritism in corruption investigations"
+  ],
+  "alleged_entities": [
+    "Lokman Singh Karki",
+    "Commission for the Investigation of Abuse of Authority (CIAA)"
+  ],
+  "related_entities": [
+    "Khil Raj Regmi",
+    "Ram Baran Yadav",
+    "Sushila Karki",
+    "Constitutional Council",
+    "Supreme Court of Nepal",
+    "Legislature-Parliament of Nepal",
+    "CPN-UML",
+    "CPN (Maoist Centre)",
+    "Rayamajhi Commission",
+    "KIST Medical College",
+    "Kathmandu University",
+    "Nepal Medical Council"
+  ],
+  "locations": [
+    {
+      "other": "Governmental and judicial bodies in the capital city",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Impeachment",
+    "Abuse of Authority",
+    "Constitutional Crisis",
+    "Judicial Review",
+    "Disqualification",
+    "CIAA",
+    "High Profile Case",
+    "Medical Sector Corruption",
+    "Contempt of Court"
+  ],
+  "case_start_date": "2013-05-08",
+  "case_end_date": "2017-01-08",
+  "timeline": [
+    {
+      "event_date": "2006-04-01",
+      "title": "Suppression of People's Movement",
+      "description": "As Chief Secretary, Lokman Singh Karki played a key role in suppressing the 2006 People's Movement (Jana Andolan II). The subsequent Rayamajhi Commission found him guilty and recommended his disqualification from holding public office."
+    },
+    {
+      "event_date": "2013-05-08",
+      "title": "Appointment as CIAA Chief",
+      "description": "Karki is appointed Chief Commissioner of the CIAA by President Ram Baran Yadav upon the recommendation of the Constitutional Council, chaired by Khil Raj Regmi."
+    },
+    {
+      "event_date": "2014-09-24",
+      "title": "Supreme Court Quashes Initial Petition",
+      "description": "The Supreme Court, in an initial ruling, quashes a writ petition filed by Advocate Om Prakash Aryal that challenged the constitutionality of Karki's appointment."
+    },
+    {
+      "event_date": "2016-09-16",
+      "title": "Supreme Court Agrees to Review Appointment",
+      "description": "A full bench of the Supreme Court, led by Chief Justice Sushila Karki, grants permission to review its previous verdict on Karki's appointment, citing new questions about his eligibility."
+    },
+    {
+      "event_date": "2016-10-19",
+      "title": "Impeachment Motion Filed and Suspension",
+      "description": "157 lawmakers from CPN-UML and CPN (Maoist Centre) file an impeachment motion against Karki, leading to his automatic suspension as CIAA Chief."
+    },
+    {
+      "event_date": "2016-10-25",
+      "title": "Impeachment Deliberations Begin",
+      "description": "The Legislature-Parliament begins deliberations on the impeachment motion against Lokman Singh Karki."
+    },
+    {
+      "event_date": "2017-01-08",
+      "title": "Supreme Court Anuls Appointment",
+      "description": "The Supreme Court's full bench annuls Karki's appointment, ruling him ineligible for the post due to a lack of required moral character and service tenure."
+    },
+    {
+      "event_date": "2017-01-15",
+      "title": "Karki Leaves Nepal",
+      "description": "Disqualified and removed from his post, Lokman Singh Karki leaves Nepal for New Delhi."
+    },
+    {
+      "event_date": "2017-02-08",
+      "title": "Parliamentary Probe Concludes",
+      "description": "A parliamentary sub-committee investigating the impeachment charges concludes that most allegations were valid but deems the motion unnecessary as Karki was already removed by the court."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia: Lokman Singh Karki",
+      "url": "https://en.wikipedia.org/wiki/Lokman_Singh_Karki",
+      "description": "General overview of Lokman Singh Karki's career, detailing his controversial appointment as CIAA chief, the subsequent impeachment motion, and his eventual removal by the Supreme Court."
+    },
+    {
+      "title": "myRepublica: Accusations in the Impeachment Motion",
+      "url": "https://myrepublica.nagariknetwork.com/news/what-are-accusations-in-the-impeachment-motion-against-lokman/",
+      "description": "News report detailing the specific charges listed in the impeachment motion filed against Karki by lawmakers."
+    },
+    {
+      "title": "myRepublica: SC Anuls Karki's Appointment",
+      "url": "https://myrepublica.nagariknetwork.com/news/sc-finds-karki-ineligible-to-head-ciaa-annuls-appointment/",
+      "description": "Report on the Supreme Court's final verdict finding Karki ineligible to head the CIAA and annulling his appointment."
+    },
+    {
+      "title": "The Kathmandu Post: Court Disqualifies Karki",
+      "url": "https://kathmandupost.com/national/2017/01/09/court-disqualifies-karki-as-ciaa-chief",
+      "description": "News article covering the Supreme Court's decision to disqualify Lokman Singh Karki from his position as the chief of the anti-graft body."
+    },
+    {
+      "title": "The Himalayan Times: Supreme Court Removes Karki",
+      "url": "https://thehimalayantimes.com/nepal/supreme-court-removes-lok-man-singh-karki-from-ciaa",
+      "description": "Report on the Supreme Court's ruling that removed Karki from his post, citing his ineligibility based on constitutional requirements."
+    },
+    {
+      "title": "OnlineKhabar: Karki Leaves Nepal After Disqualification",
+      "url": "https://english.onlinekhabar.com/2017/01/15/392942",
+      "description": "News report on Lokman Singh Karki's departure from Nepal shortly after the Supreme Court annulled his appointment."
+    },
+    {
+      "title": "The Himalayan Times: House Panel Finds Charges Valid",
+      "url": "https://thehimalayantimes.com/kathmandu/impeachment-charges-against-lok-man-singh-karki-valid-house-panel",
+      "description": "Report on the findings of the parliamentary Impeachment Recommendation Committee, which concluded that the charges against Karki were valid."
+    },
+    {
+      "title": "OnlineKhabar: Supreme Court Dismisses Karki",
+      "url": "https://english.onlinekhabar.com/2017/01/08/392520",
+      "description": "A news report from January 8, 2017, detailing the Supreme Court's verdict to dismiss Karki from his position."
+    },
+    {
+      "title": "myRepublica: Nine Charges Filed Against Karki",
+      "url": "https://myrepublica.nagariknetwork.com/news/nine-charges-filed-against-ciaa-chief-karki/",
+      "description": "A detailed article listing the nine specific charges filed against CIAA Chief Karki in the impeachment motion."
+    },
+    {
+      "title": "The Himalayan Times: SC Reopens Case Against Karki",
+      "url": "https://thehimalayantimes.com/nepal/supreme-court-warns-govt-action-if-papers-not-furnished-within-week-case-against-karkis-appointment-reopen",
+      "description": "Report on the Supreme Court's decision to reopen the case reviewing the legality of Karki's appointment."
+    },
+    {
+      "title": "Nepali Times: The End of 'Karkistocracy'",
+      "url": "https://www.nepalitimes.com/opinion/the-end-of-karkistocracy/",
+      "description": "An opinion piece analyzing the political and legal implications of the Supreme Court's verdict against Lokman Singh Karki."
+    },
+    {
+      "title": "myRepublica: Alleged Bribe Offer by Karki",
+      "url": "https://myrepublica.nagariknetwork.com/news/lokman-offered-rs-100-million-bribe-to-then-cj-karki/",
+      "description": "Report on the allegation made in a book that Lokman Singh Karki offered a Rs 100 million bribe to then-Chief Justice Sushila Karki."
+    }
+  ]
+}

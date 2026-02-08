@@ -1,0 +1,136 @@
+{
+  "title": "Lauda Air Aircraft Lease Scandal",
+  "description": "<p>The Lauda Air scandal involves significant allegations of corruption and procedural irregularities within the state-owned Royal Nepal Airlines Corporation (RNAC), now Nepal Airlines Corporation, concerning the lease of a Boeing 767 aircraft from Austria's Lauda Air in 2000-2001. The core of the controversy was the decision to lease the aircraft through <strong>direct negotiation instead of a competitive global tender</strong>, which was contrary to directives from the parliamentary Public Accounts Committee (PAC) and the Commission for the Investigation of Abuse of Authority (CIAA).</p><p>The CIAA subsequently investigated the deal and filed a corruption case on May 24, 2001, alleging embezzlement amounting to <strong>NPR 389.7 million</strong>. The accused included the then-Minister for Culture, Tourism and Civil Aviation, Tarini Datta Chataut, RNAC's Executive Chairman Hari Bhakta Shrestha, and several board members and officials, as well as two officials from Lauda Air.</p><p>Key issues raised by investigators and critics included:</p><ul><li><strong>Procedural Bypass:</strong> The procurement process deliberately avoided a transparent, competitive bidding process, raising suspicions of foul play.</li><li><strong>Inflated Costs:</strong> The official lease rate of $3,350 per flying hour was allegedly a fraction of the real cost, which was believed to exceed $5,000 per hour when including hidden charges for spares, crew, and other services.</li><li><strong>Lack of Necessity:</strong> Critics, including RNAC's own employee unions, argued that the airline's existing fleet was underutilized and there was no operational or financial justification for leasing a fourth aircraft. The airline, reportedly profitable before the lease, began incurring heavy monthly losses afterward.</li><li><strong>Political Involvement:</strong> The scandal had major political repercussions, leading to the resignation of Tourism Minister Chataut and contributing to the resignation of then-Prime Minister Girija Prasad Koirala, whose cabinet had approved the deal.</li></ul><p>On August 13, 2007, the Special Court acquitted all accused, citing a lack of sufficient evidence. The CIAA appealed this verdict at the Supreme Court. On May 25, 2018, a division bench of the Supreme Court delivered a split verdict, with one justice finding two former RNAC officials guilty and the other upholding the acquittal. Due to the split decision, the case was referred to a full bench, where it has remained pending for years, subject to numerous postponements.</p>",
+  "unverified_info": "<p>There are several unconfirmed details and conflicting reports related to the case:</p><ul><li><strong>Total Financial Loss:</strong> While the CIAA's official claim was for NPR 389.7 million, other estimates of the total loss to RNAC varied widely. One report cited a figure as high as <strong>NPR 2 billion</strong>, while another calculated the loss at approximately <strong>NPR 335 million</strong>. RNAC employees claimed the lease created an extra financial burden of nearly <strong>NPR 110 million per month</strong>.</li><li><strong>Alleged Commissions:</strong> Media reports at the time alleged that a commission of <strong>$400 per flying hour</strong> was built into the deal, which would have totaled approximately <strong>NPR 160 million</strong> over the 18-month lease term. This amount was purportedly to be divided among a 'political fund', the Lauda Air agent in Nepal, and RNAC officials.</li><li><strong>Aircraft Ownership:</strong> A PAC investigation reportedly found that the aircraft did not belong to Lauda Air but to a separate, unnamed Hong Kong-based company, a detail not mentioned in the lease agreement.</li><li><strong>Name Discrepancy:</strong> One of the accused, the RNAC Marketing Director, is referred to as both Ramraj Upadhyaya and Raja Ram Upadhyaya in different documents.</li></ul>",
+  "key_allegations": [
+    "Embezzlement of NPR 389.7 million from state funds.",
+    "Leasing an aircraft through direct negotiation, bypassing the required competitive tender process.",
+    "Abuse of authority by public officials to cause financial loss to Royal Nepal Airlines Corporation.",
+    "Leasing an aircraft that was not operationally necessary, leading to significant financial losses.",
+    "Ignoring directives from the Public Accounts Committee (PAC) and the Commission for the Investigation of Abuse of Authority (CIAA)."
+  ],
+  "alleged_entities": [
+    "Royal Nepal Airlines Corporation (RNAC)",
+    "Lauda Air",
+    "Tarini Datta Chataut",
+    "Hari Bhakta Shrestha",
+    "Tirthalal Shrestha",
+    "Siddha Raj Joshi",
+    "Gauri Nath Sharma",
+    "Ramraj Upadhyaya",
+    "Upendra Prasad Upadhayay",
+    "Pushkar Prasad Wagle",
+    "Andrea Molineri",
+    "Otmar Lenz"
+  ],
+  "related_entities": [
+    "Government of Nepal",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Public Accounts Committee (PAC), Parliament of Nepal",
+    "Special Court",
+    "Supreme Court of Nepal",
+    "Girija Prasad Koirala"
+  ],
+  "locations": [
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Vienna, Austria",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Procurement Irregularity",
+    "State-Owned Enterprise",
+    "Aviation",
+    "Embezzlement",
+    "Abuse of Authority",
+    "CIAA Case",
+    "Supreme Court"
+  ],
+  "case_start_date": "2000-10-03",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2000-10-03",
+      "title": "RNAC Board Approves Lease",
+      "description": "The board of directors of the Royal Nepal Airlines Corporation (RNAC) decides to lease a Boeing 767 aircraft from Lauda Air through direct negotiation, bypassing a global tender."
+    },
+    {
+      "event_date": "2001-01-26",
+      "title": "Tourism Minister Resigns",
+      "description": "Tarini Datta Chataut resigns from his post as Minister of Tourism and Civil Aviation to 'pave the way for the investigation' into the scandal."
+    },
+    {
+      "event_date": "2001-05-24",
+      "title": "CIAA Files Corruption Case",
+      "description": "The Commission for the Investigation of Abuse of Authority (CIAA) files a corruption case at the Patan Appellate Court against 10 individuals, alleging embezzlement of NPR 389.7 million."
+    },
+    {
+      "event_date": "2007-08-13",
+      "title": "Special Court Acquits All Accused",
+      "description": "The Special Court, comprising judges Bhoopdhoj Adhikary, Komal Nath Sharma, and Cholendra S.J.B. Rana, acquits all 10 accused, citing a lack of sufficient evidence."
+    },
+    {
+      "event_date": "2018-05-25",
+      "title": "Supreme Court Delivers Split Verdict",
+      "description": "A division bench of the Supreme Court, with Justices Ishwor Prasad Khatiwada and Sharada Prasad Ghimire, delivers a split verdict. Justice Khatiwada found two officials guilty, while Justice Ghimire upheld the acquittal. The case is referred to a full bench."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Himalayan Times: THT 10 YEARS AGO: Lauda Air case: Court acquits all accused",
+      "url": "https://thehimalayantimes.com/nepal/tht-10-years-ago-lauda-air-case-court-acquits-all-accused",
+      "description": "A news report from 2017 recalling the Special Court's acquittal of all accused in the Lauda Air case on August 13, 2007. It names the accused and states the court's reasoning."
+    },
+    {
+      "title": "Travel Weekly Asia: Nepal officials in Lauda Air scandal",
+      "url": "https://www.travelweekly-asia.com/Travel-News/Airline-News/Nepal-officials-in-Lauda-Air-scandal",
+      "description": "A contemporary report on the scandal, mentioning the suspension of RNAC Chairman Hari Bhakta Shrestha and details of the controversial lease agreement."
+    },
+    {
+      "title": "The Kathmandu Post: The rise and fall of Nepal Airlines",
+      "url": "https://kathmandupost.com/national/2019/09/14/the-rise-and-fall-of-nepal-airlines",
+      "description": "An article detailing the history of Nepal Airlines, which cites the Lauda Air scandal as a key event in the corporation's decline."
+    },
+    {
+      "title": "Nepali Times: RNAC-Lauda Air deal scam",
+      "url": "https://archive.nepalitimes.com/news.php?id=8611",
+      "description": "An archival news report from the time of the scandal, detailing the political fallout, including the opposition party's demands for the Prime Minister's resignation."
+    },
+    {
+      "title": "The Himalayan Times: SC holding full bench hearing on Lauda scam",
+      "url": "https://thehimalayantimes.com/nepal/supreme-court-hold-full-bench-hearing-lauda-scam",
+      "description": "A 2017 report on the Supreme Court's decision to move the case to a full bench following the split verdict from the division bench."
+    },
+    {
+      "title": "Ekantipur: लाउडा विमान भाडा प्रकरण : सर्वोच्चमा राय बाझियो (Lauda Aircraft Lease Case: Opinion divided in the Supreme Court)",
+      "url": "https://ekantipur.com/news/2018/05/25/15272186591823977.html",
+      "description": "A Nepali news report from May 25, 2018, detailing the split verdict by Supreme Court justices Ishwor Prasad Khatiwada and Sharada Prasad Ghimire."
+    },
+    {
+      "title": "Ukeraa: लाउडा विमान भाडामा भ्रष्टाचार प्रकरण : पूर्ण इजलासमा ३५ पटक पेशी चढेर फेरि 'हेर्न नमिल्ने'मा (Lauda Aircraft Lease Corruption Case: After 35 hearings in the full bench, again in 'not to be heard')",
+      "url": "https://ukeraa.com/news/2024/03/21/203405",
+      "description": "A 2024 report in Nepali highlighting the extensive delays and numerous postponements of the case hearings in the Supreme Court's full bench."
+    },
+    {
+      "title": "Ratopati: गिरिजाप्रसाद जोडिएको लाउडा प्रकरण : १८ वर्षदेखि सर्वोच्चमा अल्झियो मुद्दा (Lauda case linked to Girija Prasad: Case stuck in Supreme Court for 18 years)",
+      "url": "https://ratopati.com/story/74381/2018/12/3",
+      "description": "A 2018 article in Nepali detailing the case's long history in the courts, its connection to former PM Girija Prasad Koirala, and the amount of alleged corruption (Rs 38 crore 97 lakh)."
+    },
+    {
+      "title": "Times of India: Nepali minister resigns over airline lease scam",
+      "url": "https://timesofindia.indiatimes.com/world/nepali-minister-resigns-over-airline-lease-scam/articleshow/29571344.cms",
+      "description": "A news report from January 26, 2001, confirming the resignation of Tourism Minister Tarini Datta Chataut over his involvement in the scandal."
+    }
+  ]
+}

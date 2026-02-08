@@ -1,0 +1,61 @@
+{
+  "title": "Encroachment on Guthi (Communal Trust) Land (1999)",
+  "description": "<p>This case file pertains to an act of land encroachment on <strong>Guthi (communal trust) land</strong>, recorded in 1999. The originating internal document notes the issue but does not specify the exact location, the amount of land involved, the financial value, or the individuals implicated in the encroachment.</p><p>The <i>Guthi</i> system is a traditional form of land tenure in Nepal where land or property is endowed for religious or charitable purposes, managed by a trust for public welfare. The encroachment on these lands represents a significant loss of public and cultural assets.</p><p>Due to the lack of specific details in the core document, this case entry primarily serves as a placeholder for a widespread and systemic issue, supported by extensive reporting on the topic. Further investigation is required to link this 1999 record to a specific instance of encroachment.</p>",
+  "unverified_info": "<p>The case file \"Case 16\" lacks specific details, but the subject of Guthi land encroachment is a well-documented, systemic problem in Nepal. The following information provides context from various reports and could serve as leads for further investigation:</p><ul><li><strong>Widespread Encroachment:</strong> Numerous reports highlight the illegal occupation and privatization of Guthi lands across Nepal. A 2019 report in <a href=\"https://myrepublica.nagariknetwork.com/news/rampant-encroachment-of-guthi-land-to-build-houses-roads-and-other-structures/\">My República</a> noted that thousands of hectares have been encroached upon for building houses, roads, and other private structures. Specific large-scale instances have been reported in regions like Janakpur and Jumla.</li><li><strong>Official Complicity:</strong> The encroachment is often allegedly facilitated by collusion between private land mafias and officials within the <strong>Guthi Sansthan (Guthi Corporation)</strong>, the government body tasked with managing these trusts. News outlets like <a href=\"https://reportnepal.co/news/2021/04/10904\">Report Nepal</a> have covered how these encroachments occur with implicit support from authorities.</li><li><strong>Systemic and Legal Challenges:</strong> The Guthi Sansthan has faced significant challenges in protecting and managing its lands. As reported by <a href=\"https://kathmandupost.com/valley/2023/07/20/eight-years-on-guthi-has-been-barred-from-leasing-land-over-court-case\">The Kathmandu Post</a>, legal battles have sometimes prevented the Sansthan from even leasing its land, let alone reclaiming encroached properties. An academic paper published by <a href=\"https://www.mdpi.com/2073-445X/9/2/57\">MDPI</a> provides a detailed analysis of the Guthi system's role and the challenges it faces.</li><li><strong>Reclamation Efforts:</strong> Despite the challenges, there have been periodic efforts by the Guthi Sansthan to reclaim its properties, as reported by <a href=\"https://thehimalayantimes.com/nepal/guthi-to-reclaim-encroached-land\">The Himalayan Times</a>.</li></ul>",
+  "key_allegations": [
+    "Land grabbing",
+    "Illegal encroachment on communal trust land"
+  ],
+  "alleged_entities": [],
+  "related_entities": [
+    "Guthi Sansthan (Guthi Corporation)"
+  ],
+  "locations": [],
+  "tags": [
+    "Corruption",
+    "Land Grabbing",
+    "Guthi",
+    "Land Encroachment",
+    "Systemic Corruption"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [],
+  "sources": [
+    {
+      "title": "Rampant encroachment of Guthi land to build houses, roads and other structures",
+      "url": "https://myrepublica.nagariknetwork.com/news/rampant-encroachment-of-guthi-land-to-build-houses-roads-and-other-structures/",
+      "description": "A My República news article from June 2019 detailing the widespread and unchecked encroachment of Guthi land across Nepal for private construction."
+    },
+    {
+      "title": "A Case of the Guthi System in Nepal: The Backbone of the Conservation and Management of the Cultural Heritage",
+      "url": "https://www.mdpi.com/2073-445X/9/2/57",
+      "description": "An academic paper published in the MDPI journal 'Land' in February 2020, analyzing the historical and cultural significance of the Guthi system and the challenges it faces, including encroachment."
+    },
+    {
+      "title": "Eight years on, Guthi has been barred from leasing land over court case",
+      "url": "https://kathmandupost.com/valley/2023/07/20/eight-years-on-guthi-has-been-barred-from-leasing-land-over-court-case",
+      "description": "A Kathmandu Post article from July 2023 discussing the legal and administrative hurdles faced by the Guthi Sansthan, which prevent it from effectively managing its properties."
+    },
+    {
+      "title": "Guthi to reclaim encroached land",
+      "url": "https://thehimalayantimes.com/nepal/guthi-to-reclaim-encroached-land",
+      "description": "A Himalayan Times article from April 2021 reporting on the Guthi Sansthan's plans to form a task force to identify and reclaim encroached lands nationwide."
+    },
+    {
+      "title": "कसरी भयो गुठीको जग्गा अतिक्रमण ? (How did the encroachment of Guthi land happen?)",
+      "url": "https://reportnepal.co/news/2021/04/10904",
+      "description": "A Report Nepal news article in Nepali from April 2021 discussing the mechanisms and alleged collusion behind the ongoing encroachment of Guthi lands."
+    },
+    {
+      "title": "गुठी संस्थानको अतिक्रमित जग्गा खाली गराइने (Encroached land of Guthi Sansthan to be vacated)",
+      "url": "https://www.nepalbusiness.com/2021/04/blog-post_8.html",
+      "description": "A Nepal Business article in Nepali from April 2021 on the Guthi Sansthan's statement about vacating illegally occupied lands."
+    },
+    {
+      "title": "गुठीको जग्गा अतिक्रमित हुने क्रम जारी (The process of encroaching on Guthi land continues)",
+      "url": "https://www.youtube.com/watch?v=F0V7z8nU05o",
+      "description": "A news report by Emountain TV (YouTube) from June 2023 highlighting the continuous problem of Guthi land encroachment."
+    }
+  ]
+}

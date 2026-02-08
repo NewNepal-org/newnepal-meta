@@ -1,0 +1,122 @@
+{
+  "title": "Government Funding for Jhalanath Khanal Institute of Health Sciences Snake Farm",
+  "description": "<p>The case revolves around significant financial irregularities concerning a project to establish a snake venom collection, processing, and production center in Lalbandi Municipality, Sarlahi. The project was spearheaded by the <strong>Jhalanath Khanal Institute of Health Sciences</strong>, a private foundation named after former Prime Minister Jhalanath Khanal.</p><p>In the fiscal year 2019/20, the Madhesh Province government, using a supplementary grant from the federal government, allocated funds for the project. The Commission for the Investigation of Abuse of Authority (CIAA) discovered that government officials had unlawfully partnered with the private foundation. It was alleged that approximately <strong>NPR 179.8 million</strong> was embezzled, with funds being spent on luxury items such as vehicles and furniture instead of the project's primary objectives.</p><p>On October 8, 2023, the CIAA filed a corruption case at the Special Court against seven individuals, including a former provincial minister and officials of the foundation. On June 25, 2024, the Special Court delivered its verdict, convicting five of the accused for corruption and acquitting two others.</p>",
+  "unverified_info": "<p>The total planned budget for the multi-year project was widely reported to be <strong>NPR 720 million (72 crore)</strong>. However, the formal corruption case filed by the CIAA and the subsequent conviction focused on the misappropriation of approximately <strong>NPR 179.8 million (17.98 crore)</strong>, which was the amount disbursed in the first phase. The full NPR 720 million project did not materialize due to the exposure of the corruption.</p>",
+  "key_allegations": [
+    "Illegal disbursement of government funds to a private foundation with no cost-sharing obligation.",
+    "Collusion between government officials and foundation members to misuse state funds.",
+    "Submission of falsified documents to the National Planning Commission to fraudulently obtain a supplementary grant.",
+    "Embezzlement of state funds by spending them on non-approved, luxurious items rather than the intended project activities.",
+    "Causing a financial loss of NPR 179,800,000 to the state treasury."
+  ],
+  "alleged_entities": [
+    "Jhalanath Khanal Institute of Health Sciences",
+    "Bijaya Kumar Yadav",
+    "Rewati Prasad Pant",
+    "Navraj Bhandari",
+    "Niraj Bhandari",
+    "Devendra Rai (Raya)",
+    "Man Bahadur Khadka",
+    "Prem Kumar Shrestha",
+    "Ministry of Economic Affairs, Madhesh Province"
+  ],
+  "related_entities": [
+    "Jhalanath Khanal",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu",
+    "Lalbandi Municipality",
+    "National Planning Commission",
+    "Government of Nepal (Federal)"
+  ],
+  "locations": [
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Lalbandi Municipality",
+      "district": "Sarlahi",
+      "province": "Madhesh"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Misuse of Funds",
+    "Embezzlement",
+    "Provincial Government",
+    "Federal Grant",
+    "CIAA",
+    "Special Court",
+    "Conviction",
+    "Healthcare"
+  ],
+  "case_start_date": null,
+  "case_end_date": "2024-06-25",
+  "timeline": [
+    {
+      "event_date": "2020-09-02",
+      "title": "Initial Funding Agreement Reported",
+      "description": "News reports surfaced that the Jhalanath Khanal Foundation was set to receive NPR 720 million from the government for anti-venom production."
+    },
+    {
+      "event_date": "2020-10-12",
+      "title": "Allegations of Misuse Surface",
+      "description": "Allegations were published that the foundation was misusing project funds on luxury goods, including a vehicle worth NPR 4.9 million, instead of project-related work."
+    },
+    {
+      "event_date": "2023-10-08",
+      "title": "CIAA Files Corruption Case",
+      "description": "The Commission for the Investigation of Abuse of Authority (CIAA) filed a formal corruption case at the Special Court against seven individuals, seeking to recover NPR 179.8 million."
+    },
+    {
+      "event_date": "2024-06-25",
+      "title": "Special Court Delivers Verdict",
+      "description": "The Special Court convicted five defendants, including former Madhesh Province minister Bijaya Kumar Yadav, and acquitted two others, former Lalbandi Mayor Man Bahadur Khadka and former ministry secretary Prem Kumar Shrestha."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Khabarhub: Corruption scandal engulfs Jhalnath Khanal Institute's snake breeding program",
+      "url": "https://khabarhub.com/2023/08/332159/",
+      "description": "This article details the CIAA's filing of the corruption case on October 8, 2023, naming the seven accused individuals and outlining the primary allegations."
+    },
+    {
+      "title": "myRepublica: CIAA charges seven with corruption in Jhalanath Khanal Academy's snake farm",
+      "url": "https://myrepublica.nagariknetwork.com/news/ciaa-charges-seven-with-corruption-in-jhalanath-khanal-academy-s-snake-farm/",
+      "description": "Provides details on the individuals charged by the CIAA and the specific amount of NPR 179.8 million claimed as misappropriated."
+    },
+    {
+      "title": "OnlineKhabar: Jhalanath Khanal Foundation gets Rs 720 mln from govt for antivenom production",
+      "url": "https://english.onlinekhabar.com/jhalanath-khanal-foundation-gets-rs-720-mln-from-govt-for-antivenom-production.html",
+      "description": "An early report from September 2, 2020, outlining the initial agreement for the total project funding of NPR 720 million."
+    },
+    {
+      "title": "myRepublica: Five including former Madhesh minister convicted in Jhalanath Khanal Institute corruption case",
+      "url": "https://myrepublica.nagariknetwork.com/news/five-including-former-madhesh-minister-convicted-in-jhalanath-khanal-institute-corruption-case/",
+      "description": "Reports on the Special Court's verdict of June 25, 2024, confirming the conviction of five individuals and the acquittal of two."
+    },
+    {
+      "title": "The Annapurna Express: Venomous snake farm gets CIAA bite",
+      "url": "https://theannapurnaexpress.com/news/venomous-snake-farm-gets-ciaa-bite-41743",
+      "description": "Provides details on the CIAA's accusations and the specific legal claims and fines sought against each defendant."
+    },
+    {
+      "title": "Khabarhub: Former Madhesh minister and four others convicted in Jhalanath Khanal Academy corruption case",
+      "url": "https://khabarhub.com/2024/26/378415/",
+      "description": "Confirms the conviction of five individuals, including Bijaya Kumar Yadav, and the acquittal of two others by the Special Court."
+    },
+    {
+      "title": "Ekantipur: Corruption in the establishment of snakebite treatment center, 5 people including the then minister of Madhesh were found guilty",
+      "url": "https://ekantipur.com/news/2024/06/25/17193213035555415.html",
+      "description": "A Nepali language source reporting on the conviction, providing background on the project and the court's decision."
+    },
+    {
+      "title": "myRepublica: Jhalanath Khanal Foundation's Antivenom Center is misusing taxpayers' money to buy luxury items",
+      "url": "https://myrepublica.nagariknetwork.com/news/jhalanath-khanal-foundations-antivenom-center-is-misusing-taxpayers-money-to-buy-luxury-items-worth-millions/",
+      "description": "An October 2020 article detailing the early allegations of the foundation misusing funds to purchase luxury goods."
+    },
+    {
+      "title": "The Kathmandu Post: Five, including former Madhesh minister, convicted of graft",
+      "url": "https://kathmandupost.com/national/2024/06/25/five-including-former-madhesh-minister-convicted-of-graft",
+      "description": "A report confirming the conviction of five individuals by the Special Court in Kathmandu on June 25, 2024."
+    }
+  ]
+}

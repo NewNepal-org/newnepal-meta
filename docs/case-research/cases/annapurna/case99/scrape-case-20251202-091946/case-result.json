@@ -1,0 +1,79 @@
+{
+  "title": "Tribhuvan Park Illegal Land Lease",
+  "description": "<p>The case involves the illegal leasing of <strong>50 ropani of government-owned land</strong> within Tribhuvan Park, Thankot, by a non-governmental organization to a private company at a significantly undervalued rate. The park, spanning 166 ropani, was under the care of the <strong>Shahid Smarak Prakriti Pratishthan (Martyr Memorial Nature Foundation)</strong>, an NGO registered with the District Administration Office, Kathmandu. This NGO unilaterally leased the prime land to a private entity without the necessary legal approval from the Government of Nepal's Council of Ministers, which holds the sole authority for leasing government land.</p><p>The issue came to light around May 2022, when the Bagmati Province Minister for Culture and Tourism, <strong>Dipendra Shrestha</strong>, inspected the park after its management was transferred to the provincial government. He discovered an unauthorized 20-year lease agreement had been signed for the purpose of constructing a \"fun park\".</p><p>Key details of the controversial lease are:</p><ul><li><strong>Lessor:</strong> Shahid Smarak Prakriti Pratishthan (an NGO).</li><li><strong>Lessee:</strong> Shree Excelsior Information Technology and Trade Concern Pvt. Ltd.</li><li><strong>Leased Area:</strong> 50 ropani.</li><li><strong>Lease Rate:</strong> NPR 9,150 per ropani per month.</li><li><strong>Total Annual Rent:</strong> Approximately NPR 5.49 million.</li><li><strong>Lease Duration:</strong> 20 years, signed on December 14, 2016.</li></ul><p>Following the discovery, the Bagmati provincial government formed a high-level investigation committee led by Law Secretary Binod Kumar Bhattacharya. The committee concluded that the lease agreement was made without legal authority and recommended its immediate cancellation. The minister announced his intention to forward the case to the Commission for the Investigation of Abuse of Authority (CIAA) for a corruption probe. Allegations also surfaced that the lessee company had failed to pay over NPR 3 crore in rent, and the Pratishthan did not act to terminate the contract despite this breach.</p>",
+  "unverified_info": "<p>Initial information suggested the incident began in <strong>2065 BS (approx. 2008/2009 AD)</strong>. However, subsequent reports and evidence confirm the controversial lease agreement was signed on <strong>29 Mangsir 2073 BS (December 14, 2016)</strong>. The specific significance of the year 2065 in this context remains unverified and may refer to an earlier, unrelated event.</p>",
+  "key_allegations": [
+    "Illegal leasing of government land by a non-governmental organization",
+    "Bypassing the legal authority of the Council of Ministers for land lease",
+    "Leasing public land at a significantly undervalued rate",
+    "Breach of contract by the lessee for non-payment of rent",
+    "Failure by the lessor (NGO) to enforce the contract upon breach"
+  ],
+  "alleged_entities": [
+    "Shahid Smarak Prakriti Pratishthan (Martyr Memorial Nature Foundation)",
+    "Shree Excelsior Information Technology and Trade Concern Pvt. Ltd."
+  ],
+  "related_entities": [
+    "Bagmati Province, Ministry of Culture and Tourism",
+    "Government of Nepal, Council of Ministers",
+    "Commission for the Investigation of Abuse of Authority (CIAA)"
+  ],
+  "locations": [
+    {
+      "other": "Tribhuvan Park, Thankot",
+      "ward_no": null,
+      "municipality": "Chandragiri",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Land Lease",
+    "Corruption",
+    "Abuse of Authority",
+    "Public Land",
+    "NGO",
+    "Bagmati Province"
+  ],
+  "case_start_date": "2016-12-14",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2016-12-14",
+      "title": "Illegal Lease Agreement Signed",
+      "description": "The Shahid Smarak Prakriti Pratishthan, chaired by Shanta Shrestha, signs a 20-year lease agreement with Excelsior Information Technology and Trade Concern Pvt. Ltd. to lease 50 ropani of Tribhuvan Park land."
+    },
+    {
+      "event_date": "2019-04-02",
+      "title": "Park Management Transferred to Bagmati Province",
+      "description": "The Nepal Government's Council of Ministers decides to transfer the management and responsibility of Tribhuvan Park to the Bagmati Provincial Government."
+    },
+    {
+      "event_date": "2022-05-26",
+      "title": "Illegal Lease Discovered",
+      "description": "Bagmati Province Minister for Culture and Tourism, Dipendra Shrestha, discovers the unauthorized lease agreement during an inspection tour of the park."
+    },
+    {
+      "event_date": "2022-06-15",
+      "title": "Provincial Investigation Committee Formed",
+      "description": "The Bagmati provincial government forms a high-level investigation committee headed by Law Secretary Binod Kumar Bhattacharya to probe the illegal lease. The exact date in June is not specified."
+    },
+    {
+      "event_date": "2022-08-11",
+      "title": "Investigation Committee Submits Report",
+      "description": "The investigation committee submits its report, concluding the lease was illegal and recommending its cancellation. Minister Shrestha announces his intent to forward the findings to the CIAA."
+    }
+  ],
+  "sources": [
+    {
+      "title": "News report on the discovery of the illegal lease at Tribhuvan Park",
+      "url": "https://swasthyakhabar.com/story/83726",
+      "description": "This article from Swasthya Khabar details the discovery of the illegal lease agreement by Minister Dipendra Shrestha. It outlines the terms of the lease, the involved parties (Shahid Smarak Prakriti Pratishthan and Excelsior Information Technology), the undervalued rent, and the announcement of an investigation."
+    },
+    {
+      "title": "News report on the investigation committee's findings",
+      "url": "https://swasthyakhabar.com/story/85635",
+      "description": "This article from Swasthya Khabar reports on the findings of the provincial investigation committee. It confirms the committee's conclusion that the lease was illegal and includes their recommendation to cancel the contract and forward the case to the CIAA for a corruption probe. The article also features an image of the lease agreement document."
+    }
+  ]
+}

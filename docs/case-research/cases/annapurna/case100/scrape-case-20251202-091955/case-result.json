@@ -1,0 +1,204 @@
+{
+  "title": "Fake Bhutanese Refugee Scam",
+  "description": "<p>The Fake Bhutanese Refugee Scam is a high-profile corruption and organized crime case in Nepal involving a network of politicians, government officials, and intermediaries. The syndicate is accused of defrauding hundreds of Nepali citizens by collecting vast sums of money with the false promise of resettling them in the United States and other developed countries as Bhutanese refugees.</p><p>The core of the scheme involved manipulating an official government process. A task force, led by former joint-secretary Bal Krishna Panthi, was formed in 2019 to find solutions for the remaining Bhutanese refugees in Nepal. The accused allegedly created a counterfeit version of this task force's confidential report, inserting the names of paying Nepali citizens to present them as refugees eligible for resettlement. Victims paid amounts ranging from NPR 1 million to over NPR 5 million for these forged identities.</p><p>The case came to public attention after victims filed complaints. The initial complaint on <strong>June 1, 2022</strong>, involved 81 victims who claimed to have been cheated of a collective <strong>NPR 130 million</strong>. Subsequent investigations by Nepal Police led to charges being filed by the Kathmandu District Attorney's Office against 30 individuals. The total fraud amount cited in the charge sheet for 115 victims reached <strong>NPR 288.17 million</strong>.</p><p>The investigation exposed a deep nexus of corruption, leading to the arrests of several high-profile figures, including former Deputy Prime Minister <strong>Top Bahadur Rayamajhi</strong> and former Home Minister <strong>Bal Krishna Khand</strong>. The accused face serious charges, including:</p><ul><li>Treason</li><li>Organized Crime</li><li>Fraud</li><li>Forgery</li></ul>",
+  "unverified_info": "<p>The following claims and allegations have been reported in the media but were not part of the initial official charges filed by the District Attorney's Office. They are included here for tracking purposes:</p><ul><li>An audio recording allegedly surfaced claiming that money was paid to <strong>Manju Khand</strong>, wife of former Home Minister Bal Krishna Khand.</li><li>The names of <strong>Arzu Rana Deuba</strong>, a Nepali Congress leader and wife of former Prime Minister Sher Bahadur Deuba, and the son of former Home Minister <strong>Ram Bahadur Thapa</strong> were mentioned by some of the accused during the investigation.</li><li>A defendant's statement reportedly alleged that <strong>Ajaya Kranti Shakya</strong>, an adviser to former Prime Minister KP Sharma Oli, received NPR 10 million. Shakya was not named as a defendant in the case.</li></ul>",
+  "key_allegations": [
+    "Defrauding hundreds of Nepali citizens with false promises of US resettlement as Bhutanese refugees.",
+    "Illegally collecting crores of rupees from victims, with charge sheets mentioning NPR 288.17 million from 115 victims.",
+    "Forgery of a confidential government task force report to include names of non-refugees.",
+    "Operating as an organized criminal syndicate involving high-level politicians, bureaucrats, and middlemen.",
+    "Committing treason by undermining national security and government processes."
+  ],
+  "alleged_entities": [
+    "Bal Krishna Khand",
+    "Top Bahadur Rayamajhi",
+    "Tek Narayan Pandey",
+    "Indrajit Rai",
+    "Sandeep Rayamajhi",
+    "Keshav Dulal",
+    "Sanu Bhandari",
+    "Tek Nath Rijal",
+    "Narendra KC",
+    "Angtawa Sherpa",
+    "Shamsher Miya",
+    "Govinda Kumar Chaudhary",
+    "Ram Sharan KC",
+    "Sagar Thulung Rai",
+    "Tanka Gurung",
+    "Laxmi Maharjan",
+    "Sandesh Sharma Pokhrel",
+    "Niranjan Kumar Kharel",
+    "Bechan Jha",
+    "Ministry of Home Affairs, Government of Nepal"
+  ],
+  "related_entities": [
+    "CPN-UML",
+    "Nepali Congress",
+    "Arzu Rana Deuba",
+    "Manju Khand",
+    "Ram Bahadur Thapa",
+    "Ajaya Kranti Shakya",
+    "Nepal Haj Committee"
+  ],
+  "locations": [
+    {
+      "other": "Location of court proceedings and multiple arrests",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati Province"
+    },
+    {
+      "other": "Arrest location of Top Bahadur Rayamajhi",
+      "ward_no": null,
+      "municipality": "Budhanilkantha",
+      "district": "Kathmandu",
+      "province": "Bagmati Province"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Organized Crime",
+    "Fraud",
+    "Forgery",
+    "Political Corruption",
+    "Treason",
+    "Refugee Scam"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2022-06-01",
+      "title": "Victims File Formal Complaint",
+      "description": "A group of 81 victims filed a formal complaint with the police, alleging they were collectively defrauded of NPR 130 million in the fake refugee scheme."
+    },
+    {
+      "event_date": "2023-03-26",
+      "title": "Police Begin Arrests",
+      "description": "Police began a series of arrests, starting with key middlemen involved in the scam, including Keshav Dulal, Sanu Bhandari, and Tanka Gurung."
+    },
+    {
+      "event_date": "2023-05-04",
+      "title": "Arrest Warrant for Top Bahadur Rayamajhi",
+      "description": "An arrest warrant was issued for CPN-UML Secretary and former Deputy Prime Minister Top Bahadur Rayamajhi, who subsequently went into hiding."
+    },
+    {
+      "event_date": "2023-05-10",
+      "title": "Former Home Minister Bal Krishna Khand Arrested",
+      "description": "Former Home Minister and Nepali Congress leader Bal Krishna Khand was arrested from his residence in Mainjubahal, Kathmandu."
+    },
+    {
+      "event_date": "2023-05-14",
+      "title": "Top Bahadur Rayamajhi Arrested",
+      "description": "After being on the run for 10 days, former Deputy Prime Minister Top Bahadur Rayamajhi was arrested in Budhanilkantha, Kathmandu."
+    },
+    {
+      "event_date": "2023-05-24",
+      "title": "Case Filed at Kathmandu District Court",
+      "description": "The Kathmandu District Attorney's Office filed a case against 30 individuals, charging them with fraud, forgery, organized crime, and treason."
+    },
+    {
+      "event_date": "2023-06-16",
+      "title": "Court Orders Pre-Trial Detention",
+      "description": "The Kathmandu District Court ordered 16 of the accused, including Bal Krishna Khand and Top Bahadur Rayamajhi, to be sent to judicial custody for pre-trial detention. Two others were released on bail."
+    },
+    {
+      "event_date": "2023-10-05",
+      "title": "Fugitive Recaptured After Prison Escape",
+      "description": "Sandesh Sharma Pokhrel, identified as a key planner in the scam who had escaped from prison, was recaptured by police."
+    },
+    {
+      "event_date": "2023-11-19",
+      "title": "Another Fugitive Middleman Arrested",
+      "description": "Niranjan Kumar Kharel, an alleged middleman who had been absconding, was arrested. The Central Investigation Bureau (CIB) subsequently reopened and intensified parts of the investigation."
+    },
+    {
+      "event_date": "2023-12-01",
+      "title": "Patan High Court Orders Khand's Release on Bail",
+      "description": "The Patan High Court upheld the decision to keep Top Bahadur Rayamajhi in custody but ordered the release of former Home Minister Bal Krishna Khand on a bail of NPR 3 million."
+    },
+    {
+      "event_date": "2024-04-26",
+      "title": "Supreme Court Rules on Detention",
+      "description": "The Supreme Court of Nepal ordered that Top Bahadur Rayamajhi and Indrajit Rai remain in custody during the trial. The same order set bail for Angtawa Sherpa and Govinda Kumar Chaudhary and ordered the release of Shamsher Miya on a general date."
+    },
+    {
+      "event_date": "2024-09-03",
+      "title": "Final Hearing Begins",
+      "description": "The final hearing of the fake Bhutanese refugee case began at the Kathmandu District Court."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Observer Research Foundation: Outrage against fake Bhutanese refugee scam in Nepal",
+      "url": "https://www.observerindia.org/research/outrage-against-fake-bhutanese-refugee-scam-in-nepal/",
+      "description": "Provides an overview of the scam, the number of victims, and the involvement of high-ranking officials."
+    },
+    {
+      "title": "Wikipedia: Bhutanese refugees scam",
+      "url": "https://en.wikipedia.org/wiki/Bhutanese_refugees_scam",
+      "description": "Details the background, methods, and key figures involved in the fraud."
+    },
+    {
+      "title": "The Diplomat: Bhutanese Refugee Scam Puts Nepal’s Political Leaders Under Scrutiny",
+      "url": "https://www.thediplomat.com/2023/05/bhutanese-refugee-scam-puts-nepals-political-leaders-under-scrutiny/",
+      "description": "Covers the political implications and arrests of high-ranking figures like Bal Krishna Khand and Top Bahadur Rayamajhi."
+    },
+    {
+      "title": "The Kathmandu Post: Big shots charged in fake refugee scam sent to jail",
+      "url": "https://kathmandupost.com/national/2023/06/16/big-shots-charged-in-fake-refugee-scam-sent-to-jail",
+      "description": "Reports on the Kathmandu District Court's decision to send 16 individuals to pre-trial detention and details the fraud amount (NPR 288.17 million)."
+    },
+    {
+      "title": "The Kathmandu Post: Former home minister Bal Krishna Khand arrested in connection with Bhutanese refugee scam",
+      "url": "https://kathmandupost.com/national/2023/05/10/former-home-minister-bal-krishna-khand-arrested-in-connection-with-bhutanese-refugee-scam",
+      "description": "Details the arrest of Bal Krishna Khand and his aide, Narendra KC."
+    },
+    {
+      "title": "Nepal News: CIB relaunches investigation into fake bhutanese refugee scam",
+      "url": "https://nepalnews.com/s/nation/cib-relaunches-investigation-into-fake-bhutanese-refugee-scam",
+      "description": "Provides updates on the investigation's relaunch following the arrest of Niranjan Kharel in November 2023."
+    },
+    {
+      "title": "NepYork: Fugitive in Nepal’s U.S. Resettlement Fake Refugee Scam Recaptured After Prison Escape",
+      "url": "https://nepyork.com/2025/10/05/fugitive-in-nepals-u-s-resettlement-fake-refugee-scam-recaptured-after-prison-escape/",
+      "description": "Reports on the re-arrest of escaped key planner Sandesh Sharma Pokhrel. Note: The URL contains a typo year (2025), the event occurred in 2023."
+    },
+    {
+      "title": "Onlinekhabar: Police conclude fake Bhutanese refugee scam was masterminded by Rayamajhi, Rai",
+      "url": "https://english.onlinekhabar.com/fake-bhutanese-refugee-scam-concluded.html",
+      "description": "Presents police investigation findings that Top Bahadur Rayamajhi and Indrajit Rai were the alleged masterminds."
+    },
+    {
+      "title": "Kantipur TV: Supreme Court order on detention of Rayamajhi and Rai",
+      "url": "https://tv.ekantipur.com/news/2024-04-26/20240426194726",
+      "description": "Reports on the Supreme Court's order to keep Top Bahadur Rayamajhi and Indrajit Rai in custody during the trial (in Nepali)."
+    },
+    {
+      "title": "Nagarik News: 16 people including Rayamajhi and Khan sent to jail",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/1435431-1686925560.html",
+      "description": "Confirms the district court's decision to send 16 accused, including Khand and Rayamajhi, to judicial custody (in Nepali)."
+    },
+    {
+      "title": "Setopati: Khand arrested without court's warrant",
+      "url": "https://www.setopati.com/political/302484",
+      "description": "Details the circumstances of Bal Krishna Khand's arrest, noting it was done without a warrant due to fears he might abscond."
+    },
+    {
+      "title": "Artha Sanjal: Forgery in the Home Ministry's confidential report",
+      "url": "https://arthasanjal.com/2023/04/399088/",
+      "description": "Reports on the forgery of the Home Ministry's report and the initial arrests in the case (in Nepali)."
+    },
+    {
+      "title": "Diyopost: Final hearing begins at Kathmandu District Court",
+      "url": "https://www.diyopost.com/news/2024/09/03/178982",
+      "description": "News report confirming the start date of the final hearing of the case on September 3, 2024 (in Nepali)."
+    },
+    {
+      "title": "Nepal News: Top Bahadur Rayamajhi arrested from Budhanilkantha",
+      "url": "https://nepalnews.com/s/nation/top-bahadur-rayamajhi-arrested-from-budhanilkantha",
+      "description": "Report on the arrest of Top Bahadur Rayamajhi after he was declared a fugitive."
+    }
+  ]
+}

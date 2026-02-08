@@ -1,0 +1,173 @@
+{
+  "title": "Tax Settlement Commission Corruption Case (2015-Ongoing)",
+  "description": "<p>This case involves allegations of large-scale corruption against the members of the Tax Settlement Commission (TSC), which was formed in February 2015. The commission, consisting of Chairman <strong>Lumbadhoj Mahat</strong>, member <strong>Umesh Prasad Dhakal</strong>, and member-secretary <strong>Chudamani Sharma</strong> (then Director General of the Inland Revenue Department), was accused of abusing its authority to provide illegal and arbitrary tax exemptions to various businesses, causing a massive loss to the state exchequer.</p><p>The scandal first came to public attention through the 54th annual report of the Office of the Auditor General in April 2017, which flagged irregularities in tax settlements amounting to over Rs 21 billion. This prompted investigations by the Public Accounts Committee (PAC) and the Commission for Investigation of Abuse of Authority (CIAA).</p><p>The CIAA subsequently filed multiple corruption cases against the trio at the Special Court:</p><ul><li>A primary case in July 2017 for embezzling <strong>Rs 10.02 billion</strong>.</li><li>A supplementary case in June 2021 for embezzling an additional <strong>Rs 1.003 billion</strong> related to waivers for 71 other enterprises.</li><li>A separate case against Chudamani Sharma and his wife, Kalpana Uprety Sharma, for amassing disproportionate assets worth <strong>Rs 42.95 million</strong>.</li></ul><p>The investigation revealed a modus operandi that included waiving non-waivable taxes like VAT, settling cases for companies that had not followed legal procedures, falsifying reports to understate exemptions, and providing massive discounts to profitable corporations. For instance, Triveni Distillery allegedly had a tax liability of over Rs 3.3 billion settled for just Rs 39.9 million.</p><p>On June 1, 2023, the Special Court convicted Mahat, Dhakal, and Sharma in the main corruption case but acquitted Sharma and his wife in the disproportionate assets case. The three were sentenced to over nine years in prison and ordered to pay substantial fines. However, on July 9, 2024, the <strong>Supreme Court of Nepal annulled the Special Court's verdict</strong>, citing 'grave legal flaws' and violations of the principles of natural justice. The Supreme Court ordered a complete retrial by the Special Court, and the case remains ongoing.</p>",
+  "unverified_info": "<p>There are significant discrepancies across various official reports and news articles regarding the exact financial figures involved in the scandal. While the specific amounts filed by the CIAA are precise, the total loss to the state is reported with wide variations.</p><ul><li><strong>Total Alleged Loss:</strong> The Office of the Auditor General's initial report estimated that the state lost nearly <strong>Rs 21 billion</strong> (settling Rs 30.52 billion in disputed taxes for only Rs 9.54 billion).</li><li><strong>Initial CIAA Case Amount:</strong> News reports on the first case filing mentioned varying figures, including <strong>Rs 10.02 billion</strong>, <strong>Rs 10.96 billion</strong>, and 'nearly <strong>Rs 11 billion</strong>'. The official charge sheet amount was Rs 10.02 billion.</li><li><strong>Special Court Fines:</strong> Following the 2023 conviction, the fines were also reported with some confusion. Some sources reported a fine of <strong>Rs 4.1 billion</strong> for each official, while others mentioned a total penalty of <strong>Rs 6 billion</strong> specifically for Chudamani Sharma. The verdict was based on a determined loss of <strong>Rs 6.16 billion</strong>.</li></ul><p>These inconsistencies highlight the complexity of quantifying the total financial impact and the different figures used at various stages of the investigation and prosecution.</p>",
+  "key_allegations": [
+    "Abuse of authority under the Tax Settlement Commission Act, 1976",
+    "Granting illegal and arbitrary tax exemptions to businesses with malafide intent",
+    "Embezzlement of state revenue causing significant financial loss",
+    "Waiving non-waivable taxes, particularly Value Added Tax (VAT)",
+    "Falsifying official reports to conceal the actual amount of tax waivers",
+    "Settling tax disputes for companies that had not withdrawn pending appeals from the Revenue Tribunal",
+    "Amassing wealth disproportionate to known sources of income (separate charge against Chudamani Sharma)"
+  ],
+  "alleged_entities": [
+    "Chudamani Sharma",
+    "Lumbadhoj Mahat",
+    "Umesh Prasad Dhakal",
+    "Kalpana Uprety Sharma",
+    "Tax Settlement Commission (TSC)"
+  ],
+  "related_entities": [
+    "Inland Revenue Department (IRD)",
+    "Commission for Investigation of Abuse of Authority (CIAA)",
+    "Office of the Auditor General",
+    "Special Court, Kathmandu",
+    "Supreme Court of Nepal",
+    "Legislature-Parliament Public Accounts Committee (PAC)",
+    "Ministry of Finance",
+    "Ncell",
+    "Triveni Distillery"
+  ],
+  "locations": [
+    {
+      "other": "Government offices and courts",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Tax Evasion",
+    "Abuse of Authority",
+    "Embezzlement",
+    "Tax Settlement Commission",
+    "CIAA",
+    "Special Court",
+    "Supreme Court",
+    "Fiscal Corruption"
+  ],
+  "case_start_date": "2015-02-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2015-02-01",
+      "title": "Tax Settlement Commission Formed",
+      "description": "The government forms a three-member Tax Settlement Commission (TSC) to resolve disputed tax cases, with Lumbadhoj Mahat as Chairman, Umesh Prasad Dhakal as member, and Chudamani Sharma as member-secretary."
+    },
+    {
+      "event_date": "2017-04-13",
+      "title": "Auditor General's Report Released",
+      "description": "The Office of the Auditor General's 54th annual report is released, publicly detailing questionable tax settlements by the TSC amounting to a loss of over Rs 21 billion for the state."
+    },
+    {
+      "event_date": "2017-04-27",
+      "title": "PAC Directs Investigation",
+      "description": "The Public Accounts Committee (PAC) of the Legislature-Parliament directs the Ministry of Finance to submit the TSC's report for investigation based on the Auditor General's findings."
+    },
+    {
+      "event_date": "2017-06-02",
+      "title": "Chudamani Sharma Arrested",
+      "description": "The CIAA arrests Chudamani Sharma, member-secretary of the TSC, on charges of corruption and misuse of authority. Other members Mahat and Dhakal are reported to be absconding."
+    },
+    {
+      "event_date": "2017-07-16",
+      "title": "First Corruption Case Filed",
+      "description": "The CIAA files its first corruption case at the Special Court against Sharma, Mahat, and Dhakal, accusing them of embezzling Rs 10.02 billion."
+    },
+    {
+      "event_date": "2018-01-29",
+      "title": "Disproportionate Assets Case Filed",
+      "description": "The CIAA files a separate corruption case against Chudamani Sharma and his wife, Kalpana Uprety Sharma, for allegedly amassing wealth worth Rs 42.95 million disproportionate to legal income."
+    },
+    {
+      "event_date": "2021-06-23",
+      "title": "Supplementary Corruption Case Filed",
+      "description": "The CIAA files a supplementary charge sheet against the trio, seeking to recover an additional Rs 1.003 billion related to tax waivers for 71 other enterprises."
+    },
+    {
+      "event_date": "2023-06-01",
+      "title": "Special Court Convicts Officials",
+      "description": "The Special Court convicts Chudamani Sharma, Lumbadhoj Mahat, and Umesh Prasad Dhakal in the tax exemption corruption case. On the same day, the court acquits Sharma and his wife in the separate disproportionate assets case."
+    },
+    {
+      "event_date": "2023-06-20",
+      "title": "Sentences Announced",
+      "description": "The Special Court sentences Mahat to nine years and one month, and Sharma and Dhakal to nine years in prison each, along with heavy fines based on a determined loss of Rs 6.16 billion."
+    },
+    {
+      "event_date": "2024-07-09",
+      "title": "Supreme Court Annuls Verdict",
+      "description": "A division bench of the Supreme Court annuls the Special Court's verdict, citing 'grave legal flaws' and procedural errors. It orders the case to be sent back to the Special Court for a complete retrial."
+    },
+    {
+      "event_date": "2024-07-28",
+      "title": "Retrial Process Begins",
+      "description": "The three accused are summoned to appear before the Special Court as the retrial process begins following the Supreme Court's order."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Kathmandu Post: 3 tax settlement officials including Sharma convicted of corruption",
+      "url": "https://kathmandupost.com/national/2023/06/02/3-tax-settlement-officials-including-sharma-convicted-of-corruption",
+      "description": "News report on the Special Court's conviction of Chudamani Sharma, Lumbadhoj Mahat, and Umesh Prasad Dhakal in June 2023."
+    },
+    {
+      "title": "Setopati: SC annuls Special Court verdict in corruption case against Tax Settlement Commission officials",
+      "url": "https://en.setopati.com/political/161474",
+      "description": "Reports on the Supreme Court's July 2024 decision to annul the Special Court's verdict and order a retrial, citing legal flaws."
+    },
+    {
+      "title": "The Himalayan Times: Rs 11 billion graft case against Sharma and two others filed",
+      "url": "https://thehimalayantimes.com/nepal/rs-11-billion-graft-case-against-chudamani-sharma-and-two-others-filed",
+      "description": "News article from July 2017 detailing the initial filing of the corruption case by the CIAA at the Special Court."
+    },
+    {
+      "title": "myRepublica: SC issues retrial order in Rs 6 billion corruption verdict",
+      "url": "https://myrepublica.nagariknetwork.com/news/sc-issues-retrial-order-in-rs-6-billion-corruption-verdict/",
+      "description": "Reports on the Supreme Court's order for a retrial in the tax settlement case, annulling the previous conviction."
+    },
+    {
+      "title": "The Kathmandu Post: Anti-graft body files Rs1 billion graft case against three for granting illegal tax waivers",
+      "url": "https://kathmandupost.com/national/2021/06/23/anti-graft-body-files-rs1-billion-graft-case-against-three-for-granting-illegal-tax-waivers",
+      "description": "Article on the supplementary corruption case filed by the CIAA in June 2021, seeking to recover an additional Rs 1.003 billion."
+    },
+    {
+      "title": "The Kathmandu Post: CIAA files another graft case against Chudamani Sharma",
+      "url": "https://kathmandupost.com/national/2018/01/29/ciaa-files-another-graft-case-against-chudamani-sharma",
+      "description": "Report on the separate disproportionate assets case filed against Chudamani Sharma and his wife in January 2018."
+    },
+    {
+      "title": "OnlineKhabar: Chudamani Sharma case: CIAA claims suspended tax official embezzled Rs 10.02 billion",
+      "url": "https://english.onlinekhabar.com/chudamani-sharma-case-ciaa-claims-suspended-tax-official-embezzled-rs-10-02-billion.html",
+      "description": "News report specifying the amount of Rs 10.02 billion in the first charge sheet filed by the CIAA."
+    },
+    {
+      "title": "The Kathmandu Post: Convicted former office bearers of Tax Settlement Commission sentenced to nine years in jail",
+      "url": "https://kathmandupost.com/national/2023/06/21/convicted-former-office-bearers-of-tax-settlement-commission-sentenced-to-nine-years-in-jail",
+      "description": "Details the sentencing of the three officials by the Special Court in June 2023, including prison terms."
+    },
+    {
+      "title": "Center for Investigative Journalism - Nepal: Revelation-Malpractice of Tax Settlement Commission",
+      "url": "https://cijnepal.org.np/revelation-malpractice-of-tax-settlement-commission-huge-crime-on-national-treasury/",
+      "description": "An investigative piece detailing the alleged malpractices of the TSC, highlighting the large financial crime against the state."
+    },
+    {
+      "title": "myRepublica: Special Court slaps nine-year jail term and Rs 6 billion cash penalty against former IRD Chief Chudamani Sharma",
+      "url": "https://myrepublica.nagariknetwork.com/news/special-court-slaps-nine-year-jail-term-and-rs-6-billion-cash-penalty-against-former-ird-chief-chudamani-sharma/",
+      "description": "News report on the sentencing, highlighting the specific penalties imposed on Chudamani Sharma."
+    },
+    {
+      "title": "Nepal News: SC sends Chudamani Sharma’s tax settlement case back to Special Court",
+      "url": "https://nepalnews.com/s/nation/sc-sends-chudamani-sharma-s-tax-settlement-case-back-to-special-court",
+      "description": "Confirmation of the Supreme Court's decision to order a retrial at the Special Court."
+    },
+    {
+      "title": "The Kathmandu Post: PAC directs Finance Ministry to submit tax settlement commission's report",
+      "url": "https://kathmandupost.com/money/2017/04/27/pac-directs-finance-ministry-to-submit-tax-settlement-commissions-report-within-14-days",
+      "description": "Report on the parliamentary committee's initial action after the Auditor General's report was released in April 2017."
+    }
+  ]
+}

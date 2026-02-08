@@ -1,0 +1,99 @@
+{
+  "title": "Corruption in Park Construction in Biratnagar",
+  "description": "<p>On July 8, 2022, the Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case against nine individuals, including <strong>Indira Karki</strong>, the former Deputy Mayor of Biratnagar Metropolitan City, and <strong>Ekdev Adhikari</strong>, the then Chief Administrative Officer. The case concerned alleged corruption in the construction of a park and pond steps in Ward-15 of Biratnagar.</p><p>The accused were charged with embezzling state funds amounting to <strong>NPR 1,055,979.48</strong> by creating false documents to claim payments for work that was either incomplete or overvalued. The CIAA's investigation alleged that:</p><ul><li>Engineers created a measurement book that falsely inflated the amount of work completed.</li><li>The Chief Administrative Officer approved the fraudulent measurement book without on-site verification.</li><li>The user committee used these false documents to claim payment.</li><li>The user committee also violated regulations by using heavy machinery (an excavator) for a project intended to be carried out with local labor.</li></ul><p>The case was filed at the Special Court in Kathmandu under Section 8 of the Prevention of Corruption Act, 2002. However, on <strong>November 9, 2023</strong>, a bench of the Special Court delivered a final verdict, <strong>acquitting all nine accused individuals</strong> of all corruption charges.</p>",
+  "unverified_info": "<p>The alleged irregularities and corrupt activities related to the park construction project occurred around the year 2020. However, the precise start and end dates of the construction project itself are not specified in the available source documents.</p>",
+  "key_allegations": [
+    "Embezzlement of state funds totaling NPR 1,055,979.48",
+    "Creation of false documentation (measurement book) to overstate completed work",
+    "Approval of payments for incomplete and overvalued construction work without proper verification",
+    "Collusion between public officials and a consumer committee to misappropriate funds",
+    "Violation of regulations by using heavy machinery instead of local labor"
+  ],
+  "alleged_entities": [
+    "Indira Karki",
+    "Ekdev Adhikari",
+    "Gopal Pokharel",
+    "Pushpak Pradhan",
+    "Mohammad Iftekhar Alam",
+    "Aslam Alam",
+    "Baldev Sahu Sudi",
+    "Dinanath Acharya",
+    "Kalpana Ghimire",
+    "Park Construction Consumer Committee"
+  ],
+  "related_entities": [
+    "Biratnagar Metropolitan City",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Special Court, Kathmandu"
+  ],
+  "locations": [
+    {
+      "other": "Park and pond steps construction near Rani Health Post",
+      "ward_no": 15,
+      "municipality": "Biratnagar Metropolitan City",
+      "district": "Morang",
+      "province": "Koshi Province"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Infrastructure",
+    "Embezzlement",
+    "CIAA",
+    "Special Court",
+    "Acquittal",
+    "Biratnagar",
+    "Consumer Committee"
+  ],
+  "case_start_date": "2022-07-08",
+  "case_end_date": "2023-11-09",
+  "timeline": [
+    {
+      "event_date": "2022-07-08",
+      "title": "CIAA Files Corruption Case",
+      "description": "The Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case at the Special Court, Kathmandu, against nine individuals, including the former Deputy Mayor of Biratnagar, Indira Karki, and then Chief Administrative Officer, Ekdev Adhikari."
+    },
+    {
+      "event_date": "2023-11-09",
+      "title": "Special Court Acquits All Accused",
+      "description": "The Special Court in Kathmandu acquitted all nine individuals accused in the park construction corruption case, citing a lack of evidence to support the CIAA's charges."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nepal Live Today - CIAA files graft case against nine including former Deputy Mayor of Biratnagar",
+      "url": "https://nepallivetoday.com/2022/07/08/ciaa-files-graft-case-against-nine-including-former-deputy-mayor-of-biratnagar/",
+      "description": "News report detailing the filing of the case by the CIAA, naming the accused, and stating the total alleged embezzled amount of NPR 1,055,979.48."
+    },
+    {
+      "title": "The Kathmandu Post - Biratnagar Metropolis officials acquitted in graft case",
+      "url": "https://kathmandupost.com/koshi-province/2023/11/10/biratnagar-metropolis-officials-acquitted-in-graft-case",
+      "description": "Article reporting on the Special Court's decision to acquit all nine individuals, including former Deputy Mayor Indira Karki and CAO Ekdev Adhikari."
+    },
+    {
+      "title": "The Himalayan Times - Biratnagar's ex-deputy mayor among nine booked for graft",
+      "url": "https://www.thehimalayantimes.com/nepal/biratnagars-ex-deputy-mayor-among-nine-booked-for-graft",
+      "description": "Provides a detailed account of the CIAA's allegations, including the preparation of false documents and the unauthorized use of heavy machinery."
+    },
+    {
+      "title": "Ratopati - विराटनगरकी निवर्तमान उपमेयर, प्रशासकीय अधिकृत सहित ९ जनाविरुद्ध भ्रष्टाचार मुद्दा (Nepali)",
+      "url": "https://www.ratopati.com/story/250267/2022/7/8/biratnagar",
+      "description": "Nepali news report confirming the filing of the corruption case by the CIAA against nine individuals related to the Biratnagar park construction."
+    },
+    {
+      "title": "Lokaantar - विराटनगरकी पूर्व उपमेयर इन्दिरा कार्कीसहित ९ जनाविरुद्ध भ्रष्टाचार मुद्दा (Nepali)",
+      "url": "https://www.lokaantar.com/lokantar/238128",
+      "description": "A Nepali news report specifying the different claim amounts sought by the CIAA from different groups of accused individuals."
+    },
+    {
+      "title": "NepalWatch - विराटनगर महानगरका पूर्वउपमेयर र प्रशासकीय अधिकृतलाई भ्रष्टाचार मुद्दामा सफाइ (Nepali)",
+      "url": "https://nepalwatch.com/2023/11/08/174983/",
+      "description": "Nepali news source reporting on the acquittal of the former deputy mayor and chief administrative officer by the Special Court."
+    },
+    {
+      "title": "Khabarhub - विराटनगरकी निवर्तमान उपमेयरसहित ९ जनाविरुद्ध अख्तियारद्वारा भ्रष्टाचार मुद्दा दायर (Nepali)",
+      "url": "https://www.khabarhub.com/2022/07/256799/",
+      "description": "Confirms that the CIAA filed a corruption case against the former Deputy Mayor of Biratnagar and eight others."
+    }
+  ]
+}

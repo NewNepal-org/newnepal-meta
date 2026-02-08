@@ -1,0 +1,127 @@
+{
+  "title": "Bagheshwori Temple Guthi Land Irregularity",
+  "description": "<p>This case concerns the irregular transfer of <strong>84 bigha, 10 kattha, and 10 dhur</strong> of Guthi (trust) land belonging to the historic Bagheshwori Temple in Nepalgunj, Banke District. The land, classified as a 'Rajguthi' (state-controlled trust), was found to have been illegally converted to 'Raikar' (a form of private ownership) and registered in the names of approximately 300 private individuals.</p><p>The land is primarily located in the former Indrapur Village Development Committee (VDC) area, which now falls under Nepalgunj Sub-Metropolitan City, Janaki Rural Municipality, and Khajura Rural Municipality. The irregularity was first exposed publicly around 2019. Investigations revealed that the fraudulent transfers occurred based on decisions made around 1970-71 and 2000. Crucially, the official records ('misil') from the 1970s, which would clarify the legal basis for the land's conversion from Guthi to Raikar, are missing from government archives.</p><p>According to investigations, the land was first transferred to the names of the temple's priests (mahants), <strong>Chandan Nath Yogi and Harihar Nath Yogi</strong>, before being systematically sold off and subdivided. The individuals who acquired the land obtained official ownership certificates (lalpurja), and some have subsequently sold the property to others.</p><p>In response to public outcry, the government formed a high-level \"Public, Government and Guthi Land Protection-related Probe Commission\" led by former judge Mohan Raman Bhattarai. In December 2019, the commission submitted its report to the Prime Minister, confirming the irregularity. The report recommended that the 84 bigha of land be returned to the temple's Guthi and that those involved in the illegal transfer be prosecuted by an anti-corruption body. Despite these recommendations, the government has been slow to act, and the report has not been fully implemented. As a partial measure, the Land Revenue Office in Banke has frozen transactions for 17 bigha of the disputed land.</p>",
+  "unverified_info": "<p>Initial information identified <strong>Chandan Nath Yogi and Harihar Nath Yogi</strong> as the main accused. News reports confirm they were temple priests and that the land was transferred to their names after its conversion to Raikar, before it was sold off to numerous individuals. </p><p>However, despite a high-level government commission recommending prosecution of those involved, extensive searches of public records and news archives did not yield any information about the Commission for the Investigation of Abuse of Authority (CIAA) or any other prosecuting body filing a formal corruption case against them or others in the Special Court. The Bhattarai Commission's report recommended that the 'competent authority for investigation of corruption' take up the case, but it is unclear if this has happened. The current legal status or whereabouts of Chandan Nath Yogi and Harihar Nath Yogi are unknown from the available sources.</p>",
+  "key_allegations": [
+    "Illegal conversion of religious trust (Guthi) land to private (Raikar) ownership.",
+    "Fraudulent registration of 84 bigha of temple land in the names of approximately 300 private individuals.",
+    "Collusion between temple priests and government officials to facilitate illegal land transfers.",
+    "Intentional disappearance of critical official land records ('misil') from 1970-71 to conceal the crime."
+  ],
+  "alleged_entities": [
+    "Chandan Nath Yogi",
+    "Harihar Nath Yogi"
+  ],
+  "related_entities": [
+    "Bagheshwori Temple Guthi Management Committee",
+    "Land Revenue Office, Banke",
+    "Public, Government and Guthi Land Protection-related Probe Commission (Bhattarai Commission)",
+    "Government of Nepal",
+    "Nepalgunj Sub-Metropolitan City"
+  ],
+  "locations": [
+    {
+      "other": "Formerly Indrapur VDC",
+      "ward_no": null,
+      "municipality": "Nepalgunj Sub-Metropolitan City",
+      "district": "Banke",
+      "province": "Lumbini Province"
+    },
+    {
+      "other": "Formerly Indrapur VDC",
+      "ward_no": null,
+      "municipality": "Janaki Rural Municipality",
+      "district": "Banke",
+      "province": "Lumbini Province"
+    },
+    {
+      "other": "Formerly Indrapur VDC",
+      "ward_no": null,
+      "municipality": "Khajura Rural Municipality",
+      "district": "Banke",
+      "province": "Lumbini Province"
+    }
+  ],
+  "tags": [
+    "Land Corruption",
+    "Guthi Land",
+    "Embezzlement",
+    "Religious Trust",
+    "Missing Records",
+    "Collusion",
+    "Nepalgunj",
+    "Banke",
+    "Lumbini Province"
+  ],
+  "case_start_date": "1970-01-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "1879-01-01",
+      "title": "Royal Decree Confirms Land as Guthi",
+      "description": "King Ranodip Singh issues a 'sanad' (royal decree) affirming the land belongs to the Bagheshwori Guthi under the care of priest Ganga Nath Jogi and his successors."
+    },
+    {
+      "event_date": "1970-01-01",
+      "title": "Alleged Illegal Land Conversion Decision",
+      "description": "Decisions are allegedly made between 1970-1971 (2027/28 BS) to convert the Guthi land to Raikar (private). The official files ('misil') for these decisions later go missing."
+    },
+    {
+      "event_date": "2000-01-01",
+      "title": "Land Registered to Private Individuals",
+      "description": "Around this time, land records show that approximately 84 bigha of land were registered in the names of about 300 private individuals."
+    },
+    {
+      "event_date": "2019-08-19",
+      "title": "Land Irregularity Exposed Publicly",
+      "description": "News reports reveal that 84 bigha of the temple's land has been illegally transferred to private individuals, prompting the formation of a local investigation subcommittee."
+    },
+    {
+      "event_date": "2019-12-14",
+      "title": "Probe Commission Submits Report to PM",
+      "description": "The high-level government probe commission, led by Mohan Raman Bhattarai, submits its investigation report to Prime Minister K.P. Sharma Oli, recommending the land be returned and the culprits prosecuted."
+    },
+    {
+      "event_date": "2021-11-01",
+      "title": "Government Inaction Reported",
+      "description": "News reports highlight the government's significant delay and failure to implement the probe commission's recommendations to reclaim the land. The Land Revenue Office confirms it has frozen transactions for only 17 of the 84 bigha."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nagarik News: Probe Commission Report on Bagheshwori Temple Land",
+      "url": "https://nagriknews.nagariknetwork.com/social-affairs/169979-1576332660.html",
+      "description": "Reports on the submission of the probe commission's report to the Prime Minister. It details the recommendation to return 84 bigha of land and highlights that the critical 'misil' documents from 2027/28 BS are missing."
+    },
+    {
+      "title": "myRepublica: 84 bigha of Bageshwari temple land transferred to individuals",
+      "url": "https://myrepublica.nagariknetwork.com/news/84-bigha-of-bageshwari-temple-land-transferred-to-individuals/",
+      "description": "Article from August 2019 breaking the story. It states 84 bigha were transferred to 300 people and names specific individuals who acquired parts of the land."
+    },
+    {
+      "title": "Ukeraa: The story of the land of Bagheshwari, which the Mahant devoured",
+      "url": "https://ukeraa.com/news/2022/10/26/39433",
+      "description": "Provides historical context, alleges the temple priests (mahants) were responsible for the sale, and states the Bhattarai commission's report led to the freezing of 17 bigha of land transactions."
+    },
+    {
+      "title": "eKantipur: Commission's report on encroachment of government and guthi land shelved",
+      "url": "https://ekantipur.com/news/2021/11/01/163573674688998475.html",
+      "description": "Article from November 2021 highlighting the government's delay and inaction in implementing the probe commission's report to reclaim the land."
+    },
+    {
+      "title": "Ujyaalo Online: After 48 years, search for Bagheshwari's land",
+      "url": "https://ujyaaloonline.com/story/36021/2019/08/21/baggeshwori-temple-land-",
+      "description": "Reports that after the land was converted to Raikar, it initially appeared in the names of priests Chandan Nath Yogi and Harihar Nath Yogi."
+    },
+    {
+      "title": "Ujeli News: 84 bighas of land of Bagheshwari temple in the name of individuals",
+      "url": "https://ujelinews.com/archives/30588",
+      "description": "Details the findings of the local property investigation sub-committee, confirming the 84 bigha transfer and the missing decision records from 2027/28 BS."
+    },
+    {
+      "title": "myRepublica: Probe commission hands Bageshwari temple land encroachment report to govt",
+      "url": "https://myrepublica.nagariknetwork.com/news/probe-commission-hands-bageshwari-temple-land-encroachment-report-to-govt/",
+      "description": "Confirms that the Mohan Raman Bhattarai-led commission handed its findings on the 84-bigha encroachment to the Prime Minister in December 2019."
+    }
+  ]
+}

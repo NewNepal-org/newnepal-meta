@@ -1,0 +1,146 @@
+{
+  "title": "Illicit Wealth Acquisition Case Against Cholendra Shumsher JB Rana",
+  "description": "<p>This case involves allegations of corruption and illicit wealth acquisition against former Chief Justice of Nepal, Cholendra Shumsher JB Rana. Formal investigations were initiated following complaints filed by medical reform activist Dr. Govinda KC, the Nepal Bar Association (NBA), and other civil society groups in late 2021.</p><p>The primary investigating bodies are the <strong>Department of Money Laundering Investigation (DMLI)</strong> and a parliamentary <strong>Impeachment Recommendation Committee</strong>. The DMLI launched its probe on December 30, 2021, focusing on the assets of Rana's family members.</p><p>On <strong>February 13, 2022</strong>, an impeachment motion was filed against Rana by 98 lawmakers, leading to his immediate suspension as Chief Justice. A parliamentary committee was subsequently formed to investigate the charges outlined in the motion and a 35-point memorandum submitted by the NBA. Rana officially retired on December 13, 2022, while still under suspension and investigation.</p>",
+  "unverified_info": "<p>The following are specific but unproven allegations raised during the investigations:</p><ul><li>Rana is alleged to have purchased two plots of land (<strong>kitta no. 109 and 110</strong>) in Thamel, Kathmandu, in his wife Reji Rana's name around 2008-2009. The purchase was allegedly financed with crores of rupees embezzled during his tenure as a judge at the Special Court.</li><li>His brother, <strong>Prabhu Shumsher Rana</strong>, is accused of managing bribery operations from a rented office on his behalf.</li><li>Several individuals have been named as alleged intermediaries for handling bribes, including a Lalitpur-based trader known as <strong>'Ghyu Sahu'</strong>, <strong>Amit Shrestha</strong>, and <strong>Dipak Timilsina</strong>.</li><li>The Nepal Bar Association accused Rana of soliciting bribes from candidates for judicial appointments and promotions.</li><li>He is specifically accused of receiving a bribe from <strong>Krishna Bahadur Giri (aka Siddha Baba)</strong> and subsequently pressuring a lower court judge to deliver a favorable verdict in his case.</li></ul>",
+  "key_allegations": [
+    "Illicit wealth acquisition and money laundering",
+    "Abuse of authority and judicial corruption",
+    "Taking bribes for favorable verdicts and judicial appointments",
+    "Using family members and intermediaries to manage illicit funds",
+    "Compromising the separation of powers by seeking a share in the government cabinet"
+  ],
+  "alleged_entities": [
+    "Cholendra Shumsher JB Rana",
+    "Reji Rana",
+    "Prabhu Shumsher Rana",
+    "Ghyu Sahu",
+    "Amit Shrestha",
+    "Dipak Timilsina"
+  ],
+  "related_entities": [
+    "Department of Money Laundering Investigation (DMLI)",
+    "Impeachment Recommendation Committee",
+    "Nepal Bar Association (NBA)",
+    "Dr. Govinda KC",
+    "Broad Citizens' Movement",
+    "Krishna Bahadur Giri (aka Siddha Baba)",
+    "Gajendra Hamal"
+  ],
+  "locations": [
+    {
+      "other": "Thamel",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Illicit Wealth",
+    "Money Laundering",
+    "Judicial Corruption",
+    "Abuse of Authority"
+  ],
+  "case_start_date": "2021-12-26",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2019-01-02",
+      "title": "Appointed Chief Justice",
+      "description": "Cholendra Shumsher Rana was appointed Chief Justice of the Supreme Court of Nepal."
+    },
+    {
+      "event_date": "2021-10-25",
+      "title": "Protests Begin",
+      "description": "The Nepal Bar Association (NBA) and a majority of Supreme Court justices began protests against Rana, demanding his resignation over allegations of corruption and misconduct."
+    },
+    {
+      "event_date": "2021-12-26",
+      "title": "Formal Complaint Filed at DMLI",
+      "description": "Dr. Govinda KC, representing the 'Broad Citizens' Movement,' filed a formal complaint at the Department of Money Laundering Investigation (DMLI) against Rana, demanding a probe into his assets."
+    },
+    {
+      "event_date": "2021-12-30",
+      "title": "DMLI Initiates Investigation",
+      "description": "The DMLI confirmed the start of an investigation into the wealth of Rana's family members and relatives, appointing investigating officers for the probe."
+    },
+    {
+      "event_date": "2022-02-13",
+      "title": "Impeachment Motion and Suspension",
+      "description": "A total of 98 lawmakers from the ruling coalition registered an impeachment motion against Rana in Parliament, leading to his immediate suspension from the post of Chief Justice."
+    },
+    {
+      "event_date": "2022-03-06",
+      "title": "Impeachment Committee Formed",
+      "description": "A parliamentary Impeachment Recommendation Committee was formed to investigate the charges leveled against Rana in the impeachment motion."
+    },
+    {
+      "event_date": "2022-08-29",
+      "title": "NBA Submits Memorandum to Committee",
+      "description": "The Nepal Bar Association submitted a detailed 35-point letter to the Impeachment Recommendation Committee, outlining specific allegations of corruption, irregularities, and misconduct against Rana."
+    },
+    {
+      "event_date": "2022-09-01",
+      "title": "Rana Testifies Before Committee",
+      "description": "Rana began appearing before the Impeachment Recommendation Committee to provide his statement and defend himself against the allegations. The hearings continued through September."
+    },
+    {
+      "event_date": "2022-12-13",
+      "title": "Retirement from Judiciary",
+      "description": "Cholendra Shumsher Rana officially retired from the judiciary upon reaching the mandatory retirement age of 65, while still under suspension."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Allegations galore against Chief Justice",
+      "url": "https://thehimalayantimes.com/nepal/allegations-galore-against-chief-justice",
+      "description": "A news report by The Himalayan Times detailing the 35-point letter of allegations submitted by the Nepal Bar Association to the Impeachment Committee."
+    },
+    {
+      "title": "Money laundering probe begins against Chief Justice Rana's relatives",
+      "url": "https://www.nepallivetoday.com/2021/12/31/money-laundering-probe-begins-against-chief-justice-ranas-relatives/",
+      "description": "Report from Nepal Live Today on the Department of Money Laundering Investigation (DMLI) starting its probe into the property of Rana's relatives."
+    },
+    {
+      "title": "Complaint lodged against CJ Rana at Department of Money Laundering Investigation",
+      "url": "https://nepalnews.com/s/nation/complaint-lodged-against-cj-rana",
+      "description": "Nepal News report covering the complaint filed at the DMLI, mentioning specific property allegations in Thamel involving Rana's wife and brother."
+    },
+    {
+      "title": "Rana promoted corruption in judiciary, lawyers tell impeachment committee",
+      "url": "https://kathmandupost.com/national/2022/09/16/rana-promoted-corruption-in-judiciary-lawyers-tell-impeachment-committee",
+      "description": "The Kathmandu Post report on the testimony of lawyers before the Impeachment Committee, where they reiterated corruption claims against Rana."
+    },
+    {
+      "title": "DMLI starts investigating CJ Rana's property",
+      "url": "https://en.setopati.com/political/157588",
+      "description": "Setopati report confirming the start of the DMLI investigation into Rana's property based on a complaint filed by Dr. Govinda KC."
+    },
+    {
+      "title": "Investigation into CJ Rana's relatives' property has started",
+      "url": "https://aawaajnews.com/investigation-into-cj-ranas-relatives-property-has-started/",
+      "description": "Aawaaj News report stating that the DMLI appointed investigation officers for the probe against Rana's family."
+    },
+    {
+      "title": "Activists file money laundering case against CJ Rana",
+      "url": "https://en.ratopati.com/story/20124",
+      "description": "Ratopati report on civil society activists submitting a memorandum to the DMLI demanding an investigation into Rana's illicit assets."
+    },
+    {
+      "title": "A chronology of events behind controversies related to CJ Rana who is retiring today",
+      "url": "https://www.nepallivetoday.com/2022/12/13/a-chronology-of-events-behind-controversies-related-to-cj-rana-who-is-retiring-today/",
+      "description": "A timeline from Nepal Live Today detailing the key events leading up to the suspension and retirement of Chief Justice Rana."
+    },
+    {
+      "title": "Complaint against Chief Justice Rana at Money Laundering Department (In Nepali)",
+      "url": "https://sancharkarmi.com/news-details/92942/2021-12-26",
+      "description": "A Nepali language report from Sancharkarmi on the complaint filed against Rana at the DMLI by Dr. Govinda KC and others."
+    },
+    {
+      "title": "Complaint at Money Laundering Dept demanding investigation into CJ Rana's property (In Nepali)",
+      "url": "https://www.imagekhabar.com/news/376378/",
+      "description": "Image Khabar report (in Nepali) detailing the memorandum submitted to the DMLI, which specifies allegations of land purchase in Thamel (kitta no. 109, 110)."
+    }
+  ]
+}

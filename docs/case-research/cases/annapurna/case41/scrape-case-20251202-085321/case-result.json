@@ -1,0 +1,71 @@
+{
+  "title": "Nepal Telecom Billing System Corruption",
+  "description": "<p>The Commission for the Investigation of Abuse of Authority (CIAA) filed a corruption case on <strong>June 8, 2025</strong>, against 18 individuals associated with Nepal Telecom (NT). The case centers on alleged irregularities and corruption in the procurement and extension of the contract for NT's <strong>'Convergent Real-Time Billing and Customer Support Billing System'</strong>.</p><p>The primary allegation is that the accused colluded to cause significant financial loss to the state-owned utility. Instead of issuing a competitive tender for a new billing system, the NT board of directors, on January 8, 2023, decided to extend the Annual Maintenance Contract (AMC) with the existing vendor, <strong>Asia Info Linkage Technologies (China) Inc.</strong>, for four to five years. This contract, valued at approximately <strong>NRs 3.15 billion</strong>, was allegedly awarded in 'bad faith' with 'unnatural price rates' and without a competitive process.</p><p>The CIAA's investigation concluded that this non-competitive contract extension led to the misappropriation of public assets. The anti-graft body has filed the case at the Special Court in Kathmandu, seeking to recover <strong>NRs 334,817,430</strong> in damages and an additional <strong>NRs 98.8 million</strong> claimed as a direct loss.</p><p>The individuals charged include:</p><ul><li><strong>Sunil Paudel</strong> (Former Managing Director, Nepal Telecom)</li><li><strong>Sangita Pahadi</strong> (Incumbent Managing Director, Nepal Telecom)</li><li><strong>Pratibha Baidya</strong> (Then Technical Officer, Nepal Telecom)</li><li><strong>Rajendra Shrestha</strong> (Chief Financial Officer, Nepal Telecom)</li><li><strong>Jhabindra Lal Upadhyaya</strong> (Chief Operating Officer, Nepal Telecom)</li><li><strong>Binita Shrestha</strong> (Director, Nepal Telecom)</li><li><strong>Amul Pradhan</strong> (Acting Director, Nepal Telecom)</li><li><strong>Devendra Khatiwada</strong> (Manager, Nepal Telecom)</li><li><strong>Rajib Kumar KC</strong> (Deputy Manager, Nepal Telecom)</li><li><strong>Santosh Kumar Shrestha</strong> (Deputy Manager, Nepal Telecom)</li><li><strong>Nawal Chaudhary</strong> (Deputy Manager, Nepal Telecom)</li><li><strong>Mukti Prasad Aryal</strong> (Deputy Manager, Nepal Telecom)</li><li><strong>Hemprabha Ram Pratap Karna</strong> (Deputy Manager, Nepal Telecom)</li><li><strong>Pramatma Bhattarai</strong> (Deputy Manager, Nepal Telecom)</li><li><strong>Long Yong</strong> (Senior Director, Asia Info Yunghang Software (Beijing) Limited)</li><li><strong>Huang Wei (Yellow)</strong> (Then Project Manager, Asia Info Yunghang Software (Beijing) Limited)</li><li><strong>Shailesh Shrestha</strong> (Director, Arniko International Pvt Ltd - local agent)</li><li>Another unnamed official from Asia Info Linkage Technologies (China) Inc.</li></ul><p>This case is notable as Sunil Paudel was already convicted in a separate case related to the procurement of the National Payment Gateway and faces other corruption charges.</p>",
+  "unverified_info": "<ul><li>Initial reports suggested an annual loss of NRs 3 billion, which appears to be an exaggeration. News sources clarify the total contract value was approximately NRs 3.15 billion over five years, with claimed damages by the CIAA being significantly lower (around NRs 433.6 million in total).</li><li>The year '2079' mentioned in early documents corresponds to the Gregorian calendar year 2022/2023, specifically aligning with the contract signing in December 2022 (Poush 2079).</li><li>Some early information mentioned a 'substandard system' (कमसल प्रणाली), but the official charges filed by the CIAA focus primarily on financial irregularities, non-competitive bidding, and inflated pricing rather than the technical performance of the billing system.</li></ul>",
+  "key_allegations": [
+    "Corruption in public procurement",
+    "Awarding a contract without competitive bidding",
+    "Inflating contract price for personal gain",
+    "Misappropriation of public assets",
+    "Causing financial loss to a state-owned entity"
+  ],
+  "alleged_entities": [
+    "Nepal Telecom (NT)",
+    "Asia Info Linkage Technologies (China) Inc.",
+    "Arniko International Pvt Ltd"
+  ],
+  "related_entities": [],
+  "locations": [
+    {
+      "other": "Case filed at the Special Court",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Procurement",
+    "Telecommunications",
+    "CIAA",
+    "Special Court",
+    "State-Owned Enterprise"
+  ],
+  "case_start_date": "2023-01-08",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2022-12-31",
+      "title": "Contract Signed with Asia Info",
+      "description": "A contract worth approximately NRs 3.15 billion is signed with Chinese company Asia Info to maintain Nepal Telecom's billing system for five years. The exact date in December is not specified, so the end of the month is used as an approximation."
+    },
+    {
+      "event_date": "2023-01-08",
+      "title": "NT Board Approves AMC Extension",
+      "description": "The Nepal Telecom board of directors makes a formal decision to sign a four-year Annual Maintenance Contract (AMC) with Asia Info, with an option for a one-year extension, rather than initiating a new competitive tender process."
+    },
+    {
+      "event_date": "2025-06-08",
+      "title": "CIAA Files Corruption Case",
+      "description": "The Commission for the Investigation of Abuse of Authority (CIAA) files a corruption case at the Special Court in Kathmandu against 18 individuals, including former MD Sunil Paudel and incumbent MD Sangita Pahadi."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CIAA charges Nepal Telecom chief, 17 others with graft (The Kathmandu Post)",
+      "url": "https://thekathmandupost.com/national/2025/06/08/ciaa-charges-nepal-telecom-chief-17-others-with-graft",
+      "description": "News report detailing the CIAA's filing of a corruption case against 18 individuals, including Nepal Telecom's current and former heads, over irregularities in a billing system contract."
+    },
+    {
+      "title": "Nepal: Corruption case filed against 18 people including telecom chief (Economic Times)",
+      "url": "https://telecom.economictimes.indiatimes.com/news/international/nepal-corruption-case-filed-against-18-people-including-telecom-chief/119934444",
+      "description": "Report on the corruption case, specifying the number of accused individuals and the context of the investigation by Nepal's anti-graft body."
+    },
+    {
+      "title": "CIAA files corruption case against 18 over Nepal Telecom billing contract (Onlinekhabar)",
+      "url": "https://english.onlinekhabar.com/ciaa-nepal-telecom-billing-contract-corruption.html",
+      "description": "Article providing details on the alleged corruption, including the decision to extend the contract with Asia Info without competition and the financial damages claimed by the CIAA."
+    }
+  ]
+}

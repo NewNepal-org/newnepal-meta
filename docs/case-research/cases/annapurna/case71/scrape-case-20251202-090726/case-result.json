@@ -1,0 +1,83 @@
+{
+  "title": "Narayani Hospital MRI Machine Procurement Scandal",
+  "description": "<p>The case involves allegations of significant corruption and irregularities in the procurement of a 3-Tesla MRI machine for Narayani Hospital in Birgunj. The machine was purchased for approximately <strong>NPR 28-30 crore</strong> from a single bidder, <strong>Lumbini Health Care Pvt. Ltd.</strong>, despite its market value being estimated to be much lower, suggesting a fraudulent commission of over NPR 6 crore.</p><p>The procurement process, initiated in early 2022, is marred by accusations of bid-rigging or 'setting', as only one company submitted a bid. A comparison with a similar machine purchased by Tribhuvan University Teaching Hospital (TUTH) from the same manufacturer for NPR 20 crore highlights a potential price inflation of NPR 8 to 10 crore in the Narayani Hospital deal.</p><p><strong>Conflicting Accountability:</strong></p><p>There is a significant dispute over responsibility between the hospital and the central government. The Narayani Hospital administration, including spokesperson <strong>Dr. Udayanarayan Singh</strong> and procurement chief <strong>Sushil Yadav</strong>, claim they only acted on instructions from the Ministry of Health. They allege the Ministry:</p><ul><li>Provided the estimated budget for the machine.</li><li>Formed an expert committee to set the technical specifications.</li><li>Gave final approval for the tender despite there being only a single bidder.</li></ul><p>However, officials from the Ministry of Health have denied these claims, placing full responsibility on the hospital administration.</p><p><strong>CIAA Investigation and Aftermath:</strong></p><p>Following complaints, the Commission for the Investigation of Abuse of Authority (CIAA) launched an investigation. On March 1, 2023, a CIAA team <a href=\"https://www.onlinekhabar.com/2023/03/1283591\">seized procurement-related documents</a> from the hospital for review. As of mid-2024, no formal chargesheet has been filed in this specific case.</p><p>The multi-crore machine is currently <strong>non-operational</strong>. The hospital reportedly failed to pay the final 20% of the contract amount to the supplier, who in turn shut down the machine. This has forced patients to seek MRI services at private facilities for more than double the cost, defeating the purpose of the public investment.</p>",
+  "unverified_info": "<p>Certain details in this case remain unconfirmed or are still under investigation:</p><ul><li>The specific names of the officials within the <strong>Ministry of Health</strong> who allegedly drafted the technical specifications and approved the single-bidder tender are not publicly known.</li><li>The exact amount of financial loss or illicit commission is yet to be formally determined by the CIAA, though initial complaints and comparisons suggest it is between <strong>NPR 6 crore and NPR 10 crore</strong>.</li><li>The precise role and actions of the then-Medical Superintendent, <strong>Dr. Birendra Bahadur Pradhan</strong>, specifically concerning the MRI procurement, are not detailed in available reports, although he was in leadership during the period. He has been implicated in a separate corruption case concerning the hospital's emergency ward construction.</li></ul>",
+  "key_allegations": [
+    "Price inflation and corruption in the procurement of an MRI machine, with an estimated overpayment of NPR 6 to 10 crore.",
+    "Procurement irregularities, including potential 'setting' and 'carteling' leading to a single bidder.",
+    "Abuse of authority by officials at Narayani Hospital and/or the Ministry of Health."
+  ],
+  "alleged_entities": [
+    "Narayani Hospital Administration",
+    "Ministry of Health and Population",
+    "Lumbini Health Care Pvt. Ltd."
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "United Imaging Healthcare"
+  ],
+  "locations": [
+    {
+      "other": "Narayani Hospital",
+      "ward_no": null,
+      "municipality": "Birgunj",
+      "district": "Parsa",
+      "province": "Madhesh Province"
+    }
+  ],
+  "tags": [
+    "Procurement",
+    "Corruption",
+    "Healthcare",
+    "Price Inflation",
+    "Abuse of Authority",
+    "CIAA Investigation",
+    "Madhesh Province"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2023-03-01",
+      "title": "CIAA Seizes Procurement Documents",
+      "description": "A team from the central office of the Commission for the Investigation of Abuse of Authority (CIAA) visited Narayani Hospital, inspected the MRI machine, and confiscated all files related to its procurement for investigation."
+    },
+    {
+      "event_date": "2024-05-08",
+      "title": "MRI Machine Reported Non-Operational",
+      "description": "News reports emerged that the newly installed 3-Tesla MRI machine was non-functional. The supplier, United Imaging Healthcare, had reportedly shut down the machine due to the hospital's failure to pay the remaining 20% of the total cost."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Annapurna Post: Conflicting Claims on MRI Purchase",
+      "url": "https://annapurnapost.com/story/374567-2022-12-15",
+      "description": "Article from December 15, 2022, detailing the conflicting statements from Narayani Hospital and the Ministry of Health regarding who holds responsibility for the controversial procurement process."
+    },
+    {
+      "title": "Thaha Khabar: CIAA Investigates Alleged NPR 6 Crore Corruption",
+      "url": "https://thahakhabar.com/news/173361",
+      "description": "Report from March 3, 2023, stating that the CIAA initiated an investigation following a complaint alleging corruption of more than NPR 6 crore in the MRI machine purchase."
+    },
+    {
+      "title": "Onlinekhabar: CIAA Raids Narayani Hospital, Seizes Files",
+      "url": "https://www.onlinekhabar.com/2023/03/1283591",
+      "description": "Article from March 1, 2023, reporting that a CIAA team seized documents related to the MRI procurement from Narayani Hospital as part of its investigation."
+    },
+    {
+      "title": "Healthy Khabar: MRI Machine Shut Down Over Non-Payment",
+      "url": "https://healthykhabar.com/story/5966",
+      "description": "An undated report detailing that the MRI machine became non-operational after the supplier halted its service because the hospital had not cleared the final 20% of its payment."
+    },
+    {
+      "title": "Birgunj News24: Technical Issues and Payment Dispute",
+      "url": "https://birgunjnews24.com/2024/05/08/13175/",
+      "description": "Report from May 8, 2024, confirming the MRI machine's non-operational status due to the payment dispute and its impact on patients."
+    },
+    {
+      "title": "ICT Frame: TUTH's Purchase of Similar MRI Machine",
+      "url": "https://www.ictframe.com/tuth-nepal-ai-powered-3-tesla-mri/",
+      "description": "Article used for comparison, stating that Tribhuvan University Teaching Hospital (TUTH) purchased a 3-Tesla MRI from the same Chinese manufacturer, United Imaging Healthcare, for NPR 20 crore."
+    }
+  ]
+}

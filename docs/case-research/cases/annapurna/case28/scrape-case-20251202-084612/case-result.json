@@ -1,0 +1,98 @@
+{
+  "title": "Omni Group COVID-19 Medical Supplies Procurement Scandal",
+  "description": "<p>This case concerns significant irregularities and alleged corruption in the procurement of medical supplies by the Government of Nepal during the initial phase of the COVID-19 pandemic in March 2020. The <strong>Department of Health Services (DoHS)</strong> signed an agreement with <strong>Omni Business Corporate International (OBCI) Pvt. Ltd.</strong> for the urgent supply of medical equipment, including personal protective equipment (PPE), testing kits, and other essentials.</p><p>The agreement, signed on <strong>March 25, 2020</strong>, was valued at <strong>NPR 1,246,654,128</strong> (approximately USD 10 million at the time). The procurement was conducted directly, bypassing competitive bidding, with officials citing the emergency situation under the Public Procurement Act. However, the deal immediately drew intense public scrutiny and criticism due to several key issues:</p><ul><li><strong>Exorbitant Prices:</strong> The prices for the items were found to be significantly higher than prevailing market rates.</li><li><strong>Supplier's Credibility:</strong> Questions were raised about the qualification and experience of Omni Group, a company primarily involved in IT and other sectors, to handle a large-scale medical supply contract.</li><li><strong>Lack of Transparency:</strong> The process was widely perceived as opaque and susceptible to corruption.</li></ul><p>On March 29, 2020, a partial shipment of goods arrived from China on a chartered Nepal Airlines flight. However, this did little to quell the controversy, as the delivery was incomplete and concerns about the quality of the supplies emerged. Faced with immense public and media pressure, the government <strong>cancelled the contract on April 1, 2020</strong>, and announced that it would seize the company's security deposit of approximately NPR 50 million.</p><p>Subsequent investigations were launched by parliamentary committees and anti-corruption bodies. In September 2020, the <strong>Public Accounts Committee (PAC)</strong> of the House of Representatives concluded that there were massive irregularities in the procurement process. The PAC's report implicated several officials, including the then <strong>Minister for Health and Population, Bhanu Bhakta Dhakal</strong>, and recommended that the Commission for the Investigation of Abuse of Authority (CIAA) take action against them for alleged collusion and corruption.</p><p>On October 6, 2021, the <strong>CIAA</strong> filed a corruption case at the Special Court against nine individuals, including the former Director-General of DoHS, <strong>Dr. Khem Karki</strong>. However, the CIAA was criticized for not pressing charges against Minister Dhakal and other political figures, leading to allegations that it was protecting high-level officials.</p>",
+  "unverified_info": "<p>There is widespread public and media speculation that the <strong>CIAA's decision</strong> to not prosecute the then Health Minister and other political leaders, despite the recommendations from the parliamentary committee, was politically motivated to protect 'big fish'.</p><p>The current status and verdict of the corruption case filed at the Special Court against Dr. Khem Karki and eight other officials require further follow-up to ascertain the final legal outcome.</p>",
+  "key_allegations": [
+    "Procurement of medical supplies at exorbitant and inflated prices.",
+    "Violation of public procurement laws by using direct procurement without sufficient justification.",
+    "Collusion between government officials and the private supplier.",
+    "Lack of transparency in the selection and contracting process.",
+    "Selection of an unqualified supplier for a critical public health procurement."
+  ],
+  "alleged_entities": [
+    "Omni Business Corporate International (OBCI) Pvt. Ltd.",
+    "Department of Health Services (DoHS), Ministry of Health and Population",
+    "Bhanu Bhakta Dhakal (Then Minister for Health and Population)",
+    "Dr. Khem Karki (Then Director-General of DoHS)"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Public Accounts Committee (PAC), House of Representatives",
+    "Special Court, Kathmandu",
+    "Nepal Army"
+  ],
+  "locations": [
+    {
+      "other": "Procurement decision-making and contract signing.",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Procurement",
+    "Healthcare",
+    "COVID-19",
+    "Public Funds",
+    "CIAA",
+    "Department of Health Services"
+  ],
+  "case_start_date": "2020-03-25",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2020-03-25",
+      "title": "Procurement Agreement Signed",
+      "description": "The Department of Health Services signs a NPR 1.24 billion agreement with Omni Business Corporate International to procure medical supplies from China."
+    },
+    {
+      "event_date": "2020-03-29",
+      "title": "Partial Delivery and Controversy",
+      "description": "A chartered Nepal Airlines flight brings a partial shipment of medical supplies, sparking outrage over inflated prices and questions about the quality of the goods."
+    },
+    {
+      "event_date": "2020-04-01",
+      "title": "Contract Cancelled",
+      "description": "Following intense public pressure, the Ministry of Health and Population cancels the procurement agreement with Omni Group and decides to seize its security deposit."
+    },
+    {
+      "event_date": "2020-09-04",
+      "title": "Parliamentary Committee Finds Irregularities",
+      "description": "The Public Accounts Committee (PAC) of Parliament submits its report, concluding that there were massive irregularities and recommending legal action against officials, including the Health Minister."
+    },
+    {
+      "event_date": "2021-10-06",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA files a corruption case at the Special Court against nine individuals, including former DoHS Director-General Dr. Khem Karki, but does not charge the Health Minister."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Government scraps controversial medical supply deal with Omni Group",
+      "url": "https://kathmandupost.com/national/2020/04/02/government-scraps-controversial-medical-supply-deal-with-omni-group",
+      "description": "A news report by The Kathmandu Post detailing the government's decision to cancel the contract with Omni Group and seize its security deposit following public outcry."
+    },
+    {
+      "title": "Amid controversy over inflated prices, Omni Group brings medical supplies from China",
+      "url": "https://kathmandupost.com/national/2020/03/30/amid-controversy-over-inflated-prices-omni-group-brings-medical-supplies-from-china",
+      "description": "The Kathmandu Post report on the arrival of the first shipment of supplies, highlighting the controversy surrounding the high prices of the procured items."
+    },
+    {
+      "title": "PAC concludes massive irregularities in Omni scam",
+      "url": "https://thehimalayantimes.com/nepal/pac-concludes-massive-irregularities-in-omni-scam",
+      "description": "A report from The Himalayan Times on the findings of the Public Accounts Committee (PAC), which identified significant irregularities and recommended action against officials."
+    },
+    {
+      "title": "CIAA files corruption case against nine individuals including DoHS DG Dr Karki in Omni scam",
+      "url": "https://myrepublica.nagariknetwork.com/news/ciaa-files-corruption-case-against-nine-individuals-including-dohs-dg-dr-karki-in-omni-scam/",
+      "description": "My Republica's report on the CIAA filing a case at the Special Court against several officials but notably excluding the political leadership, which drew criticism."
+    },
+    {
+      "title": "Govt signs deal with private company to import medical kits from China",
+      "url": "https://en.setopati.com/blog/151329",
+      "description": "A report from Setopati English, published on March 26, 2020, confirming the signing of the agreement between the Nepal government and Omni Group for medical equipment procurement."
+    }
+  ]
+}

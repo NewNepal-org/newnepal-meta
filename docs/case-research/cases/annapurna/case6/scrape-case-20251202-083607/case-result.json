@@ -1,0 +1,150 @@
+{
+  "title": "Misuse of Diplomatic Passports by Constituent Assembly Members (2011)",
+  "description": "<p>This case revolves around the widespread misuse of diplomatic 'red' passports by several members of Nepal's first Constituent Assembly (CA). The core allegation is that these lawmakers provided their passports to a human trafficking ring, which then altered the documents to send people illegally to countries like Australia. The scheme involved replacing the passport holder's photograph with that of the person being trafficked, while keeping the official details intact, leveraging the easier visa processing afforded to diplomatic passport holders.</p><p>The scandal came to public attention in January 2011 when two individuals, <strong>Prithivi Chantyal</strong> and <strong>Sita Shah</strong>, were caught at Abu Dhabi's airport while en route to Australia. They were traveling on tampered diplomatic passports belonging to then-lawmakers <strong>Vishwanath Prasad Yadav</strong> and <strong>Gayatri Sah</strong>, respectively. After being deported back to Nepal on January 18, 2011, they were handed over to the immigration office at Tribhuvan International Airport (TIA). Reports indicate that instead of being immediately prosecuted, they were released by immigration officials in Kathmandu, suggesting collusion.</p><p>Subsequent investigations were launched by the Central Investigation Bureau (CIB) of Nepal Police and the Commission for the Investigation of Abuse of Authority (CIAA). The CIB arrested lawmakers Gayatri Sah and Vishwanath Prasad Yadav on April 19, 2011. The CIAA later filed a corruption case at the Special Court on April 28, 2011, against multiple lawmakers and alleged middlemen.</p><p>The allegations included:</p><ul><li><strong>Shivpujan Ray Yadav's</strong> passport was allegedly used by a person named Kedar Nath Sharma to travel to Australia.</li><li><strong>Vishwanath Prasad Yadav's</strong> passport was used by Prithivi Chantyal.</li><li><strong>Gayatri Sah's</strong> passport was used by Sita Shah.</li><li><strong>Naradmuni Rana's</strong> passport was allegedly used by Nirmal Baniya to fly to Australia.</li></ul><p>The Kathmandu District Court convicted ex-lawmakers Gayatri Sah, Shivpujan Yadav, and Bishwonath Prasad Yadav on June 5, 2014. A separate corruption case at the Special Court also convicted Shivpujan Ray Yadav, Vishwanath Prasad Yadav, and Gayatri Sah, sentencing them to three months in prison and a NPR 15,000 fine, while acquitting others. The CIAA appealed the acquittals and lenient sentences to the Supreme Court on May 22, 2016, where the case remains sub-judice.</p>",
+  "unverified_info": "<p>The information provided in some initial reports contained details that could not be fully verified or appear to be conflated with other cases.</p><ul><li><strong>Year 2057 BS (2000/2001):</strong> The research strongly indicates the main scandal involving Shivpujan Ray and Vishwanath Prasad Yadav occurred around 2011. There was another passport scandal in 2057 BS, but it reportedly involved different politicians and was investigated by a different committee. The initial file may have merged these two separate events.</li><li><strong>Loss Amount of \"२ करोड ७३ लाख\" (NPR 27.3 Million):</strong> This specific figure was not found in any of the researched articles related to this particular case. While one individual, Prithivi Chantyal, admitted to paying agents NPR 1.6 Crore (16 million), a total loss or transaction amount of exactly NPR 27.3 million could not be verified for this case.</li></ul>",
+  "key_allegations": [
+    "Misuse of diplomatic passports",
+    "Human trafficking",
+    "Corruption",
+    "Abuse of authority",
+    "Forgery of government documents"
+  ],
+  "alleged_entities": [
+    "Shivpujan Ray Yadav",
+    "Vishwanath Prasad Yadav",
+    "Gayatri Sah",
+    "Khadananda Dhakal",
+    "Ramesh Lamsal",
+    "Devi Datta Khatri",
+    "Naradmuni Rana",
+    "Gopal Baniya",
+    "Dil Bahadur Gharti",
+    "Nirmal Baniya",
+    "Devendra Poudel",
+    "Manoj Kumar Karki",
+    "Santosh Raj Upreti",
+    "Indra Kumar Sunuwar",
+    "Shyam Babu Bhandari",
+    "Bhumi Nanda Bhandari"
+  ],
+  "related_entities": [
+    "Constituent Assembly of Nepal",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Central Investigation Bureau (CIB), Nepal Police",
+    "Special Court, Kathmandu",
+    "Kathmandu District Court",
+    "Supreme Court of Nepal",
+    "Department of Immigration"
+  ],
+  "locations": [
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Abu Dhabi International Airport, United Arab Emirates",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Human Trafficking",
+    "Passport Misuse",
+    "Abuse of Authority",
+    "Constituent Assembly",
+    "CIAA",
+    "CIB"
+  ],
+  "case_start_date": "2011-01-16",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2011-01-16",
+      "title": "Illegal Travel Initiated",
+      "description": "Prithivi Chantyal and Sita Shah fly from Kathmandu using tampered diplomatic passports belonging to lawmakers Vishwanath Prasad Yadav and Gayatri Sah."
+    },
+    {
+      "event_date": "2011-01-18",
+      "title": "Interception and Deportation",
+      "description": "Prithivi Chantyal and Sita Shah are intercepted at Abu Dhabi airport and deported back to Nepal, where they are handed over to immigration officials at Tribhuvan International Airport."
+    },
+    {
+      "event_date": "2011-04-19",
+      "title": "Arrest of Lawmakers",
+      "description": "The Central Investigation Bureau (CIB) arrests lawmakers Gayatri Sah and Vishwanath Prasad Yadav in connection with the passport misuse case."
+    },
+    {
+      "event_date": "2011-04-27",
+      "title": "Arrest of Immigration Officer",
+      "description": "CIB arrests Bhumi Nanda Bhandari, an immigration officer at TIA, for his alleged involvement in facilitating the illegal travel."
+    },
+    {
+      "event_date": "2011-04-28",
+      "title": "CIAA Files Corruption Case",
+      "description": "The CIAA files a corruption case at the Special Court against the accused lawmakers, middlemen, and officials."
+    },
+    {
+      "event_date": "2014-06-05",
+      "title": "Kathmandu District Court Verdict",
+      "description": "The Kathmandu District Court sentenced ex-lawmakers Gayatri Sah, Shivpujan Yadav, and Bishwonath Prasad Yadav to five months jail and a fine. Shivpujan Yadav received an additional one-year sentence for forgery."
+    },
+    {
+      "event_date": "2016-05-22",
+      "title": "CIAA Appeals to Supreme Court",
+      "description": "Dissatisfied with the Special Court's acquittal of several accused and the lenient sentences for those convicted, the CIAA files an appeal at the Supreme Court."
+    },
+    {
+      "event_date": "2023-12-28",
+      "title": "Supreme Court Hearing",
+      "description": "A joint bench of the Supreme Court is reported to be hearing the appeal case filed by the CIAA."
+    }
+  ],
+  "sources": [
+    {
+      "title": "myRepublica: Sah, Yadav taken to court for red passport abuse",
+      "url": "https://myrepublica.nagariknetwork.com/news/sah-yadav-taken-to-court-for-red-passport-abuse/",
+      "description": "News report from May 4, 2011, detailing the court case being filed against lawmakers Sah and Yadav for misusing their diplomatic passports."
+    },
+    {
+      "title": "Annapurna Post: सांसदले नै बेचे रातो पासपोर्ट (MPs sold red passports)",
+      "url": "https://annapurnapost.com/news/--218768",
+      "description": "A comprehensive Nepali-language article from December 2, 2022, recounting the details of the passport misuse scandal by Constituent Assembly members."
+    },
+    {
+      "title": "The Kathmandu Post: Ex-lawmakers get jail term for passport misuse",
+      "url": "https://kathmandupost.com/national/2014/06/06/ex-lawmakers-get-jail-term-for-passport-misuse",
+      "description": "Report on the Kathmandu District Court's verdict on June 6, 2014, sentencing former lawmakers for their role in the passport scandal."
+    },
+    {
+      "title": "myRepublica: Lawmakers Sah, Yadav held in passport case",
+      "url": "https://myrepublica.nagariknetwork.com/news/19082/",
+      "description": "News article from April 20, 2011, reporting the arrest of lawmakers Gayatri Sah and Vishwanath Prasad Yadav by the CIB."
+    },
+    {
+      "title": "South Asians for Human Rights: Nepal: Red passport – Case filed against lawmakers",
+      "url": "https://www.sahr.asia/nepal-red-passport-case-filed-against-lawmakers/",
+      "description": "Report on the filing of the case against lawmakers, mentioning the details of the CIAA's charges."
+    },
+    {
+      "title": "myRepublica: SC examines misuse of diplomatic passports",
+      "url": "https://myrepublica.nagariknetwork.com/news/sc-examines-misuse-of-diplomatic-passports/",
+      "description": "Article from December 28, 2023, confirming that the case is sub-judice and being heard by the Supreme Court."
+    },
+    {
+      "title": "The Himalayan Times: Former MP tainted over passport misuse lands ministerial seat",
+      "url": "https://thehimalayantimes.com/nepal/former-mp-tainted-over-passport-misuse-lands-ministerial-seat",
+      "description": "An article mentioning Shivpujan Ray Yadav's involvement in the passport case upon his appointment to a ministerial position in 2021."
+    },
+    {
+      "title": "Rajneesh Bhandari: Red Passport Scam",
+      "url": "https://www.rajneeshbhandari.com/red-passport-scam/",
+      "description": "An investigative piece from June 2, 2012, detailing the mechanics of the passport scam and the involvement of various actors."
+    }
+  ]
+}

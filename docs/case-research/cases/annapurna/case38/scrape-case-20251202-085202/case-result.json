@@ -1,0 +1,140 @@
+{
+  "title": "Rajanarayan Pathak Bribery Scandal (CIAA Commissioner)",
+  "description": "<p>The case involves <strong>Rajanarayan Pathak</strong>, who, while serving as a commissioner at the Commission for the Investigation of Abuse of Authority (CIAA), was implicated in a major bribery scandal. He was accused of accepting a bribe of <strong>NPR 7.8 million</strong> from <strong>Lambodar Kumar Neupane</strong>, the then-chairman of Nepal Engineering College (NEC) located in Changunarayan, Bhaktapur.</p><p>The bribe was allegedly paid to influence Pathak to settle an ongoing investigation at the CIAA concerning financial irregularities and an illegal attempt by Neupane and his associates to convert the non-profit college into a for-profit private company. The scandal came to light after audio and video recordings of a sting operation were leaked to the media in early 2019. In these recordings, Pathak was seen and heard admitting to receiving the bribe money.</p><p>Following the public outcry and facing the threat of impeachment, Pathak resigned from his position on February 15, 2019. The CIAA, the very institution where he was a commissioner, launched an investigation and filed a charge sheet against both Pathak and Neupane on March 26, 2019.</p><p>On January 12, 2023, the Special Court in Kathmandu delivered its verdict. The bench, comprising judges Shrikant Paudel, Yamuna Bhattarai, and Balabhadra Bastola, found both individuals guilty. Key details of the sentence are:</p><ul><li><strong>Rajanarayan Pathak:</strong> Sentenced to 3 years and 3 months in prison and a fine of NPR 3.9 million. The additional three months were added because he committed the crime while holding a high-ranking constitutional office.</li><li><strong>Lambodar Neupane:</strong> Sentenced to 3 years in prison and a fine of NPR 3.9 million.</li></ul><p>The court convicted them for the 'attempt' to commit corruption under the Corruption Prevention Act, 2002, as the bribe money itself was not recovered. The CIAA later appealed this verdict to the Supreme Court, seeking a stricter penalty based on the argument that the act of bribery was completed, not merely attempted.</p>",
+  "unverified_info": "<p>This section contains claims made in media reports that are not fully substantiated by official court documents but provide additional context.</p><ul><li>It was reported that in his initial conversations, Pathak had demanded a total of <strong>NPR 16.5 million</strong> (1.65 crore) as a bribe.</li><li>Pathak's brother, <strong>Subha Narayan Pathak</strong>, was allegedly involved and accused of receiving a separate sum of <strong>NPR 1.5 million</strong> related to the case. The CIAA stated it would pursue a separate investigation into this claim.</li><li>During his interrogation, Pathak reportedly denied receiving the NPR 7.8 million but confessed to telling an intermediary that he would earn <strong>NPR 500 million</strong> after becoming the chief commissioner of the CIAA.</li></ul>",
+  "key_allegations": [
+    "Bribery of NPR 7,800,000",
+    "Abuse of Authority",
+    "Corruption to settle an ongoing investigation"
+  ],
+  "alleged_entities": [
+    "Rajanarayan Pathak",
+    "Lambodar Kumar Neupane",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Nepal Engineering College"
+  ],
+  "related_entities": [
+    "Gyanendra Kumar Jha",
+    "Subha Narayan Pathak",
+    "Dhwajman Moktan",
+    "Special Court, Kathmandu",
+    "Central Investigation Bureau (CIB), Nepal Police"
+  ],
+  "locations": [
+    {
+      "other": "Headquarters of CIAA and Special Court",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Location of Nepal Engineering College",
+      "ward_no": null,
+      "municipality": "Changunarayan",
+      "district": "Bhaktapur",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Bribery",
+    "Corruption",
+    "Abuse of Authority",
+    "CIAA",
+    "Constitutional Body",
+    "Education Sector",
+    "Conviction",
+    "Sting Operation"
+  ],
+  "case_start_date": "2017-08-01",
+  "case_end_date": "2023-01-12",
+  "timeline": [
+    {
+      "event_date": "2017-08-01",
+      "title": "Bribe Allegedly Taken",
+      "description": "Rajanarayan Pathak allegedly accepted bribe money from Lambodar Neupane in multiple installments during this month to settle a case at the CIAA concerning Nepal Engineering College. The total amount was NPR 7.8 million."
+    },
+    {
+      "event_date": "2019-02-15",
+      "title": "Pathak Resigns from CIAA",
+      "description": "After video and audio evidence of him admitting to the bribe were leaked to the media, Rajanarayan Pathak resigned from his post as CIAA Commissioner, facing imminent impeachment proceedings."
+    },
+    {
+      "event_date": "2019-02-20",
+      "title": "CIAA Launches Investigation",
+      "description": "The CIAA formed a three-member panel to formally investigate the corruption allegations against its own former commissioner, Rajanarayan Pathak."
+    },
+    {
+      "event_date": "2019-03-26",
+      "title": "CIAA Files Charge Sheet",
+      "description": "The CIAA filed a formal charge sheet at the Special Court against Rajanarayan Pathak and Lambodar Neupane, seeking a sentence of up to 11 years for Pathak."
+    },
+    {
+      "event_date": "2019-05-16",
+      "title": "Pathak Released on Bail",
+      "description": "The Special Court ordered the release of Rajanarayan Pathak on a bail amount of NPR 7.8 million, equal to the alleged bribe."
+    },
+    {
+      "event_date": "2020-11-25",
+      "title": "Lambodar Neupane Arrested",
+      "description": "Lambodar Neupane was arrested by the Central Investigation Bureau (CIB) of Nepal Police in connection with separate but related fraud charges at the Nepal Engineering College."
+    },
+    {
+      "event_date": "2023-01-12",
+      "title": "Special Court Convicts Pathak and Neupane",
+      "description": "The Special Court found both Rajanarayan Pathak and Lambodar Neupane guilty of corruption. Pathak was sentenced to 3 years and 3 months in jail with a NPR 3.9 million fine, while Neupane received a 3-year jail term and a NPR 3.9 million fine."
+    },
+    {
+      "event_date": "2024-04-28",
+      "title": "Neupane Sentenced in Separate Case",
+      "description": "In a separate but related case, the Special Court sentenced Lambodar Neupane to three years in prison and a fine of Rs 256.9 million on money laundering charges connected to his time at Nepal Engineering College."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Kathmandu Post: CIAA ex-commissioner Raj Narayan Pathak gets over 3 years in jail for graft",
+      "url": "https://kathmandupost.com/national/2023/01/13/ciaa-ex-commissioner-raj-narayan-pathak-gets-over-3-years-in-jail-for-graft",
+      "description": "News report detailing the Special Court's verdict and sentence for Rajanarayan Pathak and Lambodar Neupane."
+    },
+    {
+      "title": "myRepublica: Former CIAA Commissioner Pathak found guilty in corruption case",
+      "url": "https://myrepublica.nagariknetwork.com/news/former-ciaa-commissioner-pathak-found-guilty-in-corruption-case/",
+      "description": "Article reporting on the guilty verdict handed down by the Special Court against Pathak."
+    },
+    {
+      "title": "Onlinekhabar: Explainer: What is Raj Narayan Pathak bribery case all about?",
+      "url": "https://english.onlinekhabar.com/raj-narayan-pathak-bribery-case.html",
+      "description": "An explanatory article published after Pathak's resignation, providing background on the case, the individuals involved, and the allegations."
+    },
+    {
+      "title": "The Kathmandu Post: Disgraced anti-graft commissioner Pathak faces corruption case",
+      "url": "https://kathmandupost.com/national/2019/03/27/disgraced-anti-graft-commissioner-pathak-faces-corruption-case",
+      "description": "Report on the CIAA filing a corruption case against Pathak at the Special Court."
+    },
+    {
+      "title": "The Himalayan Times: CIAA chargesheets ex-commissioner Pathak",
+      "url": "https://thehimalayantimes.com/nepal/ciaa-charge-sheets-ex-commissioner-raj-narayan-pathak",
+      "description": "News coverage of the CIAA filing the charge sheet and the details of the allegations against Pathak and Neupane."
+    },
+    {
+      "title": "The Himalayan Times: Nepal Engineering College former chair held",
+      "url": "https://thehimalayantimes.com/nepal/nepal-engineering-college-former-chair-lambodar-kumar-neupane-held",
+      "description": "Report on the arrest of Lambodar Kumar Neupane by the CIB in relation to fraud at the college."
+    },
+    {
+      "title": "myRepublica: CIAA files case against ex-commissioner Pathak",
+      "url": "https://myrepublica.nagariknetwork.com/news/ciaa-files-case-against-ex-commissioner-pathak/",
+      "description": "Article from March 26, 2019, covering the filing of the corruption case by the CIAA."
+    },
+    {
+      "title": "The Himalayan Times: Probe opened into graft charge against Pathak",
+      "url": "https://thehimalayantimes.com/kathmandu/probe-opened-into-graft-charge-against-raj-narayan-pathak",
+      "description": "Report on the CIAA forming a probe committee to investigate the allegations against Pathak after his resignation."
+    },
+    {
+      "title": "CIAA: Document on Appeals (in Nepali)",
+      "url": "https://ciaa.gov.np/wp-content/uploads/2023/05/%e0%a4%aa%e0%a5%81%e0%a4%a8%e0%a4%b0%e0%a4%be%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a4%a8-%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%ac%e0%a4%b0%e0%a5%8d%e0%a4%97.pdf",
+      "description": "Official document from the CIAA website, which appears to list cases under appeal. The case against Rajanarayan Pathak is likely included, confirming the CIAA's decision to appeal the Special Court's verdict."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Illegal Encroachment and Registration of Dhobi Khola Public Land",
+  "description": "<p>The case concerns the large-scale illegal encroachment and privatization of public land along the 13-kilometer Dhobi Khola (river) corridor in Kathmandu, stretching from Bhangal to the Bagmati Dobhan. Investigations by the Kathmandu Valley Development Authority (KVDA) revealed that significant portions of government-owned 'nadi ukas' land (land left dry after a river changes its course) were fraudulently registered under the names of private individuals and businesses.</p><p>This was allegedly achieved through <strong>collusion between influential individuals, businesspersons, and corrupt employees at the Land Revenue (Malpot) and Survey Offices</strong>. The original land surveys from 1964, 1985, and 1999 identified these areas as public property. However, subsequent manipulations of records and maps led to the illegal acquisition of this land.</p><p>Government bodies, including the KVDA and Kathmandu Metropolitan City (KMC), have initiated actions to reclaim the land. These actions include:</p><ul><li>Issuing public notices demanding the removal of illegal structures.</li><li>Conducting detailed studies to identify the full extent of the encroachment.</li><li>Signing formal agreements to collaborate on clearing the corridor.</li><li>Beginning demolition of illegal structures built on the encroached public land.</li></ul><p>The Commission for the Investigation of Abuse of Authority (CIAA) is also involved, having filed separate but related corruption cases against survey officials for altering land maps in the same district, indicating a pattern of fraudulent activity.</p>",
+  "unverified_info": "<p>The exact total area of encroached land remains inconsistent across various official reports and news articles. While some documents specify smaller, precise amounts, other figures are much larger, creating confusion about the scale of the issue. The reported amounts include:</p><ul><li><strong>13 ropani, 12 anna, 2 daam</strong> (approximately 14 ropani) identified in a specific KVDA report.</li><li><strong>15 ropani</strong> mentioned in an initial case file.</li><li><strong>168 ropani</strong> mentioned in a joint public notice by KMC and KVDA.</li><li><strong>186 ropani</strong> identified in a KVDA study.</li><li>A claim by a KVDA official that the total could be as high as <strong>3,000 ropani</strong>.</li></ul><p>Additionally, while reports mention that <strong>'high-ranking officials' and 'influential families'</strong> are among the encroachers, their specific names have not been publicly disclosed in the available documents. There is also a mention of a 2016 Supreme Court ruling that allegedly transferred 36 ropani 6 anna of public land along the corridor to a private individual named Ram Prasad Upadhyay Bhattarai, suggesting possible high-level influence over judicial processes.</p>",
+  "key_allegations": [
+    "Illegal encroachment of public river corridor land",
+    "Fraudulent registration of government 'nadi ukas' land into private ownership",
+    "Collusion between government employees at Land Revenue and Survey Offices and private individuals",
+    "Abuse of authority by public officials to facilitate land grab",
+    "Alteration of official land maps and records"
+  ],
+  "alleged_entities": [
+    "Land Revenue Office (Malpot) Employees",
+    "Survey Office Employees",
+    "Unnamed high-ranking officials and influential individuals"
+  ],
+  "related_entities": [
+    "Kathmandu Valley Development Authority (KVDA)",
+    "Kathmandu Metropolitan City (KMC)",
+    "Commission for the Investigation of Abuse of Authority (CIAA)"
+  ],
+  "locations": [
+    {
+      "other": "Dhobi Khola corridor, from Bhangal to Bagmati Dobhan",
+      "ward_no": 7,
+      "municipality": "Kathmandu Metropolitan City",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Land Grab",
+    "Corruption",
+    "Abuse of Authority",
+    "Public Land Encroachment",
+    "Collusion",
+    "Kathmandu"
+  ],
+  "case_start_date": "1964-01-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "1964-01-01",
+      "title": "Initial Land Surveys",
+      "description": "Land surveys conducted in 2021 BS (1964 AD), 2042 BS (1985 AD), and 2056 BS (1999 AD) established that the land along the Dhobi Khola corridor was public property. These surveys serve as the legal basis for current reclamation efforts."
+    },
+    {
+      "event_date": "2022-11-30",
+      "title": "KVDA Issues 35-Day Public Notice",
+      "description": "The Kathmandu Valley Development Authority (KVDA) issued a 35-day public notice demanding that encroachers vacate the government land on both banks of the Dhobi Khola."
+    },
+    {
+      "event_date": "2024-10-06",
+      "title": "KMC and KVDA Sign Agreement",
+      "description": "An agreement was signed between Kathmandu Metropolitan City (KMC) and the Kathmandu Valley Development Authority (KVDA) to collaborate on vacating the encroached public land."
+    },
+    {
+      "event_date": "2024-10-27",
+      "title": "Joint 7-Day Notice Issued",
+      "description": "KMC and KVDA issued a joint 7-day public notice, setting a deadline of November 7, 2024, for the voluntary removal of illegal structures from the Dhobi Khola corridor."
+    },
+    {
+      "event_date": "2025-01-19",
+      "title": "Demolition of Illegal Structures Begins",
+      "description": "The KVDA reportedly began demolishing illegal structures built on encroached government land near the Malpot (Land Revenue) office in Chabahil."
+    }
+  ],
+  "sources": [
+    {
+      "title": "MyRepublica: Govt inactive to reclaim encroached 14 ropani land in Dhobi Khola",
+      "url": "https://myrepublica.nagariknetwork.com/news/govt-inactive-to-reclaim-encroached-14-ropani-land-in-dhobi-khola/",
+      "description": "News report from July 2024 detailing a KVDA report that identified the encroachment of 13 ropani, 12 anna, and 2 daam of government land. It highlights government inaction following a public notice issued in November 2022."
+    },
+    {
+      "title": "MyRepublica: KMC, KVDA announce plan to clear 168 ropanis of encroached land along Dhobikhola corridor",
+      "url": "https://myrepublica.nagariknetwork.com/news/kmc-kvda-announce-plan-to-clear-168-ropanis-of-encroached-land-along-dhobikhola-corridor/",
+      "description": "Report from October 2024 about the joint 7-day public notice issued by KMC and KVDA to clear 168 ropanis of encroached land, setting a deadline for removal."
+    },
+    {
+      "title": "Nagrik News: 186 ropani land of Dhobikhola registered in individual's name",
+      "url": "https://nagriknews.nagariknetwork.com/social-affairs/143521-1664797020.html",
+      "description": "A Nepali language report from October 2022 detailing the findings of a KVDA study which found 186 ropani of 'nadi ukas' land had been illegally registered in private names through collusion with officials."
+    },
+    {
+      "title": "MyRepublica: CIAA files corruption case against eight people including former chief survey officer",
+      "url": "https://myrepublica.nagariknetwork.com/news/ciaa-files-corruption-case-against-eight-people-including-former-chief-survey-officer/",
+      "description": "News report on the CIAA filing a corruption case against the Chief Survey Officer of the Chabahil Survey Office and others for illegally altering land maps, a related method of fraud."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Negligence and Delay in Nagdhunga-Kalanki Road Construction",
+  "description": "<p>This case concerns the <strong>severe negligence and prolonged delays</strong> in the expansion of the critical 9-kilometer Kalanki-Nagdhunga road section, a primary entryway into Kathmandu Valley. The project was awarded in June 2015 to joint ventures led by <strong>Shailung Construction Pvt. Ltd.</strong>, owned by Sharada Prasad Adhikari, with a total contract value of approximately NPR 1.138 billion.</p><p>Despite original completion deadlines between October 2017 and January 2018, the project languished for years, with progress reported at only around 50% by late 2018. This failure resulted in immense public hardship, including:</p><ul><li><strong>Severe dust pollution</strong>, leading to widespread respiratory and other health problems for residents and commuters.</li><li><strong>Chronic traffic congestion</strong> on a vital national highway, causing significant economic and social disruption.</li><li><strong>Economic losses</strong> for local businesses along the road corridor.</li></ul><p>Widespread allegations suggested that Shailung Construction evaded accountability due to the owner's strong political connections, notably his relationship as the landlord to Pushpa Kamal Dahal, who was the co-chairman of the then-ruling Nepal Communist Party (NCP). Despite multiple directives from government officials, including then-Minister for Physical Infrastructure and Transport Raghubir Mahaseth, and public protests, the work progressed at a glacial pace. The contractor frequently cited delays in land acquisition compensation, but failed to accelerate work even after these issues were resolved.</p><p>Following years of missed deadlines and public outcry, the Public Procurement Monitoring Office (PPMO) <strong>blacklisted Shailung Construction Pvt. Ltd. for three years</strong> on August 24, 2022, due to its consistent failure to execute projects as per contracts.</p>",
+  "unverified_info": "<p>The following information is widely reported or alleged but lacks direct, official verification:</p><ul><li>The exact financial loss to the state or damages incurred by private citizens due to the extensive delays has not been officially quantified in the available documents.</li><li>While political protection was strongly implied in numerous media reports, there is no direct documentary evidence, such as official memos or court testimony, proving that Pushpa Kamal Dahal intervened to protect Sharada Prasad Adhikari or Shailung Construction from legal consequences.</li></ul>",
+  "key_allegations": [
+    "Severe negligence in a public infrastructure project",
+    "Prolonged and unjustified delays in road construction",
+    "Causing public harm through dust pollution and traffic congestion",
+    "Failure to meet multiple extended deadlines and contractual obligations",
+    "Alleged use of political connections to evade accountability"
+  ],
+  "alleged_entities": [
+    "Shailung Construction Pvt. Ltd.",
+    "Sharada Prasad Adhikari"
+  ],
+  "related_entities": [
+    "Department of Roads",
+    "Ministry of Physical Infrastructure and Transport",
+    "Public Procurement Monitoring Office (PPMO)",
+    "Raghubir Mahaseth",
+    "Pushpa Kamal Dahal"
+  ],
+  "locations": [
+    {
+      "other": "Kalanki-Nagdhunga Road Section",
+      "ward_no": null,
+      "municipality": "Chandragiri Municipality",
+      "district": "Kathmandu",
+      "province": "Bagmati Province"
+    }
+  ],
+  "tags": [
+    "Infrastructure",
+    "Construction",
+    "Public Procurement",
+    "Negligence",
+    "Delay",
+    "Political Corruption",
+    "Public Health",
+    "Accountability"
+  ],
+  "case_start_date": "2015-06-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2015-06-01",
+      "title": "Contract Awarded",
+      "description": "The Department of Roads awarded the contract for the Tripureshwor-Nagdhunga road. The Kalanki-Nagdhunga section, valued at NPR 1.138 billion, was awarded to joint ventures led by Shailung Construction."
+    },
+    {
+      "event_date": "2018-01-31",
+      "title": "Original Completion Deadlines Missed",
+      "description": "The original deadlines for completing various packages of the project, ranging from October 2017 to January 2018, were all missed with minimal progress."
+    },
+    {
+      "event_date": "2018-07-29",
+      "title": "Minister Issues Ultimatum",
+      "description": "Minister for Physical Infrastructure and Transport, Raghubir Mahaseth, publicly instructed the contractor to complete repair works by August 28, 2018, threatening legal action for non-compliance."
+    },
+    {
+      "event_date": "2018-09-28",
+      "title": "Agreement with Protesting Locals",
+      "description": "After locals from Chandragiri blocked the road in protest, Shailung Construction signed an agreement promising to blacktop the road by mid-December 2018 and control dust pollution."
+    },
+    {
+      "event_date": "2019-03-23",
+      "title": "Promises to Locals and Minister Go Unmet",
+      "description": "News reports confirmed that promises made by both the contractor and the minister were not fulfilled. Only about half the road was blacktopped, and extreme dust conditions persisted."
+    },
+    {
+      "event_date": "2019-06-24",
+      "title": "Officials Claim Project 'Nearing Completion'",
+      "description": "Four years after the project started, officials from the Department of Roads claimed it was nearing completion, extending the deadline to mid-July 2019 and blaming rainfall for further delays."
+    },
+    {
+      "event_date": "2022-08-24",
+      "title": "Shailung Construction Blacklisted",
+      "description": "The Public Procurement Monitoring Office (PPMO) blacklisted Shailung Construction Pvt. Ltd. for a period of three years due to its poor performance and failure to complete projects on time."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Kathmandu Post: Delayed Kalanki-Nagdhunga road project is taking a toll on locals and commuters",
+      "url": "https://kathmandupost.com/valley/2019/03/24/delayed-kalanki-nagdhunga-road-project-is-taking-a-toll-on-locals-and-commuters",
+      "description": "A detailed report from March 2019 on the project's delays, the severe impact on locals' health and businesses, and the unfulfilled promises by the contractor and the transport minister. It highlights the contractor's alleged political protection."
+    },
+    {
+      "title": "myRepublica: Govt tells contractor to blacktop Kalanki-Nagdhunga road by Aug 28",
+      "url": "https://myrepublica.nagariknetwork.com/news/govt-tells-contractor-to-blacktop-kalanki-nagdhunga-road-by-aug-28/",
+      "description": "News article from July 2018 covering Minister Raghubir Mahaseth's public directive to the contractor, threatening action if the deadline was missed."
+    },
+    {
+      "title": "The Kathmandu Post: Kalanki-Nagdhunga road expansion nears completion",
+      "url": "https://kathmandupost.com/valley/2019/06/25/kalanki-nagdhunga-road-expansion-nears-completion",
+      "description": "A June 2019 report stating the project was 'nearing completion' after four years, naming joint venture partners and noting Sharada Adhikari's connection to Pushpa Kamal Dahal."
+    },
+    {
+      "title": "PeopleNepal: Agreement to Blacktop the Nagdhunga-Kalanki Road",
+      "url": "http://peoplenepal.com/2018/09/28/18260",
+      "description": "Report from September 2018 detailing the agreement signed between Shailung Construction and protesting locals. It specifies the total contract amount (NPR 1.138 billion) and the original contract date (Asar 2072 BS)."
+    },
+    {
+      "title": "PahiloPost: Shailung and other 11 construction companies blacklisted",
+      "url": "https://pahilopost.com/content/20220824120059.html",
+      "description": "Official news that the Public Procurement Monitoring Office (PPMO) blacklisted Shailung Construction and other companies for three years on August 24, 2022, due to poor project execution."
+    },
+    {
+      "title": "Onlinekhabar: Nagdhunga road will not be completed in Falgun",
+      "url": "https://www.onlinekhabar.com/2018/12/726915",
+      "description": "A December 2018 report indicating that the revised deadline of February 2019 (Falgun) would be missed and another extension was being considered, highlighting the persistent delays."
+    }
+  ]
+}

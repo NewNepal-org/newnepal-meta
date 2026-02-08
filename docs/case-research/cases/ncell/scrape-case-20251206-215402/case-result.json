@@ -1,0 +1,170 @@
+{
+  "title": "Ncell Share Sale Controversy (2023)",
+  "description": "<p>In a highly controversial transaction on December 1, 2023, Malaysian conglomerate <strong>Axiata Group Berhad</strong> announced the sale of its 80% stake in Nepal's largest private telecom operator, Ncell Axiata Limited. The stake was sold to <strong>Spectrolite UK Limited</strong>, a UK-based company owned by Satish Lal Acharya, a Singapore-based businessman of Nepali origin.</p><p>The deal triggered widespread outrage and scrutiny due to the exceptionally low sale price. Axiata sold its controlling share for a mere <strong>US$50 million</strong>, a fraction of the <strong>US$1.365 billion</strong> it paid to acquire the same stake from Swedish company TeliaSonera in 2016. This massive discrepancy led to serious allegations of a deliberate scheme to evade Capital Gains Tax (CGT).</p><p>The key allegations are:</p><ul><li><strong>Tax Evasion:</strong> The primary claim is that the transaction was intentionally undervalued to avoid paying significant capital gains tax to the Government of Nepal.</li><li><strong>Regulatory Circumvention:</strong> The deal was executed without seeking prior approval from the Nepal Telecommunications Authority (NTA), a violation of Nepal's Telecommunications Act.</li><li><strong>Political Corruption:</strong> Accusations surfaced implicating high-level political figures in facilitating the dubious sale. Independent lawmaker Dr. Amaresh Kumar Singh publicly accused <strong>Ganga Dahal</strong>, daughter and personal secretary of Prime Minister Pushpa Kamal Dahal 'Prachanda', of accepting a large sum of money to enable the deal.</li></ul><p>This controversy revived memories of Ncell's previous tax evasion scandal following the 2016 sale, where Axiata itself was ultimately held liable by the Supreme Court for CGT that the seller, TeliaSonera, failed to pay. In response to the 2023 deal, the Government of Nepal formed a high-level probe committee led by former Auditor General <strong>Tanka Mani Sharma Dangal</strong>. Multiple parliamentary committees also launched parallel investigations, and the Patan High Court issued an order to temporarily halt the sale.</p><p>Leaked findings from the Sharma committee's report, submitted in January 2024, concluded that the sale was unlawful, Axiata's stated reasons for exiting Nepal were baseless, and the buyer, Spectrolite UK, lacked the financial and technical capacity to operate Ncell.</p>",
+  "unverified_info": "<p>The following information is based on public allegations and media reports but has not been officially confirmed or fully substantiated:</p><ul><li>The exact amount of the alleged bribe paid to <strong>Ganga Dahal</strong> has not been specified, only referred to as a 'big amount' in public accusations.</li><li>The full, official report from the Tanka Mani Sharma-led probe committee has not been publicly released by the government. All detailed findings available to the public come from <strong>media leaks</strong> of the report.</li><li>While Prime Minister Pushpa Kamal Dahal 'Prachanda' has been linked to the controversy through his daughter's alleged involvement and his acknowledged acquaintance with the buyer, there is <strong>no direct, verified evidence</strong> of his personal financial gain or direct involvement in the 2023 transaction.</li><li>It was reported by People's Review that a 'big daily' newspaper, allegedly facing financial trouble, began publishing news favorable to Ncell, but the specific publication was not named.</li></ul>",
+  "key_allegations": [
+    "Deliberate undervaluation of shares to evade capital gains tax",
+    "Failure to obtain prior approval from the Nepal Telecommunications Authority (NTA) for the share transfer",
+    "Political corruption involving high-level officials to facilitate the illegal transaction",
+    "Circumvention of regulatory requirements and lack of transparency"
+  ],
+  "alleged_entities": [
+    "Axiata Group Berhad",
+    "Spectrolite UK Limited",
+    "Satish Lal Acharya",
+    "Ganga Dahal",
+    "Dr. Upendra Mahato",
+    "Krishna Bahadur Mahara"
+  ],
+  "related_entities": [
+    "Ncell Axiata Limited",
+    "Nepal Telecommunications Authority (NTA)",
+    "Government of Nepal",
+    "Office of the Prime Minister and Council of Ministers",
+    "Parliament of Nepal",
+    "Public Accounts Committee",
+    "Finance Committee",
+    "State Affairs and Good Governance Committee",
+    "Supreme Court of Nepal",
+    "Patan High Court",
+    "TeliaSonera",
+    "Sunivera Capital Venture",
+    "Pushpa Kamal Dahal 'Prachanda'",
+    "Dr. Amaresh Kumar Singh",
+    "Tanka Mani Sharma Dangal"
+  ],
+  "locations": [
+    {
+      "other": "National scope, with related entities in Malaysia and the United Kingdom.",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Telecommunications",
+    "Tax Evasion",
+    "Capital Gains Tax",
+    "Political Corruption",
+    "Regulatory Capture",
+    "Foreign Investment",
+    "Share Sale"
+  ],
+  "case_start_date": "2023-12-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "date": "2016-04-12",
+      "title": "Axiata Acquires Ncell Amidst Tax Controversy",
+      "description": "Axiata completes its acquisition of an 80% stake in Ncell from TeliaSonera for US$1.365 billion, sparking a major national controversy over unpaid capital gains tax by the seller."
+    },
+    {
+      "date": "2019-02-06",
+      "title": "Supreme Court Rules on 2016 Tax Case",
+      "description": "The Supreme Court of Nepal issues a verdict stating that Ncell and its new owner, Axiata, are liable to pay the outstanding capital gains tax and associated fines from the 2016 share sale."
+    },
+    {
+      "date": "2023-12-01",
+      "title": "Axiata Announces Sale to Spectrolite UK",
+      "description": "Axiata Group Berhad announces the sale of its 80% stake in Ncell to Spectrolite UK Limited for a fixed consideration of US$50 million, igniting a new controversy."
+    },
+    {
+      "date": "2023-12-05",
+      "title": "Prime Minister Vows Thorough Probe",
+      "description": "Facing public and political pressure, Prime Minister Pushpa Kamal Dahal 'Prachanda' promises a thorough investigation into the suspicious Ncell share sale."
+    },
+    {
+      "date": "2023-12-07",
+      "title": "Government Forms High-Level Probe Committee",
+      "description": "The Government of Nepal forms a five-member high-level investigation committee led by former Auditor General Tanka Mani Sharma Dangal to probe the Ncell deal."
+    },
+    {
+      "date": "2023-12-08",
+      "title": "Petition Filed in Supreme Court",
+      "description": "Independent Member of Parliament Dr. Amaresh Kumar Singh files a writ petition with the Supreme Court seeking to halt the share transaction."
+    },
+    {
+      "date": "2023-12-19",
+      "title": "PM Addresses Parliamentary Committee",
+      "description": "Prime Minister Dahal tells a parliamentary committee that the government is seriously investigating the 'unusual' and 'unnatural' Ncell share sale."
+    },
+    {
+      "date": "2024-01-29",
+      "title": "Probe Committee Submits Report",
+      "description": "The Tanka Mani Sharma-led probe committee submits its report to the Prime Minister. Leaks suggest the report found the deal to be illegal and the buyer unqualified."
+    },
+    {
+      "date": "2024-02-18",
+      "title": "Cabinet Decides to Implement Report Findings",
+      "description": "A cabinet meeting decides to implement the recommendations of the high-level probe committee's report on the Ncell share sale."
+    },
+    {
+      "date": "2024-07-26",
+      "title": "Leaked Report Recommends Action Against Upendra Mahato",
+      "description": "Media reports, citing the leaked probe committee report, state that it recommends taking action against NRNA founding president Dr. Upendra Mahato for alleged involvement in serial tax evasion related to past Ncell dealings."
+    },
+    {
+      "date": "2024-08-01",
+      "title": "Further Leaks Reveal Buyer Unqualified",
+      "description": "More details from the leaked government report emerge, indicating that the probe committee found the buyer, Spectrolite UK Limited, lacked the necessary financial and technical capacity to manage Ncell."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ncell scam reveals corrupt faces of government and party leaders again",
+      "url": "https://features.peoplesreview.com.np/2023/12/13/ncell-scam-reveals-corrupt-faces-of-government-and-party-leaders-again/",
+      "description": "Article from People's Review (Dec 13, 2023) detailing the core allegations, financial discrepancies, and accusations against Ganga Dahal and the history involving Krishna Bahadur Mahara."
+    },
+    {
+      "title": "Ncell sale row: Too many panels may complicate probe",
+      "url": "https://kathmandupost.com/national/2023/12/08/ncell-sale-row-too-many-panels-may-complicate-probe",
+      "description": "The Kathmandu Post report (Dec 8, 2023) on the formation of multiple government and parliamentary committees to investigate the sale, including the high-level probe committee."
+    },
+    {
+      "title": "Ncell controversy: Report recommends action against Upendra Mahato",
+      "url": "https://english.khabarhub.com/2024/26/367118/",
+      "description": "Khabarhub article (July 26, 2024) citing leaked findings from the Tanka Mani Sharma committee report, specifically recommendations to investigate Dr. Upendra Mahato for past tax evasion."
+    },
+    {
+      "title": "Study committee finds faults in Ncell deal",
+      "url": "https://kathmandupost.com/national/2024/01/29/study-committee-finds-faults-in-ncell-deal",
+      "description": "Report from The Kathmandu Post (Jan 29, 2024) on the submission of the probe committee's report and its initial leaked conclusions, including that Axiata's reasons for exit were baseless."
+    },
+    {
+      "title": "Government to implement investigation report on Axiata-Ncell deal",
+      "url": "https://www.nepalitelecom.com/2024/02/government-to-act-on-axiata-ncell-deal.html",
+      "description": "NepaliTelecom article (Feb 19, 2024) confirming the cabinet's decision to act on the probe report and summarizing its conclusion that the sale was unlawful."
+    },
+    {
+      "title": "PM Dahal under scrutiny as Ncell's tax evasion scandal unravels",
+      "url": "https://english.khabarhub.com/2023/08/321833/",
+      "description": "Khabarhub report (Dec 8, 2023) detailing the history of the 2016 tax scandal and the alleged roles of PM Dahal and then-Finance Minister Krishna Bahadur Mahara."
+    },
+    {
+      "title": "Satish Lal lacks capacity to manage Ncell: Report",
+      "url": "https://english.khabarhub.com/2024/01/369784/",
+      "description": "Khabarhub report (Aug 1, 2024) citing the leaked government probe report which concluded that the buyer, Spectrolite UK, is not qualified to operate Ncell."
+    },
+    {
+      "title": "Lawmaker Amresh Kumar alleges PM Dahal's daughter involved in corruption, claims evidence",
+      "url": "https://english.khabarhub.com/2023/10/322791/",
+      "description": "Article from Khabarhub (Dec 10, 2023) reporting on the specific corruption allegations made against Ganga Dahal by MP Amaresh Kumar Singh."
+    },
+    {
+      "title": "Government, Axiata could be in a long legal battle over Ncell sale",
+      "url": "https://kathmandupost.com/national/2023/12/05/government-axiata-could-be-in-a-long-legal-battle-over-ncell-sale",
+      "description": "The Kathmandu Post article (Dec 5, 2023) outlining the terms of the sale and Axiata's failure to notify regulatory bodies like the NTA."
+    },
+    {
+      "title": "Axiata to sell its stakes in Ncell to Spectrlite UK for US$50 million",
+      "url": "https://myrepublica.nagariknetwork.com/news/axiata-to-sell-its-stakes-in-ncell-to-spectrlite-uk-for-us-50-million/",
+      "description": "myRepublica's initial report (Dec 1, 2023) announcing Axiata's sale of its Ncell stake, which triggered the controversy."
+    },
+    {
+      "title": "Supreme Court weighs in on Ncell tax dispute",
+      "url": "https://www.nepalitimes.com/banner/supreme-court-weighs-in-on-ncell-tax-dispute/",
+      "description": "Nepali Times article (Feb 8, 2019) providing background on the Supreme Court's verdict that held Axiata/Ncell responsible for the capital gains tax from the 2016 deal."
+    }
+  ]
+}

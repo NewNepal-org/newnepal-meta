@@ -1,0 +1,162 @@
+{
+  "title": "Nepal Red Cross Society (NRCS) Financial Irregularity and Corruption Case",
+  "description": "<p>A major corruption scandal involving the Nepal Red Cross Society (NRCS), primarily under the leadership of former chairman Sanjeev Thapa. The case revolves around allegations of widespread financial irregularities, misuse of billions of rupees, and a lack of transparency, particularly concerning funds donated for victims of the 2015 earthquake.</p><p>Investigations launched around 2018 by multiple government bodies, including the District Administration Office (DAO) of Kathmandu, the Social Welfare Council (SWC), and several parliamentary committees, uncovered significant issues. The core allegations state that the NRCS leadership, including Thapa and former Executive Director Umesh Prasad Dhakal, misappropriated funds intended for humanitarian aid. These funds were allegedly diverted to cover administrative expenses, purchase luxury vehicles, and finance foreign trips.</p><p>Key findings from the probes include:</p><ul><li><strong>Unauthorized Spending:</strong> The NRCS was found to be running projects worth over <strong>Rs 5 billion</strong> without the necessary approvals from government regulatory bodies. Other reports suggest nearly <strong>Rs 16 billion</strong> from foreign donors was spent without government oversight.</li><li><strong>Misuse of Relief Funds:</strong> A sum of <strong>Rs 245 million</strong>, granted by donors for post-earthquake reconstruction, was reportedly spent on non-approved administrative activities.</li><li><strong>Procurement Corruption:</strong> Allegations include the embezzlement of <strong>Rs 210 million</strong> during a land purchase in Bhaktapur and collusion with contractors.</li></ul><p>The scandal prompted an internal investigation by the International Federation of Red Cross and Red Crescent Societies (IFRC). In response to the findings, the Government of Nepal dissolved the Thapa-led executive committee on <strong>July 28, 2020</strong>, and appointed an ad-hoc committee. Despite this, legal battles and internal leadership disputes have continued, affecting the organization's operations and reputation.</p>",
+  "unverified_info": "<p>The following information is based on media reports and requires further verification through official documents:</p><ul><li>The exact, audited total amount of financial loss is difficult to ascertain, with figures in various reports fluctuating. While some reports mention 'nearly Rs 16 billion' in unauthorized foreign aid spending, others cite 'Rs 9 billion' in misappropriated grants, and 'over Rs 3 billion' misappropriated by the previous leadership. These figures appear to be estimates from different probe committees rather than a single, final, unified audit.</li><li>While parliamentary committees recommended that the Commission for the Investigation of Abuse of Authority (CIAA) take action, the specific outcomes of any CIAA investigation, such as official charges filed or a final verdict from the Special Court against Sanjeev Thapa or Umesh Prasad Dhakal on these specific corruption allegations, are not detailed in the available sources.</li><li>The Supreme Court, while at one point issuing an interim order allowing the Thapa-led committee to continue for the purpose of holding elections, noted that allegations of corruption could be prosecuted separately. The current status of any such specific prosecution remains unclear.</li></ul>",
+  "key_allegations": [
+    "Misuse of funds worth Rs 245 million intended for earthquake relief on administrative and luxury expenses.",
+    "Unauthorized operation of 98 projects valued at Rs 5.044 billion without government approval.",
+    "Spending of nearly Rs 16 billion from foreign aid without government knowledge or oversight.",
+    "Embezzlement of an estimated Rs 210 million during the procurement of land in Bhaktapur.",
+    "Collusion with a contractor to embezzle over Rs 30 million during the construction of a warehouse.",
+    "Illegal sale of government-allocated land in Itahari for Rs 110 million.",
+    "Defiance of government directives from the District Administration Office and bypassing the Social Welfare Council for leadership renewal."
+  ],
+  "alleged_entities": [
+    "Nepal Red Cross Society (NRCS)",
+    "Sanjeev Thapa",
+    "Umesh Prasad Dhakal"
+  ],
+  "related_entities": [
+    "District Administration Office, Kathmandu",
+    "Social Welfare Council (SWC)",
+    "International Federation of Red Cross and Red Crescent Societies (IFRC)",
+    "Parliamentary State Affairs and Good-Governance Committee",
+    "Parliamentary Women and Social Committee",
+    "Ministry of Home Affairs, Nepal",
+    "Cabinet of Nepal",
+    "Supreme Court of Nepal",
+    "Patan High Court",
+    "Commission for the Investigation of Abuse of Authority (CIAA)"
+  ],
+  "locations": [
+    {
+      "other": "NRCS Headquarters, DAO Office",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Site of alleged corrupt land procurement",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Bhaktapur",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Site of alleged illegal land sale",
+      "ward_no": null,
+      "municipality": "Itahari",
+      "district": "Sunsari",
+      "province": "Koshi"
+    },
+    {
+      "other": "Location of defiant general convention",
+      "ward_no": null,
+      "municipality": "Banepa",
+      "district": "Kavrepalanchok",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Financial Irregularity",
+    "Misuse of Funds",
+    "Humanitarian Aid",
+    "Non-Governmental Organization (NGO)",
+    "Earthquake Relief",
+    "Procurement",
+    "Governance Failure"
+  ],
+  "case_start_date": "2018-03-01",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2018-03-01",
+      "title": "IFRC Summons NRCS Leadership",
+      "description": "The Asia-Pacific regional office of the IFRC summoned NRCS Chairman Sanjeev Thapa and Head of Earthquake Response Operation Umesh Prasad Dhakal to inquire about the alleged misuse of earthquake relief funds. This marks the beginning of formal scrutiny."
+    },
+    {
+      "event_date": "2019-08-12",
+      "title": "DAO Kathmandu Seeks Clarification",
+      "description": "The District Administration Office (DAO), Kathmandu, sent a letter to the NRCS seeking clarification over financial irregularities and for ignoring a directive to halt its general assembly."
+    },
+    {
+      "event_date": "2019-08-13",
+      "title": "NRCS Defies Government Order",
+      "description": "In defiance of the DAO's order, the Sanjeev Thapa-led committee held its general convention in Banepa to renew its term."
+    },
+    {
+      "event_date": "2020-02-21",
+      "title": "Parliamentary Committee Recommends Legal Action",
+      "description": "The parliamentary State Affairs and Good-Governance Committee instructed the Ministry of Home Affairs to take legal action against NRCS officials involved in financial irregularities."
+    },
+    {
+      "event_date": "2020-03-16",
+      "title": "Second Parliamentary Committee Launches Probe",
+      "description": "The Women and Social Committee of the House of Representatives launched its own separate probe into the alleged corruption at NRCS."
+    },
+    {
+      "event_date": "2020-07-28",
+      "title": "Government Dissolves NRCS Executive Committee",
+      "description": "Citing findings from multiple investigation reports, the Cabinet of Nepal officially dissolved the Sanjeev Thapa-led executive committee and formed a new 33-member ad-hoc committee led by Dr. Netraprasad Timsina."
+    },
+    {
+      "event_date": "2024-03-15",
+      "title": "Executive Director Removed by Court Order",
+      "description": "Umesh Prasad Dhakal was formally removed from his position as Executive Director of the NRCS following a decision by the Patan High Court which ruled that his term had officially ended."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DAO Kathmandu seeks clarification from Nepal Red Cross Society over alleged financial irregularities",
+      "url": "https://myrepublica.nagariknetwork.com/news/dao-kathmandu-seeks-clarification-from-nepal-red-cross-society-over-alleged-financial-irregularities-with-document/",
+      "description": "MyRepublica article from August 2019 detailing the DAO's letter to NRCS, the defiance of the Thapa committee, and the background of the IFRC's investigation."
+    },
+    {
+      "title": "House panel launches probe into alleged corruption at Nepal Red Cross Society",
+      "url": "https://myrepublica.nagariknetwork.com/news/house-panel-launches-probe-into-alleged-corruption-at-nepal-red-cross-society/",
+      "description": "MyRepublica article from March 2020 reporting on a parliamentary committee's probe, mentioning misuse of Rs 245 million and misappropriation of Rs 9 billion in grants."
+    },
+    {
+      "title": "Govt dissolves Nepal Red Cross Society executive committee, forms ad-hoc committee",
+      "url": "https://reportnepal.com/news/2020/07/28/9773",
+      "description": "Report Nepal article from July 2020 announcing the cabinet's decision to dissolve the Sanjeev Thapa-led committee and form a new ad-hoc committee."
+    },
+    {
+      "title": "Committee recommends action against erring Nepal Red Cross staffers",
+      "url": "https://peoplesreview.com.np/2020/02/21/committee-recommends-action-against-erring-nepal-red-cross-staffers/",
+      "description": "Peoples Review article from February 2020 on a parliamentary committee's recommendation for the Home Ministry to take legal action against NRCS officials."
+    },
+    {
+      "title": "Nepal Red Cross Society embroiled in controversy again",
+      "url": "https://myrepublica.nagariknetwork.com/news/nepal-red-cross-society-embroiled-in-controversy-again/",
+      "description": "MyRepublica article from June 2023 summarizing findings that nearly Rs 16 billion was spent without government knowledge and over Rs 3 billion was misappropriated."
+    },
+    {
+      "title": "Irregularities galore in NRCS",
+      "url": "https://theannapurnaexpress.com/news/irregularities-galore-in-nrcs-43899",
+      "description": "The Annapurna Express article from July 2024 detailing ongoing issues and the alleged embezzlement of Rs 210 million in a Bhaktapur land deal."
+    },
+    {
+      "title": "Nepal Red Cross executive director Umesh Dhakal removed from his position",
+      "url": "https://www.onlinekhabar.com/2024/03/1454157",
+      "description": "Onlinekhabar article from March 2024 reporting on the removal of Umesh Prasad Dhakal as Executive Director based on a Patan High Court ruling on his term."
+    },
+    {
+      "title": "SC paves way for action against corruption in Red Cross",
+      "url": "https://www.newspolar.com/2019/09/11/1709/",
+      "description": "News Polar article from September 2019 detailing a Supreme Court decision allowing the Thapa committee to continue for elections but stating that corruption investigations can proceed separately."
+    },
+    {
+      "title": "Leadership dispute in Red Cross, six general conventions in four years",
+      "url": "https://rajdhanidaily.com/453110/",
+      "description": "Rajdhani Daily article from December 2019 describing the long-term leadership crisis and disputes within the NRCS that began in 2075 BS (2018/2019)."
+    },
+    {
+      "title": "Nepal Red Cross Society Under Investigation for Alleged Misuse of Donations",
+      "url": "https://www.texasnepal.com/nepal-red-cross-society-under-investigation-for-alleged-misuse-of-donations/",
+      "description": "TexasNepal article from January 2017 about an earlier investigation by the Social Welfare Council into NRCS spending funds for earthquake victims on administrative costs."
+    }
+  ]
+}

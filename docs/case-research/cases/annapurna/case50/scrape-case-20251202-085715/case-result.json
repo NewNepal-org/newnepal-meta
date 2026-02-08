@@ -1,0 +1,131 @@
+{
+  "title": "Gordon William Robinson (Rabinson Prakaran) Drug Case Acquittal Controversy",
+  "description": "<p>The Gordon William Robinson case, known in Nepal as 'Rabinson Prakaran', centers on the controversial acquittal of a convicted British drug trafficker by the Supreme Court of Nepal in 2003. Gordon William Robinson was initially arrested at Tribhuvan International Airport (TIA), Kathmandu, after being found with <strong>2.3 kg of heroin</strong> concealed in his shoe and luggage.</p><p>Following his arrest, Robinson confessed to smuggling the narcotics from Mumbai, India, to Nepal via the Sunauli border. A Special Court subsequently convicted him, sentencing him to <strong>17 years in prison and imposing a fine of Rs 1.7 million</strong>.</p><p>However, in a highly contentious decision on <strong>April 23, 2003</strong>, a two-member Supreme Court bench comprising Justices <strong>Krishna Kumar Barma</strong> and <strong>Baliram Kumar</strong> acquitted Robinson, citing 'insufficient evidence' and procedural flaws by investigators. Robinson was immediately released from Dilli Bajar Jail and reportedly left Nepal.</p><p>The acquittal sparked outrage among the legal community, including the Nepal Bar Association, and drew scrutiny from international bodies like Interpol. Key points of the controversy include:</p><ul><li><strong>Allegations of Corruption:</strong> Reports suggested deep-seated corruption, highlighting that a businessman, Chandeshwor Lama, had met Robinson in jail 25 times before his release.</li><li><strong>Judicial Investigation:</strong> The intense public pressure led to the formation of a judicial investigation committee, headed by Supreme Court Justice Min Bahadur Rayamajhi, to probe the verdict.</li><li><strong>Resignations:</strong> In the wake of the investigation and scandal, both justices involved in the acquittal, Krishna Kumar Barma and Baliram Kumar, resigned from their positions by late 2004.</li><li><strong>Verdict Overturned:</strong> A larger bench of the Supreme Court later reviewed the case and <strong>overturned the controversial acquittal</strong>, reaffirming the initial conviction.</li></ul><p>This case is a significant example of judicial corruption and the subsequent push for accountability within Nepal's legal system, highlighting the influence of criminal networks and the challenges in upholding the rule of law.</p>",
+  "unverified_info": "<p>Certain details surrounding the case remain approximate or based on anecdotal reporting, including:</p><ul><li><strong>Initial Arrest Date:</strong> Robinson's initial arrest at Tribhuvan International Airport occurred around <strong>2002</strong>, but the exact date is not documented in the available sources.</li><li><strong>Drug Quantity Discrepancy:</strong> While most sources cite 2.3 kg of heroin, other reports mention 'over two kilograms of brown sugar' or 'three kg of heroin', indicating a minor inconsistency.</li><li><strong>Alleged Bribe Amount:</strong> The day before his release, Robinson allegedly told an associate, Rajan Bohora, \"You can't imagine how much money I have spent. I am going to be released tomorrow.\" The exact amount remains unknown.</li><li><strong>Motive for Post-Arrest Release:</strong> After being re-arrested in Dharan, Robinson was handed over to an associate of Chandeshwor Lama. A member of the judicial probe committee stated a belief that he was \"taken to Kathmandu to settle a deal,\" but this remains an unconfirmed motive.</li><li><strong>Unnamed Sources:</strong> Some reports attributed the acquittal to having \"all the hallmarks of corruption and an active drug mafia,\" citing unnamed sources.</li></ul>",
+  "key_allegations": [
+    "Corruption and bribery leading to the wrongful acquittal of a convicted drug trafficker.",
+    "Collusion between Supreme Court justices and a criminal enterprise.",
+    "Abuse of judicial authority and procedural misconduct to secure the release of a criminal.",
+    "Negligence or complicity of police in allowing the convict to flee the country after a brief re-arrest."
+  ],
+  "alleged_entities": [
+    "Gordon William Robinson",
+    "Krishna Kumar Barma",
+    "Baliram Kumar",
+    "Chandeshwor Lama",
+    "Resham Lama",
+    "Rajan Bohora",
+    "Supreme Court of Nepal",
+    "Nepal Police"
+  ],
+  "related_entities": [
+    "Special Court",
+    "Judicial Investigation Committee",
+    "Nepal Bar Association",
+    "Office of the Attorney General",
+    "Dilli Bajar Jail",
+    "Royal Palace"
+  ],
+  "locations": [
+    {
+      "other": "Tribhuvan International Airport",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Dilli Bajar Jail",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Supreme Court of Nepal",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": "Sunauli Border Crossing",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Rupandehi",
+      "province": "Lumbini"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Dharan",
+      "district": "Sunsari",
+      "province": "Koshi"
+    }
+  ],
+  "tags": [
+    "Judicial Corruption",
+    "Narcotics Trafficking",
+    "Impunity",
+    "Supreme Court",
+    "Foreign National",
+    "Acquittal",
+    "Resignation"
+  ],
+  "case_start_date": "2003-04-23",
+  "case_end_date": "2004-12-17",
+  "timeline": [
+    {
+      "event_date": "2003-04-23",
+      "title": "Supreme Court Acquits Gordon William Robinson",
+      "description": "A two-member Supreme Court bench of Justices Krishna Kumar Barma and Baliram Kumar acquits Gordon William Robinson, who was serving a 17-year sentence for heroin trafficking. The acquittal was based on 'insufficient evidence' and procedural flaws. Robinson is released from Dilli Bajar Jail the same day."
+    },
+    {
+      "event_date": "2003-04-24",
+      "title": "Robinson Re-arrested and Disappears",
+      "description": "Robinson is re-arrested in Dharan at the house of Rajan Bohora. However, he is handed over to Resham Lama, an associate of businessman Chandeshwor Lama, and subsequently disappears, presumably fleeing Nepal."
+    },
+    {
+      "event_date": "2004-06-03",
+      "title": "Case Becomes National Controversy",
+      "description": "News reports highlight the controversial acquittal, turning it into a major national scandal. The Nepal Bar Association protests the verdict, and Attorney General Sushil Pant files for a review of the case at the Supreme Court."
+    },
+    {
+      "event_date": "2004-09-24",
+      "title": "Judicial Probe Details Emerge",
+      "description": "Details from a judicial probe committee, led by Justice Min Bahadur Rayamajhi, are reported. The probe reveals that businessman Chandeshwor Lama met Robinson in jail 25 times and implicates both the court and police in the affair."
+    },
+    {
+      "event_date": "2004-12-17",
+      "title": "Justices Resign and Verdict is Overturned",
+      "description": "News reports confirm the resignations of both justices involved in the acquittal. Justice Krishna Kumar Verma had resigned earlier, and Justice Baliram Kumar's resignation is reported on this date. It is also reported that a larger bench of the Supreme Court has reversed the controversial acquittal."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Internal Document - Case Details",
+      "url": "tmp/annapurna/case50/details.md",
+      "description": "Internal summary document providing the case name (Rabinson Prakaran), subject (Narcotics), year, main accused, and associated persons."
+    },
+    {
+      "title": "Nepali Times - \"Nepal thrives as regional drug hub\"",
+      "url": "https://www.nepalitimes.com/news.php?id=4975",
+      "description": "Article published on June 3, 2004, detailing Robinson's arrest with 2.3 kg of heroin, his initial conviction, and the controversial Supreme Court acquittal by Justices Barma and Kumar, which sparked domestic and international backlash."
+    },
+    {
+      "title": "Nepali Times - \"Twisted justice\"",
+      "url": "https://www.nepalitimes.com/news.php?id=6121",
+      "description": "Article from September 24, 2004, reporting on the findings of the Judicial Investigation Committee, Robinson's re-arrest and disappearance, and the involvement of businessman Chandeshwor Lama, who met Robinson 25 times in jail."
+    },
+    {
+      "title": "Nepali Times (Nation Weekly) - PDF Archive",
+      "url": "https://d21p93n5opq552.cloudfront.net/nepalitimes-archive/pdf/nation-weekly-2004-12-17.pdf",
+      "description": "Weekly summary from December 17, 2004, reporting on the resignation of Justice Baliram Kumar, following the earlier resignation of Justice Krishna Kumar Verma. It also confirms that a larger Supreme Court bench reversed the controversial acquittal."
+    },
+    {
+      "title": "Nepali Times - \"Discrepancies\"",
+      "url": "https://www.nepalitimes.com/news.php?id=5055",
+      "description": "Article from June 11, 2004, highlighting the judicial inconsistency by contrasting the lenient Robinson verdict with a previous, much stricter drug-related verdict (15-year sentence) delivered by Justice Barma in another case."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Thematic Case: Misappropriation of Government Funds Related to Labor and Ghost Projects",
+  "description": "<p>This case file summarizes a recurring pattern of corruption in Nepal involving the misappropriation of government funds, often linked to labor, social security, and development projects. Research based on the generic query 'laborer misappropriating government funds' did not identify a single specific incident labeled 'Case 22' but revealed a common modus operandi investigated by the Commission for the Investigation of Abuse of Authority (CIAA).</p><p>The primary methods of embezzlement include:</p><ul><li><strong>Creation of 'Ghost' Entities:</strong> Public officials and their collaborators have been found to create non-existent entities to siphon public funds. For instance, in Dolpa district, officials were charged for embezzling NPR 760,000 by creating a fake 'Durga Primary School, Tipla' and fabricating documents for its construction in the fiscal year 2010/2011.</li><li><strong>Fraudulent User Committees:</strong> Another common tactic involves forming fake user committees for infrastructure projects that are never executed. A notable case upheld by the Supreme Court in 2015 involved the embezzlement of NPR 2,727,000 through fake irrigation user committees in Rukum.</li><li><strong>Misuse of Grant and Program Funds:</strong> Officials have also been implicated in embezzling funds meant for specific programs by creating false documentation. In Humla, officials at the Agriculture Knowledge Center, along with a cooperative, were accused of embezzling NPR 1,126,528 in grant money by submitting fake bills and reports for an uncompleted agricultural project.</li><li><strong>Social Security Fund Violations:</strong> There are widespread issues related to labor funds, where employers fail to register their employees with the Social Security Fund (SSF) or neglect to deposit the required contributions, constituting a violation of the Labor Act, 2074. The government has had to issue circulars urging compliance.</li></ul><p>These cases highlight systemic vulnerabilities that allow public officials, often in collusion with private individuals or groups, to defraud the state by exploiting development and social welfare budgets.</p>",
+  "unverified_info": "<p>The initial information for this case was highly generic, originating from a document labeled 'Case 22'. The document specified the subject as 'Laborer/Worker' (श्रमिक) and the issue as 'Misappropriation of government funds' (सरकारी कोष हिनामिना).</p><p>However, <strong>'Case 22' does not correspond to any known public or official case identifier</strong>. Without specific names, dates, locations, or financial amounts, it is impossible to link this designation to a specific, verifiable incident. The information likely refers to an internal organizational reference or a placeholder.</p>",
+  "key_allegations": [
+    "Misappropriation of government funds",
+    "Embezzlement of social security and grant funds",
+    "Creation of fake entities (ghost schools, user committees)",
+    "Submission of fraudulent documents (fake bills and reports)",
+    "Abuse of authority by public officials"
+  ],
+  "alleged_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Public officials",
+    "User Committees",
+    "Cooperatives"
+  ],
+  "related_entities": [
+    "Social Security Fund (SSF)",
+    "Agriculture Knowledge Center, Humla",
+    "Supreme Court of Nepal",
+    "Special Court"
+  ],
+  "locations": [
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": null,
+      "district": "Dolpa",
+      "province": "Karnali"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": null,
+      "district": "Rukum",
+      "province": "Lumbini/Karnali"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": null,
+      "district": "Humla",
+      "province": "Karnali"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Misappropriation of Funds",
+    "Labor",
+    "Ghost Projects",
+    "Fake User Committee",
+    "Social Security",
+    "CIAA",
+    "Abuse of Authority"
+  ],
+  "case_start_date": null,
+  "case_end_date": null,
+  "timeline": [],
+  "sources": [
+    {
+      "title": "CIAA Press Release: Corruption charge filed against officials of Agriculture Knowledge Center, Humla",
+      "url": "https://ciaa.gov.np/wp-content/uploads/2022/02/Press-Release-2078.11.02_1.pdf",
+      "description": "Official press release from the CIAA detailing the filing of a corruption case against officials and cooperative members in Humla for embezzling NPR 1,126,528 in agricultural grant funds. Dated 2078/11/02 BS (February 14, 2022)."
+    },
+    {
+      "title": "SC upholds Spl Court verdict on Rukum irrigation scam",
+      "url": "https://myrepublica.nagariknetwork.com/news/sc-upholds-spl-court-verdict-on-rukum-irrigation-scam/",
+      "description": "A 2015 news report from My Republica on the Supreme Court's decision to uphold the Special Court's verdict against individuals who embezzled NPR 2,727,000 by creating fake irrigation user committees in Rukum."
+    },
+    {
+      "title": "CIAA files graft case against 12",
+      "url": "https://thehimalayantimes.com/nepal/ciaa-files-graft-case-against-12",
+      "description": "A 2011 news article from The Himalayan Times reporting that the CIAA filed a corruption case against 12 individuals for embezzling NPR 760,000 by creating a non-existent school in Dolpa district."
+    },
+    {
+      "title": "Government directs local levels to bring all formal private sector workers under social security net",
+      "url": "https://kathmandupost.com/national/2023/03/02/government-directs-local-levels-to-bring-all-formal-private-sector-workers-under-social-security-net",
+      "description": "A 2023 Kathmandu Post article discussing the government's directive to enforce registration with the Social Security Fund (SSF) and highlighting the issue of non-compliance by employers."
+    }
+  ]
+}

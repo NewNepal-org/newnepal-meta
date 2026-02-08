@@ -1,0 +1,163 @@
+{
+  "title": "33kg Gold Smuggling and Sanam Shakya Murder Case",
+  "description": "<p>The 33kg gold smuggling case, which emerged in March 2018, exposed a large-scale organized crime syndicate that had been trafficking gold through Tribhuvan International Airport (TIA) for years. The investigation was triggered by the murder of <strong>Sanam Shakya</strong>, a gold carrier for the smuggling ring, on March 2, 2018.</p><p>The mastermind of the operation, <strong>Chudamani Upreti, alias 'Gore'</strong>, orchestrated the torture and murder of Shakya in an attempt to recover a missing 33.5 kg gold consignment that had disappeared after being cleared from TIA on January 23, 2018. The discovery of Shakya's body in a vehicle in Morang initiated a high-level probe by a committee formed by the Home Ministry, led by Joint Secretary Ishwar Raj Paudel.</p><p>The committee's investigation revealed that Gore's syndicate had smuggled an estimated <strong>3,799.5 kilograms of gold</strong>, valued at over Rs 17 billion, into Nepal since 2015. The probe led to the Morang District Attorney's Office filing charges against 63 individuals, including high-ranking police officers, for organized crime, smuggling, abduction, and murder.</p><p>Key findings from the investigation included:</p><ul><li><strong>Scale of Smuggling:</strong> The syndicate smuggled nearly 3,800 kg of gold from Dubai through TIA between 2015 and 2018.</li><li><strong>Modus Operandi:</strong> The operation relied on a network of police officials, customs agents, and airport staff to bypass security. SSP Shyam Khatri was alleged to have charged Rs 50,000 per kg of gold to facilitate its passage.</li><li><strong>Murder and Cover-up:</strong> Sanam Shakya was tortured to death with electric shocks. Allegations surfaced that police officials from the Metropolitan Police Crime Division attempted to help Gore dispose of the body and cover up the crime.</li></ul><p>In a controversial verdict on October 5, 2021, the Morang District Court sentenced 'Gore' and six accomplices to life imprisonment for the abduction and murder of Sanam Shakya. However, all accused parties, including 'Gore', were acquitted of the gold smuggling charges. Critically, all implicated police personnel, including former DIG Govinda Prasad Niraula and SSP Dibesh Lohani, were acquitted of all charges, raising significant questions about accountability. Furthering the controversy, the 752-page detailed investigation report submitted by the Paudel committee subsequently disappeared from the Office of the Prime Minister and Council of Ministers.</p>",
+  "unverified_info": "<ul><li><p>Chudamani Upreti 'Gore' reportedly claimed during interrogation that he was merely a manager for the smuggling racket and that the ultimate owners were Indian businessmen, naming one <strong>M.K. Agrawal</strong> as the owner of the missing 33.5kg consignment.</p></li><li><p>It was alleged that Gore revealed the names of 10 additional 'Hundi' operators and businessmen involved in the network who were not among the original 63 individuals charged by the District Attorney's Office.</p></li><li><p>A highly dubious report from a future date suggested that 'Gore' might have escaped from Sundhara Prison in September 2025 during widespread unrest. This information is unconfirmed and likely erroneous.</p></li></ul>",
+  "key_allegations": [
+    "Smuggling of approximately 3,799.5 kg of gold valued at over Rs 17 billion.",
+    "Operation of a large-scale organized crime network.",
+    "Abduction, torture, and murder of Sanam Shakya.",
+    "Collusion of high-ranking Nepal Police officials in facilitating smuggling and attempting to cover up a murder.",
+    "Bribery and corruption at Tribhuvan International Airport involving customs and police personnel."
+  ],
+  "alleged_entities": [
+    "Chudamani Upreti ('Gore')",
+    "Govinda Prasad Niraula (Former DIG, Nepal Police)",
+    "Dibesh Lohani (SSP, Nepal Police)",
+    "Shyam Bahadur Khatri (SSP, Nepal Police)",
+    "Bikash Raj Khanal (SP, Nepal Police)",
+    "Prajit KC (DSP, Nepal Police)",
+    "Sanjaya Raut (DSP, Nepal Police)",
+    "Bal Krishna Sanjel (Sub-Inspector, Nepal Police)",
+    "Amar Bahadur Thapa Magar (Head Constable, Nepal Police)",
+    "Bishnu Khadka (Constable, Nepal Police)",
+    "Tekraj Malla Thakuri",
+    "Lhakpa Sherpa",
+    "Mohan Kafle",
+    "Narendra Karki",
+    "Bhojraj Bhandari",
+    "Ramesh Upreti",
+    "Harisharan Khadka",
+    "Mohan Kumar Agrawal ('MK')",
+    "Benu Shrestha",
+    "Nepal Police",
+    "Tribhuvan International Airport Customs Office"
+  ],
+  "related_entities": [
+    "Ministry of Home Affairs",
+    "Morang District Court",
+    "Biratnagar High Court",
+    "Morang District Attorney's Office",
+    "Office of the Prime Minister and Council of Ministers"
+  ],
+  "locations": [
+    {
+      "other": "Tribhuvan International Airport",
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Urlabari",
+      "district": "Morang",
+      "province": "Koshi"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Biratnagar",
+      "district": "Morang",
+      "province": "Koshi"
+    },
+    {
+      "other": "Dubai",
+      "ward_no": null,
+      "municipality": null,
+      "district": null,
+      "province": null
+    }
+  ],
+  "tags": [
+    "Gold Smuggling",
+    "Organized Crime",
+    "Murder",
+    "Police Corruption",
+    "Judicial Controversy",
+    "Impunity",
+    "TIA",
+    "Ministry of Home Affairs"
+  ],
+  "case_start_date": "2018-03-02",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2018-01-23",
+      "title": "33.5kg Gold Consignment Goes Missing",
+      "description": "A consignment of 33.5 kg of gold, arriving from the UAE, disappears after being cleared from Tribhuvan International Airport."
+    },
+    {
+      "event_date": "2018-03-02",
+      "title": "Sanam Shakya Murdered",
+      "description": "Gold carrier Sanam Shakya is tortured with electric shocks and beaten to death in Urlabari, Morang, by Gore's gang during an interrogation about the missing gold."
+    },
+    {
+      "event_date": "2018-03-03",
+      "title": "Body Recovered and Case Exposed",
+      "description": "Police in Biratnagar recover Sanam Shakya's body from a Scorpio jeep (Ba 12 Cha 5963) and arrest three individuals, exposing the smuggling ring."
+    },
+    {
+      "event_date": "2018-05-02",
+      "title": "Charges Filed Against 63 Individuals",
+      "description": "The Morang District Attorney's Office files charges against 63 people, including police officials, for organized crime, smuggling, and murder, seeking Rs 17.018 billion in damages. SSP Dibesh Lohani is arrested."
+    },
+    {
+      "event_date": "2018-05-22",
+      "title": "Mastermind 'Gore' Arrested",
+      "description": "The alleged mastermind, Chudamani Upreti 'Gore', is arrested in Gaurighat, Kathmandu."
+    },
+    {
+      "event_date": "2018-08-02",
+      "title": "Investigation Report Submitted",
+      "description": "The special investigation committee led by Ishwar Raj Paudel submits its 752-page report to the Prime Minister's Office. The report was never made public."
+    },
+    {
+      "event_date": "2018-09-14",
+      "title": "High Court Begins Releasing Police Officials",
+      "description": "The Biratnagar High Court starts releasing the detained police officials on general date, including SSP Dibesh Lohani, overturning the district court's decision."
+    },
+    {
+      "event_date": "2021-10-05",
+      "title": "Morang District Court Verdict",
+      "description": "The court sentences 'Gore' and five accomplices to life imprisonment for murder but acquits all accused, including Gore and all police personnel, of the gold smuggling charges."
+    },
+    {
+      "event_date": "2022-01-04",
+      "title": "Key Fugitive Arrested",
+      "description": "Ramesh Upreti, brother of 'Gore' and a key member of the racket, is arrested at TIA upon his arrival from Dubai."
+    },
+    {
+      "event_date": "2023-12-14",
+      "title": "Investigation Report Disappears",
+      "description": "It is reported that the 752-page investigation report on the 33kg gold smuggling case has gone missing from the Office of the Prime Minister and Council of Ministers."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The long and short of 33kg gold smuggling case",
+      "url": "https://kathmandupost.com/national/2023/07/20/the-long-and-short-of-33kg-gold-smuggling-case",
+      "description": "An article by The Kathmandu Post providing a comprehensive overview of the 33kg gold smuggling case, its key figures, and the murder of Sanam Shakya."
+    },
+    {
+      "title": "Gore, 6 others get life sentence for Sanam Shakya's murder; all accused acquitted in gold smuggling",
+      "url": "https://thehimalayantimes.com/nepal/gore-6-others-get-life-sentence-for-sanam-shakyas-murder-all-accused-acquitted-in-gold-smuggling",
+      "description": "A report by The Himalayan Times on the Morang District Court's verdict, detailing the life sentences for murder and the acquittal of all accused on smuggling charges."
+    },
+    {
+      "title": "All cops accused in 33kg gold smuggling case acquitted",
+      "url": "https://kathmandupost.com/province-no-1/2021/10/20/all-cops-accused-in-33kg-gold-smuggling-case-acquitted",
+      "description": "A Kathmandu Post article focusing on the acquittal of all Nepal Police officials implicated in the case, including high-ranking officers."
+    },
+    {
+      "title": "Probe report on 33kg gold smuggling goes missing from PMO",
+      "url": "https://kathmandupost.com/national/2023/12/14/probe-report-on-33kg-gold-smuggling-goes-missing-from-pmo",
+      "description": "Report on the disappearance of the 752-page high-level investigation committee report from the Prime Minister's Office."
+    },
+    {
+      "title": "'Gore's' brother Ramesh Upreti arrested from TIA",
+      "url": "https://thehimalayantimes.com/nepal/gores-brother-ramesh-upreti-arrested-from-tia",
+      "description": "News report from The Himalayan Times covering the arrest of Ramesh Upreti, brother of the case's mastermind, upon his return to Nepal."
+    }
+  ]
+}

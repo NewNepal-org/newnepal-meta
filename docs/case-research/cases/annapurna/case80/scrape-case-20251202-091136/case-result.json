@@ -1,0 +1,88 @@
+{
+  "title": "Bribery Case Against Joint Attorney Surendra Bahadur Thapa",
+  "description": "<p>Surendra Bahadur Thapa, a Joint Attorney at the High Government Prosecutor's Office in Pokhara, was arrested for allegedly accepting a bribe of <strong>NPR 500,000</strong>. The Commission for the Investigation of Abuse of Authority (CIAA) apprehended him in a sting operation on October 10, 2018, from his government quarters in Pokhara.</p><p>The bribe was allegedly demanded from a service seeker from Kapilvastu. Thapa promised not to file an appeal at the Supreme Court against a Pokhara High Court verdict concerning the service seeker's son. The son had been convicted in a fraud case from approximately 15 years prior. While the Kaski District Court had imposed a two-year prison sentence and a fine, the High Court later amended this to only a fine. Thapa demanded the payment to prevent the case from being escalated, which could have potentially reinstated the prison sentence.</p><p>Following a complaint from the service seeker, the CIAA's Pokhara office conducted the sting operation. Reports indicate that upon realizing he was being raided, Thapa attempted to throw the bribe money out of his room. On November 13, 2018, the CIAA formally filed a corruption case against Thapa at the Special Court in Kathmandu, seeking action under Section 3 of the Prevention of Corruption Act, 2002.</p>",
+  "unverified_info": "<p>Certain details of the case remain unconfirmed or have been withheld in public reports:</p><ul><li>The exact date of the original fraud charge against the service seeker's son, which is only described as having occurred \"15 years prior\" to 2018.</li><li>The specific dates on which the Kaski District Court and the Pokhara High Court issued their respective verdicts.</li><li>The identities of the service seeker and his son have been kept confidential in media reports.</li></ul>",
+  "key_allegations": [
+    "Demanding and accepting a bribe of NPR 500,000",
+    "Abuse of authority by a public official",
+    "Attempting to influence a judicial process for personal gain"
+  ],
+  "alleged_entities": [
+    "Surendra Bahadur Thapa"
+  ],
+  "related_entities": [
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "High Government Prosecutor's Office, Pokhara",
+    "Special Court, Kathmandu",
+    "Kaski District Court",
+    "Pokhara High Court"
+  ],
+  "locations": [
+    {
+      "other": "Government Quarters",
+      "ward_no": null,
+      "municipality": "Pokhara",
+      "district": "Kaski",
+      "province": "Gandaki"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": null,
+      "district": "Kapilvastu",
+      "province": "Lumbini"
+    }
+  ],
+  "tags": [
+    "Bribery",
+    "Corruption",
+    "CIAA",
+    "Judicial Corruption",
+    "Sting Operation",
+    "Pokhara",
+    "Prevention of Corruption Act, 2002"
+  ],
+  "case_start_date": "2018-10-10",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2018-10-10",
+      "title": "Arrest in Sting Operation",
+      "description": "A team from the CIAA's Pokhara office arrested Joint Attorney Surendra Bahadur Thapa in a sting operation at his government quarters with NPR 500,000 in bribe money."
+    },
+    {
+      "event_date": "2018-11-13",
+      "title": "Corruption Case Filed",
+      "description": "The CIAA filed a formal corruption case against Surendra Bahadur Thapa at the Special Court in Kathmandu under the Prevention of Corruption Act."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Graft-case filed against joint attorney Thapa",
+      "url": "https://myrepublica.nagariknetwork.com/news/graft-case-filed-against-joint-attorney-thapa/",
+      "description": "My Republica article reporting on the CIAA filing a corruption case against Surendra Bahadur Thapa at the Special Court on November 13, 2018."
+    },
+    {
+      "title": "Watchdog traps joint attorney with cash bribe in Pokhara",
+      "url": "https://kathmandupost.com/gandaki-province/2018/10/11/watchdog-traps-joint-attorney-with-cash-bribe-in-pokhara",
+      "description": "The Kathmandu Post report detailing the arrest of Surendra Bahadur Thapa in a sting operation by the CIAA in Pokhara with a bribe of Rs 500,000."
+    },
+    {
+      "title": "Govt joint attorney caught taking Rs 500,000 bribe",
+      "url": "https://myrepublica.nagariknetwork.com/news/govt-joint-attorney-caught-taking-rs-500-000-bribe/",
+      "description": "My Republica report on the capture of Surendra Bahadur Thapa red-handed with the bribe money and background details of the case he was handling."
+    },
+    {
+      "title": "CIAA files case against joint attorney Thapa",
+      "url": "https://thehimalayantimes.com/nepal/ciaa-files-case-against-joint-attorney-thapa",
+      "description": "The Himalayan Times article confirming the filing of the case by CIAA against Thapa, mentioning the legal provisions of the Prevention of Corruption Act."
+    }
+  ]
+}

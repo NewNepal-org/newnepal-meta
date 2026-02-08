@@ -1,0 +1,129 @@
+{
+  "title": "Murder of Environmental Activist Om Prakash 'Dilip' Mahato",
+  "description": "<p>The case involves the murder of 24-year-old environmental activist Om Prakash 'Dilip' Mahato, who was killed on January 10, 2020, for protesting against illegal sand and boulder extraction from the Aurahi River in Dhanusha district. The incident, known as the 'Tipper Terror' case, exposed a criminal nexus involving local crusher industries.</p><p>On the morning of the incident, at approximately 4:00 AM, Mahato went to the river to stop the illegal mining activities conducted by the <strong>Churiyamai Crusher Industry</strong>. According to police investigations and confessions, he was first beaten with an iron rod and then deliberately run over by a tipper truck (Na7Kha 6413) to stage the murder as an accident. The motive was to eliminate his persistent opposition to the illegal mining operations.</p><p>Following the murder, a case was filed at the Dhanusha District Court. In February 2021, the court delivered its verdict:</p><ul><li><strong>Convicted:</strong> Bipin Kumar Mahato (Crusher Owner), Munindra Mahato (Tipper Driver), and Jitendra Kumar Mahato (Loader Driver) were found guilty of murder.</li><li><strong>Acquitted:</strong> Four other individuals—Binod Mahato, Roshan Kumar Yadav, Satyanarayan Mahato, and Shatrughan Mahato—were acquitted.</li></ul><p>The case sparked national outrage and led to sustained activism, with demonstrators demanding justice for Mahato and calling for him to be declared an 'environmental martyr'.</p>",
+  "unverified_info": "<p>There are several unconfirmed but widely reported claims related to this case:</p><ul><li><strong>Monetary Offer for Murder:</strong> It is alleged that the crusher owner, Bipin Mahato, offered the tipper driver, Munindra Mahato, <strong>NPR 50,000</strong> to kill Dilip. Bipin allegedly said, \"He is causing a lot of trouble for our business. He must be killed, otherwise our business will not run.\"</li><li><strong>Prior Threats:</strong> A few days before the murder, Bipin Mahato allegedly threatened Dilip's father, stating that his son \"would be crushed under a tipper if he did not stop protesting against sand excavation.\"</li><li><strong>Intimidation of Family:</strong> Dilip Mahato's family has reported facing ongoing intimidation and surveillance since the murder, allegedly in an effort to pressure them into withdrawing the case or weakening their pursuit of justice.</li></ul>",
+  "key_allegations": [
+    "Deliberate Murder",
+    "Conspiracy to Murder",
+    "Illegal Sand and Boulder Extraction",
+    "Attempting to Cover Up a Crime as an Accident"
+  ],
+  "alleged_entities": [
+    "Churiyamai Crusher Industry",
+    "Bipin Kumar Mahato",
+    "Munindra Mahato",
+    "Jitendra Kumar Mahato",
+    "Binod Mahato",
+    "Roshan Kumar Yadav",
+    "Satyanarayan Mahato",
+    "Shatrughan Mahato"
+  ],
+  "related_entities": [
+    "Dhanusha District Court"
+  ],
+  "locations": [
+    {
+      "other": "Aurahi River bank",
+      "ward_no": 5,
+      "municipality": "Mithila Municipality",
+      "district": "Dhanusha",
+      "province": "Madhesh Province"
+    }
+  ],
+  "tags": [
+    "Environmental Activism",
+    "Illegal Mining",
+    "Murder",
+    "Corruption",
+    "Dhanusha",
+    "Madhesh Province",
+    "Tipper Terror",
+    "Crusher Industry"
+  ],
+  "case_start_date": "2020-01-10",
+  "case_end_date": "2020-01-10",
+  "timeline": [
+    {
+      "event_date": "2020-01-10",
+      "title": "Murder of Om Prakash 'Dilip' Mahato",
+      "description": "At around 4:00 AM, Dilip Mahato is attacked and killed on the banks of the Aurahi River while protesting illegal mining. Police later seize the tipper truck and arrest the driver, Munindra Mahato."
+    },
+    {
+      "event_date": "2020-01-11",
+      "title": "Key Suspects Arrested",
+      "description": "Police arrest crusher owner Bipin Mahato from a relative's house in Janakpurdham. Loader driver Jitendra Mahato and Dilip's friend Roshan Yadav are also arrested."
+    },
+    {
+      "event_date": "2020-01-12",
+      "title": "Family Agrees to Post-Mortem",
+      "description": "Following the arrest of the main accused, Dilip Mahato's family gives consent for a post-mortem examination of his body."
+    },
+    {
+      "event_date": "2021-02-28",
+      "title": "Dhanusha District Court Convicts Three",
+      "description": "In a verdict delivered in February 2021, the Dhanusha District Court convicted crusher owner Bipin Kumar Mahato, tipper driver Munindra Mahato, and loader driver Jitendra Kumar Mahato for the murder. Four other accused were acquitted."
+    },
+    {
+      "event_date": "2021-04-13",
+      "title": "High Court Issues Interim Order Favoring Crusher Factory",
+      "description": "A division bench of a high court issues a controversial interim order restraining Dilip's family from interfering in the operations of the Churiyamai Crusher Industry."
+    },
+    {
+      "event_date": "2022-05-21",
+      "title": "Activists Demand Justice in Kathmandu",
+      "description": "Youth environmental activists hold a demonstration at Maitighar Mandala, Kathmandu, demanding justice for Dilip Mahato and his declaration as an 'environment martyr'."
+    },
+    {
+      "event_date": "2023-02-20",
+      "title": "New Protests Announced",
+      "description": "The 'Chure and Forest Conservation Campaign' announces a new wave of protests, renewing the call to declare Dilip Mahato an environmental martyr and shut down illegal crusher industries."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Three arrested for Mahato’s murder",
+      "url": "https://thehimalayantimes.com/nepal/three-arrested-for-mahatos-murder",
+      "description": "A news report from January 12, 2020, detailing the murder and the immediate arrests of Bipin Mahato, Jitendra Mahato, and Roshan Yadav. It mentions the prior threat and the method of killing."
+    },
+    {
+      "title": "He was murdered for his fight to save environment, justice eludes his family two years on",
+      "url": "https://kathmandupost.com/madhesh-province/2022/01/10/he-was-murdered-for-his-fight-to-save-environment-justice-eludes-his-family-two-years-on",
+      "description": "An in-depth article published two years after the murder, detailing the incident, the struggle of the family for justice, and a high court order that favored the crusher factory."
+    },
+    {
+      "title": "Three people convicted of murdering Dilip Mahato",
+      "url": "https://ratopati.com/story/286088/2023/2/20/dilip-mahato",
+      "description": "A report from February 2023 confirming that three individuals were convicted by the Dhanusha District Court for Dilip Mahato's murder, while four others were acquitted."
+    },
+    {
+      "title": "Demonstration held in Kathmandu demanding action against Dilip Mahato’s murderers",
+      "url": "https://myrepublica.nagariknetwork.com/news/demonstration-held-in-kathmandu-demanding-action-against-dilip-mahato-s-murderers/",
+      "description": "A news report from May 2022 about demonstrations held in Kathmandu by activists demanding justice and action against the perpetrators."
+    },
+    {
+      "title": "Offer of 50,000 to kill Dilip, who opposed illegal mining",
+      "url": "https://lokpath.com/2020/01/175841/",
+      "description": "A Nepali news report from January 2020 claiming that the tipper driver was offered NPR 50,000 by the crusher owner to carry out the murder."
+    },
+    {
+      "title": "Crushers of justice",
+      "url": "https://www.nepalitimes.com/banner/crushers-of-justice/",
+      "description": "An article from January 13, 2020, describing the crime, the victim's background as an activist, and the alleged political protection enjoyed by the crusher industry mafia."
+    },
+    {
+      "title": "Two years after Dilip's murder, the family is afraid that the powerful will get away with it",
+      "url": "https://www.himalkhabar.com/news/125299",
+      "description": "An article from July 2021 describing the family's continued fight for justice and the intimidation they faced. It also details the court's initial detention and bail orders for the accused."
+    },
+    {
+      "title": "Chure campaign announces second phase of agitation",
+      "url": "https://amurta.com.np/2023/02/20/75501.html",
+      "description": "A report from February 2023 about planned protests by the 'Chure and Forest Conservation Campaign,' demanding Dilip be declared an environmental martyr."
+    },
+    {
+      "title": "Friends of the Earth Asia Pacific demands a thorough investigation into death of environmental human rights defender Dilip Kumar Mahato",
+      "url": "https://foeasiapacific.org/2020/01/23/friends-of-the-earth-asia-pacific-demands-a-thorough-investigation-into-death-of-environmental-human-rights-defender-dilip-kumar-mahato/",
+      "description": "A statement from an international NGO calling for an independent and thorough investigation into the murder of Dilip Kumar Mahato."
+    }
+  ]
+}

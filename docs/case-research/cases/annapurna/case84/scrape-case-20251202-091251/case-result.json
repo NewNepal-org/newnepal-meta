@@ -1,0 +1,123 @@
+{
+  "title": "Mr. Clean and Dollar Scandal (1984)",
+  "description": "<p>The \"One Billion Dollar Scandal\" (एक अर्ब डलर काण्ड) of 1984 involved a fraudulent proposal to the Government of Nepal to acquire a <strong>one billion US dollar loan</strong>. The plan was presented by Indian nationals P.G. Desai and Vijay Desai to the government led by Prime Minister Lokendra Bahadur Chand, ironically known as 'Mr. Clean', and Finance Minister Dr. Prakash Chandra Lohani.</p><p>The proposal suggested that Nepal could borrow the sum at a very low interest rate and profit from the interest rate differential, with a projected gain of around <strong>42 crore Nepali rupees</strong>. The government endorsed the deal, but it faced strong opposition from the Nepal Rastra Bank (NRB).</p><p>Key events in the scandal include:</p><ul><li><strong>Internal Opposition:</strong> NRB Governor Kalyan Bikram Adhikari tasked Mukunda Prasad Ghimire, then head of the Foreign Exchange Department, to investigate the proposers. Ghimire's report concluded that P.G. Desai was a fraud and the scheme was a scam that could have cost Nepal <strong>US$ 40–50 million</strong>.</li><li><strong>Attempted Collusion:</strong> After being rejected by the Governor, P.G. Desai allegedly offered 50% of his projected 70 crore rupee commission to insiders who could push the deal through. This reportedly led to the involvement of NRB's Deputy Governor, Keshavnath Sharma, and a board member of Rastriya Banijya Bank, Indra Bikram Shah.</li><li><strong>Retaliation:</strong> For his steadfast opposition, Governor Adhikari's term was not renewed, and he was effectively dismissed on December 8, 1984.</li><li><strong>Media Exposure:</strong> The secret deal was leaked to weekly newspapers, notably <em>Saptahik Bimarsha</em> and <em>Saptahik Manch</em>. <em>Saptahik Bimarsha</em> published a photocopy of the government's decision, sparking a massive political and public outcry.</li><li><strong>Political Fallout:</strong> The scandal was debated in the Rashtriya Panchayat (parliament), putting immense pressure on the Chand government. Faced with scrutiny, the government was ultimately forced to abandon the plan.</li></ul><p>The scandal is a prominent case of high-level corruption during the Panchayat era, thwarted by the integrity of a few public officials and the role of a free press.</p>",
+  "unverified_info": "<p>While the core facts of the scandal are well-documented, some allegations and details remain uncorroborated and require further investigation:</p><ul><li><strong>Royal Involvement:</strong> A news report from Jana Aastha National Weekly alleges that the Indian proposers, P.G. Desai and Vijay Desai, approached the Nepal Rastra Bank in collaboration with the <strong>then-Prince Gyanendra Shah</strong>. This claim is not widely corroborated in other available sources.</li><li><strong>Identity of Proposer:</strong> One source, based on an interview, mentioned that an Indian actress named \"Meenakshi Anand\" brought the proposal, which contradicts the majority of sources that name the Desai brothers. This could be a misunderstanding or an unverified additional party.</li><li><strong>Background of the Desais:</strong> While multiple sources label the Desai brothers as \"frauds,\" specific details about their corporate identities or backgrounds in India are lacking.</li><li><strong>Parliamentary Records:</strong> Although it is documented that the scandal was debated in the Rashtriya Panchayat, specific official transcripts or committee reports from these sessions were not available in the sources reviewed and would require archival research.</li></ul>",
+  "key_allegations": [
+    "Attempted financial fraud through a fraudulent one billion US dollar loan scheme",
+    "Abuse of authority by the Prime Minister and Finance Minister to push a non-viable and corrupt deal",
+    "Conspiracy to profit from interest rate differentials on a fraudulent loan",
+    "Improper dismissal of the Nepal Rastra Bank Governor for opposing the corrupt deal",
+    "Collusion by a Deputy Governor of Nepal Rastra Bank and a board member of Rastriya Banijya Bank"
+  ],
+  "alleged_entities": [
+    "Lokendra Bahadur Chand",
+    "Dr. Prakash Chandra Lohani",
+    "P.G. Desai",
+    "Vijay Desai",
+    "J.S. Desai",
+    "Keshavnath Sharma",
+    "Indra Bikram Shah"
+  ],
+  "related_entities": [
+    "Government of Nepal",
+    "Nepal Rastra Bank",
+    "Rastriya Banijya Bank",
+    "Rashtriya Panchayat",
+    "Saptahik Bimarsha",
+    "Saptahik Manch"
+  ],
+  "locations": [
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Kathmandu",
+      "district": "Kathmandu",
+      "province": "Bagmati"
+    }
+  ],
+  "tags": [
+    "Financial Fraud",
+    "Corruption",
+    "Abuse of Authority",
+    "Panchayat Era",
+    "Nepal Rastra Bank",
+    "International Loan",
+    "Media Exposure"
+  ],
+  "case_start_date": "1984-01-01",
+  "case_end_date": "1985-03-31",
+  "timeline": [
+    {
+      "event_date": "1984-01-01",
+      "title": "Loan Proposal Submitted",
+      "description": "Indian nationals P.G. Desai and Vijay Desai propose a one billion US dollar loan scheme to the Government of Nepal. The exact date in 1984 is unknown."
+    },
+    {
+      "event_date": "1984-06-01",
+      "title": "Government Entertains Proposal",
+      "description": "The government under Prime Minister Lokendra Bahadur Chand and Finance Minister Prakash Chandra Lohani entertains and supports the loan proposal. The exact date in 1984 is unknown."
+    },
+    {
+      "event_date": "1984-07-01",
+      "title": "NRB Investigation Exposes Fraud",
+      "description": "An internal investigation at Nepal Rastra Bank (NRB), led by Mukunda Prasad Ghimire, concludes that the proposers are fraudulent and the deal is a scam. Governor Kalyan Bikram Adhikari advises the government against it."
+    },
+    {
+      "event_date": "1984-08-01",
+      "title": "Media Exposes Scandal",
+      "description": "Weekly newspapers, including Saptahik Bimarsha and Saptahik Manch, begin publishing explosive reports about the secret deal, bringing it to public attention."
+    },
+    {
+      "event_date": "1984-12-08",
+      "title": "NRB Governor Dismissed",
+      "description": "The tenure of NRB Governor Kalyan Bikram Adhikari ends and is not renewed, a move widely seen as retaliation for his opposition to the dollar deal."
+    },
+    {
+      "event_date": "1985-02-05",
+      "title": "Scandal Troubles Government",
+      "description": "A JPRS report on South Asia notes that the 'billion dollar scandal continues to trouble Premier Chand' and was discussed in the Rashtriya Panchayat Finance Committee."
+    },
+    {
+      "event_date": "1985-03-25",
+      "title": "New NRB Governor Appointed",
+      "description": "After a gap of several months, Ganesh Bahadur Thapa is appointed as the new Governor of Nepal Rastra Bank."
+    }
+  ],
+  "sources": [
+    {
+      "title": "शासकवर्गको अजिङ्गर खान्की – २ (The Insatiable Appetite of the Ruling Class - 2)",
+      "url": "https://onlinemajdoor.com/2021/05/29/21577/",
+      "description": "An article in Online Majdoor providing a detailed narrative of the scandal, naming key individuals like Chand, Lohani, the Desai brothers, Governor Adhikari, and official Ghimire."
+    },
+    {
+      "title": "भ्रष्टाचारविरुद्ध छापा रिपोर्टिङ (Print Reporting Against Corruption)",
+      "url": "https://www.martinchautari.org.np/files/MediaAdhyayan-7/03_Madhu-Acharya.pdf",
+      "description": "A paper from Martin Chautari's 'Media Adhyayan' detailing the role of weekly newspapers, especially Saptahik Bimarsha, in exposing the 1984 dollar scandal."
+    },
+    {
+      "title": "An Attempted Assassination of a Journalist: Rethinking Periodization in Nepali Journalism Historiography",
+      "url": "https://www.researchgate.net/publication/328900407_An_Attempted_Assassination_of_a_Journalist_Rethinking_Periodization_in_Nepali_Journalism_Historiography",
+      "description": "A ResearchGate article discussing the media's role in the scandal and citing the first-hand account of Mukunda Prasad Ghimire from the book 'Empire of Corruption'."
+    },
+    {
+      "title": "भ्रष्टाचारका नायकहरूको नालीबेली (The Ins and Outs of Corruption's Protagonists)",
+      "url": "https://www.janaaastha.com/archives/102029",
+      "description": "An article in Jana Aastha National Weekly mentioning the scandal, its main actors, the dismissal of Governor Adhikari, and the unverified allegation of then-Prince Gyanendra's involvement."
+    },
+    {
+      "title": "Nepal Rastra Bank - Introduction (List of Governors)",
+      "url": "https://www.nrb.org.np/aboutus/intro.php",
+      "description": "The official website of Nepal Rastra Bank, which confirms the tenure of Governor Kalyan Bikram Adhikari (ending Dec 08, 1984) and the appointment date of his successor, Ganesh Bahadur Thapa (Mar 25, 1985)."
+    },
+    {
+      "title": "Book Chapter: The One Billion Dollar Scandal: Country Nearly Turned Bankrupt",
+      "url": "http://example.com/source-not-online",
+      "description": "A first-hand account by Mukunda Prasad Ghimire, the NRB official who investigated the case. Published in 'Empire of Corruption' (2005), edited by Babu Ram Dhakal. This book is a key primary source but is not available online. Citation: Ghimire, M. P. (2005). The one billion dollar scandal: Country nearly turned bankrupt. In B. R. Dhakal (Ed.), Empire of corruption (pp. 146–158). Kathmandu: Babu Ram Dhakal."
+    },
+    {
+      "title": "Near East/South Asia Report, 5 Feb 1985",
+      "url": "https://apps.dtic.mil/sti/citations/ADA335198",
+      "description": "A declassified JPRS report by the Defense Technical Information Center (DTIC) that mentions the 'billion dollar scandal' continuing to be a problem for Prime Minister Chand and its discussion in the parliament's Finance Committee."
+    }
+  ]
+}

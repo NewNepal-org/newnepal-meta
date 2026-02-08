@@ -1,0 +1,88 @@
+{
+  "title": "Corruption Allegation in MRI Machine Procurement at Karnali Provincial Hospital",
+  "description": "<p>This case concerns allegations of significant financial irregularity in the procurement of a 3-Tesla MRI machine by <strong>Karnali Provincial Hospital</strong> in Surkhet. The central allegation is that the hospital purchased the machine at a substantially inflated price compared to a similar procurement by another government entity from the same supplier.</p><p>The key points of the allegation are:</p><ul><li>Karnali Provincial Hospital agreed to procure a 3-Tesla MRI machine from <strong>East West Concern Pvt. Ltd.</strong> for <strong>NPR 297,166,792</strong>.</li><li>In contrast, the Civil Service Hospital in Kathmandu procured a machine with similar specifications from the same supplier for <strong>NPR 227.42 million</strong>.</li><li>This resulted in a price difference of approximately <strong>NPR 70 million (7 Crore)</strong>, prompting investigations into potential corruption.</li></ul><p>Following these allegations, the <strong>Public Accounts Committee (PAC)</strong> of the Karnali Provincial Assembly initiated a probe into the procurement process. Additionally, a formal complaint was registered at the Surkhet office of the <strong>Commission for the Investigation of Abuse of Authority (CIAA)</strong> by a journalist, demanding a thorough investigation.</p><p>Despite the controversy, the procurement was completed, and the MRI machine is now reportedly operational at the hospital.</p>",
+  "unverified_info": "<p>While a formal complaint was filed with the CIAA and an investigation was initiated by the provincial Public Accounts Committee (PAC), there is <strong>no publicly available information, press release, or charge sheet from the CIAA</strong> indicating that the case was prosecuted at the Special Court. The final outcome of the PAC's investigation is also not publicly known.</p><p>There is a significant date discrepancy in a key news source from The Nepali Post. While the article text cites the PAC investigation starting on July 1, 2025, the URL slug indicates a publication date of July 1, 2021. Both dates are logically inconsistent with the procurement timeline (tender in May 2022, complaint in April 2023). Due to this lack of a verifiable date, the PAC investigation event has been omitted from the formal timeline.</p><p>In an event described by news sources as happening in September 2025, the residence of Hospital Director Dr. Dambar Khadka was subject to an arson attack. However, contemporary reports suggest the attack was related to his brother's political career rather than being a direct consequence of this procurement case.</p><p>A report from Ratopati confirmed the MRI machine is operational, but a specific URL for this news report was not available.</p>",
+  "key_allegations": [
+    "Procurement of an MRI machine at an inflated cost of approximately NPR 70 million",
+    "Financial irregularity in the public procurement process"
+  ],
+  "alleged_entities": [
+    "Karnali Provincial Hospital",
+    "Prof. Dr. Dambar Khadka",
+    "East West Concern Pvt. Ltd."
+  ],
+  "related_entities": [
+    "Public Accounts Committee, Karnali Province",
+    "Commission for the Investigation of Abuse of Authority (CIAA)",
+    "Civil Service Hospital"
+  ],
+  "locations": [
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Birendranagar",
+      "district": "Surkhet",
+      "province": "Karnali Province"
+    }
+  ],
+  "tags": [
+    "Corruption",
+    "Procurement",
+    "Medical Equipment",
+    "Financial Irregularity",
+    "Karnali Province",
+    "Public Accounts Committee",
+    "CIAA"
+  ],
+  "case_start_date": "2022-05-08",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "2022-05-08",
+      "title": "Tender Published for MRI Machine",
+      "description": "Karnali Provincial Hospital published an invitation for electronic bids (IFB No. PH/Karnali/ICB-39/078-79) for the 'Procurement of MRI 3.0 Tesla Machine with all standard Accessories'."
+    },
+    {
+      "event_date": "2022-06-22",
+      "title": "Bid Submission Deadline",
+      "description": "The deadline for submission of electronic bids and the opening of the bids took place."
+    },
+    {
+      "event_date": "2023-01-24",
+      "title": "Hospital Announces Machine Installation",
+      "description": "Hospital Director Dr. Dambar Khadka announced in a press conference that the MRI machine was being installed and was expected to be operational by March 2023."
+    },
+    {
+      "event_date": "2023-04-10",
+      "title": "Complaint Filed at CIAA",
+      "description": "A formal complaint regarding the alleged corruption in the MRI procurement was registered at the CIAA office in Surkhet by journalist Rabi Kiran Hamal."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tender Document - Procurement of MRI 3.0 Tesla Machine",
+      "url": "https://bolpatra.gov.np/egp",
+      "description": "Official tender notice (IFB No. PH/Karnali/ICB-39/078-79) published by Karnali Provincial Hospital on the Public Procurement Monitoring Office (PPMO) portal. The specific document confirms the nature of the procurement and its timeline."
+    },
+    {
+      "title": "News Report: Karnali state hospital exceeded Rs 70 million to buy MRI",
+      "url": "https://thenepalipost.com/english/20210701/karnali-state-hospital-exceeded-rs-70-million-to-buy-mri",
+      "description": "Article detailing the initiation of an investigation by the Public Accounts Committee. It specifies the price difference (NPR 70 million) and compares the purchase with that of Civil Service Hospital. Note: The article text mentions a date of July 1, 2025, while the URL suggests July 1, 2021, both of which are inconsistent with the actual procurement timeline."
+    },
+    {
+      "title": "News Report: Complaint filed with the Authority demanding an investigation into corruption in MRI machines",
+      "url": "https://onlinepana.com/2023/04/10/188854/",
+      "description": "Nepali language article reporting that journalist Rabi Kiran Hamal filed a formal complaint with the CIAA in Surkhet, alleging corruption of NPR 29.71 Crore in the MRI machine procurement."
+    },
+    {
+      "title": "News Report: MRI service to be available at Karnali Province Hospital soon",
+      "url": "https://risingnepaldaily.com/news/20288",
+      "description": "Article from January 24, 2023, quoting Hospital Director Dr. Dambar Khadka that the MRI machine was being installed and would be operational by March 2023."
+    },
+    {
+      "title": "Official Website - Public Accounts Committee, Karnali Province",
+      "url": "https://pga.karnali.gov.np/public-accounts-committee/",
+      "description": "The official webpage of the Public Accounts Committee of the Karnali Provincial Assembly, which lists its mandate to investigate financial discipline and its members."
+    }
+  ]
+}

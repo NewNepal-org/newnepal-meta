@@ -1,0 +1,24 @@
+[submodule "services/infra"]
+	path = services/infra
+	url = git@github.com:NewNepal-org/GCP-deployment.git
+[submodule "services/jawafdehi-api"]
+	path = services/jawafdehi-api
+	url = git@github.com:NewNepal-org/JawafdehiAPI.git
+[submodule "services/jawafdehi-frontend"]
+	path = services/jawafdehi-frontend
+	url = git@github.com:NewNepal-org/Jawafdehi.git
+[submodule "services/nes-assets"]
+	path = services/nes-assets
+	url = git@github.com:NewNepal-org/NepalEntityService-assets.git
+[submodule "services/nes-tundikhel"]
+	path = services/nes-tundikhel
+	url = git@github.com:NewNepal-org/NepalEntityService-tundikhel.git
+[submodule "services/nes"]
+	path = services/nes
+	url = git@github.com:NewNepal-org/NepalEntityService.git
+[submodule "services/ngm"]
+	path = services/ngm
+	url = git@github.com:NewNepal-org/ngm.git
+[submodule "docs/admin"]
+	path = docs/admin
+	url = git@gitlab.com:damodardahal/newnepal-admin.git

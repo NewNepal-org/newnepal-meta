@@ -1,0 +1,139 @@
+{
+  "title": "Swargadwari Ashram Land Encroachment and Dispute",
+  "description": "<p>This case concerns a long-running and complex dispute over large tracts of land owned by the <strong>Swargadwari Ashram Guthi</strong>, a major religious trust based in Pyuthan with significant landholdings in Dang district. The land, totaling over 1,000 bigha in Dang, is the primary source of income for the ashram's religious and charitable activities. The dispute is multifaceted and involves several distinct issues that have evolved over decades.</p><p>The key facets of the dispute are:</p><ol><li><strong>Historical Seizure by Maoists:</strong> During the CPN-Maoist insurgency (1996-2006), cadres seized land belonging to the Ashram. Despite promises made after the conflict, reports from as late as 2008 indicated this land had not been returned.</li><li><strong>Encroachment by 'Land Mafia':</strong> A significant portion of the land, particularly in the Lamahi and Ghorahi areas of Dang, has been illegally occupied by organized groups described as 'land mafia' (भूमाफिया). These groups have constructed permanent buildings on the trust's land, allegedly with political protection that has prevented authorities from taking action. Estimates on the number of encroachers have exceeded 800 individuals.</li><li><strong>Tenant Farmer Dispute:</strong> Since approximately 2008 (2065 BS), the majority of tenant farmers cultivating the ashram's land have stopped paying their rent (known as 'Kut'). These farmers, now numbering over 3,500 households and organized as the 'Swargadwari Guthi Tenants Farmers Struggle Committee', are demanding legal ownership of the land they till. This has led to large-scale, recurring protests.</li></ol><p>A critical legal aspect of the case is a <strong>2006 Supreme Court mandamus order</strong> which declared that Swargadwari Guthi is a private trust and its land cannot be legally fragmented or divided. This court order is in direct conflict with the demands of the tenant farmers for ownership rights.</p>",
+  "unverified_info": "<ul><li>The specific identities of the individuals described as the 'land mafia' and the political figures or parties allegedly providing them with protection are not publicly documented in available sources.</li><li>The initial raw research note mentioning the year '1982' appears to be incorrect. The land seizure and encroachment issues escalated significantly during the Maoist insurgency (1996-2006). The origin of the 1982 date is unknown.</li><li>Publicly available records do not indicate a formal investigation or case filed by the Commission for the Investigation of Abuse of Authority (CIAA) specifically concerning the Swargadwari Ashram land. The matter has been handled primarily as a civil, political, and land rights dispute.</li></ul>",
+  "key_allegations": [
+    "Illegal seizure of Guthi land by CPN-Maoist cadres during the 1996-2006 insurgency.",
+    "Systematic encroachment and illegal construction on trust land by organized groups, often referred to as 'land mafia'.",
+    "Failure of over 3,500 tenant farmers to pay obligatory rent ('Kut') to the Ashram since circa 2008.",
+    "Alleged political protection for illegal encroachers, preventing authorities from demolishing unauthorized structures."
+  ],
+  "alleged_entities": [
+    "CPN-Maoist",
+    "Land Mafia / Encroachers",
+    "Swargadwari Guthi Tenants Farmers Struggle Committee"
+  ],
+  "related_entities": [
+    "Swargadwari Ashram Guthi",
+    "Supreme Court of Nepal",
+    "Government of Nepal"
+  ],
+  "locations": [
+    {
+      "other": "Land parcels in Lamahi and Ghorahi areas, including Anarwamauja and Rampur.",
+      "ward_no": null,
+      "municipality": "Ghorahi Sub-Metropolitan City",
+      "district": "Dang",
+      "province": "Lumbini Province"
+    },
+    {
+      "other": null,
+      "ward_no": null,
+      "municipality": "Lamahi Municipality",
+      "district": "Dang",
+      "province": "Lumbini Province"
+    },
+    {
+      "other": "Main Ashram location",
+      "ward_no": null,
+      "municipality": "Swargadwari",
+      "district": "Pyuthan",
+      "province": "Lumbini Province"
+    }
+  ],
+  "tags": [
+    "Land Dispute",
+    "Encroachment",
+    "Guthi Land",
+    "Religious Trust",
+    "Tenant Rights",
+    "Political Interference",
+    "Post-Conflict Issue"
+  ],
+  "case_start_date": "1996-02-13",
+  "case_end_date": null,
+  "timeline": [
+    {
+      "event_date": "1996-02-13",
+      "title": "Start of Maoist Insurgency",
+      "description": "The CPN-Maoist insurgency begins. During the following decade, cadres seized land belonging to Swargadwari Ashram in Dang."
+    },
+    {
+      "event_date": "2006-12-31",
+      "title": "Supreme Court Issues Mandamus Order",
+      "description": "The Supreme Court of Nepal issues a mandamus order in 2006, declaring that the land of Swargadwari Ashram, being a private Guthi, cannot be legally fragmented or divided."
+    },
+    {
+      "event_date": "2008-10-31",
+      "title": "Maoists Acknowledge Holding Seized Land",
+      "description": "A report in The Himalayan Times reveals that the CPN-Maoist party had not yet returned land seized from Swargadwari Ashram. A Maoist district secretary named 'Prakash' acknowledged this and promised the land would be returned."
+    },
+    {
+      "event_date": "2009-12-31",
+      "title": "Tenant Farmers Stop Paying Rent",
+      "description": "Around 2065 BS (2008-2009 AD), a large majority of tenant farmers cultivating the Ashram's land in Dang stopped paying their rent ('Kut')."
+    },
+    {
+      "event_date": "2019-06-12",
+      "title": "Ashram Official Details Encroachment",
+      "description": "Hari Adhikari, the Ashram's Administrative Chief, states that about 800 bighas of land in Dang have been encroached upon by individuals with political backing who have constructed large buildings."
+    },
+    {
+      "event_date": "2022-01-15",
+      "title": "Extent of Encroachment Reported",
+      "description": "News reports indicate that over 800 individuals have encroached on the Ashram's land in Dang and built houses, with an estimated 180 bighas under the control of middlemen."
+    },
+    {
+      "event_date": "2023-12-31",
+      "title": "Ashram Forms Panel to Study Land Issue",
+      "description": "The Swargadwari Ashram Management Committee forms a nine-member panel, led by Basudev Bhattarai, to study the dual land ownership issue with tenant farmers."
+    },
+    {
+      "event_date": "2024-02-20",
+      "title": "Tenant Farmers Launch Protests",
+      "description": "The 'Swargadwari Guthi Tenants Farmers Struggle Committee' launches a series of protests in Dang, demanding legal ownership of the land they cultivate."
+    },
+    {
+      "event_date": "2024-09-11",
+      "title": "Farmer Protests Resume",
+      "description": "Tenant farmers, led by the Struggle Committee, resume protests in Ghorahi, Dang, citing the government's failure to address their demands after previous agreements."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Himalayan Times: Pyuthan locals await return of seized land",
+      "url": "https://thehimalayantimes.com/nepal/pyuthan-locals-await-return-of-seized-land",
+      "description": "October 2008 article confirming that land belonging to Swargadwari Ashram seized by CPN-Maoist during the conflict had not yet been returned. Quotes a Maoist district secretary admitting to the situation."
+    },
+    {
+      "title": "MyRepublica: Swargadwari Ashram may lose its 1,000-bigaha land to land mafia",
+      "url": "https://myrepublica.nagariknetwork.com/news/swargadwari-ashram-may-lose-its-1000-bigaha-land-to-land-mafia/",
+      "description": "June 2019 article quoting an Ashram official about encroachment on 800 bighas of land, the involvement of individuals with political backing, and fears over the proposed Guthi Bill."
+    },
+    {
+      "title": "Sifal Khabar: Report on Land Encroachment",
+      "url": "https://safalkhabar.com/2022/01/15/107563/",
+      "description": "January 2022 news report stating that 180 bigha are under the control of middlemen and that over 800 people have built houses on the encroached land, noting the problem began during the Maoist conflict."
+    },
+    {
+      "title": "Desh Sanchar: Detailed Report on Encroachment in Dang",
+      "url": "https://www.deshsanchar.com/2022/01/16/613481/",
+      "description": "January 2022 article providing a detailed breakdown of encroachment in various locations in Dang, alleging that political leaders are complicit in protecting the encroachers."
+    },
+    {
+      "title": "The Kathmandu Post: Swargadwari trust’s tenant farmers stage protest",
+      "url": "https://kathmandupost.com/national/2024/03/01/swargadwari-trust-s-tenant-farmers-stage-protest-demanding-land-ownership",
+      "description": "March 2024 report on the farmer protests, detailing their demands, the 2006 Supreme Court order, and the formation of a committee to study the issue. Mentions 3,500 households are now involved."
+    },
+    {
+      "title": "Kantipurtv Report: Ashram Income Loss",
+      "url": "https://www.kantipurtv.com/news/2024-03-03/20240303195208",
+      "description": "March 2024 TV news report stating that since 2065 BS (2008/09), the Ashram has received no income from most of its land parcels as tenants have stopped paying rent."
+    },
+    {
+      "title": "The Kathmandu Post: Swargadwari trust tenant farmers resume protests",
+      "url": "https://kathmandupost.com/national/2024/09/11/swargadwari-trust-tenant-farmers-resume-protests",
+      "description": "September 2024 report on the continuation of protests by tenant farmers in Ghorahi, confirming the ongoing nature of the dispute and their demands for land ownership."
+    }
+  ]
+}

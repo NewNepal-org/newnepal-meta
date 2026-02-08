@@ -1,0 +1,103 @@
+{
+  "title": "Inaruwa-Kakarbhitta Railway Trackbed Tender Irregularities",
+  "description": "<p>In mid-2020, the Department of Railways initiated a massive tender process, valued at an estimated NPR 33-35 billion, for the construction of a 106-kilometer railway trackbed for the Inaruwa-Kakarbhitta section of the Mechi-Mahakali Electric Railway. The tender was divided into 54 separate packages.</p><p>The primary issue was the <strong>violation of the Public Procurement Act</strong>, as the tender was called before legally mandated preliminary work was completed. This went against directives from the CIAA, the Office of the Auditor General, and parliamentary committees. The prerequisite work not completed included:</p><ul><li><strong>Land Acquisition:</strong> Land for the track had not been acquired from private owners, and compensation was not paid.</li><li><strong>Site Clearance:</strong> The physical site for construction was not available due to the lack of land acquisition and environmental clearances.</li><li><strong>Environmental Clearances:</strong> The required Environmental Impact Assessment (EIA) and Initial Environmental Examination (IEE) were not secured.</li><li><strong>Permission to Cut Trees:</strong> No permission was granted by the Ministry of Forests and Environment to clear vegetation from the proposed route.</li></ul><p>Allegations of widespread corruption and collusion surfaced, reportedly orchestrated by the <strong>Federation of Contractors’ Associations of Nepal (FCAN)</strong>. It was claimed that a group of 'A-class' contractors planned to divide the 54 packages among themselves, eliminating genuine competition and submitting bids only slightly below the government's estimate to ensure inflated prices. The strategy was allegedly to secure the contracts without a clear site, which would allow them to claim compensation from the government for project delays, a known tactic for draining state funds.</p><p>The tender was ultimately cancelled on September 8, 2020. The cancellation was attributed to a combination of factors:</p><ol><li><strong>Internal Opposition:</strong> The bid evaluation committee within the Department of Railways reportedly refused to approve the illegal tender, citing the COVID-19 pandemic and the impossibility of site clearance.</li><li><strong>Media Exposure:</strong> Investigative reports, notably by <a href=\"https://myrepublica.nagariknetwork.com/news/how-a-multi-billion-rupee-railway-trackbed-corruption-scam-was-exposed-and-ultimately-brought-down/\">Naya Patrika and Nagarik</a>, exposed the irregularities and fueled public outcry.</li><li><strong>Political Pressure:</strong> Following the media reports, the contract was reportedly cancelled under the direction of the Prime Minister's office.</li></ol><p>While the allegedly corrupt tender was averted, the land acquisition process caused significant hardship for thousands of families in Jhapa, Morang, and Sunsari districts. The government froze transactions on an estimated 5,424 plots of land, leaving approximately 5,000 families unable to sell their land or use it as collateral for over two years, without receiving any compensation.</p>",
+  "unverified_info": "<p>Several claims and details in this case are based on media reports and have not been officially verified by a court or investigative body.</p><ul><li><strong>Planned Embezzlement Amount:</strong> News reports suggested a plan to embezzle as much as <strong>NPR 10 billion</strong> from the contract through collusion, but this figure is an allegation and not a confirmed amount.</li><li><strong>Involved Entities:</strong> It was alleged that the scheme involved collusion between business people and senior officials in the <strong>Prime Minister's Office, the CIAA, and parliamentary committees</strong>. However, no specific officials have been publicly named or charged.</li><li><strong>Colluding Contractors:</strong> Around <strong>18 'A-class' contracting companies</strong> allegedly colluded to divide the 54 tender packages. The specific names of these companies are not publicly known.</li><li><strong>Role of Director-General:</strong> It was reported that Director-General Balaram Mishra was attempting to finalize the contract before his retirement on October 6, 2020. The reports also suggested that his absence from the bid evaluation committee was a strategic move to evade direct responsibility. These claims about his motives and strategy remain unverified.</li></ul>",
+  "key_allegations": [
+    "Violation of Public Procurement Act by issuing a tender before completing land acquisition and site clearance.",
+    "Collusion among contractors to rig bids and eliminate fair competition.",
+    "Attempted embezzlement of state funds through inflated bids and a scheme to claim compensation for project delays.",
+    "Deliberate fragmentation of the project into 54 packages to favor a pre-selected group of contractors."
+  ],
+  "alleged_entities": [
+    "Department of Railways",
+    "Federation of Contractors’ Associations of Nepal (FCAN)",
+    "Balaram Mishra"
+  ],
+  "related_entities": [
+    "Ministry of Physical Infrastructure and Transport",
+    "Ministry of Forests and Environment",
+    "District Administration Office, Jhapa",
+    "District Administration Office, Morang",
+    "District Administration Office, Sunsari"
+  ],
+  "locations": [
+    {
+      "other": "Inaruwa-Kakarbhitta Railway Section",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Sunsari",
+      "province": "Province 1"
+    },
+    {
+      "other": "Inaruwa-Kakarbhitta Railway Section",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Morang",
+      "province": "Province 1"
+    },
+    {
+      "other": "Inaruwa-Kakarbhitta Railway Section",
+      "ward_no": null,
+      "municipality": null,
+      "district": "Jhapa",
+      "province": "Province 1"
+    }
+  ],
+  "tags": [
+    "Procurement Irregularity",
+    "Collusion",
+    "Attempted Corruption",
+    "Public Procurement Act",
+    "Infrastructure",
+    "Railway",
+    "Department of Railways",
+    "Canceled Tender",
+    "Land Acquisition"
+  ],
+  "case_start_date": "2020-06-06",
+  "case_end_date": "2020-09-08",
+  "timeline": [
+    {
+      "event_date": "2020-06-06",
+      "title": "Land Acquisition Notice Published for Jhapa",
+      "description": "The District Administration Office, Jhapa, published a 35-day notice to acquire land for the railway project, freezing land transactions in the designated area."
+    },
+    {
+      "event_date": "2020-06-09",
+      "title": "Land Acquisition Notice Published for Morang and Sunsari",
+      "description": "Similar notices for land acquisition were published for Morang and Sunsari districts, freezing land transactions along the proposed railway route."
+    },
+    {
+      "event_date": "2020-07-01",
+      "title": "Tender Invitation Published",
+      "description": "The Department of Railways issued a public tender invitation (bids 2(2076/77 and 3(2076/77) for the construction of the railway trackbed, divided into 54 packages. This occurred in Asar 2077 BS (June/July 2020)."
+    },
+    {
+      "event_date": "2020-09-08",
+      "title": "Tender Process Cancelled",
+      "description": "The Department of Railways published a public notice officially announcing the cancellation of the tender process following media exposure and internal opposition."
+    }
+  ],
+  "sources": [
+    {
+      "title": "How a multi-billion rupee railway trackbed corruption scam was exposed and ultimately brought down",
+      "url": "https://myrepublica.nagariknetwork.com/news/how-a-multi-billion-rupee-railway-trackbed-corruption-scam-was-exposed-and-ultimately-brought-down/",
+      "description": "An investigative report by myRepublica detailing the alleged collusion, the violation of procurement laws, the internal 'revolt' at the Department of Railways, and the eventual cancellation of the tender."
+    },
+    {
+      "title": "Landowners on proposed railway path upset as deals remain frozen",
+      "url": "https://kathmandupost.com/province-no-1/2022/06/08/landowners-on-proposed-railway-path-upset-as-deals-remain-frozen",
+      "description": "A Kathmandu Post article from 2022 highlighting the prolonged suffering of landowners whose properties were frozen for the project without compensation, two years after the initial notices."
+    },
+    {
+      "title": "Mechi-Mahakali Railway: Distribution of compensation for land delayed",
+      "url": "https://kathmandupost.com/province-no-2/2021/02/07/mechi-mahakali-railway-distribution-of-compensation-for-land-delayed",
+      "description": "A Kathmandu Post report from 2021 on the delays in distributing compensation to landowners affected by the Mechi-Mahakali railway project, including the Inaruwa-Kakarbhitta section."
+    },
+    {
+      "title": "Railway track bed construction: Plan to swallow tens of billions by making a lawless contract of 35 billion",
+      "url": "https://khabardabali.com/archives/102555",
+      "description": "A report in Nepali from Khabar Dabali outlining the alleged plan to embezzle funds by awarding a NPR 35 billion contract in violation of established laws and procedures. (Source in Nepali)"
+    }
+  ]
+}
