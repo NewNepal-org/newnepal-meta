@@ -6,7 +6,7 @@ Welcome to the Jawafdehi team! Whether you're joining as a Case Documentation In
 
 - **Website**: https://jawafdehi.org
 - **Discord**: https://discord.gg/ZdBfwm6f
-- **Meta Repository**: https://github.com/jawafdehi/jawafdehi-meta
+- **Meta Repository**: https://github.com/newnepal-org/jawafdehi-meta
 - **Asana**: https://app.asana.com/1/1212011274276450/home
 - **Trello** (deprecated): https://trello.com/b/zSNsFJvU/jawafdehiorg
 - **Point of Contact**: Message team lead on Discord
