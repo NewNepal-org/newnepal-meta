@@ -9,3 +9,6 @@
 
 .venv
 /docs/admin
+
+services/*/
+!services/.gitkeep

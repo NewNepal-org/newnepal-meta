@@ -1,15 +1,15 @@
 # Contributor Workflows
 
-This document explains the different workflows for contributing to Jawafdehi based on your role.
+This document explains the different workflows for contributing to NewNepal.org based on your role.
 
 ## Two Types of Contributors
 
 ### Team Members (Use Meta Repo)
 
-**Who**: Jawafdehi team members, interns, core contributors
+**Who**: NewNepal.org team members, interns, core contributors
 
 **Why use the meta repo**:
-- Access to complete project context across all services
+- Access to complete project context across all services (Jawafdehi, NES, NGM)
 - Shared documentation, research materials, and specifications
 - AI-enriched context for development tools (Cursor, Kiro, GitHub Copilot)
 - Easier cross-service coordination
@@ -37,14 +37,17 @@ This document explains the different workflows for contributing to Jawafdehi bas
 
 1. **Clone the meta repository**
    ```bash
-   git clone https://github.com/NewNepal-org/jawafdehi-meta.git
-   cd jawafdehi-meta
+   git clone https://github.com/NewNepal-org/newnepal-meta.git
+   cd newnepal-meta
    ```
 
 2. **Mount services you need**
    ```bash
-   # Example: Full-stack developer
+   # Example: Full-stack developer working on Jawafdehi
    git submodule update --init services/jawafdehi-api services/jawafdehi-frontend services/nes
+   
+   # Example: Working on NGM
+   git submodule update --init services/ngm services/nes
    ```
 
 3. **Set up each service**

@@ -22,3 +22,6 @@
 [submodule "docs/admin"]
 	path = docs/admin
 	url = git@gitlab.com:damodardahal/newnepal-admin.git
+[submodule "services/newnepal-website"]
+	path = services/newnepal-website
+	url = git@github.com:NewNepal-org/newnepal-website.git

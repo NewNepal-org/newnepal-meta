@@ -1,38 +1,31 @@
-# Jawafdehi - Nepal Transparency & Accountability Platform
+# NewNepal.org Meta Repo
+
+NewNepal.org is a civic tech organization building open digital infrastructure to empower Nepali citizens with transparent access to information about governance, corruption, and public entities. The organization operates three major platforms: Jawafdehi.org (open database of corruption and accountability cases), Nepal Entity Service/NES (comprehensive database of Nepali public entities including politicians, organizations, and government bodies), and Nepal Governance Modernization/NGM (judicial data collection and governance analysis from Nepal's court system). All platforms emphasize open source code, open data principles, bilingual support (English/Nepali), and complete audit trails to promote transparency and accountability in Nepali governance.
 
 ## What This Meta-Repo Is
 
-Jawafdehi is a comprehensive civic tech platform promoting transparency and accountability in Nepali governance. This meta-repository contains the complete ecosystem including multiple services, infrastructure code, documentation, and research materials for Nepal's open corruption database.
+This meta-repository serves as the central hub for the entire NewNepal.org ecosystem, consolidating all projects, services, infrastructure code, documentation, and research materials in one place.
 
-**Mission**: Serve as an open database of corruption for Nepal, helping citizens access information about allegations of corruption and misconduct by public entities.
+> Repository: https://github.com/NewNepal-org/newnepal-meta
 
-**Live Platform**: https://jawafdehi.org (beta: https://beta.jawafdehi.org)
+By centralizing documentation and specifications across multiple services, the meta-repo provides a single source of truth that streamlines agentic development and AI-assisted coding workflows. This architecture enables efficient collaboration, consistent standards, and seamless integration across all NewNepal.org platforms.
 
-## Non-Negotiable Rules
+## NewNepal.org Projects
 
-### Security & Data Integrity
-- **NEVER commit secrets** - Use `.env` files (gitignored) with `.env.example` templates
-- **Open data principles** - All case data must remain open and accessible
-- **Complete audit trails** - Maintain version history for transparency
-- **Service isolation** - Each service manages its own secrets and configuration
+NewNepal.org consists of three major projects, each with their own subcomponents:
 
-### Code Quality Standards
-- **Python services** - Use Poetry: `poetry run <command>` (never pip)
-- **TypeScript services** - Use Bun runtime with Vite build tool
-- **Testing required** - pytest (Python), vitest (TypeScript)
-- **Format consistently** - black + isort (Python), ESLint (TypeScript)
+1. **Jawafdehi.org** - Open database of corruption and accountability
+   - **Live Platform**: https://jawafdehi.org
+   - Services: `jawafdehi-api`, `jawafdehi-frontend`
 
-### Nepali Context Requirements
-- **Authentic Nepali names** in all examples, fixtures, and documentation
-- **Bilingual support** - Equal treatment for English and Nepali content
-- **WCAG 2.1 AA compliance** for accessibility across all services
-- **Local governance awareness** in system design
+2. **NES (Nepal Entity Service)** - Comprehensive database of Nepali public entities (persons, organizations)
+   - Services: `nes`, `nes-tundikhel`, `nes-assets`
 
-### Architecture Principles
-- **Monorepo structure** - Multiple independent services
-- **Service independence** - Each service has own dependencies and config
-- **Shared infrastructure** - Common IaC in `services/infra/` (git submodule)
-- **Spec-driven development** - Use `.kiro/specs/` for non-trivial features
+3. **NGM (Nepal Governance Modernization)** - Governance monitoring and analysis
+   - Services: `ngm`
+
+4. **NewNepal.org Website** - Main organizational website
+   - Service: `newnepal-website`
 
 ## Key Paths
 
@@ -41,13 +34,19 @@ Jawafdehi is a comprehensive civic tech platform promoting transparency and acco
 ├── .kiro/                  # Kiro IDE configuration (meta-repo level)
 │   ├── specs/              # Feature specifications (shared)
 │   └── steering/           # AI steering rules (shared)
+├── .amazonq/               # Amazon Q configuration
+│   └── rules/              # Amazon Q rules
+├── .cursor/                # Cursor IDE configuration
+│   └── rules/              # Cursor rules
+├── .github/                # GitHub configuration (workflows, templates)
 │
-├── services/               # All application services
+├── services/               # All application services (git submodules)
 │   ├── jawafdehi-api/      # Django accountability API
 │   ├── jawafdehi-frontend/ # React public frontend
 │   ├── nes/                # Nepal entity database
 │   ├── nes-tundikhel/      # NES explorer UI
 │   ├── nes-assets/         # NES static assets
+│   ├── newnepal-website/   # NewNepal.org main website
 │   └── infra/              # Infrastructure as Code (git submodule)
 │       ├── terraform/      # Terraform configuration
 │       └── misc/           # Build configs and scripts
@@ -55,11 +54,63 @@ Jawafdehi is a comprehensive civic tech platform promoting transparency and acco
 ├── docs/                   # Meta-repo documentation (cross-cutting concerns)
 ├── case-research/          # Case research materials
 ├── laboratory/             # Experimental code and toolkits
-├── tools/                  # Shared development tools
-└── agent-kit/              # Multi-agent documentation toolkit
+└── tools/                  # Shared development tools
 
-Note: Each service also has its own docs/ folder for service-specific documentation.
+Note: Services are git submodules. You can clone selectively based on your needs.
+For full details on repository setup and selective cloning, see docs/GETTING_STARTED.md.
+Each service also has its own docs/ folder for service-specific documentation.
 ```
+
+## Selective Service Cloning
+
+Services in this meta-repo are organized as git submodules, allowing you to clone only what you need:
+
+```bash
+# Clone meta-repo without services
+git clone https://github.com/NewNepal-org/newnepal-meta
+
+# Clone specific service(s)
+git submodule update --init services/jawafdehi-api
+git submodule update --init services/nes
+
+# Clone all services
+git submodule update --init --recursive
+```
+
+For complete setup instructions, dependency management, and development workflows, see `docs/GETTING_STARTED.md`.
+
+## Documentation Organization
+
+The `/docs` folder contains cross-cutting documentation for the entire NewNepal.org ecosystem:
+
+**TODO**: Document the complete structure and organization of the `/docs` folder.
+
+## Non-Negotiable Rules
+
+### Code Quality & Standards
+- **Python services** - Use Poetry: `poetry run <command>` (never pip)
+- **TypeScript services** - Use Bun runtime with Vite build tool
+- **Unit testing heavily emphasized** - Comprehensive test coverage required for both frontend and backend code
+- **Testing frameworks** - pytest with hypothesis (Python), vitest (TypeScript)
+- **Format consistently** - black + isort (Python), ESLint (TypeScript)
+- **NEVER commit or view .env files** - Do not commit OR view `.env` files for ANY purposes whatsoever; use `.env.example` templates only
+- **Nepali context** - Use authentic Nepali names in examples, fixtures, and documentation with bilingual support (English/Nepali) where possible
+
+### Documentation & Specifications
+- **Specs as source of truth** - Documentation updates take higher priority than code changes
+- **Spec-driven development** - Use `.kiro/specs/` for non-trivial features
+- **Open source principles** - All code follows open source best practices and licensing
+- **Community collaboration** - Transparent development process with public repositories
+- **Open data principles** - All case data must remain open and accessible
+- **Complete audit trails** - Maintain version history for transparency
+
+### Architecture Principles
+- **Meta-repo structure** - Multiple independent services as git submodules
+- **Work from meta-repo** - Users are expected to always work from the meta-repo, cloning only the submodules they need
+- **Pull missing submodules** - If a particular submodule is needed but doesn't exist locally, pull it using `git submodule update --init services/<service-name>`
+- **Service independence** - Each service has own dependencies, config, and secrets management
+- **Shared infrastructure** - Common IaC in `services/infra/` (git submodule)
+- **Selective cloning** - Clone only the services you need
 
 ## Expected Workflow
 
@@ -67,7 +118,7 @@ Note: Each service also has its own docs/ folder for service-specific documentat
 1. **Check existing specs** - Look in `.kiro/specs/` first
 2. **Create spec if missing** - Use requirements.md, design.md, tasks.md structure
 3. **Identify target service** - Work within appropriate service directory
-4. **Follow service patterns** - Each service has its own AGENTS.md
+4. **Write unit tests** - Test-driven development for all new features
 
 ### For Cross-Service Changes
 1. **Plan at meta-repo level** - Consider impact across services
@@ -102,13 +153,6 @@ cd services/jawafdehi-api/docs
 cd services/nes/docs
 ```
 
-### Service-Specific Commands
-Each service has its own development commands. See individual service AGENTS.md files:
-
-- **jawafdehi-api**: `services/jawafdehi-api/AGENTS.md`
-- **jawafdehi-frontend**: `services/jawafdehi-frontend/AGENTS.md` 
-- **nes**: `services/nes/AGENTS.md`
-
 ## Services Overview
 
 | Service | Type | Stack | Description |
@@ -118,6 +162,7 @@ Each service has its own development commands. See individual service AGENTS.md 
 | **nes** | Backend | Python, Poetry | Nepal entity database |
 | **nes-tundikhel** | Frontend | React, TypeScript, Vite | NES explorer UI |
 | **nes-assets** | Static | Jekyll | NES static assets site |
+| **newnepal-website** | Frontend | React, TypeScript, Docusaurus | NewNepal.org main website |
 
 ## Technology Stack
 
@@ -132,7 +177,7 @@ Each service has its own development commands. See individual service AGENTS.md 
 - **Language**: TypeScript
 - **Framework**: React 18
 - **Build Tool**: Vite
-- **Runtime**: Bun
+- **Runtime**: Bun (CloudFlare)
 - **Testing**: Vitest
 
 ### Infrastructure
@@ -140,13 +185,6 @@ Each service has its own development commands. See individual service AGENTS.md 
 - **Compute**: Cloud Run
 - **IaC**: Terraform
 - **CI/CD**: Cloud Build
-
-## Integration Architecture
-
-### Service Dependencies
-- **jawafdehi-frontend** → **jawafdehi-api** (backend)
-- **jawafdehi-api** → **nes** (entity data)
-- **nes-tundikhel** → **nes** (entity explorer)
 
 ### External Integrations
 - **PostgreSQL** - Primary database for all services
@@ -156,15 +194,17 @@ Each service has its own development commands. See individual service AGENTS.md 
 ## Development Guidelines
 
 ### Service Selection
-- **New corruption cases** → Work in `services/jawafdehi-api/`
-- **Public website features** → Work in `services/jawafdehi-frontend/`
+- **Jawafdehi corruption cases** → Work in `services/jawafdehi-api/`
+- **Jawafdehi public website** → Work in `services/jawafdehi-frontend/`
 - **Entity management** → Work in `services/nes/`
+- **NewNepal.org website** → Work in `services/newnepal-website/`
 - **Infrastructure changes** → Work in `services/infra/` (git submodule)
 
 ### Cross-Service Coordination
 - **API changes** → Update both backend and frontend services
 - **Database schema** → Consider impact on all consuming services
 - **Authentication** → Coordinate across all user-facing services
+- **Cross-platform features** → Consider impact across Jawafdehi, NES, and NGM
 
 ### Quality Assurance
 - **Test at service level** → Each service has comprehensive test suite
@@ -173,4 +213,4 @@ Each service has its own development commands. See individual service AGENTS.md 
 
 ---
 
-*For service-specific guidance, always refer to the individual AGENTS.md file in each service directory. For project-wide context, see the agent-kit handbook.*
+*For service-specific development patterns and commands, refer to each service's README.md or documentation.*

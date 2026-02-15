@@ -1,52 +1,55 @@
-# Getting Started with Jawafdehi
+# Getting Started with NewNepal.org
 
-Welcome to Jawafdehi! This guide will help you get started whether you're a team member, intern, or open source contributor.
+Welcome to NewNepal.org! This guide will help you get started whether you're a team member, intern, or open source contributor.
 
 ## For Team Members and Interns
 
 ### 1. Clone the Meta Repository
 
 ```bash
-git clone https://github.com/NewNepal-org/jawafdehi-meta.git
-cd jawafdehi-meta
+git clone https://github.com/NewNepal-org/newnepal-meta.git
+cd newnepal-meta
 ```
 
-This gives you the meta-repo structure including documentation, research materials, and tooling.
+This gives you the meta-repo structure including documentation, research materials, and tooling for all NewNepal.org projects (Jawafdehi, NES, NGM).
 
 ### 2. Mount the Services You Need
 
 Initialize only the services you're working on:
 
 ```bash
-# For frontend work
+# For Jawafdehi frontend work
 git submodule update --init services/jawafdehi-frontend
 
-# For backend work
+# For Jawafdehi backend work
 git submodule update --init services/jawafdehi-api services/nes
+
+# For NGM (judicial data) work
+git submodule update --init services/ngm services/nes
 
 # For infrastructure work
 git submodule update --init services/infra
 
-# For full-stack work
+# For full-stack Jawafdehi work
 git submodule update --init services/jawafdehi-api services/jawafdehi-frontend services/nes services/infra
 ```
 
 ### 3. Set Up Your Development Environment
 
-#### For Python Services (jawafdehi-api, nes)
+#### For Python Services (jawafdehi-api, nes, ngm)
 
 ```bash
-cd services/jawafdehi-api  # or services/nes
+cd services/jawafdehi-api  # or services/nes or services/ngm
 poetry install
 poetry shell
 cp .env.example .env
 # Edit .env with your configuration
 ```
 
-#### For TypeScript Services (jawafdehi-frontend, nes-tundikhel)
+#### For TypeScript Services (jawafdehi-frontend, nes-tundikhel, newnepal-website)
 
 ```bash
-cd services/jawafdehi-frontend  # or services/nes-tundikhel
+cd services/jawafdehi-frontend  # or services/nes-tundikhel or services/newnepal-website
 bun install
 cp .env.example .env
 # Edit .env with your configuration
@@ -95,14 +98,23 @@ Visit our [Trello board](https://trello.com/b/zSNsFJvU/jawafdehiorg) to see curr
 | **jawafdehi-api** | Django, REST APIs, backend | [NewNepal-org/jawafdehi-api](https://github.com/NewNepal-org/jawafdehi-api) |
 | **jawafdehi-frontend** | React, TypeScript, UI/UX | [NewNepal-org/jawafdehi-frontend](https://github.com/NewNepal-org/jawafdehi-frontend) |
 | **nes-tundikhel** | React, data visualization | [NewNepal-org/nes-tundikhel](https://github.com/NewNepal-org/nes-tundikhel) |
+| **ngm** | Python, web scraping, judicial data | [NewNepal-org/ngm](https://github.com/NewNepal-org/ngm) |
 
 ## Understanding the Architecture
+
+### NewNepal.org Projects
+
+1. **Jawafdehi.org** - Open database of corruption and accountability
+2. **NES (Nepal Entity Service)** - Comprehensive database of Nepali public entities
+3. **NGM (Nepal Governance Modernization)** - Judicial data collection and governance analysis
 
 ### Service Dependencies
 
 ```
 jawafdehi-frontend → jawafdehi-api → nes
+jawafdehi-frontend → nes
 nes-tundikhel → nes
+ngm → nes (for entity resolution; near future plan)
 ```
 
 ### Technology Stack

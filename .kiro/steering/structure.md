@@ -1,56 +1,81 @@
 # Meta-Repo Structure Guide
 
 ## Repository Overview
-Jawafdehi meta-repository containing multiple independent services for Nepal's transparency platform.
+NewNepal.org meta-repository containing multiple independent services for Nepal's civic tech ecosystem. This meta-repo serves as the central hub, consolidating all projects, services, infrastructure code, documentation, and research materials.
+
+> Repository: https://github.com/NewNepal-org/newnepal-meta
 
 ## Directory Structure
 
 ```
 /
-├── AGENTS.md               # Cross-tool entry point (meta-repo)
-├── .kiro/                  # Kiro configuration (meta-repo level)
+├── .kiro/                  # Kiro IDE configuration (meta-repo level)
 │   ├── specs/              # Feature specifications (shared)
 │   └── steering/           # AI steering rules (shared)
+├── .amazonq/               # Amazon Q configuration
+├── .cursor/                # Cursor IDE configuration
+├── .github/                # GitHub configuration (workflows, templates)
 │
-├── services/               # All application services
+├── services/               # All application services (git submodules)
 │   ├── jawafdehi-api/      # Django accountability API
-│   │   └── AGENTS.md       # Service-specific entry point
 │   ├── jawafdehi-frontend/ # React public frontend
-│   │   └── AGENTS.md       # Service-specific entry point
 │   ├── nes/                # Nepal entity database
 │   ├── nes-tundikhel/      # NES explorer UI
 │   ├── nes-assets/         # NES static assets
+│   ├── newnepal-website/   # NewNepal.org main website
 │   └── infra/              # Infrastructure as Code (git submodule)
 │       ├── terraform/      # Terraform configuration
 │       └── misc/           # Build configs and scripts
 │
-├── docs/                   # Project documentation
+├── docs/                   # Meta-repo documentation (cross-cutting concerns)
 ├── case-research/          # Case research materials
 ├── laboratory/             # Experimental code and toolkits
-├── tools/                  # Shared development tools
-└── agent-kit/              # Multi-agent documentation toolkit
+└── tools/                  # Shared development tools
+
+Note: Services are git submodules. You can clone selectively based on your needs.
+For full details on repository setup and selective cloning, see docs/GETTING_STARTED.md.
 ```
 
 ## Service Responsibilities
 
-### JawafdehiAPI (Django Backend)
+### Jawafdehi.org Platform
+**jawafdehi-api** (Django Backend)
 - Corruption case management
 - User authentication and permissions
 - RESTful API for frontend consumption
 - Integration with Nepal Entity Service
 
-### Jawafdehi (React Frontend)
-- Public-facing website
+**jawafdehi-frontend** (React Frontend)
+- Public-facing website at https://jawafdehi.org
 - Case browsing and search
 - User interface for transparency data
 - Responsive design with accessibility
 
-### NepalEntityService (Entity Database)
+### Nepal Entity Service (NES)
+**nes** (Entity Database)
 - Government entity data management
 - Entity search and validation
 - API for entity information
 - Data scraping and updates
 - The actual database is in the `nes-db/v2` folder in the service directory. It is quite large and we should be careful about the read operations we make. Write operations through CLI operations are forbidden.
+
+**nes-tundikhel** (NES Explorer UI)
+- Entity browsing and search interface
+- Visualization of entity relationships
+
+**nes-assets** (Static Assets)
+- Static assets and documentation for NES
+
+### Nepal Governance Modernization (NGM)
+**ngm** (Judicial Data Collection)
+- Scrapes judicial data from Nepal's court system
+- Structures court case information
+- Provides data for governance analysis
+
+### NewNepal.org Website
+**newnepal-website** (Main Website)
+- Organizational website
+- Project information and documentation
 
 ### Infrastructure (services/infra - git submodule)
 - Terraform configuration for GCP
@@ -62,7 +87,7 @@ Jawafdehi meta-repository containing multiple independent services for Nepal's t
 
 ### Service-Specific Work
 1. Navigate to service directory: `cd services/<service-name>`
-2. Read service AGENTS.md for specific guidance
+2. Check service README.md for specific guidance
 3. Use service package manager (Poetry/Bun)
 4. Follow service testing patterns
 
@@ -77,6 +102,19 @@ Jawafdehi meta-repository containing multiple independent services for Nepal's t
 2. Use Terraform for infrastructure changes
 3. Test in staging environment first
 4. Coordinate with service deployments
+
+### Selective Service Cloning
+```bash
+# Clone meta-repo without services
+git clone https://github.com/NewNepal-org/newnepal-meta
+
+# Clone specific service(s)
+git submodule update --init services/jawafdehi-api
+git submodule update --init services/nes
+
+# Clone all services
+git submodule update --init --recursive
+```
 
 ## Key Integration Points
 
@@ -112,7 +150,7 @@ terraform plan
 
 ### For Documentation Updates
 ```bash
-# Project-wide docs
+# Meta-repo documentation (cross-cutting concerns)
 edit docs/
 
 # Service-specific docs
