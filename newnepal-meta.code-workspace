@@ -1,0 +1,61 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"javascript.autoClosingTags": false,
+		"python.defaultInterpreterPath": "${workspaceFolder}/services/jawafdehi-api/.venv/bin/python",
+		"python.testing.pytestEnabled": true,
+		"python.testing.pytestArgs": [
+			"/services/jawafdehi-api/tests"
+		],
+		// "python.testing.cwd": "${workspaceFolder}/services/jawafdehi-api"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Jawafdehi API",
+				"type": "debugpy",
+				"request": "launch",
+				// "module": "agni",
+				"python": "${workspaceFolder}/services/jawafdehi-api/.venv/bin/python",
+				"program": "manage.py",
+				"cwd": "${workspaceFolder}/services/jawafdehi-api",
+				"envFile": "${workspaceFolder}/services/jawafdehi-api/.env",
+				"django": true,
+				"args": [
+					"runserver"
+				]
+			},
+			{
+				"name": "Jawafdehi API Q Cluster",
+				"type": "debugpy",
+				"request": "launch",
+				// "module": "agni",
+				"python": "${workspaceFolder}/services/jawafdehi-api/.venv/bin/python",
+				"program": "manage.py",
+				"cwd": "${workspaceFolder}/services/jawafdehi-api",
+				"envFile": "${workspaceFolder}/services/jawafdehi-api/.env",
+				"gevent": true,
+				"django": true,
+				"args": [
+					"qcluster"
+				]
+			},
+			{
+				"name": "Scrapy",
+				"type": "debugpy",
+				"request": "launch",
+				"python": "${workspaceFolder}/services/ngm/.venv/bin/python",
+				"program": "${workspaceFolder}/services/ngm/.venv/bin/scrapy",
+				"args": ["crawl", "supreme_case_enrichment"],
+				"cwd": "${workspaceFolder}/services/ngm",
+				"envFile": "${workspaceFolder}/services/ngm/.env",
+				"django": false,
+			},
+		]
+	}
+}
