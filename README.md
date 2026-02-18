@@ -47,17 +47,18 @@ If you're an **open source contributor**, you can work directly with individual 
 
 ## Available Services
 
-Services are git submodules that support selective initialization - you only need to mount what you're working on. See the [Getting Started Guide](docs/GETTING_STARTED.md) for setup instructions.
+Services are independent repositories that you can clone selectively - you only need to clone what you're working on. See the [Getting Started Guide](docs/GETTING_STARTED.md) for setup instructions.
 
-| Service | Description | Repository |
-|---------|-------------|------------|
-| **jawafdehi-api** | Django accountability API | [NewNepal-org/jawafdehi-api](https://github.com/NewNepal-org/jawafdehi-api) |
-| **jawafdehi-frontend** | React public frontend | [NewNepal-org/jawafdehi-frontend](https://github.com/NewNepal-org/jawafdehi-frontend) |
-| **nes** | Nepal Entity Service database | [NewNepal-org/nes](https://github.com/NewNepal-org/nes) |
-| **nes-tundikhel** | NES explorer UI | [NewNepal-org/nes-tundikhel](https://github.com/NewNepal-org/nes-tundikhel) |
-| **nes-assets** | NES static assets site | [NewNepal-org/nes-assets](https://github.com/NewNepal-org/nes-assets) |
-| **newnepal-website** | NewNepal.org main website | [NewNepal-org/newnepal-website](https://github.com/NewNepal-org/newnepal-website) |
-| **infra** | Infrastructure as Code (Terraform) | [NewNepal-org/infra](https://github.com/NewNepal-org/infra) |
+| Service | Description | Repository | Clone Command |
+|---------|-------------|------------|---------------|
+| **jawafdehi-api** | Django accountability API | [NewNepal-org/JawafdehiAPI](https://github.com/NewNepal-org/JawafdehiAPI) | `git clone git@github.com:NewNepal-org/JawafdehiAPI.git jawafdehi-api` |
+| **jawafdehi-frontend** | React public frontend | [NewNepal-org/Jawafdehi](https://github.com/NewNepal-org/Jawafdehi) | `git clone git@github.com:NewNepal-org/Jawafdehi.git jawafdehi-frontend` |
+| **nes** | Nepal Entity Service database | [NewNepal-org/NepalEntityService](https://github.com/NewNepal-org/NepalEntityService) | `git clone git@github.com:NewNepal-org/NepalEntityService.git nes` |
+| **nes-tundikhel** | NES explorer UI | [NewNepal-org/NepalEntityService-tundikhel](https://github.com/NewNepal-org/NepalEntityService-tundikhel) | `git clone git@github.com:NewNepal-org/NepalEntityService-tundikhel.git nes-tundikhel` |
+| **nes-assets** | NES static assets site | [NewNepal-org/NepalEntityService-assets](https://github.com/NewNepal-org/NepalEntityService-assets) | `git clone git@github.com:NewNepal-org/NepalEntityService-assets.git nes-assets` |
+| **newnepal-website** | NewNepal.org main website | [NewNepal-org/newnepal-website](https://github.com/NewNepal-org/newnepal-website) | `git clone git@github.com:NewNepal-org/newnepal-website.git newnepal-website` |
+| **ngm** | Nepal Governance Modernization | [NewNepal-org/ngm](https://github.com/NewNepal-org/ngm) | `git clone git@github.com:NewNepal-org/ngm.git ngm` |
+| **infra** | Infrastructure as Code (Terraform) | [NewNepal-org/GCP-deployment](https://github.com/NewNepal-org/GCP-deployment) | `git clone git@github.com:NewNepal-org/GCP-deployment.git infra` |
 
 ## Repository Structure
 
@@ -72,14 +73,14 @@ Services are git submodules that support selective initialization - you only nee
 │   └── rules/              # Cursor rules
 ├── .github/                # GitHub configuration (workflows, templates)
 │
-├── services/               # All application services (git submodules)
+├── services/               # All application services (independent repositories)
 │   ├── jawafdehi-api/      # Django accountability API
 │   ├── jawafdehi-frontend/ # React public frontend
 │   ├── nes/                # Nepal entity database
 │   ├── nes-tundikhel/      # NES explorer UI
 │   ├── nes-assets/         # NES static assets
 │   ├── newnepal-website/   # NewNepal.org main website
-│   └── infra/              # Infrastructure as Code (git submodule)
+│   └── infra/              # Infrastructure as Code (independent repository)
 │       ├── terraform/      # Terraform configuration
 │       └── misc/           # Build configs and scripts
 │
@@ -88,7 +89,7 @@ Services are git submodules that support selective initialization - you only nee
 ├── laboratory/             # Experimental code and toolkits
 └── tools/                  # Shared development tools
 
-Note: Services are git submodules. You can clone selectively based on your needs.
+Note: Services are independent repositories. Clone them into the services/ directory as needed.
 For full details on repository setup and selective cloning, see docs/GETTING_STARTED.md.
 Each service also has its own docs/ folder for service-specific documentation.
 ```

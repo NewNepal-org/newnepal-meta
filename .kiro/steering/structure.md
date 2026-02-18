@@ -16,14 +16,14 @@ NewNepal.org meta-repository containing multiple independent services for Nepal'
 ├── .cursor/                # Cursor IDE configuration
 ├── .github/                # GitHub configuration (workflows, templates)
 │
-├── services/               # All application services (git submodules)
+├── services/               # All application services (independent repositories)
 │   ├── jawafdehi-api/      # Django accountability API
 │   ├── jawafdehi-frontend/ # React public frontend
 │   ├── nes/                # Nepal entity database
 │   ├── nes-tundikhel/      # NES explorer UI
 │   ├── nes-assets/         # NES static assets
 │   ├── newnepal-website/   # NewNepal.org main website
-│   └── infra/              # Infrastructure as Code (git submodule)
+│   └── infra/              # Infrastructure as Code (independent repository)
 │       ├── terraform/      # Terraform configuration
 │       └── misc/           # Build configs and scripts
 │
@@ -32,7 +32,7 @@ NewNepal.org meta-repository containing multiple independent services for Nepal'
 ├── laboratory/             # Experimental code and toolkits
 └── tools/                  # Shared development tools
 
-Note: Services are git submodules. You can clone selectively based on your needs.
+Note: Services are independent repositories. Clone them into the services/ directory as needed.
 For full details on repository setup and selective cloning, see docs/GETTING_STARTED.md.
 ```
 
@@ -77,7 +77,7 @@ For full details on repository setup and selective cloning, see docs/GETTING_STA
 - Organizational website
 - Project information and documentation
 
-### Infrastructure (services/infra - git submodule)
+### Infrastructure (services/infra - independent repository)
 - Terraform configuration for GCP
 - Container deployment setup
 - Database provisioning
@@ -98,22 +98,30 @@ For full details on repository setup and selective cloning, see docs/GETTING_STA
 4. Test service interactions
 
 ### Infrastructure Work
-1. Navigate to services/infra directory (git submodule)
+1. Navigate to services/infra directory (independent repository)
 2. Use Terraform for infrastructure changes
 3. Test in staging environment first
 4. Coordinate with service deployments
 
 ### Selective Service Cloning
 ```bash
-# Clone meta-repo without services
-git clone https://github.com/NewNepal-org/newnepal-meta
+# Clone meta-repo (documentation and shared resources)
+git clone git@github.com:NewNepal-org/newnepal-meta.git
 
-# Clone specific service(s)
-git submodule update --init services/jawafdehi-api
-git submodule update --init services/nes
+# Clone specific service(s) into services/ directory
+cd newnepal-meta/services
+git clone git@github.com:NewNepal-org/JawafdehiAPI.git jawafdehi-api
+git clone git@github.com:NewNepal-org/NepalEntityService.git nes
 
-# Clone all services
-git submodule update --init --recursive
+# Or clone all services
+git clone git@github.com:NewNepal-org/JawafdehiAPI.git jawafdehi-api
+git clone git@github.com:NewNepal-org/Jawafdehi.git jawafdehi-frontend
+git clone git@github.com:NewNepal-org/NepalEntityService.git nes
+git clone git@github.com:NewNepal-org/NepalEntityService-tundikhel.git nes-tundikhel
+git clone git@github.com:NewNepal-org/NepalEntityService-assets.git nes-assets
+git clone git@github.com:NewNepal-org/newnepal-website.git newnepal-website
+git clone git@github.com:NewNepal-org/ngm.git ngm
+git clone git@github.com:NewNepal-org/GCP-deployment.git infra
 ```
 
 ## Key Integration Points

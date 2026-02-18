@@ -7,11 +7,11 @@ NewNepal.org is a civic tech organization building open digital infrastructure f
 3. **NGM (Nepal Governance Modernization)** - Judicial data collection and governance analysis
 
 ## Meta-Repo Architecture
-- **Work from meta-repo**: Always work from the meta-repo, cloning only needed submodules
-- **Pull missing submodules**: `git submodule update --init services/<service-name>`
+- **Work from meta-repo**: Always work from the meta-repo, cloning only needed services
+- **Clone missing services**: `cd services && git clone git@github.com:NewNepal-org/<repo-name>.git <service-name>` (see README.md or AGENTS.md for mappings)
 - Navigate to specific service directory before making changes
 - Consider cross-service impact for API or schema changes (Jawafdehi, NES, NGM)
-- Use shared infrastructure patterns in `services/infra/` (git submodule)
+- Use shared infrastructure patterns in `services/infra/` (independent repository)
 - Follow spec-driven development with `.kiro/specs/`
 
 ## Code Quality & Standards
@@ -32,7 +32,7 @@ NewNepal.org is a civic tech organization building open digital infrastructure f
 - **Open source principles**: All code follows open source best practices and licensing
 
 ## Service Coordination
-- Services are git submodules in `services/` directory
+- Services are independent repositories in `services/` directory
 - Check individual service README.md for specific patterns
 - Maintain API compatibility between frontend and backend
 - Cross-platform features: Consider impact across Jawafdehi, NES, and NGM

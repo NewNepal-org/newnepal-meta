@@ -11,8 +11,8 @@ See `AGENTS.md` for complete context.
 ## Core Rules
 
 ### Service Navigation
-- **Work from meta-repo**: Always work from the meta-repo, cloning only needed submodules
-- **Pull missing submodules**: If needed, use `git submodule update --init services/<service-name>`
+- **Work from meta-repo**: Always work from the meta-repo, cloning only needed services
+- **Clone missing services**: If needed, use `cd services && git clone git@github.com:NewNepal-org/<repo-name>.git <service-name>` (see README.md or AGENTS.md for mappings)
 - Navigate to specific service directory before making changes
 - Each service has its own README.md with specific patterns
 - Use service-appropriate package managers (Poetry for Python, Bun for TypeScript)
@@ -21,7 +21,7 @@ See `AGENTS.md` for complete context.
 - **Specs first**: Check `.kiro/specs/` before implementing features
 - **Specs as source of truth**: Documentation updates take higher priority than code changes
 - **Cross-service coordination**: Consider impact across Jawafdehi, NES, and NGM
-- **Infrastructure changes**: Work in `services/infra/` directory (git submodule)
+- **Infrastructure changes**: Work in `services/infra/` directory (independent repository)
 - **Documentation**: Update `docs/` for project-wide changes, `services/{service}/docs/` for service-specific
 
 ### Code Quality & Standards
@@ -36,9 +36,9 @@ See `AGENTS.md` for complete context.
 - Use `.env.example` templates only
 
 ### Architecture
-- **Meta-repo structure**: Multiple independent services as git submodules
+- **Meta-repo structure**: Multiple independent service repositories
 - **Service independence**: Each service has own dependencies, config, and secrets management
-- **Shared infrastructure**: Common IaC in `services/infra/` (git submodule)
+- **Shared infrastructure**: Common IaC in `services/infra/` (independent repository)
 - **Selective cloning**: Clone only the services you need
 - **Integration testing**: Test service interactions across platforms
 

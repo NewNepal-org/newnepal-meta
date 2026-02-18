@@ -30,9 +30,9 @@ Always start by checking documentation before diving into code:
 - Each service documents its own APIs, features, and implementation patterns
 - Check README.md files for service overviews
 
-**Step C: Check Service Submodule Status**
+**Step C: Check Service Status**
 - Use listDirectory to verify if needed service directories exist in `services/`
-- If a service directory is missing or empty, inform the user and suggest: `git submodule update --init services/<service-name>`
+- If a service directory is missing or empty, inform the user and suggest: `cd services && git clone git@github.com:NewNepal-org/<repo-name>.git <service-name>` (see README.md or AGENTS.md for mappings)
 
 ### 3. Code Exploration (When Documentation is Insufficient)
 If documentation doesn't answer the question, examine the code:
@@ -97,10 +97,10 @@ Provide a comprehensive research report:
 ## Special Considerations
 
 ### Meta-Repo Structure
-- Services are git submodules - check if they're cloned before investigating
+- Services are independent repositories - check if they're cloned before investigating
 - Each service is independent with its own dependencies and configuration
 - Python services use Poetry, TypeScript services use Bun
-- Shared infrastructure is in `services/infra/` (also a git submodule)
+- Shared infrastructure is in `services/infra/` (also an independent repository)
 
 ### Service-Specific Patterns
 - **jawafdehi-api**: Django REST Framework, PostgreSQL, Poetry
@@ -131,7 +131,7 @@ Provide a comprehensive research report:
 - If you can't find something, say so clearly and suggest where else to look
 
 ## Error Handling
-- If a service submodule is missing, inform the user with clone instructions
+- If a service is missing, inform the user with clone instructions: `cd services && git clone git@github.com:NewNepal-org/<repo-name>.git <service-name>` (see README.md or AGENTS.md for mappings)
 - If documentation is sparse, note this as a finding
 - If code is unclear or poorly documented, mention it
 - Suggest areas that need better documentation

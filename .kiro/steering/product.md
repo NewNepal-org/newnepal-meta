@@ -41,14 +41,14 @@ NewNepal.org is a civic tech organization building open digital infrastructure t
 ├── .cursor/                # Cursor IDE configuration
 ├── .github/                # GitHub configuration
 │
-├── services/               # All application services (git submodules)
+├── services/               # All application services (independent repositories)
 │   ├── jawafdehi-api/      # Django accountability API
 │   ├── jawafdehi-frontend/ # React public frontend
 │   ├── nes/                # Nepal entity database
 │   ├── nes-tundikhel/      # NES explorer UI
 │   ├── nes-assets/         # NES static assets
 │   ├── newnepal-website/   # NewNepal.org main website
-│   └── infra/              # Infrastructure as Code (git submodule)
+│   └── infra/              # Infrastructure as Code (independent repository)
 │
 ├── docs/                   # Meta-repo documentation (cross-cutting concerns)
 ├── case-research/          # Case research materials
@@ -98,11 +98,11 @@ NewNepal.org is a civic tech organization building open digital infrastructure t
 ## General Conventions
 
 ### Package Organization
-- **Meta-repo Structure**: Multiple services as git submodules in `services/` directory
+- **Meta-repo Structure**: Multiple independent service repositories in `services/` directory
 - **Service Independence**: Each service has its own dependencies, config, and secrets management
 - **Python Services**: Use Poetry for dependency management (`poetry run python`, `poetry run pytest`)
-- **Shared Infrastructure**: Common IaC in `services/infra/` (git submodule)
-- **Work from meta-repo**: Always work from the meta-repo, cloning only the submodules you need
+- **Shared Infrastructure**: Common IaC in `services/infra/` (independent repository)
+- **Work from meta-repo**: Always work from the meta-repo, cloning only the services you need
 
 ### Testing Standards
 - **Test Location**: `tests/` directory in each service

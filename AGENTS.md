@@ -40,14 +40,14 @@ NewNepal.org consists of three major projects, each with their own subcomponents
 │   └── rules/              # Cursor rules
 ├── .github/                # GitHub configuration (workflows, templates)
 │
-├── services/               # All application services (git submodules)
+├── services/               # All application services (independent repositories)
 │   ├── jawafdehi-api/      # Django accountability API
 │   ├── jawafdehi-frontend/ # React public frontend
 │   ├── nes/                # Nepal entity database
 │   ├── nes-tundikhel/      # NES explorer UI
 │   ├── nes-assets/         # NES static assets
 │   ├── newnepal-website/   # NewNepal.org main website
-│   └── infra/              # Infrastructure as Code (git submodule)
+│   └── infra/              # Infrastructure as Code (independent repository)
 │       ├── terraform/      # Terraform configuration
 │       └── misc/           # Build configs and scripts
 │
@@ -56,25 +56,33 @@ NewNepal.org consists of three major projects, each with their own subcomponents
 ├── laboratory/             # Experimental code and toolkits
 └── tools/                  # Shared development tools
 
-Note: Services are git submodules. You can clone selectively based on your needs.
+Note: Services are independent repositories. Clone them into the services/ directory as needed.
 For full details on repository setup and selective cloning, see docs/GETTING_STARTED.md.
 Each service also has its own docs/ folder for service-specific documentation.
 ```
 
 ## Selective Service Cloning
 
-Services in this meta-repo are organized as git submodules, allowing you to clone only what you need:
+Services in this meta-repo are organized as independent repositories. Clone only what you need:
 
 ```bash
-# Clone meta-repo without services
-git clone https://github.com/NewNepal-org/newnepal-meta
+# Clone meta-repo (documentation and shared resources)
+git clone git@github.com:NewNepal-org/newnepal-meta.git
 
-# Clone specific service(s)
-git submodule update --init services/jawafdehi-api
-git submodule update --init services/nes
+# Clone specific service(s) into services/ directory
+cd newnepal-meta/services
+git clone git@github.com:NewNepal-org/JawafdehiAPI.git jawafdehi-api
+git clone git@github.com:NewNepal-org/NepalEntityService.git nes
 
-# Clone all services
-git submodule update --init --recursive
+# Or clone all services
+git clone git@github.com:NewNepal-org/JawafdehiAPI.git jawafdehi-api
+git clone git@github.com:NewNepal-org/Jawafdehi.git jawafdehi-frontend
+git clone git@github.com:NewNepal-org/NepalEntityService.git nes
+git clone git@github.com:NewNepal-org/NepalEntityService-tundikhel.git nes-tundikhel
+git clone git@github.com:NewNepal-org/NepalEntityService-assets.git nes-assets
+git clone git@github.com:NewNepal-org/newnepal-website.git newnepal-website
+git clone git@github.com:NewNepal-org/ngm.git ngm
+git clone git@github.com:NewNepal-org/GCP-deployment.git infra
 ```
 
 For complete setup instructions, dependency management, and development workflows, see `docs/GETTING_STARTED.md`.
@@ -105,11 +113,11 @@ The `/docs` folder contains cross-cutting documentation for the entire NewNepal.
 - **Complete audit trails** - Maintain version history for transparency
 
 ### Architecture Principles
-- **Meta-repo structure** - Multiple independent services as git submodules
-- **Work from meta-repo** - Users are expected to always work from the meta-repo, cloning only the submodules they need
-- **Pull missing submodules** - If a particular submodule is needed but doesn't exist locally, pull it using `git submodule update --init services/<service-name>`
+- **Meta-repo structure** - Multiple independent service repositories
+- **Work from meta-repo** - Users are expected to always work from the meta-repo, cloning only the services they need
+- **Clone missing services** - If a particular service is needed but doesn't exist locally, clone it: `cd services && git clone git@github.com:NewNepal-org/<repo-name>.git <service-name>`
 - **Service independence** - Each service has own dependencies, config, and secrets management
-- **Shared infrastructure** - Common IaC in `services/infra/` (git submodule)
+- **Shared infrastructure** - Common IaC in `services/infra/` (independent repository)
 - **Selective cloning** - Clone only the services you need
 
 ## Expected Workflow
@@ -122,7 +130,7 @@ The `/docs` folder contains cross-cutting documentation for the entire NewNepal.
 
 ### For Cross-Service Changes
 1. **Plan at meta-repo level** - Consider impact across services
-2. **Update shared infrastructure** - Modify `services/infra/` if needed (git submodule)
+2. **Update shared infrastructure** - Modify `services/infra/` if needed (independent repository)
 3. **Coordinate service changes** - Update multiple services consistently
 4. **Test integration** - Verify service interactions
 
@@ -198,7 +206,7 @@ cd services/nes/docs
 - **Jawafdehi public website** → Work in `services/jawafdehi-frontend/`
 - **Entity management** → Work in `services/nes/`
 - **NewNepal.org website** → Work in `services/newnepal-website/`
-- **Infrastructure changes** → Work in `services/infra/` (git submodule)
+- **Infrastructure changes** → Work in `services/infra/` (independent repository)
 
 ### Cross-Service Coordination
 - **API changes** → Update both backend and frontend services

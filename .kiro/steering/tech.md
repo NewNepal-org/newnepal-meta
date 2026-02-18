@@ -6,13 +6,25 @@
 - **Navigate to service directory** - Always `cd services/<service-name>` first
 - **Check service README.md** - Each service has specific patterns and commands
 - **Check service dependencies** - Use Poetry (Python) or Bun (TypeScript)
-- **Work from meta-repo** - Always work from the meta-repo, cloning only the submodules you need
+- **Work from meta-repo** - Always work from the meta-repo, cloning only the services you need
 
-### Pull Missing Submodules
-If a particular submodule is needed but doesn't exist locally:
+### Clone Missing Services
+If a particular service is needed but doesn't exist locally:
 ```bash
-git submodule update --init services/<service-name>
+cd services
+git clone git@github.com:NewNepal-org/<repo-name>.git <service-name>
+cd ..
 ```
+
+Example mappings:
+- jawafdehi-api → JawafdehiAPI.git
+- jawafdehi-frontend → Jawafdehi.git
+- nes → NepalEntityService.git
+- nes-tundikhel → NepalEntityService-tundikhel.git
+- nes-assets → NepalEntityService-assets.git
+- ngm → ngm.git
+- infra → GCP-deployment.git
+- newnepal-website → newnepal-website.git
 
 ### Cross-Service Coordination
 - **API changes** - Update both backend and frontend services
@@ -96,13 +108,23 @@ cd services/infra && terraform plan
 
 ### Selective Cloning
 ```bash
-# Clone meta-repo without services
-git clone https://github.com/NewNepal-org/newnepal-meta
+# Clone meta-repo (documentation and shared resources)
+git clone git@github.com:NewNepal-org/newnepal-meta.git
 
-# Clone specific service(s)
-git submodule update --init services/jawafdehi-api
-git submodule update --init services/nes
+# Clone specific service(s) into services/ directory
+cd newnepal-meta/services
+git clone git@github.com:NewNepal-org/JawafdehiAPI.git jawafdehi-api
+git clone git@github.com:NewNepal-org/NepalEntityService.git nes
 
-# Clone all services
-git submodule update --init --recursive
+# Or clone all services
+git clone git@github.com:NewNepal-org/JawafdehiAPI.git jawafdehi-api
+git clone git@github.com:NewNepal-org/Jawafdehi.git jawafdehi-frontend
+git clone git@github.com:NewNepal-org/NepalEntityService.git nes
+git clone git@github.com:NewNepal-org/NepalEntityService-tundikhel.git nes-tundikhel
+git clone git@github.com:NewNepal-org/NepalEntityService-assets.git nes-assets
+git clone git@github.com:NewNepal-org/newnepal-website.git newnepal-website
+git clone git@github.com:NewNepal-org/ngm.git ngm
+git clone git@github.com:NewNepal-org/GCP-deployment.git infra
+```
+git clone https://github.com/NewNepal-org/infra
 ```
