@@ -440,6 +440,35 @@
     - Ensure all tests still pass after refactoring
     - _Requirements: Code quality_
 
+  - [x] 6.9 Implement tags endpoint (TDD)
+    - Write tests FIRST for `GET /api/tags` returning sorted unique tags (Red)
+    - Add `get_all_tags()` default implementation to `EntityDatabase` base class using `list_entities` (Green)
+    - Override `get_all_tags()` on `InMemoryCachedReadDatabase` using `_entity_cache` for efficiency (Green)
+    - Add `get_all_tags()` to `SearchService` delegating to database (Green)
+    - Create `nes/api/routes/tags.py` with `GET /api/tags` route returning `{"tags": [...]}` (Green)
+    - Register tags router in `nes/api/routes/__init__.py` and `nes/api/app.py` (Green)
+    - Verify 6 new tests pass: 200 status, response shape, known tags present, sorted, no duplicates, cross-check with all entities (Green)
+    - _Requirements: 19.1, 19.2, 19.3, 19.4, 19.5, 19.6, 19.7_
+
+- [x] 6.10 Implement tag-based search UI in nes-tundikhel (TDD)
+  - [x] 6.10.1 Add `getTags()` to `NESApiClient`
+    - Call `GET /api/tags`, return `data.tags ?? []`
+    - _Requirements: 20.6, 20.7_
+
+  - [x] 6.10.2 Implement `TagsMultiSelect` component in `Home.tsx`
+    - Dropdown with checkboxes for each available tag (fetched from API)
+    - Selected tags shown as removable chips with × button and "Clear all"
+    - Dropdown trigger shows count of selected tags or placeholder
+    - Closes on outside click
+    - _Requirements: 20.1, 20.5_
+
+  - [x] 6.10.3 Wire tags into search filters
+    - Fetch available tags via `apiClient.getTags()` on page load
+    - Show `TagsMultiSelect` only when `selectedType === 'person'`
+    - Clear selected tags when entity type changes
+    - Pass selected tags into `useEntitySearch` filters (AND logic)
+    - _Requirements: 20.2, 20.3, 20.4_
+
 - [x] 7. Implement documentation hosting
   - [x] 7.1 Write documentation tests FIRST
     - Write tests for documentation rendering
@@ -724,6 +753,131 @@
 
 
 
+## Phase 10: Entity Prefix Extension (N-level classification)
+
+- [x] 14. Extend entity ID system to support N-level `entity_prefix`
+
+  - [x] 14.1 Update constraints (no tests needed)
+    - Add `MAX_PREFIX_DEPTH = 3` constant to `nes/core/constraints.py`
+    - _Requirements: 21.2_
+
+  - [x] 14.2 Write identifier tests FIRST (Red)
+    - Write tests for `break_entity_id` with 1-segment prefix (`entity:person/slug`)
+    - Write tests for `break_entity_id` with 2-segment prefix (`entity:organization/political_party/slug`) — backward compat regression
+    - Write tests for `break_entity_id` with 3-segment prefix (`entity:organization/nepal_govt/moha/slug`)
+    - Write tests that `break_entity_id` raises `ValueError` for prefix depth > `MAX_PREFIX_DEPTH`
+    - Write tests for `build_entity_id_from_prefix(prefix, slug)` at all valid depths
+    - Write tests that `build_entity_id(type, subtype, slug)` still works (deprecated wrapper — backward compat)
+    - Write tests that `EntityIdComponents.prefix` returns the slash-joined prefix string
+    - Write tests that `EntityIdComponents.type` and `.subtype` properties still work for 1- and 2-segment prefixes
+    - _Requirements: 21.1, 21.3, 21.13_
+
+  - [x] 14.3 Implement identifier changes (Green)
+    - Change `EntityIdComponents` NamedTuple to `(prefix: str, slug: str)`
+    - Add backward-compat `.type` and `.subtype` properties to `EntityIdComponents`
+    - Update `break_entity_id` to accept 2 to `MAX_PREFIX_DEPTH + 1` path segments
+    - Add `build_entity_id_from_prefix(prefix, slug)` as the new primary builder
+    - Keep `build_entity_id(type, subtype, slug)` as a deprecated wrapper calling `build_entity_id_from_prefix`
+    - Ensure all identifier tests pass
+    - _Requirements: 21.1, 21.3, 21.13_
+
+  - [x] 14.4 Write allowed-prefix registry tests FIRST (Red)
+    - Write tests that all existing type/subtype combos are present in `ALLOWED_ENTITY_PREFIXES` (e.g. `"person"`, `"organization/political_party"`, `"location/district"`)
+    - Write tests that a new 3-level prefix `"organization/nepal_govt/moha"` can be added and passes validation
+    - _Requirements: 21.4, 21.5_
+
+  - [x] 14.5 Implement allowed-prefix registry (Green)
+    - Add `ALLOWED_ENTITY_PREFIXES: set[str]` to `nes/core/models/entity_type_map.py`, seeded from existing `ENTITY_TYPE_MAP` entries
+    - Ensure all registry tests pass
+    - _Requirements: 21.4_
+
+  - [x] 14.6 Write validator tests FIRST (Red)
+    - Write tests that existing entity IDs (`entity:person/rabi-lamichhane`, `entity:organization/political_party/national-independent-party`) pass `validate_entity_id` unchanged — backward compat regression
+    - Write tests that a new 3-level entity ID `entity:organization/nepal_govt/moha/department-of-immigration` passes validation after adding the prefix to `ALLOWED_ENTITY_PREFIXES`
+    - Write tests that an unknown prefix raises `ValueError`
+    - Write tests that a prefix exceeding `MAX_PREFIX_DEPTH` raises `ValueError`
+    - _Requirements: 21.3, 21.5_
+
+  - [x] 14.7 Implement validator changes (Green)
+    - Rewrite `validate_entity_id` in `validators.py` to validate the full prefix against `ALLOWED_ENTITY_PREFIXES` instead of separately checking `EntityType` + `EntitySubType` + `ENTITY_TYPE_MAP`
+    - Add depth check against `MAX_PREFIX_DEPTH`
+    - Ensure all validator tests pass
+    - _Requirements: 21.3, 21.5_
+
+  - [x] 14.8 Write Entity model tests FIRST (Red)
+    - Write tests that existing `Person`, `Organization`, `Location`, `Project` entities without `entity_prefix` still compute `id` correctly (backward compat regression)
+    - Write tests that setting `entity_prefix="organization/nepal_govt/moha"` on an `Organization` computes `id` as `entity:organization/nepal_govt/moha/{slug}`
+    - Write tests that `entity_prefix` takes precedence over `type`/`sub_type` in `id` computation when both are set
+    - Write tests that the Python class is determined by the first prefix segment (Organization for any `organization/...` prefix)
+    - _Requirements: 21.6, 21.7, 21.8_
+
+  - [x] 14.9 Implement Entity model changes (Green)
+    - Add `entity_prefix: Optional[str]` field to the base `Entity` model
+    - Update the `id` computed field: use `entity_prefix` when set, else fall back to `build_entity_id(type, subtype, slug)`
+    - Add field validator to check `entity_prefix` depth against `MAX_PREFIX_DEPTH` if provided
+    - Ensure all Entity model tests pass
+    - _Requirements: 21.6, 21.7, 21.8_
+
+  - [x] 14.10 Write Publication Service tests FIRST (Red)
+    - Write tests that `create_entity` with `entity_prefix="organization/nepal_govt/moha"` creates an entity with the correct `id`
+    - Write tests that `create_entity` with old-style `entity_type`/`entity_subtype` still works (backward compat regression)
+    - Write tests that `entity_prefix` takes precedence over `entity_type`/`entity_subtype` when both are provided
+    - Use authentic Nepali entity data (e.g. a Ministry of Home Affairs department)
+    - _Requirements: 21.9_
+
+  - [x] 14.11 Implement Publication Service changes (Green)
+    - Add `entity_prefix: Optional[str]` parameter to `create_entity()`
+    - When `entity_prefix` is provided: set it on `entity_data`, derive `entity_type` from the first segment for class instantiation
+    - Mark `entity_type`/`entity_subtype` as deprecated in docstring
+    - Ensure all Publication Service tests pass
+    - _Requirements: 21.9_
+
+  - [x] 14.12 Write database traversal tests FIRST (Red)
+    - Write tests that `list_entities` discovers entities stored at 1-level deep paths (`entity/person/`)
+    - Write tests that `list_entities` discovers entities stored at 2-level deep paths (`entity/organization/political_party/`)
+    - Write tests that `list_entities` discovers entities stored at 3-level deep paths (`entity/organization/nepal_govt/moha/`)
+    - Write tests that `_entity_from_dict` correctly loads both old-style entities (no `entity_prefix`) and new-style entities (with `entity_prefix`)
+    - _Requirements: 21.12_
+
+  - [x] 14.13 Implement database traversal changes (Green)
+    - Update `list_entities` directory traversal in `FileDatabase` to walk up to `MAX_PREFIX_DEPTH` levels deep
+    - Update `_entity_from_dict` to handle loading entities that have `entity_prefix` set
+    - Ensure all database traversal tests pass
+    - _Requirements: 21.12_
+
+  - [x] 14.14 Write Search Service tests FIRST (Red)
+    - Write tests that `search_entities(entity_prefix="organization/nepal_govt")` returns all entities whose prefix starts with `"organization/nepal_govt"`
+    - Write tests that `search_entities(entity_prefix="organization/nepal_govt/moha")` returns only entities with that exact prefix
+    - Write tests that old-style `search_entities(entity_type="organization", sub_type="political_party")` still works (backward compat regression)
+    - _Requirements: 21.10_
+
+  - [x] 14.15 Implement Search Service changes (Green)
+    - Add `entity_prefix: Optional[str]` to `search_entities()` in `SearchService`
+    - Implement prefix-match filtering (startswith logic)
+    - Keep old `entity_type`/`sub_type` params functional
+    - Ensure all Search Service tests pass
+    - _Requirements: 21.10_
+
+  - [x] 14.16 Write API tests FIRST (Red)
+    - Write tests that `GET /api/entities?entity_prefix=organization/nepal_govt/moha` returns correct results
+    - Write tests that `GET /api/entities?entity_type=organization&sub_type=political_party` still works (backward compat regression)
+    - Write tests that an invalid `entity_prefix` (not in `ALLOWED_ENTITY_PREFIXES`) returns HTTP 400
+    - _Requirements: 21.11_
+
+  - [x] 14.17 Implement API changes (Green)
+    - Add `entity_prefix: Optional[str]` query parameter to `GET /api/entities`
+    - Validate against `ALLOWED_ENTITY_PREFIXES`, return 400 on invalid value
+    - Pass through to `search_service.search_entities(entity_prefix=...)`
+    - Mark `entity_type` and `sub_type` query param descriptions as deprecated in OpenAPI docstring
+    - Ensure all API tests pass
+    - _Requirements: 21.11_
+
+  - [x] 14.18 Refactor and integration check
+    - Run full test suite to verify no regressions across all phases
+    - Refactor for code quality and consistency
+    - Update docstrings on deprecated fields/params
+    - _Requirements: 21.3, Code quality_
+
 ---
 
 ## Summary of Remaining Work
@@ -737,9 +891,13 @@
 4. **CLI Analytics Commands (8.7)** - Generate reports and visualizations for data analysis
 5. **Documentation Updates (13.1-13.4)** - Improve user guides and deployment documentation
 
+### Completed
+- ✅ **Entity Prefix Extension (14.1-14.18)** - N-level entity prefix fully implemented (constraints, identifiers, registry, validator, entity model, publication service, database traversal, search service, API, integration check)
+
 ### Implementation Notes
 - The core system (Phases 0-7) is complete and functional
 - Migration system (Phase 10) is fully implemented and operational
+- Entity prefix extension (Phase 14) is fully implemented and operational
 - Performance optimizations including caching and indexing are in place
 - API, services, and database layers are production-ready
 - Focus remaining work on CLI tooling and comprehensive testing

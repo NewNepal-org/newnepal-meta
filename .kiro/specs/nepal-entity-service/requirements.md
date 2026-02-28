@@ -263,3 +263,53 @@ The entity service hosts a public API that allows anyone to get the entity, rela
 4. THE Migration_System SHALL configure Git settings optimized for large repositories (core.preloadindex, core.fscache, gc.auto)
 5. THE Migration_System SHALL handle Git push operations for large commits with appropriate timeouts
 
+### Requirement 19
+
+**User Story:** As a frontend developer, I want a `GET /api/tags` endpoint that returns all unique tag values from the database, so that I can build tag-based filtering UI without hardcoding tag values.
+
+#### Acceptance Criteria
+
+1. THE Nepal_Entity_Service SHALL expose a `GET /api/tags` endpoint returning all unique tags across all entities
+2. THE tags endpoint SHALL return tags as a sorted list of strings in the response body under a `tags` key
+3. THE tags endpoint SHALL return an empty list when no entities have tags
+4. THE tags endpoint SHALL not contain duplicate tag values
+5. THE Nepal_Entity_Service SHALL implement `get_all_tags()` on the `EntityDatabase` base class with a default implementation using `list_entities`
+6. THE `InMemoryCachedReadDatabase` SHALL override `get_all_tags()` to use the in-memory entity cache for efficiency
+7. THE `SearchService` SHALL expose `get_all_tags()` delegating to the underlying database implementation
+
+### Requirement 20
+
+**User Story:** As a nes-tundikhel user, I want a multi-select tag dropdown on the search page that is populated from the live NES database, so that I can filter person entities by one or more tags without knowing tag values in advance.
+
+#### Acceptance Criteria
+
+1. WHEN the "Person" entity type is selected, THE nes-tundikhel UI SHALL display a tag multi-select dropdown below the entity type selector
+2. THE dropdown options SHALL be fetched from `GET /api/tags` at page load — not hardcoded
+3. WHEN tags are selected, THE search SHALL pass them as an additional AND-logic filter alongside the text query and entity type
+4. WHEN the user switches to a non-"Person" entity type, THE selected tags SHALL be cleared and the dropdown SHALL be hidden
+5. WHEN tags are selected, THE UI SHALL show each as a removable chip with a × button and a "Clear all" option
+6. WHEN the API call to `GET /api/tags` fails, THE dropdown SHALL remain empty without breaking the page
+7. THE `NESApiClient` SHALL expose a `getTags()` method returning `Promise<string[]>` sourced from the `tags` field of the API response
+
+### Requirement 21
+
+**User Story:** As a data maintainer, I want to classify entities using a flexible N-level prefix (e.g. `organization/nepal_govt/moha`) instead of a rigid two-level type/subtype system, so that I can represent deeper organizational hierarchies like Nepal's government ministry structure.
+
+- **Glossary**: `entity_prefix` is the slash-joined classification path that appears between `entity:` and the slug in an entity ID. For example, in `entity:organization/nepal_govt/moha/department-of-immigration`, the `entity_prefix` is `organization/nepal_govt/moha`.
+
+#### Acceptance Criteria
+
+1. THE Nepal_Entity_Service SHALL support entity IDs of the format `entity:<entity_prefix>/<slug>` where `entity_prefix` is a slash-joined path of 1 to `MAX_PREFIX_DEPTH` segments (default `MAX_PREFIX_DEPTH = 3`)
+2. THE Nepal_Entity_Service SHALL define `MAX_PREFIX_DEPTH` as a named constant in `nes/core/constraints.py` with a default value of 3
+3. THE Nepal_Entity_Service SHALL maintain full backward compatibility — all existing entity IDs using the old `entity:<type>/<slug>` and `entity:<type>/<subtype>/<slug>` formats SHALL continue to be valid and retrievable without any migration
+4. THE Nepal_Entity_Service SHALL maintain an `ALLOWED_ENTITY_PREFIXES` registry (a flat set of valid prefix strings) in `nes/core/models/entity_type_map.py` that replaces the role of `ENTITY_TYPE_MAP` for prefix validation
+5. THE Nepal_Entity_Service SHALL validate that any `entity_prefix` used in a new entity ID is a member of `ALLOWED_ENTITY_PREFIXES`
+6. THE Nepal_Entity_Service SHALL derive the Python model class (Person, Organization, Location, Project) from the first segment of `entity_prefix`, regardless of how many segments the prefix has
+7. THE Entity model SHALL expose an `entity_prefix` field; WHEN `entity_prefix` is set it SHALL be used to compute the entity `id`; WHEN it is not set the system SHALL fall back to the existing `type`/`sub_type` fields for backward compatibility
+8. THE `entity_type` and `sub_type` fields and API query parameters SHALL be retained but marked as deprecated in favour of `entity_prefix`
+9. THE Publication_Service SHALL accept an `entity_prefix` parameter in `create_entity()`; WHEN provided it SHALL take precedence over the deprecated `entity_type`/`entity_subtype` parameters
+10. THE Search_Service `search_entities()` SHALL accept an `entity_prefix` parameter and SHALL support prefix-match filtering (e.g. searching with `organization/nepal_govt` returns all entities whose prefix starts with `organization/nepal_govt`)
+11. THE NES API `GET /api/entities` SHALL accept an `entity_prefix` query parameter and pass it through to the Search_Service; the existing `entity_type` and `sub_type` query parameters SHALL remain functional but be marked deprecated in the OpenAPI description
+12. THE file database directory traversal in `list_entities` SHALL walk up to `MAX_PREFIX_DEPTH` levels deep to discover entities stored under arbitrarily deep prefix paths
+13. THE `break_entity_id()` function SHALL return an `EntityIdComponents` with a `prefix` field (slash-joined string) and a `slug` field, replacing the old `type`/`subtype` fields; a backward-compatible `type` property and `subtype` property SHALL be provided on `EntityIdComponents` for callers that rely on the old structure
+
