@@ -6,7 +6,7 @@ Read `AGENTS.md` in the root directory for complete context and workflow.
 ## Meta-Repo Rules
 - **Service-specific work** → Navigate to appropriate service directory first
 - **Cross-service changes** → Consider impact on all services
-- **Infrastructure changes** → Work in `services/infra/` directory (git submodule)
+- **Infrastructure changes** → Work in `services/infra/` directory (independent repository)
 - **Specs first** → Check `.kiro/specs/` before implementing features
 
 ## Critical Standards
@@ -21,7 +21,7 @@ Read `AGENTS.md` in the root directory for complete context and workflow.
 cd services/jawafdehi-api       # Django backend
 cd services/jawafdehi-frontend  # React frontend
 cd services/nes                 # Entity database
-cd services/infra               # Infrastructure (git submodule)
+cd services/infra               # Infrastructure (independent repository)
 ```
 
 ## Quick Commands

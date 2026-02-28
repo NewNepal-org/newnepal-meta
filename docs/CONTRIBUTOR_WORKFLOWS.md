@@ -1,21 +1,21 @@
 # Contributor Workflows
 
-This document explains the different workflows for contributing to Jawafdehi based on your role.
+This document explains the different workflows for contributing to NewNepal.org based on your role.
 
 ## Two Types of Contributors
 
 ### Team Members (Use Meta Repo)
 
-**Who**: Jawafdehi team members, interns, core contributors
+**Who**: NewNepal.org team members, interns, core contributors
 
 **Why use the meta repo**:
-- Access to complete project context across all services
+- Access to complete project context across all services (Jawafdehi, NES, NGM)
 - Shared documentation, research materials, and specifications
 - AI-enriched context for development tools (Cursor, Kiro, GitHub Copilot)
 - Easier cross-service coordination
 - Infrastructure management visibility
 
-**Workflow**: Clone meta repo → Mount needed services → Work across services
+**Workflow**: Clone meta repo → Clone needed services → Work across services
 
 ### Open Source Contributors (Use Individual Repos)
 
@@ -37,14 +37,24 @@ This document explains the different workflows for contributing to Jawafdehi bas
 
 1. **Clone the meta repository**
    ```bash
-   git clone https://github.com/NewNepal-org/jawafdehi-meta.git
-   cd jawafdehi-meta
+   git clone git@github.com:NewNepal-org/newnepal-meta.git
+   cd newnepal-meta
    ```
 
-2. **Mount services you need**
+2. **Clone services you need**
    ```bash
-   # Example: Full-stack developer
-   git submodule update --init services/jawafdehi-api services/jawafdehi-frontend services/nes
+   cd services
+   
+   # Example: Full-stack developer working on Jawafdehi
+   git clone git@github.com:NewNepal-org/JawafdehiAPI.git jawafdehi-api
+   git clone git@github.com:NewNepal-org/Jawafdehi.git jawafdehi-frontend
+   git clone git@github.com:NewNepal-org/NepalEntityService.git nes
+   
+   # Example: Working on NGM
+   git clone git@github.com:NewNepal-org/ngm.git ngm
+   git clone git@github.com:NewNepal-org/NepalEntityService.git nes
+   
+   cd ..
    ```
 
 3. **Set up each service**
@@ -84,7 +94,7 @@ When your work affects multiple services:
 4. **Create PRs** - One PR per service
 5. **Link PRs** - Reference related PRs in descriptions
 
-### Updating Submodules
+### Updating Services
 
 ```bash
 # Update a specific service to latest
@@ -92,12 +102,13 @@ cd services/jawafdehi-api
 git pull origin main
 cd ../..
 
-# Update all mounted services
-git submodule update --remote --merge
-
-# Update meta repo reference to new service commits
-git add services/jawafdehi-api
-git commit -m "Update jawafdehi-api to latest"
+# Update all services (run from meta-repo root)
+for dir in services/*/; do
+  if [ -d "$dir/.git" ]; then
+    echo "Updating $(basename $dir)..."
+    (cd "$dir" && git pull origin main)
+  fi
+done
 ```
 
 ---
@@ -187,7 +198,7 @@ git commit -m "Update jawafdehi-api to latest"
 | **Setup Complexity** | Higher (multiple services) | Lower (single service) |
 | **Context** | Full ecosystem | Single service |
 | **AI Tools** | Rich context | Service-only context |
-| **Cross-service work** | Easy | Requires multiple forks |
+| **Cross-service work** | Easy | Requires multiple clones |
 | **Documentation** | Complete | Service-specific |
 | **Onboarding** | Longer | Faster |
 | **Best for** | Team members, interns | External contributors |
