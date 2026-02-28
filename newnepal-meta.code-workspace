@@ -6,7 +6,6 @@
 	],
 	"settings": {
 		"javascript.autoClosingTags": false,
-		"python.defaultInterpreterPath": "${workspaceFolder}/services/jawafdehi-api/.venv/bin/python",
 		"python.testing.pytestEnabled": true,
 		"python.testing.pytestArgs": [
 			"/services/jawafdehi-api/tests"
